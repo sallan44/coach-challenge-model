@@ -1,0 +1,46 @@
+Migration:
+
+php artisan make:migration create_products_table
+php artisan migrate
+php artisan migrate:rollback
+php artisan migrate:reset
+php artisan migrate:refresh -seed
+
+
+Seeding:
+
+php artisan make:seeder ProductsTableSeeder
+php artisan db:seed
+php artisan db:seed -class=ProductsTableSeeder
+
+
+Model:
+
+php artisan make:model Product
+
+
+Controller:
+
+php artisan make:controller ProductController --resource
+
+
+Route:
+
+php artisan route:list
+Route::resource('product', ProductController::class);
+
+Github:
+
+cd your-laravel-project
+
+git init
+git add .
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/YOUR_USERNAME/my-laravel-project.git
+git branch -M main
+git push -u origin main
+
+API:
+
+php artisan cache:clear

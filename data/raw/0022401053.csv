@@ -1,0 +1,479 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022401053,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:12 PM EST),period,start,0,0,1
+0022401053,4,PT12M00.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Jump Ball Yabusele vs. Sarr: Tip to Poole,Jump Ball,,1,0,2
+0022401053,7,PT11M41.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022401053,7,PT11M41.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes STEAL (1 STL),,,1,0,4
+0022401053,9,PT11M20.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,7,30,3,Made,1,2,0,2,h,Yabusele 3' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,5
+0022401053,10,PT11M11.00S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,h,Dowtin Jr. S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,6
+0022401053,12,PT11M11.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,2,1,3,v,Carrington Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,7
+0022401053,13,PT11M11.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,MISS Carrington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,8
+0022401053,14,PT11M07.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022401053,15,PT10M57.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,145,214,26,Missed,1,,,0,h,MISS Grimes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,10
+0022401053,16,PT10M54.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,11
+0022401053,17,PT10M49.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,23,10,3,Missed,1,,,0,h,MISS Yabusele 3' Layup,Missed Shot,Layup Shot,1,2,12
+0022401053,17,PT10M49.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr BLOCK (1 BLK),,,1,2,13
+0022401053,18,PT10M47.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022401053,20,PT10M43.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-202,178,27,Made,1,2,4,6,v,Champagnie 27' 3PT Running Jump Shot (3 PTS) (Poole 1 AST),Made Shot,Running Jump Shot,1,3,15
+0022401053,22,PT10M28.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,-164,183,25,Missed,1,,,0,h,MISS Yabusele 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022401053,23,PT10M25.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022401053,24,PT10M19.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-92,263,28,Made,1,2,7,9,v,Sarr 28' 3PT Jump Shot (3 PTS) (Poole 2 AST),Made Shot,Jump Shot,1,3,18
+0022401053,26,PT10M05.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,115,36,12,Missed,1,,,0,h,MISS Grimes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,19
+0022401053,27,PT10M03.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022401053,28,PT09M54.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-87,286,30,Made,1,2,10,12,v,Poole 30' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,21
+0022401053,30,PT09M30.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,83,245,26,Made,1,5,10,15,h,Yabusele 26' 3PT Jump Shot (5 PTS) (Council IV 1 AST),Made Shot,Jump Shot,1,3,22
+0022401053,32,PT09M19.00S,1,1610612764,WAS,1629673,Poole,J. Poole,7,13,1,Made,1,5,12,17,v,Poole 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,23
+0022401053,33,PT09M10.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,109,242,27,Made,1,8,12,20,h,Yabusele 27' 3PT Jump Shot (8 PTS) (Grimes 1 AST),Made Shot,Jump Shot,1,3,24
+0022401053,35,PT08M56.00S,1,1610612764,WAS,1629673,Poole,J. Poole,61,273,28,Missed,1,,,0,v,MISS Poole 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,25
+0022401053,36,PT08M53.00S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,h,Dowtin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0022401053,37,PT08M42.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,-219,116,25,Missed,1,,,0,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022401053,38,PT08M40.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022401053,39,PT08M33.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,-53,273,28,Made,1,8,15,23,v,Carrington 28' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,3,29
+0022401053,40,PT08M16.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,-189,168,25,Missed,1,,,0,h,MISS Yabusele 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+0022401053,41,PT08M13.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+0022401053,42,PT08M02.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,-74,110,13,Missed,1,,,0,v,MISS Carrington 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,32
+0022401053,43,PT07M59.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,33
+0022401053,44,PT07M51.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,34
+0022401053,46,PT07M51.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,MISS Yabusele Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,35
+0022401053,47,PT07M51.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0,36
+0022401053,48,PT07M51.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,9,15,24,h,Yabusele Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,37
+0022401053,49,PT07M36.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-13,4,1,Missed,1,,,0,v,MISS Poole 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,38
+0022401053,49,PT07M36.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele BLOCK (1 BLK),,,1,2,39
+0022401053,50,PT07M34.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,40
+0022401053,51,PT07M25.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-4,10,1,Made,1,9,17,26,v,Sarr 1' Layup (5 PTS) (Carrington 1 AST),Made Shot,Layup Shot,1,2,41
+0022401053,53,PT07M13.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,43,257,26,Missed,1,,,0,h,MISS Grimes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,42
+0022401053,54,PT07M11.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,43
+0022401053,55,PT07M09.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,4,10,1,Made,1,9,19,28,v,Carrington 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,44
+0022401053,57,PT07M09.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0022401053,58,PT07M09.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Butler FOR Yabusele,Substitution,,0,0,46
+0022401053,59,PT07M09.00S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,h,SUB: Bagley FOR Dowtin Jr.,Substitution,,0,0,47
+0022401053,60,PT07M09.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Bona FOR Council IV,Substitution,,0,0,48
+0022401053,65,PT06M52.00S,1,1610612755,PHI,1630215,Butler,J. Butler,-124,215,25,Made,1,12,19,31,h,Butler 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,49
+0022401053,66,PT06M40.00S,1,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley P.FOUL (P1.T2) (M.Davis),Foul,Personal,1,0,50
+0022401053,68,PT06M33.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,148,230,27,Made,1,12,22,34,v,Champagnie 27' 3PT Jump Shot (6 PTS) (Sarr 1 AST),Made Shot,Jump Shot,1,3,51
+0022401053,70,PT06M20.00S,1,1610612755,PHI,1630215,Butler,J. Butler,-48,95,11,Missed,1,,,0,h,MISS Butler 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,52
+0022401053,71,PT06M20.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,1,0,53
+0022401053,73,PT06M20.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Jones FOR Carrington,Substitution,,0,0,54
+0022401053,75,PT06M09.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,6,58,6,Made,1,14,22,36,h,Edwards 6' Driving Floating Jump Shot (2 PTS) (Grimes 2 AST),Made Shot,Driving Floating Jump Shot,1,2,55
+0022401053,77,PT05M57.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona P.FOUL (P1.T3) (K.Cutler),Foul,Personal,1,0,56
+0022401053,79,PT05M44.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-141,241,28,Made,1,14,25,39,v,Sarr 28' 3PT Jump Shot (8 PTS) (Poole 3 AST),Made Shot,Jump Shot,1,3,57
+0022401053,81,PT05M22.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,-176,184,25,Made,1,17,25,42,h,Grimes 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,58
+0022401053,82,PT05M13.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,16,264,26,Missed,1,,,0,v,MISS Sarr 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022401053,83,PT05M10.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,60
+0022401053,84,PT05M03.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-228,121,26,Made,1,17,28,45,v,Champagnie 26' 3PT Jump Shot (9 PTS) (Poole 4 AST),Made Shot,Jump Shot,1,3,61
+0022401053,86,PT04M46.00S,1,1610612755,PHI,1630215,Butler,J. Butler,-115,241,27,Missed,1,,,0,h,MISS Butler 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,62
+0022401053,87,PT04M44.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,63
+0022401053,88,PT04M42.00S,1,1610612755,PHI,1641737,Bona,A. Bona,-19,15,2,Missed,1,,,0,h,MISS Bona 2' Layup,Missed Shot,Layup Shot,1,2,64
+0022401053,89,PT04M39.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,65
+0022401053,90,PT04M36.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-46,-1,5,Missed,1,,,0,v,MISS Poole 5' Running Layup,Missed Shot,Running Layup Shot,1,2,66
+0022401053,90,PT04M36.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona BLOCK (1 BLK),,,1,2,67
+0022401053,92,PT04M33.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,68
+0022401053,93,PT04M32.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-129,218,25,Made,1,17,31,48,v,Sarr 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,3,69
+0022401053,94,PT04M22.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,70
+0022401053,94,PT04M22.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr STEAL (1 STL),,,1,0,71
+0022401053,96,PT04M19.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-10,29,3,Made,1,17,33,50,v,Champagnie 3' Running Layup (11 PTS) (Poole 5 AST),Made Shot,Running Layup Shot,1,2,72
+0022401053,98,PT04M19.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,73
+0022401053,99,PT04M19.00S,1,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Council IV FOR Butler,Substitution,,0,0,74
+0022401053,100,PT04M19.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Martin FOR Champagnie,Substitution,,0,0,75
+0022401053,101,PT04M19.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Thor FOR Poole,Substitution,,0,0,76
+0022401053,105,PT04M01.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-16,262,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022401053,106,PT03M58.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,78
+0022401053,107,PT03M52.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,179,189,26,Made,1,20,33,53,h,Edwards 26' 3PT Jump Shot (5 PTS) (Bona 1 AST),Made Shot,Jump Shot,1,3,79
+0022401053,109,PT03M24.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,80
+0022401053,109,PT03M24.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (1 STL),,,1,0,81
+0022401053,111,PT03M21.00S,1,1610612755,PHI,1641737,Bona,A. Bona,1,1,0,Made,1,22,33,55,h,Bona Running Dunk (2 PTS) (Bagley 1 AST),Made Shot,Running Dunk Shot,1,2,82
+0022401053,113,PT03M03.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,-25,26,4,Missed,1,,,0,v,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+0022401053,113,PT03M03.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona BLOCK (2 BLK),,,1,2,84
+0022401053,115,PT03M01.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,85
+0022401053,116,PT02M55.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-22,29,4,Missed,1,,,0,v,MISS Sarr 4' Hook Shot,Missed Shot,Hook Shot,1,2,86
+0022401053,117,PT02M55.00S,1,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022401053,118,PT02M46.00S,1,1610612755,PHI,1641737,Bona,A. Bona,-1,0,0,Missed,1,,,0,h,MISS Bona Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,88
+0022401053,118,PT02M46.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr BLOCK (2 BLK),,,1,2,89
+0022401053,119,PT02M44.00S,1,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0022401053,120,PT02M32.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,-202,207,29,Missed,1,,,0,v,MISS Johnson 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,91
+0022401053,121,PT02M30.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+0022401053,122,PT02M24.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,-172,185,25,Missed,1,,,0,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022401053,123,PT02M21.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,94
+0022401053,124,PT02M08.00S,1,1610612764,WAS,1641732,Jones,C. Jones,-36,13,4,Missed,1,,,0,v,MISS Jones 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,95
+0022401053,125,PT02M06.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,96
+0022401053,126,PT02M06.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,-18,13,2,Made,1,22,35,57,v,Sarr 2' Layup (13 PTS),Made Shot,Layup Shot,1,2,97
+0022401053,127,PT02M06.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona Violation:Defensive Goaltending (K.Cutler),Violation,Defensive Goaltending,1,0,98
+0022401053,128,PT01M52.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr S.FOUL (P2.T2) (M.Davis),Foul,Shooting,1,0,99
+0022401053,130,PT01M52.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,23,35,58,h,Grimes Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,100
+0022401053,131,PT01M52.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,SUB: Dowtin Jr. FOR Edwards,Substitution,,0,0,101
+0022401053,132,PT01M52.00S,1,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Vukcevic FOR Johnson,Substitution,,0,0,102
+0022401053,133,PT01M52.00S,1,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,SUB: Carrington FOR Sarr,Substitution,,0,0,103
+0022401053,137,PT01M52.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,24,35,59,h,Grimes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+0022401053,138,PT01M38.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic Traveling Turnover (P1.T3),Turnover,Traveling,1,0,105
+0022401053,139,PT01M23.00S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,87,48,10,Made,1,26,35,61,h,Dowtin Jr. 10' Driving Floating Jump Shot (2 PTS) (Bona 2 AST),Made Shot,Driving Floating Jump Shot,1,2,106
+0022401053,141,PT01M05.00S,1,1610612764,WAS,1641798,Martin,J. Martin,26,17,3,Made,1,26,37,63,v,Martin 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,107
+0022401053,143,PT01M05.00S,1,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley S.FOUL (P2.T4) (J.Ralls),Foul,Shooting,1,0,108
+0022401053,145,PT01M05.00S,1,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,26,38,64,v,Martin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,109
+0022401053,147,PT00M50.70S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,120,229,26,Made,1,29,38,67,h,Dowtin Jr. 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,110
+0022401053,148,PT00M42.20S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-22,15,3,Missed,1,,,0,v,MISS Vukcevic 3' Layup,Missed Shot,Layup Shot,1,2,111
+0022401053,149,PT00M40.10S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,112
+0022401053,150,PT00M40.10S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,Made,1,29,40,69,v,Vukcevic Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,113
+0022401053,151,PT00M32.50S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,15,17,2,Missed,1,,,0,h,MISS Grimes 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,114
+0022401053,151,PT00M32.50S,1,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones BLOCK (1 BLK),,,1,2,115
+0022401053,153,PT00M30.80S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+0022401053,154,PT00M27.60S,1,1610612764,WAS,1630550,Thor,J. Thor,-12,1,1,Made,1,29,42,71,v,Thor 1' Running Finger Roll Layup (2 PTS) (Carrington 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,117
+0022401053,156,PT00M05.40S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-15,20,3,Missed,1,,,0,h,MISS Dowtin Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,118
+0022401053,158,PT00M01.70S,1,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022401053,159,PT00M00.30S,1,1610612764,WAS,1641732,Jones,C. Jones,153,194,25,Made,1,29,45,74,v,Jones 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Thor 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,120
+0022401053,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,45,74,,End of 1st Period (7:35 PM EST),period,end,1,0,121
+0022401053,162,PT00M00.00S,1,0,,159,,,0,0,0,,0,29,45,74,,Instant Replay1st Period (7:35 PM EST),Instant Replay,Support Ruling,0,0,122
+0022401053,171,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,45,74,,Start of 2nd Period (7:37 PM EST),period,start,0,0,123
+0022401053,172,PT11M43.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-159,197,25,Missed,1,,,0,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022401053,173,PT11M38.00S,2,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,125
+0022401053,174,PT11M37.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,-115,219,25,Made,1,32,45,77,h,Yabusele 25' 3PT Jump Shot (12 PTS) (Butler 1 AST),Made Shot,Jump Shot,1,3,126
+0022401053,176,PT11M12.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,-34,36,5,Missed,1,,,0,v,MISS Carrington 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,127
+0022401053,177,PT11M09.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0022401053,178,PT11M03.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,4,-5,1,Made,1,34,45,79,h,Wheeler 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,129
+0022401053,179,PT10M48.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-1,17,2,Made,1,34,47,81,v,Vukcevic 2' Cutting Finger Roll Layup Shot (4 PTS) (Martin 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,130
+0022401053,181,PT10M25.00S,2,1610612755,PHI,1630215,Butler,J. Butler,-77,-1,8,Made,1,36,47,83,h,Butler 8' Pullup Jump Shot (5 PTS) (Wheeler 1 AST),Made Shot,Pullup Jump shot,1,2,131
+0022401053,183,PT10M10.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-170,228,28,Missed,1,,,0,v,MISS Vukcevic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022401053,184,PT10M05.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0022401053,185,PT09M51.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,64,92,11,Missed,1,,,0,h,MISS Council IV 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,134
+0022401053,186,PT09M48.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022401053,187,PT09M39.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,136
+0022401053,187,PT09M39.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (2 STL),,,1,0,137
+0022401053,189,PT09M30.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Wizards T.Foul (Def. 3 Sec Vukcevic ) (K.Cutler),Foul,Defense 3 Second,1,0,138
+0022401053,190,PT09M30.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,37,47,84,h,Yabusele Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,139
+0022401053,191,PT09M21.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,74,78,11,Made,1,39,47,86,h,Edwards 11' Pullup Jump Shot (7 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,1,2,140
+0022401053,193,PT09M11.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV P.FOUL (P1.T1) (J.Ralls),Foul,Personal,1,0,141
+0022401053,195,PT08M57.00S,2,1610612764,WAS,1641798,Martin,J. Martin,-142,231,27,Made,1,39,50,89,v,Martin 27' 3PT Pullup Jump Shot (6 PTS) (Carrington 3 AST),Made Shot,Pullup Jump shot,1,3,142
+0022401053,197,PT08M34.00S,2,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,143
+0022401053,199,PT08M24.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-4,4,1,Made,1,41,50,91,h,Edwards 1' Driving Layup (9 PTS) (Butler 3 AST),Made Shot,Driving Layup Shot,1,2,144
+0022401053,200,PT08M12.00S,2,1610612764,WAS,1641732,Jones,C. Jones,-85,281,29,Missed,1,,,0,v,MISS Jones 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022401053,201,PT08M09.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,146
+0022401053,202,PT08M06.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,2,-8,1,Made,1,43,50,93,h,Yabusele 1' Running Dunk (15 PTS),Made Shot,Running Dunk Shot,1,2,147
+0022401053,203,PT07M45.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P2.T2) (K.Cutler),Foul,Shooting,1,0,148
+0022401053,205,PT07M45.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,43,51,94,v,Vukcevic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,149
+0022401053,207,PT07M45.00S,2,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,SUB: Johnson FOR Jones,Substitution,,0,0,150
+0022401053,209,PT07M45.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,43,52,95,v,Vukcevic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,151
+0022401053,210,PT07M31.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,7,19,2,Missed,1,,,0,h,MISS Council IV 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+0022401053,210,PT07M31.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic BLOCK (1 BLK),,,1,2,153
+0022401053,212,PT07M30.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,154
+0022401053,213,PT07M21.00S,2,1610612764,WAS,1641798,Martin,J. Martin,2,10,1,Made,1,43,54,97,v,Martin 1' Driving Dunk (8 PTS) (Johnson 2 AST),Made Shot,Driving Dunk Shot,1,2,155
+0022401053,215,PT07M13.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,-221,122,25,Missed,1,,,0,h,MISS Wheeler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022401053,216,PT07M09.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,157
+0022401053,217,PT07M00.00S,2,1610612764,WAS,1641798,Martin,J. Martin,-230,33,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022401053,218,PT06M57.00S,2,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,159
+0022401053,219,PT06M55.00S,2,1610612764,WAS,1630550,Thor,J. Thor,229,125,26,Missed,1,,,0,v,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022401053,220,PT06M55.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+0022401053,221,PT06M47.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-9,0,1,Missed,1,,,0,h,MISS Council IV 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,162
+0022401053,222,PT06M46.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,163
+0022401053,223,PT06M46.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic L.B.FOUL (P1.T2) (K.Cutler),Foul,Loose Ball,1,0,164
+0022401053,225,PT06M46.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,165
+0022401053,226,PT06M46.00S,2,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Grimes FOR Butler,Substitution,,0,0,166
+0022401053,227,PT06M46.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Bona FOR Council IV,Substitution,,0,0,167
+0022401053,228,PT06M46.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,SUB: Bagley FOR Edwards,Substitution,,0,0,168
+0022401053,229,PT06M46.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Dowtin Jr. FOR Yabusele,Substitution,,0,0,169
+0022401053,234,PT06M32.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,232,36,0,Missed,1,,,0,h,MISS Wheeler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022401053,235,PT06M30.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,171
+0022401053,236,PT06M11.00S,2,1610612764,WAS,1642358,Johnson,A. Johnson,17,13,2,Missed,1,,,0,v,MISS Johnson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,172
+0022401053,237,PT06M08.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+0022401053,238,PT05M58.00S,2,1610612755,PHI,1630542,Bagley,M. Bagley,-142,205,25,Missed,1,,,0,h,MISS Bagley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,174
+0022401053,239,PT05M52.00S,2,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,175
+0022401053,240,PT05M48.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-163,231,28,Missed,1,,,0,v,MISS Vukcevic 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,176
+0022401053,241,PT05M46.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,177
+0022401053,243,PT05M46.00S,2,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,SUB: Champagnie FOR Thor,Substitution,,0,0,178
+0022401053,245,PT05M22.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,-145,203,25,Missed,1,,,0,h,MISS Wheeler 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,179
+0022401053,246,PT05M19.00S,2,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+0022401053,247,PT04M57.00S,2,1610612764,WAS,1641798,Martin,J. Martin,126,138,19,Missed,1,,,0,v,MISS Martin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,181
+0022401053,248,PT04M56.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,182
+0022401053,249,PT04M56.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,183
+0022401053,250,PT04M56.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,SUB: Poole FOR Vukcevic,Substitution,,0,0,184
+0022401053,251,PT04M56.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Sarr FOR Carrington,Substitution,,0,0,185
+0022401053,254,PT04M39.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-167,201,26,Missed,1,,,0,h,MISS Dowtin Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,186
+0022401053,255,PT04M36.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,187
+0022401053,256,PT04M32.00S,2,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,188
+0022401053,256,PT04M32.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes STEAL (2 STL),,,1,0,189
+0022401053,258,PT04M25.00S,2,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T3) (J.Ralls),Foul,Shooting,1,0,190
+0022401053,260,PT04M25.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,44,54,98,h,Grimes Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,191
+0022401053,261,PT04M25.00S,2,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,SUB: Council IV FOR Wheeler,Substitution,,0,0,192
+0022401053,262,PT04M25.00S,2,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,SUB: Edwards FOR Bagley,Substitution,,0,0,193
+0022401053,265,PT04M25.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,45,54,99,h,Grimes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,194
+0022401053,266,PT04M11.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,195
+0022401053,268,PT04M02.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,32,12,3,Missed,1,,,0,v,MISS Champagnie 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,196
+0022401053,269,PT04M01.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,197
+0022401053,270,PT03M54.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,-165,190,25,Missed,1,,,0,h,MISS Grimes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022401053,271,PT03M50.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,199
+0022401053,272,PT03M48.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,23,6,2,Made,1,47,54,101,h,Council IV 2' Finger Roll Layup (2 PTS) (Bona 3 AST),Made Shot,Finger Roll Layup Shot,1,2,200
+0022401053,274,PT03M32.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,188,173,26,Missed,1,,,0,v,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+0022401053,275,PT03M29.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,202
+0022401053,276,PT03M25.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-153,220,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,203
+0022401053,277,PT03M21.00S,2,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,204
+0022401053,278,PT03M17.00S,2,1610612764,WAS,1642358,Johnson,A. Johnson,-1,2,0,Made,1,47,56,103,v,Johnson Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,205
+0022401053,279,PT03M03.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,186,-1,19,Missed,1,,,0,h,MISS Grimes 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,206
+0022401053,280,PT03M00.00S,2,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,207
+0022401053,281,PT02M56.00S,2,1610612764,WAS,1641798,Martin,J. Martin,-2,5,1,Made,1,47,58,105,v,Martin 1' Running Dunk (10 PTS) (Poole 6 AST),Made Shot,Running Dunk Shot,1,2,208
+0022401053,283,PT02M33.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,20,51,5,Made,1,49,58,107,h,Dowtin Jr. 5' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,209
+0022401053,284,PT02M16.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-16,4,2,Missed,1,,,0,v,MISS Champagnie 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,210
+0022401053,285,PT02M15.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,211
+0022401053,286,PT02M14.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-13,11,2,Made,1,49,60,109,v,Champagnie 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,212
+0022401053,287,PT01M56.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,9,6,1,Made,1,51,60,111,h,Edwards 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,213
+0022401053,288,PT01M42.00S,2,1610612764,WAS,1642259,Sarr,A. Sarr,-1,26,3,Made,1,51,62,113,v,Sarr 3' Driving Layup (15 PTS) (Champagnie 1 AST),Made Shot,Driving Layup Shot,1,2,214
+0022401053,290,PT01M24.00S,2,1610612755,PHI,1641737,Bona,A. Bona,7,1,1,Made,1,53,62,115,h,Bona 1' Cutting Dunk Shot (4 PTS) (Dowtin Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,215
+0022401053,292,PT01M11.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-232,-5,0,Made,1,53,65,118,v,Champagnie 3PT Jump Shot (16 PTS) (Martin 2 AST),Made Shot,Jump Shot,0,3,216
+0022401053,294,PT00M48.40S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,-190,171,26,Made,1,56,65,121,h,Grimes 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,217
+0022401053,295,PT00M42.20S,2,1610612764,WAS,1629673,Poole,J. Poole,56,11,6,Made,1,56,67,123,v,Poole 6' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,218
+0022401053,296,PT00M32.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,22,158,16,Made,1,58,67,125,h,Grimes 16' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,219
+0022401053,297,PT00M11.40S,2,1610612764,WAS,1642259,Sarr,A. Sarr,77,254,27,Missed,1,,,0,v,MISS Sarr 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022401053,298,PT00M08.10S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,221
+0022401053,299,PT00M03.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-224,119,25,Missed,1,,,0,h,MISS Council IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022401053,300,PT00M02.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,223
+0022401053,301,PT00M01.00S,2,1610612755,PHI,1641737,Bona,A. Bona,58,17,6,Missed,1,,,0,h,MISS Bona 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,224
+0022401053,302,PT00M00.20S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,1,0,225
+0022401053,303,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,67,125,,End of 2nd Period (7:58 PM EST),period,end,1,0,226
+0022401053,308,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,67,125,,Start of 3rd Period (8:13 PM EST),period,start,0,0,227
+0022401053,309,PT11M43.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,154,218,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022401053,310,PT11M41.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,229
+0022401053,311,PT11M41.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,Made,1,60,67,127,h,Edwards Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,230
+0022401053,312,PT11M27.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-163,197,26,Made,1,60,70,130,v,Poole 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,231
+0022401053,313,PT11M00.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,-105,262,28,Missed,1,,,0,h,MISS Yabusele 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0022401053,314,PT10M59.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,233
+0022401053,316,PT10M45.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,22,8,2,Made,1,60,72,132,v,Sarr 2' Driving Finger Roll Layup (17 PTS) (Carrington 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,234
+0022401053,318,PT10M31.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,103,246,27,Missed,1,,,0,h,MISS Grimes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+0022401053,319,PT10M28.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,236
+0022401053,320,PT10M25.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV P.FOUL (P3.T1) (M.Davis),Foul,Personal,1,0,237
+0022401053,322,PT10M20.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-36,253,26,Missed,1,,,0,v,MISS Poole 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022401053,323,PT10M18.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,239
+0022401053,324,PT10M01.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,124,236,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,240
+0022401053,325,PT09M59.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,241
+0022401053,327,PT09M50.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,146,222,27,Missed,1,,,0,v,MISS Sarr 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0022401053,328,PT09M46.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,243
+0022401053,329,PT09M38.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,29,26,4,Made,1,62,72,134,h,Grimes 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,244
+0022401053,330,PT09M28.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,-121,222,25,Missed,1,,,0,v,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0022401053,331,PT09M24.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,246
+0022401053,333,PT09M09.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,-1,26,3,Missed,1,,,0,h,MISS Grimes 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,247
+0022401053,334,PT09M08.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,248
+0022401053,335,PT09M04.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,249
+0022401053,336,PT08M38.00S,3,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-146,152,21,Missed,1,,,0,h,MISS Dowtin Jr. 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,250
+0022401053,337,PT08M35.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,251
+0022401053,338,PT08M34.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-9,-1,1,Made,1,62,74,136,v,Poole 1' Running Layup (12 PTS) (Johnson 3 AST),Made Shot,Running Layup Shot,1,2,252
+0022401053,340,PT08M20.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,89,242,26,Missed,1,,,0,h,MISS Yabusele 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,253
+0022401053,341,PT08M15.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,254
+0022401053,342,PT08M04.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,Poole Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,255
+0022401053,343,PT07M51.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,-11,21,2,Made,1,64,74,138,h,Yabusele 2' Cutting Dunk Shot (17 PTS) (Grimes 3 AST),Made Shot,Cutting Dunk Shot,1,2,256
+0022401053,345,PT07M29.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,18,4,2,Made,1,64,76,140,v,Johnson 2' Driving Finger Roll Layup (4 PTS) (Sarr 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,257
+0022401053,346,PT07M04.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,-91,268,28,Made,1,67,76,143,h,Grimes 28' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,3,258
+0022401053,347,PT06M46.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,-23,3,2,Missed,1,,,0,v,MISS Sarr 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,259
+0022401053,348,PT06M44.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,260
+0022401053,349,PT06M43.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,261
+0022401053,349,PT06M43.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (3 STL),,,1,0,262
+0022401053,351,PT06M39.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,-12,16,2,Made,1,69,76,145,h,Edwards 2' Running Finger Roll Layup (15 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,263
+0022401053,352,PT06M26.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele P.FOUL (P1.T2) (J.Ralls),Foul,Personal,1,0,264
+0022401053,354,PT06M26.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,265
+0022401053,356,PT06M26.00S,3,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,h,SUB: Butler FOR Dowtin Jr.,Substitution,,0,0,266
+0022401053,357,PT06M26.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Bagley FOR Council IV,Substitution,,0,0,267
+0022401053,360,PT06M23.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,2,3,0,Made,1,69,78,147,v,Sarr Cutting Dunk Shot (19 PTS) (Carrington 5 AST),Made Shot,Cutting Dunk Shot,1,2,268
+0022401053,362,PT06M11.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,13,4,1,Made,1,71,78,149,h,Edwards 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,269
+0022401053,363,PT05M53.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,-145,208,25,Missed,1,,,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022401053,364,PT05M51.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,271
+0022401053,367,PT05M51.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,272
+0022401053,368,PT05M51.00S,3,0,,365,McKey,D. McKey,0,0,0,,0,71,78,149,,Instant Replay3rd Period (8:24 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,273
+0022401053,369,PT05M51.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Jump Ball (CC) Yabusele vs. Sarr: Tip to Poole,Jump Ball,Coach Challenge,1,0,274
+0022401053,372,PT05M29.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,-2,66,7,Made,1,71,80,151,v,Champagnie 7' Turnaround Jump Shot (18 PTS),Made Shot,Turnaround Jump Shot,1,2,275
+0022401053,373,PT05M17.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,276
+0022401053,373,PT05M17.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie STEAL (1 STL),,,1,0,277
+0022401053,375,PT05M15.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,-9,4,1,Missed,1,,,0,v,MISS Champagnie 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,278
+0022401053,376,PT05M14.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,279
+0022401053,377,PT05M07.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,229,11,0,Missed,1,,,0,h,MISS Yabusele 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+0022401053,378,PT05M04.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,281
+0022401053,380,PT05M04.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Jones FOR Carrington,Substitution,,0,0,282
+0022401053,382,PT04M49.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,-43,253,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022401053,383,PT04M46.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,284
+0022401053,384,PT04M35.00S,3,1610612764,WAS,1629673,Poole,J. Poole,237,41,24,Missed,1,,,0,v,MISS Poole 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+0022401053,385,PT04M34.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,286
+0022401053,386,PT04M33.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,Missed,1,,,0,v,MISS Johnson Putback Layup,Missed Shot,Putback Layup Shot,1,2,287
+0022401053,387,PT04M32.00S,3,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,288
+0022401053,388,PT04M11.00S,3,1610612755,PHI,1630542,Bagley,M. Bagley,-233,23,0,Missed,1,,,0,h,MISS Bagley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+0022401053,389,PT04M08.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,290
+0022401053,390,PT03M55.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,-98,235,25,Made,1,71,83,154,v,Sarr 25' 3PT Jump Shot (22 PTS) (Poole 7 AST),Made Shot,Jump Shot,1,3,291
+0022401053,392,PT03M38.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,Sarr Violation:Kicked Ball (K.Cutler),Violation,Kicked Ball,0,0,292
+0022401053,393,PT03M38.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Bona FOR Yabusele,Substitution,,0,0,293
+0022401053,394,PT03M38.00S,3,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Thor FOR Johnson,Substitution,,0,0,294
+0022401053,395,PT03M38.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Martin FOR Champagnie,Substitution,,0,0,295
+0022401053,404,PT03M38.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,SUB: Wheeler FOR Edwards,Substitution,,0,0,296
+0022401053,399,PT03M29.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,9,262,26,Missed,1,,,0,h,MISS Grimes 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,297
+0022401053,400,PT03M26.00S,3,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,298
+0022401053,401,PT03M26.00S,3,1610612755,PHI,1630762,Wheeler,P. Wheeler,9,17,2,Missed,1,,,0,h,MISS Wheeler 2' Layup,Missed Shot,Layup Shot,1,2,299
+0022401053,401,PT03M26.00S,3,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,Thor BLOCK (1 BLK),,,1,2,300
+0022401053,403,PT03M25.00S,3,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,301
+0022401053,406,PT03M16.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-131,225,26,Made,1,71,86,157,v,Poole 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,302
+0022401053,407,PT02M57.00S,3,1610612755,PHI,1630215,Butler,J. Butler,-48,136,14,Missed,1,,,0,h,MISS Butler 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,303
+0022401053,408,PT02M56.00S,3,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,304
+0022401053,409,PT02M48.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-11,310,31,Made,1,71,89,160,v,Poole 31' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,305
+0022401053,410,PT02M28.00S,3,1610612755,PHI,1630215,Butler,J. Butler,49,258,26,Made,1,74,89,163,h,Butler 26' 3PT Jump Shot (8 PTS) (Grimes 4 AST),Made Shot,Jump Shot,1,3,306
+0022401053,412,PT02M27.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,307
+0022401053,413,PT02M27.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,SUB: Council IV FOR Grimes,Substitution,,0,0,308
+0022401053,414,PT02M27.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,v,SUB: Carrington FOR Poole,Substitution,,0,0,309
+0022401053,441,PT02M27.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,SUB: Edwards FOR Bona,Substitution,,0,0,310
+0022401053,417,PT02M14.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,-94,77,12,Missed,1,,,0,v,MISS Sarr 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,311
+0022401053,418,PT02M11.00S,3,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,312
+0022401053,419,PT02M07.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,313
+0022401053,421,PT02M07.00S,3,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,75,89,164,h,Bagley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+0022401053,422,PT02M07.00S,3,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,SUB: Vukcevic FOR Sarr,Substitution,,0,0,315
+0022401053,424,PT02M07.00S,3,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,76,89,165,h,Bagley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022401053,425,PT01M49.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,12,1,1,Made,1,76,91,167,v,Vukcevic 1' Dunk (8 PTS) (Carrington 6 AST),Made Shot,Dunk Shot,1,2,317
+0022401053,427,PT01M36.00S,3,1610612755,PHI,1630762,Wheeler,P. Wheeler,-26,20,3,Made,1,78,91,169,h,Wheeler 3' Driving Reverse Layup (4 PTS) (Edwards 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,318
+0022401053,429,PT01M23.00S,3,1610612764,WAS,1641798,Martin,J. Martin,13,10,2,Missed,1,,,0,v,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,319
+0022401053,429,PT01M23.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV BLOCK (1 BLK),,,1,2,320
+0022401053,431,PT01M22.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,321
+0022401053,432,PT01M19.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,13,16,2,Made,1,80,91,171,h,Council IV 2' Running Alley Oop Dunk Shot (4 PTS) (Wheeler 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,322
+0022401053,433,PT01M09.00S,3,1610612764,WAS,1641732,Jones,C. Jones,156,197,25,Missed,1,,,0,v,MISS Jones 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,323
+0022401053,434,PT01M08.00S,3,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,Thor REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,324
+0022401053,435,PT00M58.60S,3,1610612764,WAS,1642267,Carrington,B. Carrington,-74,252,26,Missed,1,,,0,v,MISS Carrington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+0022401053,436,PT00M57.10S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,326
+0022401053,437,PT00M50.10S,3,1610612755,PHI,1642348,Edwards,J. Edwards,2,25,3,Made,1,82,91,173,h,Edwards 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,327
+0022401053,438,PT00M35.90S,3,1610612764,WAS,1642267,Carrington,B. Carrington,12,276,28,Made,1,82,94,176,v,Carrington 28' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,3,328
+0022401053,440,PT00M21.30S,3,1610612755,PHI,1630762,Wheeler,P. Wheeler,10,28,3,Missed,1,,,0,h,MISS Wheeler 3' Dunk,Missed Shot,Dunk Shot,1,2,329
+0022401053,443,PT00M18.40S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,330
+0022401053,444,PT00M17.90S,3,1610612755,PHI,1630215,Butler,J. Butler,61,256,26,Made,1,85,94,179,h,Butler 26' 3PT Jump Shot (11 PTS) (Council IV 2 AST),Made Shot,Jump Shot,1,3,331
+0022401053,446,PT00M00.10S,3,1610612764,WAS,1641732,Jones,C. Jones,239,52,24,Made,1,85,97,182,v,Jones 24' 3PT Pullup Jump Shot (6 PTS) (Vukcevic 1 AST),Made Shot,Pullup Jump shot,1,3,332
+0022401053,448,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,97,182,,End of 3rd Period (8:37 PM EST),period,end,1,0,333
+0022401053,449,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,97,182,,Start of 4th Period (8:39 PM EST),period,start,0,0,334
+0022401053,450,PT11M43.00S,4,1610612764,WAS,1630550,Thor,J. Thor,23,3,2,Made,1,85,99,184,v,Thor 2' Cutting Dunk Shot (4 PTS) (Vukcevic 2 AST),Made Shot,Cutting Dunk Shot,1,2,335
+0022401053,453,PT11M23.00S,4,1610612755,PHI,1630215,Butler,J. Butler,1,281,28,Missed,1,,,0,h,MISS Butler 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+0022401053,454,PT11M17.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,337
+0022401053,455,PT11M05.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,66,146,16,Made,1,85,101,186,v,Vukcevic 16' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,2,338
+0022401053,456,PT10M54.00S,4,1610612755,PHI,1630762,Wheeler,P. Wheeler,125,228,26,Missed,1,,,0,h,MISS Wheeler 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,339
+0022401053,457,PT10M49.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,340
+0022401053,458,PT10M47.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards P.FOUL (P1.T1) (J.Ralls),Foul,Personal,1,0,341
+0022401053,460,PT10M35.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,-21,11,2,Missed,1,,,0,v,MISS Carrington 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,342
+0022401053,461,PT10M32.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,343
+0022401053,462,PT10M27.00S,4,1610612755,PHI,1630542,Bagley,M. Bagley,-17,12,2,Made,1,87,101,188,h,Bagley 2' Running Dunk (4 PTS) (Butler 4 AST),Made Shot,Running Dunk Shot,1,2,344
+0022401053,464,PT10M12.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,110,235,26,Missed,1,,,0,v,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022401053,465,PT10M10.00S,4,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,Bagley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,346
+0022401053,466,PT10M02.00S,4,1610612755,PHI,1630762,Wheeler,P. Wheeler,225,21,0,Missed,1,,,0,h,MISS Wheeler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0022401053,467,PT09M59.00S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,348
+0022401053,468,PT09M54.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,16,4,2,Made,1,87,103,190,v,Vukcevic 2' Cutting Dunk Shot (12 PTS) (Jones 1 AST),Made Shot,Cutting Dunk Shot,1,2,349
+0022401053,470,PT09M44.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-91,269,28,Missed,1,,,0,h,MISS Council IV 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022401053,471,PT09M40.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,351
+0022401053,472,PT09M23.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,1,0,352
+0022401053,474,PT09M23.00S,4,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,353
+0022401053,475,PT09M23.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,354
+0022401053,476,PT09M23.00S,4,1610612755,PHI,1630542,Bagley,M. Bagley,0,0,0,,0,,,0,h,SUB: Dowtin Jr. FOR Bagley,Substitution,,0,0,355
+0022401053,477,PT09M23.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,SUB: Yabusele FOR Edwards,Substitution,,0,0,356
+0022401053,480,PT09M23.00S,4,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,357
+0022401053,481,PT09M18.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,358
+0022401053,482,PT09M01.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-1,28,3,Made,1,89,103,192,h,Dowtin Jr. 3' Driving Finger Roll Layup (9 PTS) (Council IV 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,359
+0022401053,484,PT08M47.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,-145,194,24,Missed,1,,,0,v,MISS Carrington 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,360
+0022401053,485,PT08M42.00S,4,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,361
+0022401053,486,PT08M26.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,185,172,25,Missed,1,,,0,h,MISS Dowtin Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,362
+0022401053,487,PT08M24.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,363
+0022401053,488,PT08M15.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-172,244,30,Made,1,92,103,195,h,Council IV 30' 3PT Jump Shot (7 PTS) (Dowtin Jr. 2 AST),Made Shot,Jump Shot,1,3,364
+0022401053,490,PT07M48.00S,4,1610612764,WAS,1641732,Jones,C. Jones,15,14,2,Missed,1,,,0,v,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,365
+0022401053,491,PT07M46.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,366
+0022401053,492,PT07M45.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington S.FOUL (P2.T1) (J.Ralls),Foul,Shooting,1,0,367
+0022401053,494,PT07M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,93,103,196,h,Council IV Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022401053,495,PT07M45.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Grimes FOR Butler,Substitution,,0,0,369
+0022401053,496,PT07M45.00S,4,1610612755,PHI,1630762,Wheeler,P. Wheeler,0,0,0,,0,,,0,h,SUB: Bona FOR Wheeler,Substitution,,0,0,370
+0022401053,497,PT07M45.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Johnson FOR Carrington,Substitution,,0,0,371
+0022401053,501,PT07M45.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,372
+0022401053,502,PT07M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,94,103,197,h,Council IV Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+0022401053,504,PT07M28.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,16,95,10,Made,1,94,105,199,v,Vukcevic 10' Driving Floating Jump Shot (14 PTS) (Martin 3 AST),Made Shot,Driving Floating Jump Shot,1,2,374
+0022401053,506,PT07M11.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,113,243,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022401053,507,PT07M06.00S,4,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,376
+0022401053,508,PT07M01.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,12,262,26,Missed,1,,,0,v,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022401053,509,PT06M58.00S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,378
+0022401053,510,PT06M57.00S,4,1610612764,WAS,1641798,Martin,J. Martin,201,151,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022401053,511,PT06M54.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,380
+0022401053,512,PT06M49.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-5,42,4,Made,1,96,105,201,h,Council IV 4' Driving Layup (11 PTS) (Dowtin Jr. 3 AST),Made Shot,Driving Layup Shot,1,2,381
+0022401053,514,PT06M49.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic S.FOUL (P2.T2) (M.Davis),Foul,Shooting,1,0,382
+0022401053,516,PT06M49.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,h,SUB: Butler FOR Dowtin Jr.,Substitution,,0,0,383
+0022401053,518,PT06M49.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,384
+0022401053,519,PT06M45.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,385
+0022401053,520,PT06M27.00S,4,1610612764,WAS,1630550,Thor,J. Thor,-58,31,7,Missed,1,,,0,v,MISS Thor 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,386
+0022401053,521,PT06M25.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,387
+0022401053,522,PT06M19.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic S.FOUL (P3.T3) (J.Ralls),Foul,Shooting,1,0,388
+0022401053,524,PT06M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,389
+0022401053,525,PT06M19.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,0,390
+0022401053,526,PT06M19.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,SUB: Dowtin Jr. FOR Grimes,Substitution,,0,0,391
+0022401053,528,PT06M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,97,105,202,h,Council IV Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+0022401053,529,PT06M11.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-27,63,7,Made,1,97,107,204,v,Vukcevic 7' Driving Floating Jump Shot (16 PTS) (Johnson 4 AST),Made Shot,Driving Floating Jump Shot,1,2,393
+0022401053,531,PT06M11.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona S.FOUL (P2.T3) (J.Ralls),Foul,Shooting,1,0,394
+0022401053,533,PT06M11.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Grimes FOR Council IV,Substitution,,0,0,395
+0022401053,534,PT06M11.00S,4,1610612764,WAS,1630550,Thor,J. Thor,0,0,0,,0,,,0,v,SUB: Sarr FOR Thor,Substitution,,0,0,396
+0022401053,537,PT06M11.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,97,108,205,v,Vukcevic Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,397
+0022401053,538,PT05M50.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-18,85,9,Missed,1,,,0,h,MISS Dowtin Jr. 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,398
+0022401053,539,PT05M46.00S,4,1610612764,WAS,1641798,Martin,J. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,399
+0022401053,540,PT05M38.00S,4,1610612764,WAS,1641732,Jones,C. Jones,21,3,2,Made,1,97,110,207,v,Jones 2' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,400
+0022401053,541,PT05M25.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,401
+0022401053,541,PT05M25.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic STEAL (1 STL),,,1,0,402
+0022401053,543,PT05M23.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,16,5,2,Made,1,97,112,209,v,Johnson 2' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,2,403
+0022401053,544,PT05M02.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,2,27,3,Made,1,99,112,211,h,Yabusele 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,404
+0022401053,545,PT04M44.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,175,192,26,Made,1,99,115,214,v,Johnson 26' 3PT Jump Shot (9 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,405
+0022401053,547,PT04M31.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,2,176,18,Missed,1,,,0,h,MISS Grimes 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,406
+0022401053,548,PT04M30.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,407
+0022401053,550,PT04M16.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,137,266,30,Missed,1,,,0,v,MISS Johnson 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0022401053,551,PT04M13.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,409
+0022401053,552,PT04M05.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic S.FOUL (P4.T4) (M.Davis),Foul,Shooting,1,0,410
+0022401053,554,PT04M05.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,100,115,215,h,Yabusele Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+0022401053,555,PT04M05.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,101,115,216,h,Yabusele Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+0022401053,556,PT03M45.00S,4,1610612764,WAS,1642259,Sarr,A. Sarr,-21,3,2,Missed,1,,,0,v,MISS Sarr 2' Layup,Missed Shot,Layup Shot,1,2,413
+0022401053,557,PT03M43.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,414
+0022401053,558,PT03M36.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-234,69,24,Made,1,104,115,219,h,Grimes 24' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,415
+0022401053,559,PT03M08.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,153,231,28,Missed,1,,,0,v,MISS Johnson 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,416
+0022401053,560,PT03M05.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,417
+0022401053,561,PT03M03.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,418
+0022401053,562,PT02M51.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,143,213,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022401053,562,PT02M51.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona BLOCK (3 BLK),,,1,3,420
+0022401053,564,PT02M49.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,421
+0022401053,565,PT02M44.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,1,0,422
+0022401053,567,PT02M44.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,423
+0022401053,568,PT02M44.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,105,115,220,h,Grimes Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+0022401053,569,PT02M44.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,106,115,221,h,Grimes Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,425
+0022401053,570,PT02M41.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,Bona P.FOUL (P3.T4) (J.Ralls),Foul,Personal,1,0,426
+0022401053,572,PT02M41.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,SUB: Edwards FOR Grimes,Substitution,,0,0,427
+0022401053,574,PT02M28.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler P.FOUL (P2.PN) (J.Ralls),Foul,Personal,1,0,428
+0022401053,576,PT02M28.00S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,429
+0022401053,577,PT02M28.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,430
+0022401053,578,PT02M28.00S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,431
+0022401053,579,PT02M25.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,Yabusele REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,432
+0022401053,580,PT02M04.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,13,12,2,Missed,1,,,0,h,MISS Yabusele 2' Hook Shot,Missed Shot,Hook Shot,1,2,433
+0022401053,581,PT02M03.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,0,434
+0022401053,582,PT02M03.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,435
+0022401053,583,PT01M41.00S,4,1610612764,WAS,1641798,Martin,J. Martin,17,10,2,Made,1,106,117,223,v,Martin 2' Driving Layup (12 PTS) (Johnson 5 AST),Made Shot,Driving Layup Shot,1,2,436
+0022401053,584,PT01M29.00S,4,1610612755,PHI,1641737,Bona,A. Bona,-17,23,3,Made,1,108,117,225,h,Bona 3' Dunk (6 PTS) (Yabusele 1 AST),Made Shot,Dunk Shot,1,2,437
+0022401053,586,PT01M18.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,62,257,26,Missed,1,,,0,v,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022401053,587,PT01M16.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,439
+0022401053,588,PT01M12.00S,4,1610612755,PHI,1630215,Butler,J. Butler,-82,263,28,Made,1,111,117,228,h,Butler 28' 3PT Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,440
+0022401053,589,PT01M09.00S,4,1610612755,PHI,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler Violation:Kicked Ball (J.Ralls),Violation,Kicked Ball,0,0,441
+0022401053,591,PT01M09.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Council IV FOR Yabusele,Substitution,,0,0,442
+0022401053,593,PT00M59.50S,4,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,443
+0022401053,593,PT00M59.50S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (4 STL),,,1,0,444
+0022401053,595,PT00M58.80S,4,1610612755,PHI,1630215,Butler,J. Butler,-158,209,26,Missed,1,,,0,h,MISS Butler 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,445
+0022401053,596,PT00M57.70S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,446
+0022401053,597,PT00M54.80S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,447
+0022401053,597,PT00M54.80S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (5 STL),,,1,0,448
+0022401053,599,PT00M47.90S,4,1610612755,PHI,1642348,Edwards,J. Edwards,4,12,1,Missed,1,,,0,h,MISS Edwards 1' Layup,Missed Shot,Layup Shot,1,2,449
+0022401053,600,PT00M46.60S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,450
+0022401053,601,PT00M45.80S,4,1610612755,PHI,1642348,Edwards,J. Edwards,4,12,1,Missed,1,,,0,h,MISS Edwards 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,451
+0022401053,602,PT00M45.60S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,452
+0022401053,603,PT00M44.30S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,Missed,1,,,0,h,MISS Edwards Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,453
+0022401053,604,PT00M44.20S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,454
+0022401053,605,PT00M38.30S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-9,15,2,Made,1,113,117,230,h,Dowtin Jr. 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,455
+0022401053,606,PT00M38.30S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,456
+0022401053,607,PT00M18.40S,4,1610612764,WAS,1642259,Sarr,A. Sarr,11,75,8,Made,1,113,119,232,v,Sarr 8' Driving Floating Jump Shot (24 PTS) (Johnson 6 AST),Made Shot,Driving Floating Jump Shot,1,2,457
+0022401053,609,PT00M18.40S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,458
+0022401053,610,PT00M18.40S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,SUB: Yabusele FOR Bona,Substitution,,0,0,459
+0022401053,611,PT00M18.40S,4,1610612764,WAS,1642259,Sarr,A. Sarr,0,0,0,,0,,,0,v,SUB: Thor FOR Sarr,Substitution,,0,0,460
+0022401053,614,PT00M16.00S,4,1610612764,WAS,1642358,Johnson,A. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.PN) (J.Ralls),Foul,Shooting,1,0,461
+0022401053,616,PT00M16.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,114,119,233,h,Council IV Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022401053,617,PT00M16.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Bona FOR Yabusele,Substitution,,0,0,463
+0022401053,619,PT00M16.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,464
+0022401053,620,PT00M13.10S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,465
+0022401053,621,PT00M13.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV P.FOUL (P4.PN) (J.Ralls),Foul,Personal,1,0,466
+0022401053,623,PT00M13.10S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,467
+0022401053,624,PT00M13.10S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,468
+0022401053,625,PT00M13.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Grimes FOR Council IV,Substitution,,0,0,469
+0022401053,626,PT00M13.10S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,h,SUB: Yabusele FOR Bona,Substitution,,0,0,470
+0022401053,629,PT00M13.10S,4,1610612764,WAS,1641732,Jones,C. Jones,0,0,0,,0,,,0,v,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,471
+0022401053,630,PT00M10.90S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,472
+0022401053,631,PT00M01.70S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,1,26,3,Missed,1,,,0,h,MISS Yabusele 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,473
+0022401053,631,PT00M01.70S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic BLOCK (2 BLK),,,1,2,474
+0022401053,636,PT00M01.70S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,475
+0022401053,638,PT00M01.70S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,h,SUB: Bona FOR Yabusele,Substitution,,0,0,476
+0022401053,635,PT00M01.70S,4,0,,0,,,0,0,0,,0,114,119,233,,Instant Replay4th Period (9:12 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,477
+0022401053,640,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,119,233,,End of 4th Period (9:15 PM EST),period,end,1,0,478

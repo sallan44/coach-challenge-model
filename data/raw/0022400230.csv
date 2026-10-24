@@ -1,0 +1,499 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400230,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,0,0,1
+0022400230,4,PT12M00.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,2
+0022400230,8,PT11M49.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta Violation:Kicked Ball (S.Jelks),Violation,Kicked Ball,0,0,3
+0022400230,9,PT11M41.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-11,22,2,Made,1,0,2,2,v,Barrett 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,4
+0022400230,10,PT11M19.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,5
+0022400230,10,PT11M19.00S,1,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,6
+0022400230,12,PT11M10.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,44,39,6,Missed,1,,,0,v,MISS Pöltl 6' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,7
+0022400230,13,PT11M08.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022400230,14,PT11M03.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,1,0,9
+0022400230,16,PT11M03.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,1,2,3,h,Brown Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,10
+0022400230,17,PT11M03.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,2,2,4,h,Brown Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,11
+0022400230,18,PT10M45.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,-13,80,8,Made,1,2,4,6,v,Pöltl 8' Floating Jump Shot (2 PTS) (Barrett 1 AST),Made Shot,Floating Jump shot,1,2,12
+0022400230,20,PT10M27.00S,1,1610612738,BOS,1628401,White,D. White,44,72,8,Made,1,4,4,8,h,White 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,13
+0022400230,21,PT10M20.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,22,18,3,Missed,1,,,0,v,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,14
+0022400230,22,PT10M17.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022400230,24,PT10M05.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-232,122,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,16
+0022400230,25,PT10M03.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022400230,26,PT10M00.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,Dick Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,18
+0022400230,27,PT09M46.00S,1,1610612738,BOS,1628401,White,D. White,-157,220,27,Made,1,7,4,11,h,White 27' 3PT Jump Shot (5 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,3,19
+0022400230,29,PT09M29.00S,1,1610612761,TOR,1641711,Dick,G. Dick,50,26,6,Missed,1,,,0,v,MISS Dick 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,20
+0022400230,30,PT09M26.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0022400230,31,PT09M17.00S,1,1610612738,BOS,1629674,Queta,N. Queta,39,11,4,Made,1,9,4,13,h,Queta 4' Alley Oop Dunk (2 PTS) (Tatum 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,22
+0022400230,33,PT09M17.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,23
+0022400230,34,PT09M03.00S,1,1610612761,TOR,1641711,Dick,G. Dick,-53,133,14,Missed,1,,,0,v,MISS Dick 14' Jump Shot,Missed Shot,Jump Shot,1,2,24
+0022400230,35,PT09M01.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0,25
+0022400230,37,PT08M59.00S,1,1610612761,TOR,1641711,Dick,G. Dick,-229,55,24,Missed,1,,,0,v,MISS Dick 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+0022400230,38,PT08M55.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0022400230,39,PT08M45.00S,1,1610612738,BOS,201143,Horford,A. Horford,-233,24,0,Made,1,12,4,16,h,Horford 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,3,28
+0022400230,41,PT08M31.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-42,31,5,Missed,1,,,0,v,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,29
+0022400230,42,PT08M30.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022400230,43,PT08M24.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,26,5,3,Made,1,14,4,18,h,Tatum 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,31
+0022400230,77,PT08M12.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-6,16,2,Missed,1,,,0,v,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+0022400230,77,PT08M12.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford BLOCK (1 BLK),,,1,2,33
+0022400230,79,PT08M10.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,34
+0022400230,45,PT07M57.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,35
+0022400230,45,PT07M57.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett STEAL (1 STL),,,1,0,36
+0022400230,47,PT07M54.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-10,13,2,Made,1,14,6,20,v,Barrett 2' Running Alley Oop Dunk Shot (4 PTS) (Dick 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,37
+0022400230,49,PT07M35.00S,1,1610612738,BOS,1628401,White,D. White,-150,230,27,Missed,1,,,0,h,MISS White 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+0022400230,50,PT07M34.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0022400230,51,PT07M27.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-76,252,26,Made,1,14,9,23,v,Agbaji 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,40
+0022400230,52,PT07M08.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-188,180,26,Missed,1,,,0,h,MISS Brown 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,41
+0022400230,53,PT07M06.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,42
+0022400230,54,PT06M57.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-110,250,27,Missed,1,,,0,h,MISS Tatum 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,43
+0022400230,55,PT06M54.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+0022400230,56,PT06M38.00S,1,1610612761,TOR,1641711,Dick,G. Dick,232,47,24,Missed,1,,,0,v,MISS Dick 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0022400230,57,PT06M35.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,46
+0022400230,58,PT06M28.00S,1,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,47
+0022400230,60,PT06M28.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,15,9,24,h,Brown Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,48
+0022400230,61,PT06M28.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,SUB: Fernando FOR Pöltl,Substitution,,0,0,49
+0022400230,63,PT06M28.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,16,9,25,h,Brown Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,50
+0022400230,64,PT06M09.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,15,15,2,Made,1,16,11,27,v,Barrett 2' Cutting Dunk Shot (6 PTS) (Dick 2 AST),Made Shot,Cutting Dunk Shot,1,2,51
+0022400230,67,PT05M51.00S,1,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P2.T3) (S.Jelks),Foul,Shooting,1,0,52
+0022400230,69,PT05M51.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,53
+0022400230,70,PT05M51.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,54
+0022400230,71,PT05M51.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Pritchard FOR White,Substitution,,0,0,55
+0022400230,73,PT05M51.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,17,11,28,h,Brown Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,56
+0022400230,74,PT05M29.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-227,44,0,Made,1,17,14,31,v,Agbaji 3PT Jump Shot (6 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,3,57
+0022400230,76,PT05M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,58
+0022400230,80,PT05M28.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Hauser FOR Brown,Substitution,,0,0,59
+0022400230,81,PT05M28.00S,1,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Kornet FOR Queta,Substitution,,0,0,60
+0022400230,82,PT05M28.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,SUB: Shead FOR Dick,Substitution,,0,0,61
+0022400230,83,PT05M28.00S,1,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Boucher FOR Mitchell,Substitution,,0,0,62
+0022400230,88,PT05M13.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,227,67,24,Missed,1,,,0,h,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022400230,89,PT05M11.00S,1,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022400230,90,PT05M09.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-89,252,27,Made,1,20,14,34,h,Tatum 27' 3PT Jump Shot (5 PTS) (Kornet 1 AST),Made Shot,Jump Shot,1,3,65
+0022400230,93,PT04M53.00S,1,1610612761,TOR,1628981,Fernando,B. Fernando,-16,13,2,Made,1,20,16,36,v,Fernando 2' Cutting Layup Shot (2 PTS) (Shead 1 AST),Made Shot,Cutting Layup Shot,1,2,66
+0022400230,95,PT04M35.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-167,219,28,Missed,1,,,0,h,MISS Pritchard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022400230,96,PT04M30.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,68
+0022400230,97,PT04M21.00S,1,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,69
+0022400230,97,PT04M21.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford STEAL (1 STL),,,1,0,70
+0022400230,99,PT04M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,71
+0022400230,100,PT03M58.00S,1,1610612761,TOR,1628981,Fernando,B. Fernando,-51,44,7,Missed,1,,,0,v,MISS Fernando 7' Layup,Missed Shot,Layup Shot,1,2,72
+0022400230,101,PT03M58.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,0,73
+0022400230,103,PT03M58.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser L.B.FOUL (P1.T1) (S.Jelks),Foul,Loose Ball,1,0,74
+0022400230,105,PT03M45.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-130,244,28,Missed,1,,,0,v,MISS Boucher 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022400230,106,PT03M44.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,76
+0022400230,108,PT03M29.00S,1,1610612738,BOS,201143,Horford,A. Horford,238,72,25,Missed,1,,,0,h,MISS Horford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022400230,109,PT03M26.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0022400230,110,PT03M18.00S,1,1610612761,TOR,1628981,Fernando,B. Fernando,44,46,6,Missed,1,,,0,v,MISS Fernando 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,79
+0022400230,111,PT03M16.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+0022400230,112,PT03M16.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,20,18,38,v,Boucher Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,81
+0022400230,113,PT03M02.00S,1,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,Shead P.FOUL (P1.T4) (K.Scott),Foul,Personal,1,0,82
+0022400230,115,PT03M02.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Walsh FOR Horford,Substitution,,0,0,83
+0022400230,117,PT03M02.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,SUB: Dick FOR Barrett,Substitution,,0,0,84
+0022400230,119,PT02M52.00S,1,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,Shead S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,0,85
+0022400230,121,PT02M52.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,21,18,39,h,Tatum Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,86
+0022400230,122,PT02M52.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,22,18,40,h,Tatum Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,87
+0022400230,123,PT02M30.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-15,28,3,Made,1,22,20,42,v,Agbaji 3' Driving Layup (8 PTS) (Fernando 1 AST),Made Shot,Driving Layup Shot,1,2,88
+0022400230,125,PT02M11.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,89
+0022400230,126,PT01M58.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,179,18,Missed,1,,,0,v,MISS Dick 18' Jump Shot,Missed Shot,Jump Shot,1,2,90
+0022400230,127,PT01M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,91
+0022400230,129,PT01M41.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-156,234,28,Made,1,25,20,45,h,Tatum 28' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,92
+0022400230,130,PT01M28.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,28,110,11,Missed,1,,,0,v,MISS Agbaji 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,93
+0022400230,131,PT01M26.00S,1,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,94
+0022400230,132,PT01M12.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-150,225,27,Made,1,28,20,48,h,Tatum 27' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,95
+0022400230,133,PT01M00.00S,1,1610612761,TOR,1642347,Shead,J. Shead,150,53,16,Made,1,28,22,50,v,Shead 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,96
+0022400230,134,PT00M51.50S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-142,103,18,Missed,1,,,0,h,MISS Pritchard 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,97
+0022400230,135,PT00M50.40S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,98
+0022400230,137,PT00M50.40S,1,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Pöltl FOR Fernando,Substitution,,0,0,99
+0022400230,139,PT00M47.40S,1,1610612738,BOS,1630573,Hauser,S. Hauser,232,56,24,Missed,1,,,0,h,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022400230,140,PT00M44.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+0022400230,141,PT00M33.50S,1,1610612761,TOR,1642347,Shead,J. Shead,80,117,14,Made,1,28,24,52,v,Shead 14' Driving Floating Jump Shot (4 PTS) (Agbaji 1 AST),Made Shot,Driving Floating Jump Shot,1,2,102
+0022400230,142,PT00M17.50S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-136,248,28,Missed,1,,,0,h,MISS Tatum 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,103
+0022400230,143,PT00M14.40S,1,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,104
+0022400230,144,PT00M11.60S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,218,140,26,Missed,1,,,0,h,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+0022400230,145,PT00M09.80S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,Dick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022400230,146,PT00M03.40S,1,1610612761,TOR,1628449,Boucher,C. Boucher,15,6,2,Made,1,28,26,54,v,Boucher 2' Running Layup (4 PTS) (Dick 3 AST),Made Shot,Running Layup Shot,1,2,107
+0022400230,148,PT00M00.50S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-91,449,46,Missed,1,,,0,h,MISS Pritchard 46' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,108
+0022400230,149,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,109
+0022400230,150,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,26,54,,End of 1st Period (8:38 PM EST),period,end,1,0,110
+0022400230,159,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,26,54,,Start of 2nd Period (8:41 PM EST),period,start,0,0,111
+0022400230,160,PT11M46.00S,2,1610612738,BOS,1629674,Queta,N. Queta,-20,14,2,Made,1,30,26,56,h,Queta 2' Alley Oop Dunk (4 PTS) (Brown 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,112
+0022400230,162,PT11M33.00S,2,1610612761,TOR,1642347,Shead,J. Shead,28,32,4,Missed,1,,,0,v,MISS Shead 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,113
+0022400230,163,PT11M31.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,114
+0022400230,164,PT11M10.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,158,277,32,Missed,1,,,0,h,MISS Hauser 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022400230,165,PT11M06.00S,2,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+0022400230,166,PT10M53.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,117
+0022400230,168,PT10M53.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,30,27,57,v,Dick Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0022400230,169,PT10M53.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Battle FOR Boucher,Substitution,,0,0,119
+0022400230,171,PT10M53.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,30,28,58,v,Dick Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,120
+0022400230,172,PT10M36.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,-62,124,14,Made,1,32,28,60,h,Hauser 14' Pullup Jump Shot (2 PTS) (Queta 1 AST),Made Shot,Pullup Jump shot,1,2,121
+0022400230,174,PT10M22.00S,2,1610612761,TOR,1642347,Shead,J. Shead,22,49,5,Missed,1,,,0,v,MISS Shead 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,122
+0022400230,174,PT10M22.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser BLOCK (1 BLK),,,1,2,123
+0022400230,176,PT10M18.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0022400230,177,PT10M14.00S,2,1610612738,BOS,1627759,Brown,J. Brown,48,26,5,Missed,1,,,0,h,MISS Brown 5' Running Layup,Missed Shot,Running Layup Shot,1,2,125
+0022400230,178,PT10M12.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022400230,179,PT10M06.00S,2,1610612761,TOR,1642347,Shead,J. Shead,-12,254,25,Missed,1,,,0,v,MISS Shead 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022400230,180,PT10M02.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,128
+0022400230,181,PT09M51.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,42,60,7,Made,1,32,30,62,v,Pöltl 7' Driving Hook Shot (4 PTS) (Shead 2 AST),Made Shot,Driving Hook Shot,1,2,129
+0022400230,182,PT09M26.00S,2,1610612738,BOS,1627759,Brown,J. Brown,43,105,11,Made,1,34,30,64,h,Brown 11' Driving Floating Jump Shot (7 PTS) (Queta 2 AST),Made Shot,Driving Floating Jump Shot,1,2,130
+0022400230,184,PT09M15.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,131
+0022400230,186,PT09M15.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,132
+0022400230,187,PT09M04.00S,2,1610612738,BOS,1628401,White,D. White,26,274,28,Made,1,37,30,67,h,White 28' 3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,3,133
+0022400230,189,PT08M52.00S,2,1610612761,TOR,1641711,Dick,G. Dick,-2,67,7,Missed,1,,,0,v,MISS Dick 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,134
+0022400230,190,PT08M49.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022400230,191,PT08M48.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Made,1,37,32,69,v,Pöltl Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,136
+0022400230,192,PT08M36.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,100,58,12,Made,1,39,32,71,h,Hauser 12' Driving Layup (4 PTS) (Brown 4 AST),Made Shot,Driving Layup Shot,1,2,137
+0022400230,194,PT08M36.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,Dick S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,1,0,138
+0022400230,196,PT08M36.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,SUB: Barrett FOR Dick,Substitution,,0,0,139
+0022400230,198,PT08M36.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,40,32,72,h,Hauser Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,140
+0022400230,200,PT08M21.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,-49,76,9,Made,1,40,34,74,v,Pöltl 9' Floating Jump Shot (8 PTS) (Barrett 2 AST),Made Shot,Floating Jump shot,1,2,141
+0022400230,202,PT08M02.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,142
+0022400230,204,PT08M02.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,41,34,75,h,Brown Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,143
+0022400230,205,PT08M02.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,42,34,76,h,Brown Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+0022400230,206,PT07M44.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,1,65,7,Made,1,42,36,78,v,Pöltl 7' Turnaround Hook Shot (10 PTS) (Barrett 3 AST),Made Shot,Turnaround Hook Shot,1,2,145
+0022400230,208,PT07M24.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,90,9,Missed,1,,,0,h,MISS Brown 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,146
+0022400230,209,PT07M22.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0022400230,210,PT07M21.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-2,9,1,Made,1,44,36,80,h,Brown 1' Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,148
+0022400230,211,PT07M08.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,149
+0022400230,213,PT07M08.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,44,37,81,v,Mogbo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+0022400230,214,PT07M08.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Horford FOR Hauser,Substitution,,0,0,151
+0022400230,215,PT07M08.00S,2,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,SUB: Mitchell FOR Shead,Substitution,,0,0,152
+0022400230,218,PT07M08.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,MISS Mogbo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,153
+0022400230,219,PT07M05.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,154
+0022400230,220,PT06M49.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,186,184,26,Missed,1,,,0,h,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022400230,221,PT06M46.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,156
+0022400230,222,PT06M40.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,40,38,6,Made,1,44,39,83,v,Barrett 6' Driving Floating Jump Shot (8 PTS) (Mitchell 2 AST),Made Shot,Driving Floating Jump Shot,1,2,157
+0022400230,224,PT06M38.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,158
+0022400230,225,PT06M38.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Tatum FOR Pritchard,Substitution,,0,0,159
+0022400230,226,PT06M38.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,SUB: Fernando FOR Mogbo,Substitution,,0,0,160
+0022400230,227,PT06M38.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,SUB: Agbaji FOR Pöltl,Substitution,,0,0,161
+0022400230,231,PT06M22.00S,2,1610612738,BOS,1628401,White,D. White,81,88,12,Missed,1,,,0,h,MISS White 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,162
+0022400230,232,PT06M20.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,163
+0022400230,233,PT06M12.00S,2,1610612761,TOR,1630558,Mitchell,D. Mitchell,109,246,27,Made,1,44,42,86,v,Mitchell 27' 3PT Jump Shot (3 PTS) (Fernando 2 AST),Made Shot,Jump Shot,1,3,164
+0022400230,235,PT05M56.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-234,9,0,Missed,1,,,0,h,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022400230,236,PT05M53.00S,2,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022400230,237,PT05M48.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,167
+0022400230,238,PT05M48.00S,2,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Mogbo FOR Fernando,Substitution,,0,0,168
+0022400230,240,PT05M37.00S,2,1610612761,TOR,1642419,Battle,J. Battle,232,59,24,Made,1,44,45,89,v,Battle 24' 3PT Jump Shot (3 PTS) (Agbaji 2 AST),Made Shot,Jump Shot,1,3,169
+0022400230,242,PT05M20.00S,2,1610612738,BOS,1628401,White,D. White,4,257,26,Missed,1,,,0,h,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,170
+0022400230,243,PT05M19.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+0022400230,244,PT05M14.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,172
+0022400230,245,PT04M58.00S,2,1610612738,BOS,1629674,Queta,N. Queta,12,31,3,Made,1,46,45,91,h,Queta 3' Reverse Layup (6 PTS) (Brown 5 AST),Made Shot,Reverse Layup Shot,1,2,173
+0022400230,247,PT04M40.00S,2,1610612761,TOR,1630558,Mitchell,D. Mitchell,42,67,8,Made,1,46,47,93,v,Mitchell 8' Driving Floating Jump Shot (5 PTS) (Barrett 4 AST),Made Shot,Driving Floating Jump Shot,1,2,174
+0022400230,249,PT04M24.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-80,252,26,Made,1,49,47,96,h,Tatum 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,175
+0022400230,250,PT04M01.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,176
+0022400230,252,PT04M01.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,49,48,97,v,Barrett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,177
+0022400230,253,PT04M01.00S,2,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,,,0,v,SUB: Pöltl FOR Battle,Substitution,,0,0,178
+0022400230,254,PT04M01.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,SUB: Dick FOR Mogbo,Substitution,,0,0,179
+0022400230,257,PT04M01.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,180
+0022400230,258,PT04M01.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,181
+0022400230,259,PT03M41.00S,2,1610612738,BOS,201143,Horford,A. Horford,140,213,25,Made,1,52,48,100,h,Horford 25' 3PT Jump Shot (6 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,182
+0022400230,261,PT03M27.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,-230,76,24,Missed,1,,,0,v,MISS Agbaji 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,183
+0022400230,262,PT03M24.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,184
+0022400230,263,PT03M11.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-37,31,5,Missed,1,,,0,h,MISS Tatum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,185
+0022400230,264,PT03M08.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,186
+0022400230,265,PT03M06.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,49,8,5,Missed,1,,,0,v,MISS Barrett 5' Running Layup,Missed Shot,Running Layup Shot,1,2,187
+0022400230,266,PT03M05.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,Dick REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,188
+0022400230,267,PT02M59.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,229,23,0,Missed,1,,,0,v,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022400230,268,PT02M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,190
+0022400230,270,PT02M44.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,43,93,10,Missed,1,,,0,h,MISS Tatum 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,191
+0022400230,271,PT02M42.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,192
+0022400230,272,PT02M42.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,Made,1,54,48,102,h,Queta Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,193
+0022400230,273,PT02M28.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,1,0,194
+0022400230,275,PT02M20.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,0,195
+0022400230,277,PT02M20.00S,2,0,,275,Houston,A. Houston,0,0,0,,0,54,48,102,,Instant Replay2nd Period (9:03 PM EST),Instant Replay,Support Ruling,0,0,196
+0022400230,280,PT02M20.00S,2,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Pritchard FOR Queta,Substitution,,0,0,197
+0022400230,278,PT02M20.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,54,49,103,v,Pöltl Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,198
+0022400230,279,PT02M20.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,54,50,104,v,Pöltl Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022400230,282,PT01M59.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-130,226,26,Missed,1,,,0,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022400230,283,PT01M57.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,201
+0022400230,284,PT01M52.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,-18,23,3,Made,1,54,52,106,v,Pöltl 3' Running Layup (14 PTS) (Barrett 5 AST),Made Shot,Running Layup Shot,1,2,202
+0022400230,285,PT01M52.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Violation:Defensive Goaltending (K.Scott),Violation,Defensive Goaltending,1,0,203
+0022400230,286,PT01M36.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,115,272,30,Missed,1,,,0,h,MISS Tatum 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,204
+0022400230,287,PT01M31.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,205
+0022400230,288,PT01M29.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,15,25,3,Missed,1,,,0,v,MISS Agbaji 3' Running Layup,Missed Shot,Running Layup Shot,1,2,206
+0022400230,289,PT01M28.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,207
+0022400230,290,PT01M28.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Missed,1,,,0,v,MISS Pöltl Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,208
+0022400230,291,PT01M25.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,209
+0022400230,292,PT01M18.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,232,54,24,Missed,1,,,0,h,MISS Pritchard 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,210
+0022400230,292,PT01M18.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett BLOCK (1 BLK),,,1,3,211
+0022400230,293,PT01M16.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,212
+0022400230,294,PT01M08.00S,2,1610612761,TOR,1641711,Dick,G. Dick,-28,157,16,Missed,1,,,0,v,MISS Dick 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,213
+0022400230,295,PT01M05.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,214
+0022400230,296,PT00M59.10S,2,1610612738,BOS,1628401,White,D. White,-125,235,27,Missed,1,,,0,h,MISS White 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,215
+0022400230,297,PT00M59.10S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,216
+0022400230,299,PT00M39.30S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-48,44,7,Missed,1,,,0,v,MISS Barrett 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,217
+0022400230,300,PT00M36.20S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,218
+0022400230,301,PT00M30.70S,2,1610612738,BOS,1628401,White,D. White,58,37,7,Made,1,56,52,108,h,White 7' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,219
+0022400230,302,PT00M08.70S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,77,25,8,Made,1,56,54,110,v,Pöltl 8' Floating Jump Shot (16 PTS) (Mitchell 3 AST),Made Shot,Floating Jump shot,1,2,220
+0022400230,304,PT00M04.20S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett P.FOUL (P2.T3) (K.Scott),Foul,Personal,1,0,221
+0022400230,306,PT00M04.20S,2,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Shead FOR Mitchell,Substitution,,0,0,222
+0022400230,308,PT00M04.20S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,SUB: Mogbo FOR Dick,Substitution,,0,0,223
+0022400230,310,PT00M00.30S,2,1610612738,BOS,1628401,White,D. White,-33,60,7,Missed,1,,,0,h,MISS White 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,224
+0022400230,311,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,225
+0022400230,312,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,54,110,,End of 2nd Period (9:09 PM EST),period,end,1,0,226
+0022400230,321,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,54,110,,Start of 3rd Period (9:24 PM EST),period,start,0,0,227
+0022400230,322,PT11M46.00S,3,1610612738,BOS,201143,Horford,A. Horford,-104,251,27,Missed,1,,,0,h,MISS Horford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022400230,323,PT11M42.00S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,229
+0022400230,324,PT11M36.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-43,8,4,Missed,1,,,0,v,MISS Barrett 4' Running Layup,Missed Shot,Running Layup Shot,1,2,230
+0022400230,325,PT11M35.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,231
+0022400230,326,PT11M34.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Made,1,56,56,112,v,Pöltl Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,232
+0022400230,327,PT11M25.00S,3,1610612738,BOS,1628401,White,D. White,-148,244,29,Missed,1,,,0,h,MISS White 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0022400230,328,PT11M23.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,0,234
+0022400230,330,PT11M01.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-28,17,3,Made,1,56,58,114,v,Agbaji 3' Driving Reverse Layup (10 PTS) (Mitchell 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,235
+0022400230,332,PT10M51.00S,3,1610612738,BOS,1627759,Brown,J. Brown,12,12,2,Made,1,58,58,116,h,Brown 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,236
+0022400230,333,PT10M25.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,64,115,13,Made,1,58,60,118,v,Pöltl 13' Floating Jump Shot (20 PTS) (Agbaji 3 AST),Made Shot,Floating Jump shot,1,2,237
+0022400230,335,PT10M01.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,36,50,6,Missed,1,,,0,h,MISS Tatum 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,238
+0022400230,335,PT10M01.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji BLOCK (1 BLK),,,1,2,239
+0022400230,337,PT10M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,240
+0022400230,339,PT09M59.00S,3,1610612738,BOS,1628401,White,D. White,233,33,24,Missed,1,,,0,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022400230,340,PT09M57.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,242
+0022400230,341,PT09M50.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,243
+0022400230,341,PT09M50.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl STEAL (1 STL),,,1,0,244
+0022400230,343,PT09M45.00S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,13,32,3,Made,1,58,62,120,v,Mitchell 3' Running Reverse Layup (7 PTS) (Barrett 6 AST),Made Shot,Running Reverse Layup Shot,1,2,245
+0022400230,345,PT09M33.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-173,216,28,Missed,1,,,0,h,MISS Tatum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,246
+0022400230,346,PT09M29.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,247
+0022400230,347,PT09M28.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-20,9,2,Made,1,58,64,122,v,Barrett 2' Running Layup (11 PTS) (Dick 4 AST),Made Shot,Running Layup Shot,1,2,248
+0022400230,372,PT09M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,249
+0022400230,349,PT09M28.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Kornet FOR Queta,Substitution,,0,0,250
+0022400230,351,PT09M14.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-86,267,28,Missed,1,,,0,h,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022400230,352,PT09M10.00S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,252
+0022400230,353,PT09M00.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-34,58,7,Missed,1,,,0,v,MISS Agbaji 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,253
+0022400230,354,PT08M58.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,254
+0022400230,355,PT08M52.00S,3,1610612738,BOS,201143,Horford,A. Horford,-129,242,27,Made,1,61,64,125,h,Horford 27' 3PT Jump Shot (9 PTS) (White 2 AST),Made Shot,Jump Shot,1,3,255
+0022400230,357,PT08M32.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,64,117,13,Made,1,61,66,127,v,Pöltl 13' Floating Jump Shot (22 PTS) (Barrett 7 AST),Made Shot,Floating Jump shot,1,2,256
+0022400230,359,PT08M18.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,-51,92,11,Missed,1,,,0,h,MISS Kornet 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,257
+0022400230,360,PT08M17.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0,258
+0022400230,362,PT08M05.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,34,124,13,Made,1,61,68,129,v,Pöltl 13' Floating Jump Shot (24 PTS) (Mitchell 5 AST),Made Shot,Floating Jump shot,1,2,259
+0022400230,364,PT08M01.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Violation: Delay of game Violation,Violation,Delay Of Game,0,0,260
+0022400230,365,PT07M51.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-20,22,3,Made,1,63,68,131,h,Brown 3' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,261
+0022400230,366,PT07M30.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,225,32,0,Missed,1,,,0,v,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022400230,367,PT07M28.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,263
+0022400230,368,PT07M26.00S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,-118,229,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022400230,369,PT07M23.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,265
+0022400230,370,PT07M16.00S,3,1610612738,BOS,1628401,White,D. White,-7,18,2,Made,1,65,68,133,h,White 2' Driving Layup (12 PTS) (Kornet 2 AST),Made Shot,Driving Layup Shot,1,2,266
+0022400230,373,PT07M02.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-97,242,26,Missed,1,,,0,v,MISS Agbaji 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,267
+0022400230,374,PT07M01.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,268
+0022400230,375,PT06M54.00S,3,1610612738,BOS,1628401,White,D. White,168,202,26,Missed,1,,,0,h,MISS White 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,269
+0022400230,376,PT06M51.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,270
+0022400230,377,PT06M42.00S,3,1610612738,BOS,201143,Horford,A. Horford,229,-6,0,Missed,1,,,0,h,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022400230,378,PT06M39.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,272
+0022400230,414,PT06M35.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-16,77,8,Missed,1,,,0,v,MISS Barrett 8' Running Layup,Missed Shot,Running Layup Shot,1,2,273
+0022400230,414,PT06M35.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White BLOCK (1 BLK),,,1,2,274
+0022400230,416,PT06M34.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,0,275
+0022400230,379,PT06M34.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,Jump Ball White vs. Barrett: Tip to Pöltl,Jump Ball,,1,0,276
+0022400230,383,PT06M29.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,277
+0022400230,384,PT06M29.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,SUB: Fernando FOR Dick,Substitution,,0,0,278
+0022400230,385,PT06M29.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,SUB: Battle FOR Pöltl,Substitution,,0,0,279
+0022400230,388,PT06M17.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-20,100,10,Made,1,65,70,135,v,Barrett 10' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,280
+0022400230,389,PT05M56.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-16,50,5,Missed,1,,,0,h,MISS Tatum 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,281
+0022400230,390,PT05M55.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0,282
+0022400230,392,PT05M55.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Pritchard FOR White,Substitution,,0,0,283
+0022400230,393,PT05M55.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Hauser FOR Horford,Substitution,,0,0,284
+0022400230,396,PT05M42.00S,3,1610612761,TOR,1628981,Fernando,B. Fernando,-18,10,2,Made,1,65,72,137,v,Fernando 2' Alley Oop Layup (4 PTS) (Barrett 8 AST),Made Shot,Alley Oop Layup shot,1,2,285
+0022400230,398,PT05M19.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,115,257,28,Made,1,68,72,140,h,Pritchard 28' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,286
+0022400230,399,PT04M58.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-239,-7,24,Missed,1,,,0,v,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022400230,400,PT04M55.00S,3,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,288
+0022400230,401,PT04M54.00S,3,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,289
+0022400230,401,PT04M54.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet STEAL (1 STL),,,1,0,290
+0022400230,403,PT04M48.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,127,256,29,Made,1,71,72,143,h,Pritchard 29' 3PT Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,3,291
+0022400230,405,PT04M35.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard P.FOUL (P1.T1) (S.Jelks),Foul,Personal,1,0,292
+0022400230,407,PT04M35.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Walsh FOR Brown,Substitution,,0,0,293
+0022400230,409,PT04M30.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,229,46,0,Missed,1,,,0,v,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+0022400230,410,PT04M27.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,295
+0022400230,411,PT04M22.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,17,13,2,Made,1,73,72,145,h,Kornet 2' Running Alley Oop Layup Shot (2 PTS) (Pritchard 1 AST),Made Shot,Running Alley Oop Layup Shot,1,2,296
+0022400230,413,PT04M22.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,297
+0022400230,417,PT04M22.00S,3,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Boucher FOR Fernando,Substitution,,0,0,298
+0022400230,418,PT04M22.00S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Mogbo FOR Mitchell,Substitution,,0,0,299
+0022400230,419,PT04M22.00S,3,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,,,0,v,SUB: Shead FOR Battle,Substitution,,0,0,300
+0022400230,423,PT04M06.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,31,8,3,Made,1,73,74,147,v,Mogbo 3' Cutting Dunk Shot (3 PTS) (Barrett 9 AST),Made Shot,Cutting Dunk Shot,1,2,301
+0022400230,425,PT03M47.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,227,8,0,Missed,1,,,0,h,MISS Walsh 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0022400230,426,PT03M45.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,303
+0022400230,427,PT03M43.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,232,89,25,Made,1,76,74,150,h,Hauser 25' 3PT Jump Shot (8 PTS) (Walsh 1 AST),Made Shot,Jump Shot,1,3,304
+0022400230,429,PT03M25.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,305
+0022400230,431,PT03M25.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,76,75,151,v,Barrett Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,306
+0022400230,432,PT03M25.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,76,76,152,v,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+0022400230,433,PT03M04.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,243,47,25,Made,1,79,76,155,h,Walsh 25' 3PT Jump Shot (3 PTS) (Tatum 4 AST),Made Shot,Jump Shot,1,3,308
+0022400230,435,PT02M46.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-23,15,3,Missed,1,,,0,v,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,309
+0022400230,436,PT02M43.00S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,310
+0022400230,437,PT02M38.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,-238,5,24,Made,1,82,76,158,h,Hauser 24' 3PT Jump Shot (11 PTS) (Tatum 5 AST),Made Shot,Jump Shot,1,3,311
+0022400230,439,PT02M25.00S,3,1610612761,TOR,1642347,Shead,J. Shead,45,35,6,Made,1,82,78,160,v,Shead 6' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,312
+0022400230,440,PT02M20.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,Shead P.FOUL (P3.T1) (S.Jelks),Foul,Personal,0,0,313
+0022400230,442,PT02M20.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,SUB: Dick FOR Agbaji,Substitution,,0,0,314
+0022400230,444,PT02M19.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,315
+0022400230,446,PT02M19.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,316
+0022400230,447,PT02M03.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,33,25,4,Made,1,82,80,162,v,Boucher 4' Driving Layup (6 PTS) (Barrett 10 AST),Made Shot,Driving Layup Shot,1,2,317
+0022400230,449,PT02M03.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,318
+0022400230,451,PT02M03.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,82,81,163,v,Boucher Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,319
+0022400230,452,PT01M52.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,1,0,320
+0022400230,454,PT01M44.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,148,238,28,Missed,1,,,0,h,MISS Tatum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,321
+0022400230,455,PT01M41.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,322
+0022400230,456,PT01M36.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-29,13,3,Made,1,82,83,165,v,Barrett 3' Running Layup (17 PTS),Made Shot,Running Layup Shot,1,2,323
+0022400230,457,PT01M36.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet Violation:Defensive Goaltending (J.Van Duyne),Violation,Defensive Goaltending,1,0,324
+0022400230,458,PT01M17.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,4,43,4,Made,1,84,83,167,h,Kornet 4' Cutting Dunk Shot (4 PTS) (Tatum 6 AST),Made Shot,Cutting Dunk Shot,1,2,325
+0022400230,536,PT01M07.00S,3,1610612761,TOR,1642347,Shead,J. Shead,10,11,1,Missed,1,,,0,v,MISS Shead 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,326
+0022400230,537,PT01M05.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,0,327
+0022400230,462,PT01M05.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,Shead Traveling Turnover (P1.T6),Turnover,Traveling,1,0,328
+0022400230,463,PT00M52.90S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett P.FOUL (P3.PN) (J.Van Duyne),Foul,Personal,1,0,329
+0022400230,465,PT00M52.90S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,85,83,168,h,Tatum Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022400230,466,PT00M52.90S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Queta FOR Kornet,Substitution,,0,0,331
+0022400230,467,PT00M52.90S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,SUB: Pöltl FOR Mogbo,Substitution,,0,0,332
+0022400230,470,PT00M52.90S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,86,83,169,h,Tatum Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,333
+0022400230,471,PT00M34.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,51,101,11,Made,1,86,85,171,v,Pöltl 11' Floating Jump Shot (26 PTS) (Barrett 11 AST),Made Shot,Floating Jump shot,1,2,334
+0022400230,473,PT00M11.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,224,81,24,Missed,1,,,0,h,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022400230,474,PT00M08.30S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,336
+0022400230,475,PT00M04.60S,3,1610612738,BOS,1641775,Walsh,J. Walsh,0,0,0,,0,,,0,h,Walsh Personal Take Foul (P2.T4) (K.Scott),Foul,Personal Take,1,0,337
+0022400230,477,PT00M00.30S,3,1610612761,TOR,1641711,Dick,G. Dick,-121,239,27,Missed,1,,,0,v,MISS Dick 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,338
+0022400230,478,PT00M00.30S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,339
+0022400230,480,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,85,171,,Instant Replay3rd Period (9:50 PM EST),Instant Replay,Support Ruling,0,0,340
+0022400230,479,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,85,171,,End of 3rd Period (9:50 PM EST),period,end,1,0,341
+0022400230,487,PT12M00.00S,4,0,,0,,,0,0,0,,0,86,85,171,,Start of 4th Period (9:52 PM EST),period,start,0,0,342
+0022400230,488,PT11M47.00S,4,1610612761,TOR,1641711,Dick,G. Dick,-12,5,1,Made,1,86,87,173,v,Dick 1' Alley Oop Layup (4 PTS) (Shead 3 AST),Made Shot,Alley Oop Layup shot,1,2,343
+0022400230,490,PT11M28.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown OFF.Foul (P2) (K.Scott),Foul,Offensive,1,0,344
+0022400230,492,PT11M28.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,345
+0022400230,493,PT11M04.00S,4,1610612761,TOR,1642347,Shead,J. Shead,-91,137,16,Missed,1,,,0,v,MISS Shead 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,346
+0022400230,494,PT11M01.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,347
+0022400230,495,PT10M52.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,-140,27,14,Missed,1,,,0,v,MISS Mogbo 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,348
+0022400230,496,PT10M50.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,349
+0022400230,497,PT10M50.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0,350
+0022400230,499,PT10M50.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,86,88,174,v,Boucher Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+0022400230,500,PT10M50.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,86,89,175,v,Boucher Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,352
+0022400230,501,PT10M37.00S,4,1610612738,BOS,1629674,Queta,N. Queta,-9,10,1,Made,1,88,89,177,h,Queta 1' Alley Oop Dunk (10 PTS) (White 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,353
+0022400230,503,PT10M20.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser P.FOUL (P2.T2) (S.Jelks),Foul,Personal,1,0,354
+0022400230,505,PT10M13.00S,4,1610612761,TOR,1642347,Shead,J. Shead,50,73,9,Missed,1,,,0,v,MISS Shead 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,355
+0022400230,506,PT10M10.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,356
+0022400230,507,PT10M09.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Made,1,88,91,179,v,Pöltl Tip Layup Shot (28 PTS),Made Shot,Tip Layup Shot,1,2,357
+0022400230,508,PT09M56.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-13,42,4,Made,1,90,91,181,h,Brown 4' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,358
+0022400230,509,PT09M41.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,-13,121,12,Missed,1,,,0,v,MISS Pöltl 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,359
+0022400230,510,PT09M39.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,360
+0022400230,511,PT09M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,1,0,361
+0022400230,513,PT09M35.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,91,91,182,h,Brown Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+0022400230,514,PT09M35.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,92,91,183,h,Brown Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022400230,515,PT09M17.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,23,4,2,Made,1,92,93,185,v,Pöltl 2' Driving Reverse Layup (30 PTS) (Dick 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,364
+0022400230,517,PT08M59.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-130,263,29,Missed,1,,,0,h,MISS Brown 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,365
+0022400230,518,PT08M55.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,366
+0022400230,519,PT08M44.00S,4,1610612738,BOS,1627759,Brown,J. Brown,31,37,5,Made,1,94,93,187,h,Brown 5' Driving Layup (21 PTS) (White 4 AST),Made Shot,Driving Layup Shot,1,2,367
+0022400230,521,PT08M24.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P3.T3) (K.Scott),Foul,Personal,1,0,368
+0022400230,523,PT08M21.00S,4,1610612761,TOR,1641711,Dick,G. Dick,213,147,26,Made,1,94,96,190,v,Dick 26' 3PT Jump Shot (7 PTS) (Shead 4 AST),Made Shot,Jump Shot,1,3,369
+0022400230,525,PT08M03.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,-102,253,27,Made,1,97,96,193,h,Hauser 27' 3PT Jump Shot (14 PTS) (Brown 6 AST),Made Shot,Jump Shot,1,3,370
+0022400230,527,PT07M55.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,371
+0022400230,528,PT07M55.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Horford FOR Pritchard,Substitution,,0,0,372
+0022400230,529,PT07M55.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,v,SUB: Battle FOR Dick,Substitution,,0,0,373
+0022400230,530,PT07M55.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,SUB: Barrett FOR Pöltl,Substitution,,0,0,374
+0022400230,534,PT07M36.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,227,20,0,Made,1,97,99,196,v,Boucher 3PT Jump Shot (12 PTS) (Battle 1 AST),Made Shot,Jump Shot,1,3,375
+0022400230,538,PT07M16.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,103,253,27,Missed,1,,,0,h,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022400230,539,PT07M14.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,377
+0022400230,540,PT07M11.00S,4,1610612738,BOS,1628401,White,D. White,-44,155,16,Made,1,99,99,198,h,White 16' Pullup Jump Shot (14 PTS) (Horford 1 AST),Made Shot,Pullup Jump shot,1,2,378
+0022400230,542,PT06M52.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-238,15,24,Made,1,99,102,201,v,Boucher 24' 3PT Jump Shot (15 PTS) (Barrett 12 AST),Made Shot,Jump Shot,1,3,379
+0022400230,544,PT06M30.00S,4,1610612738,BOS,1628401,White,D. White,-234,62,24,Made,1,102,102,204,h,White 24' 3PT Jump Shot (17 PTS) (Hauser 1 AST),Made Shot,Jump Shot,1,3,380
+0022400230,546,PT06M13.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-31,9,3,Missed,1,,,0,v,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,381
+0022400230,547,PT06M10.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,382
+0022400230,548,PT06M02.00S,4,1610612738,BOS,1628401,White,D. White,10,62,6,Missed,1,,,0,h,MISS White 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,383
+0022400230,549,PT06M01.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,384
+0022400230,550,PT06M01.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,Mogbo P.FOUL (P3.T2) (K.Scott),Foul,Personal,1,0,385
+0022400230,552,PT06M01.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Tatum FOR Hauser,Substitution,,0,0,386
+0022400230,553,PT06M01.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,v,SUB: Agbaji FOR Mogbo,Substitution,,0,0,387
+0022400230,554,PT06M01.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,v,SUB: Mitchell FOR Shead,Substitution,,0,0,388
+0022400230,555,PT06M01.00S,4,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,,,0,v,SUB: Pöltl FOR Battle,Substitution,,0,0,389
+0022400230,560,PT05M52.00S,4,1610612738,BOS,1628401,White,D. White,11,68,7,Missed,1,,,0,h,MISS White 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+0022400230,561,PT05M49.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,391
+0022400230,562,PT05M32.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-49,172,18,Missed,1,,,0,v,MISS Barrett 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,392
+0022400230,563,PT05M29.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,393
+0022400230,564,PT05M18.00S,4,1610612738,BOS,201143,Horford,A. Horford,-18,69,7,Made,1,104,102,206,h,Horford 7' Driving Hook Shot (11 PTS) (Tatum 7 AST),Made Shot,Driving Hook Shot,1,2,394
+0022400230,566,PT05M18.00S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,395
+0022400230,568,PT05M18.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,105,102,207,h,Horford Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,396
+0022400230,569,PT04M58.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,1,0,397
+0022400230,571,PT04M58.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,398
+0022400230,572,PT04M58.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0,399
+0022400230,573,PT04M58.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,400
+0022400230,574,PT04M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,401
+0022400230,575,PT04M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,402
+0022400230,576,PT04M53.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett L.B.FOUL (P4.T4) (J.Van Duyne),Foul,Loose Ball,1,0,403
+0022400230,578,PT04M33.00S,4,1610612738,BOS,201143,Horford,A. Horford,224,63,0,Missed,1,,,0,h,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022400230,579,PT04M30.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,405
+0022400230,587,PT04M29.00S,4,1610612738,BOS,1629674,Queta,N. Queta,-9,4,1,Missed,1,,,0,h,MISS Queta 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,406
+0022400230,588,PT04M28.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,407
+0022400230,580,PT04M23.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,1,0,408
+0022400230,582,PT04M23.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,105,103,208,v,Barrett Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+0022400230,583,PT04M23.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,410
+0022400230,584,PT04M18.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,411
+0022400230,585,PT04M06.00S,4,1610612738,BOS,201143,Horford,A. Horford,-225,25,0,Made,1,108,103,211,h,Horford 3PT Jump Shot (15 PTS) (Tatum 8 AST),Made Shot,Jump Shot,1,3,412
+0022400230,589,PT03M37.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,131,279,31,Made,1,108,106,214,v,Barrett 31' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,413
+0022400230,590,PT03M19.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford Backcourt Turnover (P2.T8),Turnover,Backcourt Turnover,1,0,414
+0022400230,591,PT03M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Dick FOR Boucher,Substitution,,0,0,415
+0022400230,593,PT03M08.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,416
+0022400230,595,PT03M08.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,MISS Pöltl Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,417
+0022400230,596,PT03M08.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,0,418
+0022400230,597,PT03M08.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,108,107,215,v,Pöltl Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,419
+0022400230,598,PT02M42.00S,4,1610612738,BOS,1627759,Brown,J. Brown,185,20,19,Missed,1,,,0,h,MISS Brown 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,420
+0022400230,599,PT02M39.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,421
+0022400230,600,PT02M33.00S,4,1610612761,TOR,1641711,Dick,G. Dick,200,214,29,Missed,1,,,0,v,MISS Dick 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022400230,601,PT02M30.00S,4,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,423
+0022400230,602,PT02M27.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-229,72,24,Missed,1,,,0,v,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022400230,603,PT02M24.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,425
+0022400230,604,PT02M12.00S,4,1610612738,BOS,1628401,White,D. White,-229,76,24,Missed,1,,,0,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022400230,605,PT02M11.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,427
+0022400230,606,PT02M11.00S,4,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P3.PN) (S.Jelks),Foul,Personal,1,0,428
+0022400230,608,PT02M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,429
+0022400230,609,PT02M11.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,430
+0022400230,610,PT02M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,431
+0022400230,611,PT02M11.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,109,107,216,h,White Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022400230,612,PT02M01.00S,4,1610612761,TOR,1630558,Mitchell,D. Mitchell,25,10,3,Made,1,109,109,218,v,Mitchell 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,433
+0022400230,613,PT02M01.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P3.PN) (S.Jelks),Foul,Shooting,1,0,434
+0022400230,615,PT02M01.00S,4,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,109,110,219,v,Mitchell Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,435
+0022400230,616,PT01M45.00S,4,1610612738,BOS,201143,Horford,A. Horford,-130,238,27,Made,1,112,110,222,h,Horford 27' 3PT Jump Shot (18 PTS) (Tatum 9 AST),Made Shot,Jump Shot,1,3,436
+0022400230,618,PT01M45.00S,4,0,,616,,,0,0,0,,0,112,110,222,,Instant Replay4th Period (10:18 PM EST),Instant Replay,Support Ruling,0,0,437
+0022400230,619,PT01M27.00S,4,1610612761,TOR,1641711,Dick,G. Dick,29,156,16,Made,1,112,112,224,v,Dick 16' Pullup Jump Shot (9 PTS) (Barrett 13 AST),Made Shot,Pullup Jump shot,1,2,438
+0022400230,622,PT01M05.00S,4,1610612738,BOS,1628401,White,D. White,210,141,25,Missed,1,,,0,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022400230,623,PT01M03.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,Barrett REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,440
+0022400230,624,PT00M59.20S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-50,21,5,Made,1,112,114,226,v,Barrett 5' Floating Jump Shot (23 PTS),Made Shot,Floating Jump shot,1,2,441
+0022400230,625,PT00M59.20S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P5.PN) (J.Van Duyne),Foul,Shooting,1,0,442
+0022400230,627,PT00M59.20S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,v,MISS Barrett Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,443
+0022400230,628,PT00M59.20S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,444
+0022400230,629,PT00M42.50S,4,1610612738,BOS,1629674,Queta,N. Queta,28,34,4,Made,1,114,114,228,h,Queta 4' Cutting Layup Shot (12 PTS) (Brown 7 AST),Made Shot,Cutting Layup Shot,1,2,445
+0022400230,631,PT00M42.50S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,446
+0022400230,632,PT00M35.80S,4,1610612761,TOR,1629628,Barrett,R. Barrett,9,31,3,Missed,1,,,0,v,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,447
+0022400230,632,PT00M35.80S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown BLOCK (1 BLK),,,1,2,448
+0022400230,634,PT00M34.80S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,0,449
+0022400230,637,PT00M22.50S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,450
+0022400230,638,PT00M00.50S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-10,154,15,Missed,1,,,0,h,MISS Tatum 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,451
+0022400230,639,PT00M00.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,452
+0022400230,640,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,114,228,,End of 4th Period (10:24 PM EST),period,end,1,0,453
+0022400230,645,PT05M00.00S,5,0,,0,,,0,0,0,,0,114,114,228,,Start of 1st OT (10:26 PM EST),period,start,0,0,454
+0022400230,647,PT05M00.00S,5,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Jump Ball Kornet vs. Pöltl: Tip to Brown,Jump Ball,,1,0,455
+0022400230,650,PT04M46.00S,5,1610612738,BOS,1627759,Brown,J. Brown,-48,262,27,Made,1,117,114,231,h,Brown 27' 3PT Step Back Jump Shot (24 PTS) (Kornet 3 AST),Made Shot,Step Back Jump shot,1,3,456
+0022400230,652,PT04M22.00S,5,1610612761,TOR,1629628,Barrett,R. Barrett,-28,16,3,Missed,1,,,0,v,MISS Barrett 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,457
+0022400230,653,PT04M17.00S,5,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,458
+0022400230,654,PT04M17.00S,5,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Made,1,117,116,233,v,Pöltl Tip Layup Shot (33 PTS),Made Shot,Tip Layup Shot,1,2,459
+0022400230,655,PT04M01.00S,5,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,460
+0022400230,656,PT03M48.00S,5,1610612761,TOR,1627751,Poeltl,J. Poeltl,33,16,4,Made,1,117,118,235,v,Pöltl 4' Cutting Layup Shot (35 PTS) (Barrett 14 AST),Made Shot,Cutting Layup Shot,1,2,461
+0022400230,658,PT03M32.00S,5,1610612738,BOS,1628401,White,D. White,-107,253,27,Missed,1,,,0,h,MISS White 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,462
+0022400230,659,PT03M30.00S,5,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,463
+0022400230,660,PT03M25.00S,5,1610612761,TOR,1629628,Barrett,R. Barrett,-47,35,6,Missed,1,,,0,v,MISS Barrett 6' Running Layup,Missed Shot,Running Layup Shot,1,2,464
+0022400230,660,PT03M25.00S,5,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White BLOCK (2 BLK),,,1,2,465
+0022400230,662,PT03M24.00S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,466
+0022400230,664,PT03M13.00S,5,1610612738,BOS,1628369,Tatum,J. Tatum,-17,20,3,Made,1,119,118,237,h,Tatum 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,467
+0022400230,665,PT02M49.00S,5,1610612761,TOR,1629628,Barrett,R. Barrett,-23,95,10,Missed,1,,,0,v,MISS Barrett 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,468
+0022400230,666,PT02M47.00S,5,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,469
+0022400230,667,PT02M31.00S,5,1610612738,BOS,1630573,Hauser,S. Hauser,233,59,24,Missed,1,,,0,h,MISS Hauser 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,470
+0022400230,668,PT02M29.00S,5,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,471
+0022400230,669,PT02M25.00S,5,1610612761,TOR,1630534,Agbaji,O. Agbaji,-235,8,24,Made,1,119,121,240,v,Agbaji 24' 3PT Running Jump Shot (13 PTS) (Barrett 15 AST),Made Shot,Running Jump Shot,1,3,472
+0022400230,671,PT01M57.00S,5,1610612738,BOS,1628369,Tatum,J. Tatum,9,316,32,Missed,1,,,0,h,MISS Tatum 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022400230,672,PT01M54.00S,5,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,474
+0022400230,673,PT01M51.00S,5,1610612738,BOS,1630573,Hauser,S. Hauser,-207,167,27,Missed,1,,,0,h,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022400230,674,PT01M50.00S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,476
+0022400230,675,PT01M50.00S,5,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,,,0,v,Pöltl L.B.FOUL (P2.T1) (K.Scott),Foul,Loose Ball,1,0,477
+0022400230,677,PT01M50.00S,5,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell AWAY.FROM.PLAY.FOUL (P4.PN) (J.Van Duyne),Foul,Away From Play,1,0,478
+0022400230,679,PT01M50.00S,5,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,120,121,241,h,Tatum Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,479
+0022400230,680,PT01M50.00S,5,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Queta FOR Hauser,Substitution,,0,0,480
+0022400230,681,PT01M50.00S,5,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Horford FOR Kornet,Substitution,,0,0,481
+0022400230,684,PT01M34.00S,5,1610612738,BOS,1629674,Queta,N. Queta,237,44,24,Missed,1,,,0,h,MISS Queta 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0022400230,685,PT01M32.00S,5,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,483
+0022400230,686,PT01M30.00S,5,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,v,Agbaji Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,484
+0022400230,687,PT01M09.00S,5,1610612738,BOS,1627759,Brown,J. Brown,228,47,0,Made,1,123,121,244,h,Brown 3PT Jump Shot (27 PTS) (Horford 2 AST),Made Shot,Jump Shot,1,3,485
+0022400230,689,PT00M55.30S,5,1610612761,TOR,1629628,Barrett,R. Barrett,34,8,3,Made,1,123,123,246,v,Barrett 3' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,486
+0022400230,690,PT00M35.00S,5,1610612738,BOS,201143,Horford,A. Horford,-232,57,24,Missed,1,,,0,h,MISS Horford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+0022400230,691,PT00M33.60S,5,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,0,488
+0022400230,694,PT00M33.60S,5,0,,692,DeClercq,A. DeClercq,0,0,0,,0,123,123,246,,Instant Replay1st OT (10:33 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,489
+0022400230,695,PT00M33.60S,5,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,490
+0022400230,696,PT00M22.10S,5,1610612761,TOR,1629628,Barrett,R. Barrett,78,48,9,Missed,1,,,0,v,MISS Barrett 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,491
+0022400230,696,PT00M22.10S,5,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta BLOCK (1 BLK),,,1,2,492
+0022400230,698,PT00M20.20S,5,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,Queta REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,493
+0022400230,699,PT00M20.20S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,494
+0022400230,700,PT00M20.20S,5,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,,,0,h,SUB: Pritchard FOR Queta,Substitution,,0,0,495
+0022400230,702,PT00M00.00S,5,1610612738,BOS,1628369,Tatum,J. Tatum,150,255,30,Made,1,126,123,249,h,Tatum 30' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,496
+0022400230,703,PT00M00.00S,5,0,,702,Lenard,V. Lenard,0,0,0,,0,126,123,249,,Instant Replay1st OT (10:40 PM EST),Instant Replay,Support Ruling,0,0,497
+0022400230,705,PT00M00.00S,5,0,,0,,,0,0,0,,0,126,123,249,,End of 1st OT (10:40 PM EST),period,end,1,0,498

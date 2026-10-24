@@ -1,0 +1,505 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022401114,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:36 PM EST),period,start,0,0,1
+0022401114,4,PT12M00.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Jump Ball Ware vs. Edey: Tip to Herro,Jump Ball,,1,0,2
+0022401114,7,PT11M38.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,230,-4,0,Made,1,3,0,3,h,Adebayo 3PT Jump Shot (3 PTS) (Larsson 1 AST),Made Shot,Jump Shot,1,3,3
+0022401114,9,PT11M23.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,4
+0022401114,9,PT11M23.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson STEAL (1 STL),,,1,0,5
+0022401114,12,PT11M19.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,6
+0022401114,14,PT11M19.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,4,0,4,h,Adebayo Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,7
+0022401114,15,PT11M19.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,5,0,5,h,Adebayo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,8
+0022401114,16,PT11M06.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-102,141,17,Missed,1,,,0,v,MISS Morant 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,9
+0022401114,17,PT11M03.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022401114,18,PT10M48.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-125,79,15,Made,1,7,0,7,h,Adebayo 15' Step Back Jump Shot (7 PTS) (Burks 1 AST),Made Shot,Step Back Jump shot,1,2,11
+0022401114,19,PT10M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-12,88,9,Missed,1,,,0,v,MISS Jackson Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,12
+0022401114,19,PT10M32.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo BLOCK (1 BLK),,,1,2,13
+0022401114,21,PT10M31.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022401114,22,PT10M24.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,31,28,4,Made,1,9,0,9,h,Adebayo 4' Driving Floating Jump Shot (9 PTS) (Herro 1 AST),Made Shot,Driving Floating Jump Shot,1,2,15
+0022401114,24,PT10M24.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,16
+0022401114,26,PT10M01.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,17
+0022401114,27,PT09M44.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,Burks Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,1,0,18
+0022401114,28,PT09M35.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-1,1,0,Missed,1,,,0,v,MISS Morant Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,19
+0022401114,29,PT09M34.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+0022401114,30,PT09M33.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,Made,1,9,2,11,v,Edey Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,21
+0022401114,31,PT09M25.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,4,0,Missed,1,,,0,h,MISS Larsson Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,22
+0022401114,32,PT09M23.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+0022401114,33,PT09M22.00S,1,1610612748,MIA,1642276,Ware,K. Ware,-29,85,9,Made,1,11,2,13,h,Ware 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,24
+0022401114,35,PT09M07.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-62,27,7,Made,1,11,4,15,v,Jackson Jr. 7' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,1,2,25
+0022401114,36,PT08M52.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,22,86,9,Missed,1,,,0,h,MISS Adebayo 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,26
+0022401114,37,PT08M51.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,27
+0022401114,38,PT08M46.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,28
+0022401114,38,PT08M46.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo STEAL (1 STL),,,1,0,29
+0022401114,40,PT08M39.00S,1,1610612748,MIA,202692,Burks,A. Burks,-234,-17,0,Missed,1,,,0,h,MISS Burks 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,30
+0022401114,41,PT08M38.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,31
+0022401114,42,PT08M34.00S,1,1610612748,MIA,202692,Burks,A. Burks,-218,126,25,Missed,1,,,0,h,MISS Burks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+0022401114,43,PT08M34.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,33
+0022401114,44,PT08M31.00S,1,1610612748,MIA,1642276,Ware,K. Ware,18,37,4,Missed,1,,,0,h,MISS Ware 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,34
+0022401114,45,PT08M29.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022401114,46,PT08M23.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,2,4,0,Made,1,11,6,17,v,Edey Dunk (4 PTS) (Morant 1 AST),Made Shot,Dunk Shot,1,2,36
+0022401114,48,PT08M04.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-32,256,26,Made,1,14,6,20,h,Adebayo 26' 3PT Jump Shot (12 PTS) (Larsson 2 AST),Made Shot,Jump Shot,1,3,37
+0022401114,50,PT07M51.00S,1,1610612763,MEM,1629630,Morant,J. Morant,156,205,26,Made,1,14,9,23,v,Morant 26' 3PT Jump Shot (3 PTS) (Bane 1 AST),Made Shot,Jump Shot,1,3,38
+0022401114,51,PT07M41.00S,1,1610612748,MIA,1642276,Ware,K. Ware,-61,248,26,Missed,1,,,0,h,MISS Ware 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022401114,52,PT07M39.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,1,0,40
+0022401114,53,PT07M39.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson L.B.FOUL (P1.T1) (N.Green),Foul,Loose Ball,1,0,41
+0022401114,55,PT07M30.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-154,210,26,Missed,1,,,0,v,MISS Bane 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,42
+0022401114,56,PT07M29.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,43
+0022401114,57,PT07M29.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson L.B.FOUL (P2.T2) (A.Nagy),Foul,Loose Ball,1,0,44
+0022401114,60,PT07M29.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Larsson,Substitution,,0,0,45
+0022401114,62,PT07M14.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-38,125,13,Missed,1,,,0,v,MISS Bane 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,46
+0022401114,63,PT07M12.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,47
+0022401114,64,PT07M03.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,10,92,9,Missed,1,,,0,h,MISS Adebayo 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,48
+0022401114,65,PT07M01.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0022401114,66,PT06M57.00S,1,1610612763,MEM,1630217,Bane,D. Bane,65,258,27,Missed,1,,,0,v,MISS Bane 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,50
+0022401114,67,PT06M55.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,51
+0022401114,69,PT06M55.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Wells,Substitution,,0,0,52
+0022401114,70,PT06M55.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Aldama FOR Morant,Substitution,,0,0,53
+0022401114,71,PT06M55.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Kennard FOR Jackson Jr.,Substitution,,0,0,54
+0022401114,75,PT06M30.00S,1,1610612748,MIA,1642276,Ware,K. Ware,-40,12,4,Made,1,16,9,25,h,Ware 4' Turnaround Hook Shot (4 PTS) (Adebayo 1 AST),Made Shot,Turnaround Hook Shot,1,2,55
+0022401114,77,PT06M17.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-212,129,25,Missed,1,,,0,v,MISS Aldama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022401114,78,PT06M14.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,57
+0022401114,79,PT06M01.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,58
+0022401114,79,PT06M01.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. STEAL (1 STL),,,1,0,59
+0022401114,81,PT05M52.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-148,198,25,Missed,1,,,0,v,MISS Bane 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022401114,82,PT05M47.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,61
+0022401114,83,PT05M40.00S,1,1610612748,MIA,202692,Burks,A. Burks,-114,241,27,Missed,1,,,0,h,MISS Burks 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,62
+0022401114,84,PT05M38.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,63
+0022401114,85,PT05M31.00S,1,1610612763,MEM,1630217,Bane,D. Bane,42,108,12,Made,1,16,11,27,v,Bane 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,64
+0022401114,86,PT05M31.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,65
+0022401114,87,PT05M31.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Highsmith FOR Adebayo,Substitution,,0,0,66
+0022401114,88,PT05M31.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,SUB: Stevens FOR Edey,Substitution,,0,0,67
+0022401114,91,PT05M15.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,68
+0022401114,91,PT05M15.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens STEAL (1 STL),,,1,0,69
+0022401114,93,PT05M10.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-2,3,0,Made,1,16,13,29,v,Bane Running Layup (4 PTS) (Pippen Jr. 1 AST),Made Shot,Running Layup Shot,1,2,70
+0022401114,95,PT04M47.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,71
+0022401114,95,PT04M47.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama STEAL (1 STL),,,1,0,72
+0022401114,97,PT04M34.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,148,192,24,Missed,1,,,0,v,MISS Pippen Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022401114,98,PT04M31.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022401114,99,PT04M23.00S,1,1610612748,MIA,202692,Burks,A. Burks,-164,210,27,Missed,1,,,0,h,MISS Burks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022401114,100,PT04M19.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022401114,101,PT04M03.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,77
+0022401114,101,PT04M03.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (1 STL),,,1,0,78
+0022401114,138,PT03M59.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,79
+0022401114,107,PT03M59.00S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,SUB: Anderson FOR Burks,Substitution,,0,0,80
+0022401114,109,PT03M59.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Stevens,Substitution,,0,0,81
+0022401114,111,PT03M41.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,82
+0022401114,111,PT03M41.00S,1,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson STEAL (1 STL),,,1,0,83
+0022401114,113,PT03M37.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-234,-1,0,Made,1,19,13,32,h,Herro 3PT Running Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Running Jump Shot,1,3,84
+0022401114,115,PT03M23.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,130,220,26,Made,1,19,16,35,v,Aldama 26' 3PT Jump Shot (3 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,1,3,85
+0022401114,117,PT03M03.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,109,225,25,Made,1,22,16,38,h,Mitchell 25' 3PT Pullup Jump Shot (3 PTS) (Anderson 1 AST),Made Shot,Pullup Jump shot,1,3,86
+0022401114,119,PT02M51.00S,1,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson P.FOUL (P1.T3) (A.Nagy),Foul,Personal,1,0,87
+0022401114,121,PT02M51.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,SUB: Adebayo FOR Ware,Substitution,,0,0,88
+0022401114,122,PT02M51.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,89
+0022401114,123,PT02M51.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,SUB: Morant FOR Bane,Substitution,,0,0,90
+0022401114,127,PT02M37.00S,1,1610612763,MEM,1642377,Wells,J. Wells,183,168,25,Made,1,22,19,41,v,Wells 25' 3PT Jump Shot (3 PTS) (Morant 2 AST),Made Shot,Jump Shot,1,3,91
+0022401114,129,PT02M12.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-9,63,6,Missed,1,,,0,h,MISS Herro 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,92
+0022401114,130,PT02M09.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022401114,131,PT01M56.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,234,32,24,Made,1,22,22,44,v,Jackson Jr. 24' 3PT Jump Shot (5 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,3,94
+0022401114,134,PT01M39.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,95
+0022401114,136,PT01M39.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,96
+0022401114,137,PT01M39.00S,1,0,,134,Johnson,K. Johnson,0,0,0,,0,22,22,44,,Instant Replay1st Period (7:58 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,97
+0022401114,139,PT01M39.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,SUB: Robinson FOR Herro,Substitution,,0,0,98
+0022401114,141,PT01M39.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,23,22,45,h,Mitchell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022401114,142,PT01M39.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,24,22,46,h,Mitchell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022401114,143,PT01M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. OFF.Foul (P2) (C.Kirkland),Foul,Offensive,1,0,101
+0022401114,145,PT01M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,102
+0022401114,146,PT01M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Edey FOR Jackson Jr.,Substitution,,0,0,103
+0022401114,148,PT01M25.00S,1,1610612748,MIA,203937,Anderson,K. Anderson,-4,256,26,Missed,1,,,0,h,MISS Anderson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,104
+0022401114,149,PT01M21.00S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,105
+0022401114,150,PT01M11.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,158,198,25,Missed,1,,,0,v,MISS Aldama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022401114,151,PT01M08.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022401114,152,PT00M57.90S,1,1610612748,MIA,1629130,Robinson,D. Robinson,179,175,25,Made,1,27,22,49,h,Robinson 25' 3PT Pullup Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Pullup Jump shot,1,3,108
+0022401114,154,PT00M39.10S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Traveling Turnover (P2.T7),Turnover,Traveling,1,0,109
+0022401114,155,PT00M39.10S,1,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Kennard,Substitution,,0,0,110
+0022401114,157,PT00M24.20S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-91,241,26,Missed,1,,,0,h,MISS Adebayo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022401114,158,PT00M20.70S,1,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,112
+0022401114,159,PT00M02.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-56,32,6,Missed,1,,,0,v,MISS Morant 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,113
+0022401114,160,PT00M00.10S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,114
+0022401114,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,22,49,,End of 1st Period (8:04 PM EST),period,end,1,0,115
+0022401114,164,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,22,49,,Start of 2nd Period (8:08 PM EST),period,start,0,0,116
+0022401114,165,PT11M44.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,117
+0022401114,165,PT11M44.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (2 STL),,,1,0,118
+0022401114,166,PT11M18.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,2,1,0,Missed,1,,,0,h,MISS Adebayo Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,119
+0022401114,167,PT11M16.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022401114,168,PT11M11.00S,2,1610612763,MEM,1642377,Wells,J. Wells,-196,153,25,Missed,1,,,0,v,MISS Wells 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,121
+0022401114,169,PT11M08.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022401114,170,PT11M06.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,123
+0022401114,172,PT11M06.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,28,22,50,h,Highsmith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,124
+0022401114,173,PT11M06.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,125
+0022401114,174,PT11M03.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,126
+0022401114,175,PT10M43.00S,2,1610612763,MEM,1629630,Morant,J. Morant,154,197,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022401114,176,PT10M41.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0022401114,177,PT10M32.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,4,1,0,Missed,1,,,0,h,MISS Robinson Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,129
+0022401114,177,PT10M32.00S,2,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey BLOCK (1 BLK),,,1,2,130
+0022401114,179,PT10M30.00S,2,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,131
+0022401114,180,PT10M21.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,234,45,24,Missed,1,,,0,v,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022401114,181,PT10M18.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022401114,182,PT10M15.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-214,136,25,Made,1,28,25,53,v,Pippen Jr. 25' 3PT Jump Shot (3 PTS) (Wells 1 AST),Made Shot,Jump Shot,1,3,134
+0022401114,184,PT09M52.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,16,12,2,Missed,1,,,0,h,MISS Anderson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,135
+0022401114,185,PT09M51.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,136
+0022401114,186,PT09M50.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo OFF.Foul (P1) (A.Nagy),Foul,Offensive,1,0,137
+0022401114,188,PT09M50.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,138
+0022401114,189,PT09M40.00S,2,1610612763,MEM,1629630,Morant,J. Morant,47,105,12,Missed,1,,,0,v,MISS Morant 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,139
+0022401114,190,PT09M35.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,140
+0022401114,191,PT09M23.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-44,251,25,Missed,1,,,0,h,MISS Robinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,141
+0022401114,192,PT09M19.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,142
+0022401114,193,PT09M11.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,143
+0022401114,193,PT09M11.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,Robinson STEAL (1 STL),,,1,0,144
+0022401114,196,PT09M08.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,145
+0022401114,198,PT09M08.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,29,25,54,h,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,146
+0022401114,200,PT09M08.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,SUB: Kennard FOR Wells,Substitution,,0,0,147
+0022401114,201,PT09M08.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Bane FOR Morant,Substitution,,0,0,148
+0022401114,205,PT09M08.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,30,25,55,h,Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+0022401114,206,PT08M52.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-1,58,6,Missed,1,,,0,v,MISS Bane 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,150
+0022401114,207,PT08M51.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+0022401114,208,PT08M40.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,-1,2,0,Made,1,32,25,57,h,Anderson Cutting Layup Shot (4 PTS) (Adebayo 3 AST),Made Shot,Cutting Layup Shot,1,2,152
+0022401114,210,PT08M33.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson P.FOUL (P2.T1) (N.Green),Foul,Personal,1,0,153
+0022401114,212,PT08M20.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-195,157,25,Made,1,32,28,60,v,Pippen Jr. 25' 3PT Jump Shot (6 PTS) (Bane 2 AST),Made Shot,Jump Shot,1,3,154
+0022401114,214,PT08M05.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,155
+0022401114,214,PT08M05.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. STEAL (2 STL),,,1,0,156
+0022401114,216,PT08M00.00S,2,1610612763,MEM,1630217,Bane,D. Bane,7,-4,1,Missed,1,,,0,v,MISS Bane 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,157
+0022401114,220,PT08M00.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022401114,219,PT07M56.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,Kennard Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,159
+0022401114,221,PT07M56.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Ware FOR Adebayo,Substitution,,0,0,160
+0022401114,222,PT07M56.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,161
+0022401114,225,PT07M49.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,129,216,25,Missed,1,,,0,h,MISS Anderson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+0022401114,226,PT07M45.00S,2,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,163
+0022401114,227,PT07M35.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-36,31,5,Missed,1,,,0,v,MISS Pippen Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,164
+0022401114,228,PT07M33.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+0022401114,229,PT07M23.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-207,134,25,Made,1,35,28,63,h,Highsmith 25' 3PT Jump Shot (4 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,3,166
+0022401114,231,PT07M12.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,167
+0022401114,233,PT07M12.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,35,29,64,v,Pippen Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+0022401114,234,PT07M12.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,SUB: Larsson FOR Anderson,Substitution,,0,0,169
+0022401114,235,PT07M12.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,SUB: Herro FOR Robinson,Substitution,,0,0,170
+0022401114,238,PT07M12.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,35,30,65,v,Pippen Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,171
+0022401114,239,PT06M58.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,4,2,0,Made,1,37,30,67,h,Larsson Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,172
+0022401114,240,PT06M39.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,89,189,21,Made,1,37,32,69,v,Pippen Jr. 21' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,173
+0022401114,241,PT06M23.00S,2,1610612748,MIA,1629639,Herro,T. Herro,82,25,9,Missed,1,,,0,h,MISS Herro 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,174
+0022401114,242,PT06M22.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,175
+0022401114,243,PT06M19.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-102,226,25,Made,1,37,35,72,v,Bane 25' 3PT Running Jump Shot (7 PTS) (Pippen Jr. 3 AST),Made Shot,Running Jump Shot,1,3,176
+0022401114,245,PT06M18.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,177
+0022401114,246,PT06M02.00S,2,1610612748,MIA,1629639,Herro,T. Herro,135,62,15,Made,1,39,35,74,h,Herro 15' Pullup Jump Shot (5 PTS) (Mitchell 3 AST),Made Shot,Pullup Jump shot,1,2,178
+0022401114,248,PT05M38.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,-6,104,10,Missed,1,,,0,v,MISS Kennard 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,179
+0022401114,249,PT05M36.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,180
+0022401114,310,PT05M27.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,181
+0022401114,310,PT05M27.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama STEAL (2 STL),,,1,0,182
+0022401114,253,PT05M22.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,238,34,24,Made,1,39,38,77,v,Kennard 24' 3PT Running Jump Shot (3 PTS) (Pippen Jr. 4 AST),Made Shot,Running Jump Shot,1,3,183
+0022401114,255,PT05M03.00S,2,1610612748,MIA,1642276,Ware,K. Ware,-180,142,23,Missed,1,,,0,h,MISS Ware 23' Jump Shot,Missed Shot,Jump Shot,1,2,184
+0022401114,256,PT05M02.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,185
+0022401114,257,PT04M52.00S,2,1610612748,MIA,1629639,Herro,T. Herro,123,222,25,Missed,1,,,0,h,MISS Herro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+0022401114,258,PT04M48.00S,2,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,187
+0022401114,259,PT04M38.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,216,120,25,Made,1,39,41,80,v,Aldama 25' 3PT Jump Shot (6 PTS) (Pippen Jr. 5 AST),Made Shot,Jump Shot,1,3,188
+0022401114,261,PT04M20.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,-188,162,25,Missed,1,,,0,h,MISS Larsson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022401114,262,PT04M18.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,190
+0022401114,263,PT04M04.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,Kennard Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,191
+0022401114,263,PT04M04.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson STEAL (2 STL),,,1,0,192
+0022401114,265,PT03M59.00S,2,1610612748,MIA,1629639,Herro,T. Herro,174,184,25,Missed,1,,,0,h,MISS Herro 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,193
+0022401114,266,PT03M56.00S,2,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,194
+0022401114,268,PT03M56.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,SUB: Adebayo FOR Highsmith,Substitution,,0,0,195
+0022401114,269,PT03M56.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Anderson FOR Mitchell,Substitution,,0,0,196
+0022401114,270,PT03M56.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,197
+0022401114,271,PT03M56.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Kennard,Substitution,,0,0,198
+0022401114,272,PT03M56.00S,2,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,SUB: Wells FOR Edey,Substitution,,0,0,199
+0022401114,278,PT03M39.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-212,119,24,Made,1,39,44,83,v,Jackson Jr. 24' 3PT Jump Shot (8 PTS) (Bane 3 AST),Made Shot,Jump Shot,1,3,200
+0022401114,280,PT03M22.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,-1,52,5,Made,1,41,44,85,h,Anderson 5' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,201
+0022401114,289,PT03M14.00S,2,1610612763,MEM,1630217,Bane,D. Bane,1,22,2,Missed,1,,,0,v,MISS Bane 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022401114,289,PT03M14.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro BLOCK (1 BLK),,,1,2,203
+0022401114,291,PT03M13.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,204
+0022401114,282,PT03M09.00S,2,1610612763,MEM,1642377,Wells,J. Wells,-238,50,24,Missed,1,,,0,v,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022401114,283,PT03M07.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,206
+0022401114,284,PT02M57.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-54,100,11,Missed,1,,,0,h,MISS Adebayo 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,207
+0022401114,285,PT02M55.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,208
+0022401114,286,PT02M54.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson P.FOUL (P3.T3) (C.Kirkland),Foul,Personal,1,0,209
+0022401114,288,PT02M54.00S,2,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,210
+0022401114,292,PT02M54.00S,2,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Anderson,Substitution,,0,0,211
+0022401114,294,PT02M44.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. Traveling Turnover (P4.T11),Turnover,Traveling,1,0,212
+0022401114,295,PT02M23.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,1,0,213
+0022401114,297,PT02M23.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,MISS Larsson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+0022401114,298,PT02M23.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,0,215
+0022401114,299,PT02M23.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,42,44,86,h,Larsson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+0022401114,300,PT02M09.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-66,20,7,Missed,1,,,0,v,MISS Morant 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,217
+0022401114,301,PT02M06.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,218
+0022401114,302,PT02M00.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-183,170,25,Made,1,45,44,89,h,Herro 25' 3PT Jump Shot (8 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,1,3,219
+0022401114,304,PT01M49.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson P.FOUL (P3.T4) (C.Kirkland),Foul,Personal,1,0,220
+0022401114,306,PT01M49.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,SUB: Highsmith FOR Larsson,Substitution,,0,0,221
+0022401114,308,PT01M47.00S,2,1610612763,MEM,1642377,Wells,J. Wells,-7,0,1,Made,1,45,46,91,v,Wells 1' Cutting Dunk Shot (5 PTS) (Morant 3 AST),Made Shot,Cutting Dunk Shot,1,2,222
+0022401114,312,PT01M26.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,223
+0022401114,312,PT01M26.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane STEAL (1 STL),,,1,0,224
+0022401114,314,PT01M24.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,225
+0022401114,316,PT01M24.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,45,47,92,v,Bane Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+0022401114,317,PT01M24.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,45,48,93,v,Bane Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+0022401114,318,PT01M02.00S,2,1610612748,MIA,1629639,Herro,T. Herro,61,71,9,Missed,1,,,0,h,MISS Herro 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,228
+0022401114,319,PT00M59.80S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,229
+0022401114,320,PT00M54.20S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,5,4,1,Made,1,47,48,95,h,Adebayo 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,230
+0022401114,321,PT00M42.80S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. Lost Ball Turnover (P5.T12),Turnover,Lost Ball,1,0,231
+0022401114,321,PT00M42.80S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (3 STL),,,1,0,232
+0022401114,323,PT00M37.30S,2,1610612748,MIA,1629639,Herro,T. Herro,-1,7,1,Missed,1,,,0,h,MISS Herro 1' Running Layup,Missed Shot,Running Layup Shot,1,2,233
+0022401114,324,PT00M37.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,234
+0022401114,325,PT00M37.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Missed,1,,,0,h,MISS Adebayo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,235
+0022401114,326,PT00M37.30S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,1,0,236
+0022401114,328,PT00M37.30S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama L.B.FOUL (P1.T4) (A.Nagy),Foul,Loose Ball,1,0,237
+0022401114,330,PT00M24.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-43,104,11,Made,1,49,48,97,h,Adebayo 11' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,1,2,238
+0022401114,331,PT00M11.30S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,1,0,239
+0022401114,333,PT00M11.30S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,49,49,98,v,Wells Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,240
+0022401114,334,PT00M11.30S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,SUB: Robinson FOR Highsmith,Substitution,,0,0,241
+0022401114,335,PT00M11.30S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,242
+0022401114,336,PT00M11.30S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Stevens FOR Jackson Jr.,Substitution,,0,0,243
+0022401114,340,PT00M11.30S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,244
+0022401114,341,PT00M09.70S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,245
+0022401114,342,PT00M01.70S,2,1610612748,MIA,1642276,Ware,K. Ware,1,6,1,Missed,1,,,0,h,MISS Ware 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,246
+0022401114,343,PT00M01.40S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,247
+0022401114,344,PT00M00.90S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,Missed,1,,,0,h,MISS Ware Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,248
+0022401114,345,PT00M00.90S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,249
+0022401114,346,PT00M00.90S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0,250
+0022401114,348,PT00M00.90S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,50,49,99,h,Ware Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,251
+0022401114,349,PT00M00.90S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,SUB: Highsmith FOR Robinson,Substitution,,0,0,252
+0022401114,350,PT00M00.90S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,SUB: Edey FOR Wells,Substitution,,0,0,253
+0022401114,351,PT00M00.90S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,SUB: Morant FOR Aldama,Substitution,,0,0,254
+0022401114,352,PT00M00.90S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Stevens,Substitution,,0,0,255
+0022401114,357,PT00M00.90S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,MISS Ware Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,256
+0022401114,358,PT00M00.60S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,257
+0022401114,359,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,49,99,,End of 2nd Period (8:38 PM EST),period,end,1,0,258
+0022401114,366,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,49,99,,Start of 3rd Period (8:55 PM EST),period,start,0,0,259
+0022401114,367,PT11M46.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-205,146,25,Missed,1,,,0,v,MISS Bane 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022401114,368,PT11M43.00S,3,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,261
+0022401114,369,PT11M42.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-227,-11,0,Missed,1,,,0,v,MISS Bane 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022401114,370,PT11M39.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,263
+0022401114,371,PT11M36.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,264
+0022401114,371,PT11M36.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson STEAL (3 STL),,,1,0,265
+0022401114,373,PT11M26.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,266
+0022401114,373,PT11M26.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. STEAL (1 STL),,,1,0,267
+0022401114,375,PT11M22.00S,3,1610612763,MEM,1630217,Bane,D. Bane,1,8,1,Made,1,50,51,101,v,Bane 1' Running Finger Roll Layup (11 PTS) (Edey 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,268
+0022401114,377,PT10M59.00S,3,1610612748,MIA,202692,Burks,A. Burks,201,155,25,Missed,1,,,0,h,MISS Burks 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,269
+0022401114,378,PT10M57.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,270
+0022401114,379,PT10M57.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. L.B.FOUL (P3.T1) (A.Nagy),Foul,Loose Ball,0,0,271
+0022401114,381,PT10M44.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-62,79,10,Made,1,52,51,103,h,Herro 10' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,272
+0022401114,383,PT10M30.00S,3,1610612763,MEM,1642377,Wells,J. Wells,60,94,11,Made,1,52,53,105,v,Wells 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,273
+0022401114,384,PT10M14.00S,3,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,Burks Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,274
+0022401114,384,PT10M14.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (1 STL),,,1,0,275
+0022401114,386,PT10M10.00S,3,1610612763,MEM,1629630,Morant,J. Morant,235,4,24,Made,1,52,56,108,v,Morant 24' 3PT Running Jump Shot (6 PTS) (Bane 4 AST),Made Shot,Running Jump Shot,1,3,276
+0022401114,388,PT09M54.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-147,67,16,Made,1,54,56,110,h,Herro 16' Pullup Jump Shot (12 PTS) (Adebayo 4 AST),Made Shot,Pullup Jump shot,1,2,277
+0022401114,390,PT09M44.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-56,92,11,Made,1,54,58,112,v,Morant 11' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,278
+0022401114,391,PT09M18.00S,3,1610612748,MIA,1642276,Ware,K. Ware,230,21,0,Made,1,57,58,115,h,Ware 3PT Jump Shot (8 PTS) (Larsson 3 AST),Made Shot,Jump Shot,1,3,279
+0022401114,393,PT09M06.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-4,8,1,Made,1,57,60,117,v,Morant 1' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,280
+0022401114,395,PT09M06.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,1,0,281
+0022401114,397,PT09M06.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,57,61,118,v,Morant Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,282
+0022401114,398,PT08M48.00S,3,1610612748,MIA,1642276,Ware,K. Ware,161,185,25,Missed,1,,,0,h,MISS Ware 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022401114,399,PT08M45.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,284
+0022401114,400,PT08M35.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-4,36,4,Missed,1,,,0,v,MISS Morant 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,285
+0022401114,401,PT08M34.00S,3,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,Burks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,286
+0022401114,402,PT08M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P3.T2) (N.Green),Foul,Personal,1,0,287
+0022401114,404,PT08M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant T.FOUL (P3.T2) (N.Green),Foul,Technical,1,0,288
+0022401114,405,PT08M33.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,58,61,119,h,Herro Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,289
+0022401114,406,PT08M25.00S,3,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,290
+0022401114,408,PT08M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,59,61,120,h,Herro Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0022401114,409,PT08M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,60,61,121,h,Herro Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+0022401114,410,PT08M15.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware S.FOUL (P1.T2) (N.Green),Foul,Shooting,1,0,293
+0022401114,412,PT08M15.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,60,62,122,v,Edey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+0022401114,413,PT08M15.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,60,63,123,v,Edey Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+0022401114,414,PT08M04.00S,3,1610612748,MIA,1642276,Ware,K. Ware,25,148,15,Missed,1,,,0,h,MISS Ware 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,296
+0022401114,415,PT08M01.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,297
+0022401114,439,PT07M56.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,298
+0022401114,419,PT07M45.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,38,38,5,Missed,1,,,0,h,MISS Adebayo 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,2,299
+0022401114,420,PT07M43.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,300
+0022401114,421,PT07M40.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-1,10,1,Made,1,60,65,125,v,Bane 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,301
+0022401114,422,PT07M40.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware Violation:Defensive Goaltending (A.Nagy),Violation,Defensive Goaltending,1,0,302
+0022401114,423,PT07M28.00S,3,1610612748,MIA,202692,Burks,A. Burks,-4,66,7,Made,1,62,65,127,h,Burks 7' Driving Floating Jump Shot (2 PTS) (Adebayo 5 AST),Made Shot,Driving Floating Jump Shot,1,2,303
+0022401114,424,PT07M19.00S,3,1610612763,MEM,1629630,Morant,J. Morant,185,163,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+0022401114,425,PT07M16.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,305
+0022401114,426,PT07M14.00S,3,1610612763,MEM,1629630,Morant,J. Morant,2,4,0,Made,1,62,67,129,v,Morant Cutting Layup Shot (13 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,306
+0022401114,428,PT07M04.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P4.T4) (C.Kirkland),Foul,Personal,1,0,307
+0022401114,430,PT07M04.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,308
+0022401114,432,PT07M04.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,309
+0022401114,434,PT06M51.00S,3,1610612748,MIA,1629639,Herro,T. Herro,80,53,10,Missed,1,,,0,h,MISS Herro 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,310
+0022401114,435,PT06M49.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,311
+0022401114,436,PT06M35.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-23,257,26,Made,1,62,70,132,v,Pippen Jr. 26' 3PT Jump Shot (13 PTS) (Wells 2 AST),Made Shot,Jump Shot,1,3,312
+0022401114,438,PT06M33.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,313
+0022401114,441,PT06M33.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Larsson,Substitution,,0,0,314
+0022401114,442,PT06M33.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Highsmith FOR Adebayo,Substitution,,0,0,315
+0022401114,443,PT06M33.00S,3,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,SUB: Kennard FOR Wells,Substitution,,0,0,316
+0022401114,447,PT06M14.00S,3,1610612748,MIA,1642276,Ware,K. Ware,-7,3,1,Made,1,64,70,134,h,Ware 1' Alley Oop Dunk (10 PTS) (Herro 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,317
+0022401114,449,PT06M00.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey OFF.Foul (P1) (N.Green),Foul,Offensive,1,0,318
+0022401114,451,PT06M00.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,319
+0022401114,452,PT05M45.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-103,235,26,Made,1,67,70,137,h,Herro 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,320
+0022401114,453,PT05M30.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-4,5,1,Missed,1,,,0,v,MISS Pippen Jr. 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,321
+0022401114,453,PT05M30.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware BLOCK (1 BLK),,,1,2,322
+0022401114,455,PT05M29.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,323
+0022401114,456,PT05M23.00S,3,1610612748,MIA,1642276,Ware,K. Ware,-39,250,25,Made,1,70,70,140,h,Ware 25' 3PT Running Jump Shot (13 PTS) (Herro 3 AST),Made Shot,Running Jump Shot,1,3,324
+0022401114,458,PT05M21.00S,3,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,325
+0022401114,459,PT05M21.00S,3,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Edey,Substitution,,0,0,326
+0022401114,461,PT05M04.00S,3,1610612763,MEM,1630217,Bane,D. Bane,2,2,0,Made,1,70,72,142,v,Bane Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,327
+0022401114,463,PT04M43.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,-5,5,1,Missed,1,,,0,h,MISS Mitchell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+0022401114,464,PT04M41.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,329
+0022401114,465,PT04M38.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,330
+0022401114,467,PT04M38.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,70,73,143,v,Bane Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+0022401114,468,PT04M38.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,70,74,144,v,Bane Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0022401114,469,PT04M24.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,11,55,6,Missed,1,,,0,h,MISS Mitchell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,333
+0022401114,470,PT04M20.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,334
+0022401114,471,PT04M13.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,-109,232,26,Missed,1,,,0,v,MISS Aldama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022401114,472,PT04M10.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,336
+0022401114,473,PT04M04.00S,3,1610612748,MIA,1629639,Herro,T. Herro,12,4,1,Made,1,72,74,146,h,Herro 1' Running Finger Roll Layup (20 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,337
+0022401114,474,PT03M52.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware P.FOUL (P3.T4) (N.Green),Foul,Personal,1,0,338
+0022401114,476,PT03M52.00S,3,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,h,SUB: Anderson FOR Burks,Substitution,,0,0,339
+0022401114,478,PT03M40.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. OFF.Foul (P2) (A.Nagy),Foul,Offensive,1,0,340
+0022401114,480,PT03M40.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,1,0,341
+0022401114,481,PT03M23.00S,3,1610612748,MIA,1629639,Herro,T. Herro,94,127,16,Made,1,74,74,148,h,Herro 16' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,342
+0022401114,482,PT03M13.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-2,6,1,Missed,1,,,0,v,MISS Bane 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,343
+0022401114,483,PT03M11.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,344
+0022401114,484,PT03M07.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-20,45,5,Made,1,76,74,150,h,Herro 5' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,2,345
+0022401114,486,PT02M44.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-37,73,8,Made,1,76,76,152,v,Jackson Jr. 8' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,346
+0022401114,487,PT02M44.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,1,0,347
+0022401114,489,PT02M44.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,348
+0022401114,490,PT02M44.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,SUB: Wells FOR Bane,Substitution,,0,0,349
+0022401114,493,PT02M44.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,MISS Jackson Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,350
+0022401114,494,PT02M41.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,351
+0022401114,495,PT02M24.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-66,124,14,Missed,1,,,0,h,MISS Herro 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,352
+0022401114,496,PT02M22.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,353
+0022401114,497,PT02M14.00S,3,1610612763,MEM,1642377,Wells,J. Wells,-93,21,10,Made,1,76,78,154,v,Wells 10' Driving Floating Jump Shot (10 PTS) (Aldama 2 AST),Made Shot,Driving Floating Jump Shot,1,2,354
+0022401114,499,PT01M51.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-38,246,25,Made,1,79,78,157,h,Herro 25' 3PT Pullup Jump Shot (27 PTS) (Mitchell 5 AST),Made Shot,Pullup Jump shot,1,3,355
+0022401114,501,PT01M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-4,59,6,Made,1,79,80,159,v,Morant 6' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,356
+0022401114,502,PT01M33.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,357
+0022401114,504,PT01M33.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,SUB: Adebayo FOR Ware,Substitution,,0,0,358
+0022401114,506,PT01M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,79,81,160,v,Morant Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,359
+0022401114,507,PT01M22.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-33,120,12,Made,1,81,81,162,h,Adebayo 12' Jump Shot (18 PTS) (Mitchell 6 AST),Made Shot,Jump Shot,1,2,360
+0022401114,509,PT01M09.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell P.FOUL (P1.PN) (N.Green),Foul,Personal,1,0,361
+0022401114,511,PT01M09.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,362
+0022401114,512,PT01M09.00S,3,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,363
+0022401114,513,PT01M09.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,81,82,163,v,Morant Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+0022401114,514,PT00M54.30S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,34,77,8,Made,1,83,82,165,h,Adebayo 8' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,2,365
+0022401114,516,PT00M36.60S,3,1610612763,MEM,1630583,Aldama,S. Aldama,228,34,0,Missed,1,,,0,v,MISS Aldama 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,366
+0022401114,517,PT00M33.30S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,367
+0022401114,518,PT00M14.90S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,4,17,2,Missed,1,,,0,h,MISS Highsmith 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,368
+0022401114,518,PT00M14.90S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. BLOCK (1 BLK),,,1,2,369
+0022401114,520,PT00M13.60S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,370
+0022401114,521,PT00M11.50S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-224,10,0,Missed,1,,,0,h,MISS Adebayo 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,371
+0022401114,522,PT00M10.40S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,372
+0022401114,523,PT00M08.40S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,Missed,1,,,0,h,MISS Anderson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,373
+0022401114,524,PT00M08.40S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,374
+0022401114,525,PT00M08.40S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,4,34,3,Made,1,85,82,167,h,Highsmith 3' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,375
+0022401114,526,PT00M03.60S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,1,0,376
+0022401114,528,PT00M03.60S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,SUB: Stevens FOR Kennard,Substitution,,0,0,377
+0022401114,529,PT00M03.60S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Jackson Jr.,Substitution,,0,0,378
+0022401114,532,PT00M03.60S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,85,83,168,v,Morant Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,379
+0022401114,533,PT00M03.60S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,85,84,169,v,Morant Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,380
+0022401114,534,PT00M00.50S,3,1610612748,MIA,203937,Anderson,K. Anderson,-45,101,11,Missed,1,,,0,h,MISS Anderson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,381
+0022401114,535,PT00M00.10S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,382
+0022401114,536,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,84,169,,End of 3rd Period (9:25 PM EST),period,end,1,0,383
+0022401114,543,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,84,169,,Start of 4th Period (9:28 PM EST),period,start,0,0,384
+0022401114,544,PT11M51.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-17,153,15,Missed,1,,,0,h,MISS Adebayo 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,385
+0022401114,545,PT11M47.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,386
+0022401114,546,PT11M43.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell P.FOUL (P2.T1) (C.Kirkland),Foul,Personal,1,0,387
+0022401114,548,PT11M27.00S,4,1610612763,MEM,1641744,Edey,Z. Edey,-2,11,1,Made,1,85,86,171,v,Edey 1' Layup (8 PTS) (Wells 3 AST),Made Shot,Layup Shot,1,2,388
+0022401114,550,PT10M59.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,4,109,11,Made,1,87,86,173,h,Adebayo 11' Floating Jump Shot (22 PTS) (Highsmith 1 AST),Made Shot,Floating Jump shot,1,2,389
+0022401114,552,PT10M48.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-10,6,1,Missed,1,,,0,v,MISS Jackson Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+0022401114,553,PT10M46.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,391
+0022401114,554,PT10M41.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,141,201,25,Made,1,90,86,176,h,Mitchell 25' 3PT Running Jump Shot (8 PTS) (Highsmith 2 AST),Made Shot,Running Jump Shot,1,3,392
+0022401114,557,PT10M23.00S,4,1610612763,MEM,1642377,Wells,J. Wells,227,73,24,Made,1,90,89,179,v,Wells 24' 3PT Jump Shot (13 PTS) (Pippen Jr. 6 AST),Made Shot,Jump Shot,1,3,393
+0022401114,559,PT09M55.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-145,150,21,Missed,1,,,0,h,MISS Adebayo 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,394
+0022401114,560,PT09M53.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,395
+0022401114,561,PT09M51.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-9,129,13,Missed,1,,,0,h,MISS Adebayo 13' Jump Shot,Missed Shot,Jump Shot,1,2,396
+0022401114,561,PT09M51.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. BLOCK (1 BLK),,,1,2,397
+0022401114,563,PT09M47.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,398
+0022401114,564,PT09M45.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,98,10,Missed,1,,,0,h,MISS Adebayo 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,399
+0022401114,565,PT09M42.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,Wells REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,400
+0022401114,566,PT09M37.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-11,247,25,Made,1,90,92,182,v,Morant 25' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,401
+0022401114,567,PT09M21.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,65,242,25,Missed,1,,,0,h,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022401114,568,PT09M18.00S,4,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,403
+0022401114,569,PT09M05.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,Robinson P.FOUL (P1.T2) (A.Nagy),Foul,Personal,1,0,404
+0022401114,571,PT08M59.00S,4,1610612763,MEM,1629630,Morant,J. Morant,228,10,0,Missed,1,,,0,v,MISS Morant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022401114,572,PT08M55.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,406
+0022401114,573,PT08M50.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. P.FOUL (P3.T1) (C.Kirkland),Foul,Personal,1,0,407
+0022401114,575,PT08M50.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,v,SUB: Bane FOR Wells,Substitution,,0,0,408
+0022401114,576,PT08M50.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Kennard FOR Morant,Substitution,,0,0,409
+0022401114,579,PT08M40.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,-224,-1,0,Missed,1,,,0,h,MISS Anderson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0022401114,580,PT08M38.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,0,411
+0022401114,581,PT08M38.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. L.B.FOUL (P4.T2) (N.Green),Foul,Loose Ball,1,0,412
+0022401114,583,PT08M30.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,-203,134,24,Made,1,93,92,185,h,Robinson 24' 3PT Jump Shot (6 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,3,413
+0022401114,585,PT08M15.00S,4,1610612763,MEM,1630217,Bane,D. Bane,127,218,25,Missed,1,,,0,v,MISS Bane 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,414
+0022401114,586,PT08M08.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,Kennard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,415
+0022401114,587,PT08M07.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,6,10,1,Made,1,93,94,187,v,Pippen Jr. 1' Driving Layup (15 PTS) (Kennard 1 AST),Made Shot,Driving Layup Shot,1,2,416
+0022401114,589,PT07M56.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,3,0,Missed,1,,,0,h,MISS Robinson Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,417
+0022401114,590,PT07M53.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,418
+0022401114,591,PT07M49.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,1,-4,0,Made,1,93,96,189,v,Pippen Jr. Running Finger Roll Layup (17 PTS) (Bane 5 AST),Made Shot,Running Finger Roll Layup Shot,1,2,419
+0022401114,592,PT07M49.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,420
+0022401114,594,PT07M49.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,SUB: Herro FOR Adebayo,Substitution,,0,0,421
+0022401114,595,PT07M49.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,h,SUB: Larsson FOR Highsmith,Substitution,,0,0,422
+0022401114,596,PT07M49.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,h,SUB: Ware FOR Robinson,Substitution,,0,0,423
+0022401114,597,PT07M49.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,424
+0022401114,602,PT07M25.00S,4,1610612748,MIA,1629639,Herro,T. Herro,170,220,28,Missed,1,,,0,h,MISS Herro 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,425
+0022401114,603,PT07M21.00S,4,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,Edey REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,426
+0022401114,604,PT07M15.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,427
+0022401114,604,PT07M15.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson STEAL (2 STL),,,1,0,428
+0022401114,606,PT07M00.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. S.FOUL (P4.T3) (N.Green),Foul,Shooting,1,0,429
+0022401114,608,PT07M00.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,94,96,190,h,Herro Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022401114,609,PT07M00.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Pippen Jr.,Substitution,,0,0,431
+0022401114,610,PT07M00.00S,4,1610612763,MEM,1641744,Edey,Z. Edey,0,0,0,,0,,,0,v,SUB: Morant FOR Edey,Substitution,,0,0,432
+0022401114,613,PT07M00.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,95,96,191,h,Herro Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+0022401114,614,PT06M49.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-1,55,6,Missed,1,,,0,v,MISS Jackson Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,434
+0022401114,615,PT06M48.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,435
+0022401114,616,PT06M47.00S,4,1610612763,MEM,1629630,Morant,J. Morant,4,11,1,Made,1,95,98,193,v,Morant 1' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,1,2,436
+0022401114,617,PT06M35.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,-237,5,24,Missed,1,,,0,h,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022401114,618,PT06M31.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,438
+0022401114,619,PT06M17.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-7,15,2,Missed,1,,,0,v,MISS Bane 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,439
+0022401114,620,PT06M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,440
+0022401114,621,PT06M15.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,Made,1,95,100,195,v,Morant Tip Layup Shot (26 PTS),Made Shot,Tip Layup Shot,1,2,441
+0022401114,622,PT06M06.00S,4,1610612748,MIA,1629639,Herro,T. Herro,109,129,17,Missed,1,,,0,h,MISS Herro 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,442
+0022401114,623,PT06M05.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,443
+0022401114,624,PT06M04.00S,4,1610612748,MIA,1629639,Herro,T. Herro,7,-6,1,Made,1,97,100,197,h,Herro 1' Putback Layup (31 PTS),Made Shot,Putback Layup Shot,1,2,444
+0022401114,625,PT05M40.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-237,105,26,Missed,1,,,0,v,MISS Bane 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022401114,625,PT05M40.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson BLOCK (1 BLK),,,1,3,446
+0022401114,627,PT05M39.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,447
+0022401114,628,PT05M35.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,165,200,26,Missed,1,,,0,v,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022401114,629,PT05M34.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,449
+0022401114,635,PT05M33.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,0,450
+0022401114,635,PT05M33.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson STEAL (4 STL),,,1,0,451
+0022401114,630,PT05M27.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. S.FOUL (P5.T4) (C.Kirkland),Foul,Shooting,1,0,452
+0022401114,632,PT05M27.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,98,100,198,h,Herro Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,453
+0022401114,633,PT05M27.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,SUB: Adebayo FOR Anderson,Substitution,,0,0,454
+0022401114,637,PT05M27.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,99,100,199,h,Herro Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022401114,638,PT05M21.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-165,210,27,Missed,1,,,0,v,MISS Jackson Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+0022401114,639,PT05M17.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,457
+0022401114,640,PT05M09.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-15,121,12,Missed,1,,,0,h,MISS Herro 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+0022401114,641,PT05M07.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,459
+0022401114,642,PT05M02.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-2,58,6,Missed,1,,,0,v,MISS Bane 6' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,460
+0022401114,642,PT05M02.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson BLOCK (1 BLK),,,1,2,461
+0022401114,643,PT05M01.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,462
+0022401114,644,PT05M00.00S,4,1610612763,MEM,1630217,Bane,D. Bane,2,31,3,Missed,1,,,0,v,MISS Bane 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,463
+0022401114,644,PT05M00.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware BLOCK (2 BLK),,,1,2,464
+0022401114,646,PT04M59.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,465
+0022401114,647,PT04M39.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,104,10,Missed,1,,,0,h,MISS Mitchell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+0022401114,647,PT04M39.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. BLOCK (2 BLK),,,1,2,467
+0022401114,649,PT04M37.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,Kennard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,468
+0022401114,650,PT04M30.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,180,184,26,Made,1,99,103,202,v,Aldama 26' 3PT Jump Shot (9 PTS) (Bane 6 AST),Made Shot,Jump Shot,1,3,469
+0022401114,652,PT04M29.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,470
+0022401114,653,PT04M29.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Kennard,Substitution,,0,0,471
+0022401114,655,PT04M10.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-123,8,12,Missed,1,,,0,h,MISS Adebayo 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,472
+0022401114,656,PT04M07.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,v,Bane REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,473
+0022401114,657,PT03M52.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-7,257,26,Missed,1,,,0,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,474
+0022401114,658,PT03M48.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,h,Larsson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,475
+0022401114,660,PT03M40.00S,4,1610612748,MIA,1642276,Ware,K. Ware,-21,61,6,Missed,1,,,0,h,MISS Ware 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,476
+0022401114,661,PT03M38.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,477
+0022401114,662,PT03M18.00S,4,1610612763,MEM,1630217,Bane,D. Bane,108,238,26,Missed,1,,,0,v,MISS Bane 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,478
+0022401114,663,PT03M15.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,479
+0022401114,664,PT03M07.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,27,16,3,Made,1,101,103,204,h,Adebayo 3' Driving Layup (24 PTS) (Mitchell 7 AST),Made Shot,Driving Layup Shot,1,2,480
+0022401114,666,PT02M46.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-25,7,3,Missed,1,,,0,v,MISS Bane 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,481
+0022401114,666,PT02M46.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware BLOCK (3 BLK),,,1,2,482
+0022401114,668,PT02M44.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,h,Ware REBOUND (Off:5 Def:10),Rebound,Unknown,1,0,483
+0022401114,670,PT02M33.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,1,42,4,Made,1,103,103,206,h,Adebayo 4' Driving Floating Jump Shot (26 PTS) (Herro 4 AST),Made Shot,Driving Floating Jump Shot,1,2,484
+0022401114,672,PT02M17.00S,4,1610612763,MEM,1629630,Morant,J. Morant,7,7,1,Made,1,103,105,208,v,Morant 1' Driving Dunk (28 PTS),Made Shot,Driving Dunk Shot,1,2,485
+0022401114,673,PT02M01.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,-216,137,26,Made,1,106,105,211,h,Mitchell 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,486
+0022401114,674,PT01M52.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell P.FOUL (P3.T3) (A.Nagy),Foul,Personal,1,0,487
+0022401114,676,PT01M41.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-25,64,7,Missed,1,,,0,v,MISS Jackson Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,488
+0022401114,677,PT01M39.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,489
+0022401114,678,PT01M24.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-25,141,14,Missed,1,,,0,h,MISS Adebayo 14' Jump Shot,Missed Shot,Jump Shot,1,2,490
+0022401114,679,PT01M21.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,v,Aldama REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,491
+0022401114,680,PT01M07.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,230,23,0,Made,1,106,108,214,v,Jackson Jr. 3PT Jump Shot (13 PTS) (Pippen Jr. 7 AST),Made Shot,Jump Shot,1,3,492
+0022401114,682,PT00M48.30S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-2,122,12,Missed,1,,,0,h,MISS Adebayo 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,493
+0022401114,683,PT00M44.20S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,494
+0022401114,684,PT00M27.50S,4,1610612763,MEM,1629630,Morant,J. Morant,4,8,1,Missed,1,,,0,v,MISS Morant 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,495
+0022401114,684,PT00M27.50S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,h,Adebayo BLOCK (2 BLK),,,1,2,496
+0022401114,686,PT00M25.30S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,Herro REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,497
+0022401114,688,PT00M21.70S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,498
+0022401114,690,PT00M14.20S,4,1610612748,MIA,1629639,Herro,T. Herro,-50,100,11,Made,1,108,108,216,h,Herro 11' Driving Floating Jump Shot (35 PTS),Made Shot,Driving Floating Jump Shot,1,2,499
+0022401114,691,PT00M13.80S,4,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,500
+0022401114,692,PT00M13.80S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,h,SUB: Highsmith FOR Herro,Substitution,,0,0,501
+0022401114,694,PT00M00.10S,4,1610612763,MEM,1629630,Morant,J. Morant,-5,91,9,Made,1,108,110,218,v,Morant 9' Fadeaway Jumper (30 PTS),Made Shot,Fadeaway Jump Shot,1,2,502
+0022401114,695,PT00M00.00S,4,0,,694,Mack,S. Mack,0,0,0,,0,108,110,218,,Instant Replay4th Period (9:58 PM EST),Instant Replay,Support Ruling,0,0,503
+0022401114,696,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,110,218,,End of 4th Period (9:58 PM EST),period,end,1,0,504

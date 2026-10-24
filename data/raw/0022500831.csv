@@ -1,0 +1,512 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500831,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,1,0,1
+0022500831,4,PT12M00.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Jump Ball Huff vs. Barlow: Tip to Embiid,Jump Ball,,1,0,2
+0022500831,7,PT11M53.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-6,24,2,Made,1,0,2,2,v,Oubre Jr. 2' Driving Reverse Layup (2 PTS) (Embiid 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,3
+0022500831,9,PT11M37.00S,1,1610612754,IND,1642880,Jones,K. Jones,240,-3,24,Made,1,3,2,5,h,Jones 24' 3PT Jump Shot (3 PTS) (Nembhard 1 AST),Made Shot,Jump Shot,1,3,4
+0022500831,11,PT11M17.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-5,16,2,Made,1,3,4,7,v,Maxey 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,5
+0022500831,12,PT11M05.00S,1,1610612754,IND,1642880,Jones,K. Jones,10,5,1,Made,1,5,4,9,h,Jones 1' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,6
+0022500831,13,PT10M43.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,13,194,19,Missed,1,,,0,v,MISS Embiid 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,7
+0022500831,14,PT10M41.00S,1,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022500831,15,PT10M37.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. P.FOUL (P1.T1) (L.Wood),Foul,Personal,1,0,9
+0022500831,17,PT10M24.00S,1,1610612754,IND,1641716,Walker,J. Walker,36,33,5,Missed,1,,,0,h,MISS Walker 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,10
+0022500831,18,PT10M21.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022500831,19,PT10M14.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-7,-6,1,Missed,1,,,0,v,MISS Maxey 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,12
+0022500831,20,PT10M11.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022500831,21,PT10M02.00S,1,1610612754,IND,1642880,Jones,K. Jones,237,-13,24,Made,1,8,4,12,h,Jones 24' 3PT Jump Shot (8 PTS) (Huff 1 AST),Made Shot,Jump Shot,1,3,14
+0022500831,23,PT09M44.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-60,6,6,Missed,1,,,0,v,MISS Maxey 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,15
+0022500831,23,PT09M44.00S,1,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker BLOCK (1 BLK),,,1,2,16
+0022500831,24,PT09M41.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,17
+0022500831,25,PT09M33.00S,1,1610612754,IND,1641716,Walker,J. Walker,175,201,27,Missed,1,,,0,h,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+0022500831,26,PT09M31.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022500831,27,PT09M24.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-191,169,26,Made,1,8,7,15,v,Edgecombe 26' 3PT Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Jump Shot,1,3,20
+0022500831,29,PT09M09.00S,1,1610612754,IND,1630643,Huff,J. Huff,7,5,1,Made,1,10,7,17,h,Huff 1' Layup (2 PTS),Made Shot,Layup Shot,1,2,21
+0022500831,30,PT08M52.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,22
+0022500831,32,PT08M52.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,10,8,18,v,Embiid Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+0022500831,33,PT08M52.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Potter FOR Huff,Substitution,,0,0,24
+0022500831,36,PT08M52.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,10,9,19,v,Embiid Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+0022500831,37,PT08M40.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,16,5,2,Missed,1,,,0,h,MISS Sheppard 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,26
+0022500831,37,PT08M40.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid BLOCK (1 BLK),,,1,2,27
+0022500831,38,PT08M40.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,28
+0022500831,41,PT08M30.00S,1,1610612754,IND,1630695,Potter,M. Potter,-113,279,30,Missed,1,,,0,h,MISS Potter 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0022500831,42,PT08M27.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+0022500831,43,PT08M25.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,234,116,26,Made,1,13,9,22,h,Sheppard 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,31
+0022500831,45,PT08M07.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,25,74,8,Made,1,13,11,24,v,Oubre Jr. 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,32
+0022500831,46,PT07M56.00S,1,1610612754,IND,1642880,Jones,K. Jones,-1,47,5,Missed,1,,,0,h,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,33
+0022500831,47,PT07M54.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+0022500831,48,PT07M48.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,35
+0022500831,48,PT07M48.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard STEAL (1 STL),,,1,0,36
+0022500831,50,PT07M44.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,-10,-3,1,Made,1,15,11,26,h,Sheppard 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,37
+0022500831,51,PT07M26.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,138,258,29,Made,1,15,14,29,v,Oubre Jr. 29' 3PT Jump Shot (7 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,3,38
+0022500831,53,PT07M11.00S,1,1610612754,IND,1641716,Walker,J. Walker,10,28,3,Missed,1,,,0,h,MISS Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+0022500831,54,PT07M10.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+0022500831,55,PT07M05.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-62,261,27,Missed,1,,,0,v,MISS Maxey 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,41
+0022500831,56,PT07M02.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,42
+0022500831,57,PT06M59.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,43
+0022500831,57,PT06M59.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe STEAL (1 STL),,,1,0,44
+0022500831,60,PT06M49.00S,1,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T2) (N.Green),Foul,Shooting,1,0,45
+0022500831,62,PT06M49.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022500831,63,PT06M49.00S,1,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,SUB: Brown FOR Jones,Substitution,,0,0,47
+0022500831,64,PT06M49.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,SUB: Jackson FOR Sheppard,Substitution,,0,0,48
+0022500831,67,PT06M49.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,MISS Barlow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,49
+0022500831,68,PT06M49.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,50
+0022500831,69,PT06M49.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,MISS Barlow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,51
+0022500831,70,PT06M47.00S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+0022500831,71,PT06M32.00S,1,1610612754,IND,1641738,Brown,K. Brown,228,54,0,Missed,1,,,0,h,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+0022500831,72,PT06M29.00S,1,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+0022500831,73,PT06M26.00S,1,1610612754,IND,1641738,Brown,K. Brown,212,178,28,Missed,1,,,0,h,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022500831,74,PT06M23.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,56
+0022500831,75,PT06M19.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-151,247,29,Missed,1,,,0,v,MISS Edgecombe 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,57
+0022500831,76,PT06M18.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,58
+0022500831,78,PT06M07.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,77,286,30,Made,1,18,14,32,h,Nembhard 30' 3PT Pullup Jump Shot (3 PTS) (Potter 1 AST),Made Shot,Pullup Jump shot,1,3,59
+0022500831,79,PT05M50.00S,1,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Jackson S.FOUL (P1.T3) (L.Wood),Foul,Shooting,1,0,60
+0022500831,82,PT05M50.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,18,15,33,v,Maxey Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+0022500831,83,PT05M50.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,18,16,34,v,Maxey Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,62
+0022500831,84,PT05M40.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,63
+0022500831,84,PT05M40.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey STEAL (1 STL),,,1,0,64
+0022500831,86,PT05M37.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-164,190,25,Made,1,18,19,37,v,Maxey 25' 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,65
+0022500831,87,PT05M16.00S,1,1610612754,IND,1630695,Potter,M. Potter,159,228,28,Made,1,21,19,40,h,Potter 28' 3PT Jump Shot (3 PTS) (Walker 1 AST),Made Shot,Jump Shot,1,3,66
+0022500831,89,PT05M02.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-21,6,2,Made,1,21,21,42,v,Embiid 2' Driving Layup (4 PTS) (Maxey 1 AST),Made Shot,Driving Layup Shot,1,2,67
+0022500831,91,PT04M49.00S,1,1610612754,IND,1641716,Walker,J. Walker,6,6,1,Made,1,23,21,44,h,Walker 1' Driving Layup (2 PTS) (Nembhard 2 AST),Made Shot,Driving Layup Shot,1,2,68
+0022500831,93,PT04M37.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-27,-10,3,Missed,1,,,0,v,MISS Maxey 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,69
+0022500831,93,PT04M37.00S,1,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter BLOCK (1 BLK),,,1,2,70
+0022500831,95,PT04M36.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,71
+0022500831,97,PT04M36.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,SUB: McConnell FOR Nembhard,Substitution,,0,0,72
+0022500831,98,PT04M36.00S,1,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Walker FOR Barlow,Substitution,,0,0,73
+0022500831,99,PT04M36.00S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Grimes FOR Edgecombe,Substitution,,0,0,74
+0022500831,103,PT04M30.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,75
+0022500831,103,PT04M30.00S,1,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter STEAL (1 STL),,,1,0,76
+0022500831,105,PT04M25.00S,1,1610612754,IND,1630695,Potter,M. Potter,10,7,1,Made,1,25,21,46,h,Potter 1' Running Layup (5 PTS) (Brown 1 AST),Made Shot,Running Layup Shot,1,2,77
+0022500831,107,PT04M16.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-6,-15,2,Made,1,25,23,48,v,Embiid 2' Cutting Layup Shot (6 PTS) (Oubre Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,78
+0022500831,109,PT04M06.00S,1,1610612754,IND,1641738,Brown,K. Brown,-9,5,1,Made,1,27,23,50,h,Brown 1' Driving Layup (2 PTS) (McConnell 1 AST),Made Shot,Driving Layup Shot,1,2,79
+0022500831,111,PT04M06.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. S.FOUL (P2.T2) (L.Wood),Foul,Shooting,1,0,80
+0022500831,113,PT04M06.00S,1,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,SUB: Jones FOR Walker,Substitution,,0,0,81
+0022500831,114,PT04M06.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Bona FOR Embiid,Substitution,,0,0,82
+0022500831,117,PT04M06.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Payne FOR Oubre Jr.,Substitution,,0,0,83
+0022500831,119,PT04M06.00S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,28,23,51,h,Brown Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,84
+0022500831,120,PT03M53.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,85
+0022500831,121,PT03M46.00S,1,1610612754,IND,204456,McConnell,T. McConnell,-15,42,4,Missed,1,,,0,h,MISS McConnell 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,86
+0022500831,122,PT03M43.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022500831,123,PT03M37.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,88
+0022500831,123,PT03M37.00S,1,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell STEAL (1 STL),,,1,0,89
+0022500831,125,PT03M33.00S,1,1610612754,IND,204456,McConnell,T. McConnell,-5,6,1,Made,1,30,23,53,h,McConnell 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,90
+0022500831,126,PT03M33.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,91
+0022500831,127,PT03M12.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,-123,219,25,Made,1,30,26,56,v,Grimes 25' 3PT Jump Shot (3 PTS) (Bona 1 AST),Made Shot,Jump Shot,1,3,92
+0022500831,129,PT03M02.00S,1,1610612754,IND,1630695,Potter,M. Potter,-4,279,28,Made,1,33,26,59,h,Potter 28' 3PT Jump Shot (8 PTS) (McConnell 2 AST),Made Shot,Jump Shot,1,3,93
+0022500831,131,PT02M38.00S,1,1610612755,PHI,1626166,Payne,C. Payne,-15,8,2,Missed,1,,,0,v,MISS Payne 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,94
+0022500831,132,PT02M35.00S,1,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,95
+0022500831,133,PT02M23.00S,1,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,96
+0022500831,135,PT02M23.00S,1,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,MISS McConnell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,97
+0022500831,136,PT02M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,98
+0022500831,137,PT02M23.00S,1,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,SUB: Huff FOR Potter,Substitution,,0,0,99
+0022500831,138,PT02M23.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Edgecombe FOR Maxey,Substitution,,0,0,100
+0022500831,141,PT02M23.00S,1,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,34,26,60,h,McConnell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+0022500831,142,PT02M10.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,102
+0022500831,142,PT02M10.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff STEAL (1 STL),,,1,0,103
+0022500831,143,PT01M50.00S,1,1610612754,IND,1642880,Jones,K. Jones,-110,86,14,Missed,1,,,0,h,MISS Jones 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,104
+0022500831,144,PT01M48.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022500831,145,PT01M41.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,170,225,28,Missed,1,,,0,v,MISS Grimes 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022500831,146,PT01M38.00S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+0022500831,147,PT01M30.00S,1,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,108
+0022500831,147,PT01M30.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes STEAL (1 STL),,,1,0,109
+0022500831,149,PT01M28.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,16,-5,2,Made,1,34,28,62,v,Grimes 2' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,110
+0022500831,150,PT01M22.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,1,0,111
+0022500831,152,PT01M14.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0,112
+0022500831,154,PT01M14.00S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,35,28,63,h,Brown Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,113
+0022500831,155,PT01M14.00S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,36,28,64,h,Brown Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,114
+0022500831,156,PT01M03.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,7,5,1,Made,1,36,30,66,v,Grimes 1' Driving Layup (7 PTS) (Edgecombe 1 AST),Made Shot,Driving Layup Shot,1,2,115
+0022500831,157,PT00M48.50S,1,1610612754,IND,1642880,Jones,K. Jones,-233,110,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022500831,158,PT00M46.10S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,117
+0022500831,200,PT00M46.10S,1,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,118
+0022500831,200,PT00M46.10S,1,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne STEAL (1 STL),,,1,0,119
+0022500831,159,PT00M41.20S,1,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-6,-5,1,Missed,1,,,0,v,MISS Edgecombe 1' Running Layup,Missed Shot,Running Layup Shot,1,2,120
+0022500831,160,PT00M38.90S,1,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022500831,161,PT00M35.90S,1,1610612754,IND,204456,McConnell,T. McConnell,1,4,0,Made,1,38,30,68,h,McConnell Running Layup (5 PTS) (Jackson 1 AST),Made Shot,Running Layup Shot,1,2,122
+0022500831,165,PT00M15.50S,1,1610612755,PHI,1626166,Payne,C. Payne,145,264,30,Missed,1,,,0,v,MISS Payne 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,123
+0022500831,166,PT00M14.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,124
+0022500831,168,PT00M00.00S,1,0,,0,,,0,0,0,,0,38,30,68,,End of 1st Period (7:37 PM EST),period,end,1,0,125
+0022500831,175,PT12M00.00S,2,0,,0,,,0,0,0,,0,38,30,68,,Start of 2nd Period (7:39 PM EST),period,start,0,0,126
+0022500831,176,PT11M48.00S,2,1610612754,IND,1630643,Huff,J. Huff,244,2,24,Missed,1,,,0,h,MISS Huff 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022500831,177,PT11M46.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,128
+0022500831,178,PT11M41.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,-143,241,28,Missed,1,,,0,v,MISS Grimes 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,129
+0022500831,179,PT11M40.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,130
+0022500831,180,PT11M40.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,131
+0022500831,182,PT11M40.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,38,31,69,v,Edgecombe Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,132
+0022500831,183,PT11M40.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,38,32,70,v,Edgecombe Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,133
+0022500831,184,PT11M32.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,134
+0022500831,184,PT11M32.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona STEAL (1 STL),,,1,0,135
+0022500831,186,PT11M29.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-4,-11,1,Made,1,38,34,72,v,Edgecombe 1' Running Dunk (7 PTS) (Bona 2 AST),Made Shot,Running Dunk Shot,1,2,136
+0022500831,188,PT11M10.00S,2,1610612754,IND,204456,McConnell,T. McConnell,152,-5,15,Missed,1,,,0,h,MISS McConnell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,137
+0022500831,189,PT11M05.00S,2,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+0022500831,190,PT11M01.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard S.FOUL (P1.T2) (L.Wood),Foul,Shooting,1,0,139
+0022500831,192,PT11M01.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,38,35,73,v,Maxey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,140
+0022500831,193,PT11M01.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,38,36,74,v,Maxey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,141
+0022500831,194,PT10M55.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0,142
+0022500831,196,PT10M52.00S,2,1610612754,IND,1630643,Huff,J. Huff,-23,-10,3,Missed,1,,,0,h,MISS Huff 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,143
+0022500831,197,PT10M50.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022500831,199,PT10M47.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,20,66,7,Made,1,38,38,76,v,Edgecombe 7' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,145
+0022500831,217,PT10M47.00S,2,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Defensive Goaltending,Violation,Defensive Goaltending,0,0,146
+0022500831,202,PT10M47.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell S.FOUL (P2.T3) (L.Wood),Foul,Shooting,1,0,147
+0022500831,204,PT10M47.00S,2,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Jackson Non-Unsportsmanlike (P1.T3) (Z.Zarba),Foul,Non-Unsportsmanlike Technical,1,0,148
+0022500831,205,PT10M47.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,38,39,77,v,Maxey Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,149
+0022500831,206,PT10M47.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,38,40,78,v,Edgecombe Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,150
+0022500831,207,PT10M36.00S,2,1610612754,IND,1641738,Brown,K. Brown,-15,121,12,Missed,1,,,0,h,MISS Brown 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,151
+0022500831,208,PT10M33.00S,2,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,152
+0022500831,209,PT10M31.00S,2,1610612754,IND,1631245,Jackson,Q. Jackson,232,12,0,Missed,1,,,0,h,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022500831,210,PT10M27.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+0022500831,211,PT10M24.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,152,266,31,Made,1,38,43,81,v,Maxey 31' 3PT Running Pull-Up Jump Shot (13 PTS) (Bona 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,155
+0022500831,212,PT10M14.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,156
+0022500831,213,PT10M14.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+0022500831,218,PT10M14.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,SUB: Nembhard FOR McConnell,Substitution,,0,0,158
+0022500831,219,PT10M14.00S,2,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,SUB: Walker FOR Brown,Substitution,,0,0,159
+0022500831,220,PT10M14.00S,2,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Potter FOR Huff,Substitution,,0,0,160
+0022500831,224,PT09M55.00S,2,1610612755,PHI,1641737,Bona,A. Bona,1,98,10,Made,1,38,45,83,v,Bona 10' Turnaround Jump Shot (2 PTS) (Grimes 1 AST),Made Shot,Turnaround Jump Shot,1,2,161
+0022500831,226,PT09M43.00S,2,1610612754,IND,1641716,Walker,J. Walker,11,22,2,Missed,1,,,0,h,MISS Walker 2' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,162
+0022500831,227,PT09M41.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,163
+0022500831,228,PT09M29.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-21,78,8,Made,1,38,47,85,v,Maxey 8' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,1,2,164
+0022500831,229,PT09M10.00S,2,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,165
+0022500831,231,PT09M10.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,39,47,86,h,Nembhard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,166
+0022500831,232,PT09M10.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,40,47,87,h,Nembhard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+0022500831,233,PT09M00.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona OFF.Foul (P2) (L.Wood),Foul,Offensive,1,0,168
+0022500831,235,PT09M00.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,169
+0022500831,236,PT08M49.00S,2,1610612754,IND,1641716,Walker,J. Walker,-190,186,27,Missed,1,,,0,h,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022500831,237,PT08M46.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+0022500831,238,PT08M40.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,4,17,2,Made,1,40,49,89,v,Edgecombe 2' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,172
+0022500831,240,PT08M22.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,104,268,29,Missed,1,,,0,h,MISS Nembhard 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0022500831,241,PT08M20.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+0022500831,242,PT08M13.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,31,308,31,Missed,1,,,0,v,MISS Maxey 31' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,175
+0022500831,243,PT08M09.00S,2,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,176
+0022500831,244,PT08M01.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,-161,265,31,Missed,1,,,0,h,MISS Nembhard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,177
+0022500831,245,PT07M57.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,178
+0022500831,246,PT07M55.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,-4,-1,0,Made,1,40,51,91,v,Grimes Running Layup (9 PTS) (Maxey 2 AST),Made Shot,Running Layup Shot,1,2,179
+0022500831,248,PT07M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter S.FOUL (P1.T4) (N.Green),Foul,Shooting,1,0,180
+0022500831,250,PT07M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,SUB: Huff FOR Potter,Substitution,,0,0,181
+0022500831,251,PT07M55.00S,2,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Barlow,Substitution,,0,0,182
+0022500831,252,PT07M55.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Embiid FOR Bona,Substitution,,0,0,183
+0022500831,256,PT07M55.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,40,52,92,v,Grimes Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,184
+0022500831,257,PT07M37.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,-189,233,30,Missed,1,,,0,h,MISS Sheppard 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0022500831,258,PT07M34.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,186
+0022500831,260,PT07M25.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-10,-8,1,Made,1,40,54,94,v,Maxey 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,187
+0022500831,261,PT07M14.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,-7,26,3,Made,1,42,54,96,h,Nembhard 3' Driving Layup (7 PTS) (Huff 2 AST),Made Shot,Driving Layup Shot,1,2,188
+0022500831,263,PT07M04.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,189
+0022500831,263,PT07M04.00S,2,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker STEAL (1 STL),,,1,0,190
+0022500831,265,PT07M00.00S,2,1610612754,IND,1641716,Walker,J. Walker,7,2,1,Made,1,44,54,98,h,Walker 1' Running Dunk (4 PTS) (Huff 3 AST),Made Shot,Running Dunk Shot,1,2,191
+0022500831,267,PT06M40.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Traveling Turnover (P2.T8),Turnover,Traveling,1,0,192
+0022500831,268,PT06M32.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,59,80,10,Missed,1,,,0,h,MISS Nembhard 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,193
+0022500831,269,PT06M30.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,194
+0022500831,270,PT06M21.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,25,-4,3,Made,1,44,56,100,v,Embiid 3' Cutting Layup Shot (8 PTS) (Maxey 3 AST),Made Shot,Cutting Layup Shot,1,2,195
+0022500831,272,PT06M12.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,18,22,3,Made,1,46,56,102,h,Sheppard 3' Driving Finger Roll Layup (7 PTS) (Nembhard 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,196
+0022500831,274,PT05M58.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-108,239,26,Made,1,46,59,105,v,Embiid 26' 3PT Jump Shot (11 PTS) (Edgecombe 2 AST),Made Shot,Jump Shot,1,3,197
+0022500831,276,PT05M44.00S,2,1610612754,IND,1630643,Huff,J. Huff,-126,284,31,Missed,1,,,0,h,MISS Huff 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022500831,277,PT05M42.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,199
+0022500831,278,PT05M38.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard P.FOUL (P1.PN) (L.Wood),Foul,Personal,1,0,200
+0022500831,280,PT05M38.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,46,60,106,v,Maxey Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,201
+0022500831,281,PT05M38.00S,2,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,SUB: Jones FOR Jackson,Substitution,,0,0,202
+0022500831,282,PT05M38.00S,2,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Potter FOR Huff,Substitution,,0,0,203
+0022500831,283,PT05M38.00S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Watford FOR Edgecombe,Substitution,,0,0,204
+0022500831,287,PT05M38.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,46,61,107,v,Maxey Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+0022500831,288,PT05M25.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,-244,128,28,Made,1,49,61,110,h,Sheppard 28' 3PT Jump Shot (10 PTS) (Walker 2 AST),Made Shot,Jump Shot,1,3,206
+0022500831,290,PT05M11.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-56,156,17,Made,1,49,63,112,v,Embiid 17' Pullup Jump Shot (13 PTS) (Maxey 4 AST),Made Shot,Pullup Jump shot,1,2,207
+0022500831,292,PT04M59.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,-71,272,28,Missed,1,,,0,h,MISS Sheppard 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,208
+0022500831,293,PT04M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,209
+0022500831,294,PT04M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,Made,1,51,63,114,h,Potter Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,210
+0022500831,295,PT04M45.00S,2,1610612755,PHI,1630570,Watford,T. Watford,13,0,1,Made,1,51,65,116,v,Watford 1' Cutting Layup Shot (2 PTS) (Embiid 4 AST),Made Shot,Cutting Layup Shot,1,2,211
+0022500831,297,PT04M36.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,31,268,27,Missed,1,,,0,h,MISS Sheppard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022500831,298,PT04M33.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,213
+0022500831,299,PT04M31.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,214
+0022500831,301,PT04M31.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,51,66,117,v,Grimes Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+0022500831,302,PT04M31.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,SUB: Brown FOR Nembhard,Substitution,,0,0,216
+0022500831,303,PT04M31.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,SUB: McConnell FOR Sheppard,Substitution,,0,0,217
+0022500831,306,PT04M31.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,MISS Grimes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,218
+0022500831,307,PT04M29.00S,2,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,219
+0022500831,308,PT04M14.00S,2,1610612754,IND,1641716,Walker,J. Walker,6,64,6,Made,1,53,66,119,h,Walker 6' Driving Floating Jump Shot (6 PTS) (Potter 2 AST),Made Shot,Driving Floating Jump Shot,1,2,220
+0022500831,310,PT03M59.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,188,278,34,Missed,1,,,0,v,MISS Maxey 34' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,221
+0022500831,311,PT03M57.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,222
+0022500831,312,PT03M49.00S,2,1610612754,IND,1630695,Potter,M. Potter,-7,13,1,Made,1,55,66,121,h,Potter 1' Cutting Finger Roll Layup Shot (12 PTS) (Walker 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,223
+0022500831,314,PT03M32.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Offensive Charge Foul (P1) (Z.Zarba),Foul,Offensive Charge,1,0,224
+0022500831,316,PT03M32.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,225
+0022500831,317,PT03M13.00S,2,1610612754,IND,1630695,Potter,M. Potter,6,52,5,Made,1,57,66,123,h,Potter 5' Cutting Finger Roll Layup Shot (14 PTS) (Walker 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,226
+0022500831,319,PT02M58.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-5,13,1,Made,1,57,68,125,v,Embiid 1' Cutting Finger Roll Layup Shot (15 PTS) (Watford 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,227
+0022500831,321,PT02M37.00S,2,1610612754,IND,1642880,Jones,K. Jones,-234,34,24,Made,1,60,68,128,h,Jones 24' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,3,228
+0022500831,322,PT02M35.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,229
+0022500831,323,PT02M23.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,105,169,20,Missed,1,,,0,v,MISS Embiid 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,230
+0022500831,324,PT02M20.00S,2,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,231
+0022500831,325,PT02M02.00S,2,1610612754,IND,1641716,Walker,J. Walker,-227,62,24,Missed,1,,,0,h,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0022500831,326,PT01M58.00S,2,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,233
+0022500831,327,PT01M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,9,10,1,Made,1,62,68,130,h,Potter 1' Layup (16 PTS),Made Shot,Layup Shot,1,2,234
+0022500831,328,PT01M55.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P2.T3) (N.Green),Foul,Shooting,1,0,235
+0022500831,331,PT01M55.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,SUB: Nembhard FOR McConnell,Substitution,,0,0,236
+0022500831,333,PT01M55.00S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,63,68,131,h,Potter Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,237
+0022500831,334,PT01M44.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,282,28,Missed,1,,,0,v,MISS Embiid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022500831,335,PT01M42.00S,2,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,239
+0022500831,336,PT01M33.00S,2,1610612754,IND,1642880,Jones,K. Jones,0,5,1,Missed,1,,,0,h,MISS Jones 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,240
+0022500831,336,PT01M33.00S,2,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,241
+0022500831,338,PT01M31.00S,2,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,242
+0022500831,339,PT01M21.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,11,-18,2,Made,1,63,70,133,v,Embiid 2' Cutting Dunk Shot (17 PTS) (Maxey 5 AST),Made Shot,Cutting Dunk Shot,1,2,243
+0022500831,341,PT01M09.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,244
+0022500831,341,PT01M09.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes STEAL (2 STL),,,1,0,245
+0022500831,343,PT01M03.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,246
+0022500831,344,PT00M54.40S,2,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,247
+0022500831,346,PT00M54.40S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,248
+0022500831,348,PT00M54.40S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,MISS Embiid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,249
+0022500831,349,PT00M54.40S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,250
+0022500831,350,PT00M54.40S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,63,71,134,v,Embiid Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+0022500831,347,PT00M54.40S,2,0,,344,Barros,D. Barros,0,0,0,,0,63,71,134,,Instant Replay2nd Period (8:12 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,252
+0022500831,354,PT00M54.40S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: Edgecombe FOR Grimes,Substitution,,0,0,253
+0022500831,351,PT00M42.80S,2,1610612754,IND,1630695,Potter,M. Potter,77,279,29,Missed,1,,,0,h,MISS Potter 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+0022500831,352,PT00M37.20S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,255
+0022500831,353,PT00M31.80S,2,1610612755,PHI,203954,Embiid,J. Embiid,118,125,17,Made,1,63,73,136,v,Embiid 17' Jump Shot (20 PTS),Made Shot,Jump Shot,1,2,256
+0022500831,356,PT00M12.60S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,1,10,1,Missed,1,,,0,h,MISS Nembhard 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,257
+0022500831,357,PT00M10.60S,2,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,258
+0022500831,358,PT00M02.20S,2,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-135,88,16,Made,1,63,75,138,v,Edgecombe 16' Pullup Jump Shot (14 PTS) (Maxey 6 AST),Made Shot,Pullup Jump shot,1,2,259
+0022500831,359,PT00M00.50S,2,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0,260
+0022500831,362,PT00M00.50S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,64,75,139,h,Nembhard Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,1,0,261
+0022500831,363,PT00M00.50S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,MISS Nembhard Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,262
+0022500831,364,PT00M00.50S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,263
+0022500831,365,PT00M00.50S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,65,75,140,h,Nembhard Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,264
+0022500831,370,PT00M00.00S,2,0,,0,,,0,0,0,,0,65,75,140,,End of 2nd Period (8:15 PM EST),period,end,1,0,265
+0022500831,377,PT12M00.00S,3,0,,0,,,0,0,0,,0,65,75,140,,Start of 3rd Period (8:30 PM EST),period,start,1,0,266
+0022500831,378,PT11M40.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,-93,272,29,Missed,1,,,0,h,MISS Nembhard 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0022500831,379,PT11M39.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,268
+0022500831,381,PT11M24.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,120,257,28,Missed,1,,,0,v,MISS Embiid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022500831,382,PT11M22.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,270
+0022500831,384,PT11M05.00S,3,1610612754,IND,1641716,Walker,J. Walker,-96,237,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022500831,385,PT11M02.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,272
+0022500831,387,PT10M54.00S,3,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0,273
+0022500831,388,PT10M44.00S,3,1610612754,IND,1641716,Walker,J. Walker,-88,136,16,Missed,1,,,0,h,MISS Walker 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,274
+0022500831,389,PT10M42.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,275
+0022500831,390,PT10M29.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,49,5,Made,1,65,77,142,v,Edgecombe 5' Driving Floating Jump Shot (16 PTS) (Embiid 5 AST),Made Shot,Driving Floating Jump Shot,1,2,276
+0022500831,392,PT10M09.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,277
+0022500831,392,PT10M09.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. STEAL (1 STL),,,1,0,278
+0022500831,394,PT10M03.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-163,230,28,Missed,1,,,0,v,MISS Maxey 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,279
+0022500831,395,PT10M00.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,280
+0022500831,396,PT09M53.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,-141,226,27,Made,1,68,77,145,h,Nembhard 27' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,281
+0022500831,397,PT09M43.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-2,-4,0,Made,1,68,79,147,v,Oubre Jr. Driving Dunk (9 PTS) (Edgecombe 3 AST),Made Shot,Driving Dunk Shot,1,2,282
+0022500831,399,PT09M30.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,147,16,15,Made,1,70,79,149,h,Nembhard 15' Jump Shot (14 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,2,283
+0022500831,401,PT09M12.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,11,2,1,Missed,1,,,0,v,MISS Maxey 1' Layup,Missed Shot,Layup Shot,1,2,284
+0022500831,402,PT09M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,285
+0022500831,403,PT09M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,Made,1,70,81,151,v,Maxey Tip Layup Shot (21 PTS),Made Shot,Tip Layup Shot,1,2,286
+0022500831,404,PT09M02.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,-109,32,11,Missed,1,,,0,h,MISS Nembhard 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,287
+0022500831,405,PT09M00.00S,3,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,288
+0022500831,406,PT08M57.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,197,58,21,Missed,1,,,0,h,MISS Sheppard 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,289
+0022500831,407,PT08M55.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,290
+0022500831,409,PT08M37.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,291
+0022500831,409,PT08M37.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard STEAL (1 STL),,,1,0,292
+0022500831,411,PT08M33.00S,3,1610612754,IND,1642880,Jones,K. Jones,6,10,1,Missed,1,,,0,h,MISS Jones 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,293
+0022500831,412,PT08M31.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,294
+0022500831,413,PT08M31.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,Made,1,72,81,153,h,Nembhard Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,1,2,295
+0022500831,414,PT08M18.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-10,68,7,Missed,1,,,0,v,MISS Maxey 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,296
+0022500831,415,PT08M16.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,297
+0022500831,416,PT08M09.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,298
+0022500831,416,PT08M09.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey STEAL (2 STL),,,1,0,299
+0022500831,418,PT08M05.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,2,2,0,Made,1,72,83,155,v,Edgecombe Running Finger Roll Layup (18 PTS) (Maxey 7 AST),Made Shot,Running Finger Roll Layup Shot,1,2,300
+0022500831,420,PT08M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,301
+0022500831,421,PT07M51.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,302
+0022500831,423,PT07M51.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,73,83,156,h,Sheppard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+0022500831,424,PT07M51.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,SUB: Brown FOR Walker,Substitution,,0,0,304
+0022500831,426,PT07M51.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,74,83,157,h,Sheppard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,305
+0022500831,427,PT07M33.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,36,48,6,Missed,1,,,0,v,MISS Embiid 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,306
+0022500831,428,PT07M30.00S,3,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,307
+0022500831,429,PT07M29.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-179,220,28,Made,1,74,86,160,v,Edgecombe 28' 3PT Jump Shot (21 PTS) (Barlow 1 AST),Made Shot,Jump Shot,1,3,308
+0022500831,431,PT07M12.00S,3,1610612754,IND,1641738,Brown,K. Brown,-188,187,27,Missed,1,,,0,h,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022500831,432,PT07M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,310
+0022500831,433,PT06M52.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,78,265,28,Missed,1,,,0,v,MISS Embiid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022500831,434,PT06M50.00S,3,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,312
+0022500831,435,PT06M35.00S,3,1610612754,IND,1642880,Jones,K. Jones,-69,253,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+0022500831,436,PT06M32.00S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,314
+0022500831,437,PT06M30.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,192,185,27,Made,1,77,86,163,h,Nembhard 27' 3PT Jump Shot (19 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,3,315
+0022500831,439,PT06M18.00S,3,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P2.T1) (N.Green),Foul,Personal,1,0,316
+0022500831,442,PT06M18.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,SUB: Jackson FOR Nembhard,Substitution,,0,0,317
+0022500831,444,PT06M18.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,318
+0022500831,445,PT06M18.00S,3,0,,439,,,0,0,0,,0,77,86,163,,Instant Replay3rd Period (8:41 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,319
+0022500831,446,PT06M18.00S,3,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,SUB: Nembhard FOR Jones,Substitution,,0,0,320
+0022500831,448,PT06M12.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,69,270,28,Missed,1,,,0,v,MISS Edgecombe 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,321
+0022500831,449,PT06M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,322
+0022500831,451,PT05M53.00S,3,1610612754,IND,1630643,Huff,J. Huff,-10,272,27,Missed,1,,,0,h,MISS Huff 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022500831,452,PT05M49.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,324
+0022500831,453,PT05M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,-4,0,Made,1,77,88,165,v,Maxey Driving Floating Bank Jump Shot (23 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,325
+0022500831,454,PT05M17.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,42,114,12,Made,1,79,88,167,h,Nembhard 12' Driving Floating Jump Shot (21 PTS) (Huff 4 AST),Made Shot,Driving Floating Jump Shot,1,2,326
+0022500831,456,PT05M00.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,7,62,6,Missed,1,,,0,v,MISS Maxey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,327
+0022500831,457,PT04M57.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,328
+0022500831,458,PT04M52.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,33,99,10,Made,1,81,88,169,h,Nembhard 10' Running Pull-Up Jump Shot (23 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,329
+0022500831,459,PT04M32.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,5,8,1,Missed,1,,,0,v,MISS Oubre Jr. 1' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,330
+0022500831,459,PT04M32.00S,3,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff BLOCK (1 BLK),,,1,2,331
+0022500831,461,PT04M27.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,332
+0022500831,462,PT04M26.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,6,5,1,Made,1,81,90,171,v,Embiid 1' Putback Layup (22 PTS),Made Shot,Putback Layup Shot,1,2,333
+0022500831,463,PT04M13.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,165,216,27,Missed,1,,,0,h,MISS Nembhard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,334
+0022500831,464,PT04M13.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,335
+0022500831,466,PT04M13.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,SUB: Walker FOR Sheppard,Substitution,,0,0,336
+0022500831,467,PT04M13.00S,3,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Potter FOR Huff,Substitution,,0,0,337
+0022500831,468,PT04M13.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Grimes FOR Embiid,Substitution,,0,0,338
+0022500831,469,PT04M13.00S,3,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Bona FOR Edgecombe,Substitution,,0,0,339
+0022500831,474,PT03M55.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,120,231,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,340
+0022500831,475,PT03M51.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,341
+0022500831,476,PT03M45.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Personal Take Foul (P2.T2) (N.Green),Foul,Personal Take,1,0,342
+0022500831,478,PT03M41.00S,3,1610612754,IND,1641716,Walker,J. Walker,232,78,24,Missed,1,,,0,h,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022500831,479,PT03M38.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,344
+0022500831,480,PT03M33.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,-4,12,1,Made,1,81,92,173,v,Grimes 1' Running Dunk (13 PTS) (Oubre Jr. 2 AST),Made Shot,Running Dunk Shot,1,2,345
+0022500831,482,PT03M15.00S,3,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,346
+0022500831,482,PT03M15.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona STEAL (2 STL),,,1,0,347
+0022500831,484,PT03M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,5,8,1,Made,1,81,94,175,v,Maxey 1' Running Finger Roll Layup (25 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,348
+0022500831,485,PT03M10.00S,3,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter S.FOUL (P3.T2) (N.Green),Foul,Shooting,1,0,349
+0022500831,487,PT03M10.00S,3,1610612755,PHI,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Walker FOR Barlow,Substitution,,0,0,350
+0022500831,489,PT03M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,81,95,176,v,Maxey Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,351
+0022500831,490,PT02M58.00S,3,1610612754,IND,1641738,Brown,K. Brown,22,4,2,Missed,1,,,0,h,MISS Brown 2' Layup,Missed Shot,Layup Shot,1,2,352
+0022500831,490,PT02M58.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey BLOCK (1 BLK),,,1,2,353
+0022500831,492,PT02M57.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,354
+0022500831,493,PT02M54.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-7,65,7,Made,1,81,97,178,v,Maxey 7' Running Pull-Up Jump Shot (28 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,355
+0022500831,494,PT02M54.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,356
+0022500831,495,PT02M54.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,SUB: McConnell FOR Nembhard,Substitution,,0,0,357
+0022500831,497,PT02M38.00S,3,1610612754,IND,1630695,Potter,M. Potter,-42,32,5,Made,1,83,97,180,h,Potter 5' Turnaround Jump Shot (19 PTS) (Walker 5 AST),Made Shot,Turnaround Jump Shot,1,2,358
+0022500831,499,PT02M23.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-7,33,3,Missed,1,,,0,v,MISS Oubre Jr. 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,359
+0022500831,500,PT02M21.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,360
+0022500831,501,PT02M20.00S,3,1610612755,PHI,1641737,Bona,A. Bona,11,22,2,Made,1,83,99,182,v,Bona 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,361
+0022500831,502,PT02M03.00S,3,1610612754,IND,1641716,Walker,J. Walker,17,58,6,Missed,1,,,0,h,MISS Walker 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,362
+0022500831,503,PT02M00.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,363
+0022500831,504,PT01M53.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-137,257,29,Made,1,83,102,185,v,Oubre Jr. 29' 3PT Pullup Jump Shot (12 PTS) (Maxey 8 AST),Made Shot,Pullup Jump shot,1,3,364
+0022500831,506,PT01M43.00S,3,1610612754,IND,204456,McConnell,T. McConnell,34,41,5,Missed,1,,,0,h,MISS McConnell 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,365
+0022500831,507,PT01M41.00S,3,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,366
+0022500831,508,PT01M28.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,-173,249,30,Missed,1,,,0,v,MISS Grimes 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022500831,509,PT01M24.00S,3,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,368
+0022500831,510,PT01M13.00S,3,1610612754,IND,1631245,Jackson,Q. Jackson,-186,192,27,Missed,1,,,0,h,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022500831,511,PT01M12.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022500831,512,PT01M05.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,172,226,28,Missed,1,,,0,v,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022500831,513,PT01M01.00S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,372
+0022500831,514,PT01M00.00S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,373
+0022500831,514,PT01M00.00S,3,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker STEAL (1 STL),,,1,0,374
+0022500831,516,PT00M57.10S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-188,278,34,Missed,1,,,0,v,MISS Maxey 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022500831,517,PT00M55.70S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,McConnell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,376
+0022500831,518,PT00M52.40S,3,1610612754,IND,1631245,Jackson,Q. Jackson,-16,8,2,Made,1,85,102,187,h,Jackson 2' Running Finger Roll Layup (2 PTS) (McConnell 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,377
+0022500831,520,PT00M33.10S,3,1610612755,PHI,1630178,Maxey,T. Maxey,23,136,14,Made,1,85,104,189,v,Maxey 14' Turnaround Jump Shot (30 PTS),Made Shot,Turnaround Jump Shot,1,2,378
+0022500831,521,PT00M14.30S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,379
+0022500831,522,PT00M09.80S,3,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Jackson Personal Take Foul (P2.T3) (N.Green),Foul,Personal Take,1,0,380
+0022500831,524,PT00M05.20S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P1.PN) (L.Wood),Foul,Personal,1,0,381
+0022500831,526,PT00M05.20S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,85,105,190,v,Maxey Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,382
+0022500831,527,PT00M05.20S,3,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,SUB: Sheppard FOR Brown,Substitution,,0,0,383
+0022500831,529,PT00M05.20S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,85,106,191,v,Maxey Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+0022500831,530,PT00M00.50S,3,0,,0,,,0,0,0,,0,,,0,h,PACERS Heave,Heave,Team Field Goal Attempt,0,0,385
+0022500831,531,PT00M00.50S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,386
+0022500831,532,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,106,191,,End of 3rd Period (8:55 PM EST),period,end,1,0,387
+0022500831,537,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,106,191,,Start of 4th Period (8:58 PM EST),period,start,1,0,388
+0022500831,538,PT11M40.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,-1,148,15,Made,1,85,108,193,v,Edgecombe 15' Turnaround Fadeaway (23 PTS),Made Shot,Turnaround Fadeaway shot,1,2,389
+0022500831,539,PT11M11.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,390
+0022500831,541,PT11M11.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,86,108,194,h,Potter Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022500831,542,PT11M11.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,MISS Potter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,392
+0022500831,543,PT11M09.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,393
+0022500831,545,PT10M57.00S,4,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker OFF.Foul (P1) (Z.Zarba),Foul,Offensive,1,0,394
+0022500831,547,PT10M57.00S,4,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,Walker Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,395
+0022500831,548,PT10M47.00S,4,1610612754,IND,204456,McConnell,T. McConnell,138,115,18,Missed,1,,,0,h,MISS McConnell 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,396
+0022500831,549,PT10M45.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,397
+0022500831,550,PT10M41.00S,4,1610612755,PHI,1631133,Walker,J. Walker,-232,13,0,Missed,1,,,0,v,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022500831,551,PT10M38.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,399
+0022500831,553,PT10M29.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,SUB: Brown FOR Walker,Substitution,,0,0,400
+0022500831,555,PT10M28.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe P.FOUL (P2.T2) (L.Wood),Foul,Personal,1,0,401
+0022500831,557,PT10M16.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-20,22,3,Missed,1,,,0,h,MISS Sheppard 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,402
+0022500831,557,PT10M16.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,Bona BLOCK (1 BLK),,,1,2,403
+0022500831,559,PT10M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,404
+0022500831,560,PT10M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,405
+0022500831,561,PT09M54.00S,4,1610612755,PHI,1641737,Bona,A. Bona,-4,12,1,Made,1,86,110,196,v,Bona 1' Cutting Layup Shot (6 PTS) (Grimes 2 AST),Made Shot,Cutting Layup Shot,1,2,406
+0022500831,563,PT09M41.00S,4,1610612754,IND,204456,McConnell,T. McConnell,164,21,17,Made,1,88,110,198,h,McConnell 17' Pullup Jump Shot (7 PTS) (Potter 3 AST),Made Shot,Pullup Jump shot,1,2,407
+0022500831,564,PT09M32.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-31,2,3,Missed,1,,,0,v,MISS Grimes 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,408
+0022500831,564,PT09M32.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter BLOCK (2 BLK),,,1,2,409
+0022500831,565,PT09M30.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,410
+0022500831,566,PT09M28.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,-10,26,3,Made,1,90,110,200,h,Jackson 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,411
+0022500831,567,PT09M28.00S,4,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0,412
+0022500831,570,PT09M28.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,SUB: Huff FOR Potter,Substitution,,0,0,413
+0022500831,571,PT09M28.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,,,0,v,SUB: Embiid FOR Bona,Substitution,,0,0,414
+0022500831,572,PT09M28.00S,4,1610612755,PHI,1631133,Walker,J. Walker,0,0,0,,0,,,0,v,SUB: Watford FOR Walker,Substitution,,0,0,415
+0022500831,576,PT09M28.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,91,110,201,h,Jackson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,416
+0022500831,578,PT09M20.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,6,-3,1,Made,1,91,112,203,v,Embiid 1' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,417
+0022500831,579,PT09M13.00S,4,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne P.FOUL (P3.T4) (Z.Zarba),Foul,Personal,1,0,418
+0022500831,581,PT09M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,419
+0022500831,582,PT09M00.00S,4,1610612754,IND,1641738,Brown,K. Brown,-237,-17,24,Missed,1,,,0,h,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022500831,583,PT08M57.00S,4,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+0022500831,584,PT08M48.00S,4,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,1,0,422
+0022500831,586,PT08M48.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,,,0,h,SUB: Jones FOR McConnell,Substitution,,0,0,423
+0022500831,587,PT08M48.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,,,0,h,SUB: Nembhard FOR Jackson,Substitution,,0,0,424
+0022500831,590,PT08M38.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,13,18,2,Missed,1,,,0,v,MISS Edgecombe 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,425
+0022500831,591,PT08M36.00S,4,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,426
+0022500831,592,PT08M26.00S,4,1610612754,IND,1641738,Brown,K. Brown,-21,3,2,Made,1,93,112,205,h,Brown 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,427
+0022500831,593,PT08M09.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,9,16,2,Made,1,93,114,207,v,Embiid 2' Layup (26 PTS) (Watford 2 AST),Made Shot,Layup Shot,1,2,428
+0022500831,595,PT08M09.00S,4,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff S.FOUL (P3.T2) (N.Green),Foul,Shooting,1,0,429
+0022500831,597,PT08M09.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,93,115,208,v,Embiid Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,1,0,430
+0022500831,598,PT07M48.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-123,224,26,Missed,1,,,0,h,MISS Sheppard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0022500831,599,PT07M45.00S,4,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,432
+0022500831,601,PT07M38.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P2.T3) (L.Wood),Foul,Personal,1,0,433
+0022500831,603,PT07M38.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,SUB: Walker FOR Sheppard,Substitution,,0,0,434
+0022500831,604,PT07M38.00S,4,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Potter FOR Huff,Substitution,,0,0,435
+0022500831,607,PT07M37.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,436
+0022500831,607,PT07M37.00S,4,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,437
+0022500831,609,PT07M26.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,Nembhard Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,438
+0022500831,609,PT07M26.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,Edgecombe STEAL (2 STL),,,1,0,439
+0022500831,611,PT07M22.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,-9,2,1,Made,1,93,117,210,v,Grimes 1' Running Layup (15 PTS) (Edgecombe 4 AST),Made Shot,Running Layup Shot,1,2,440
+0022500831,613,PT07M00.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,56,284,29,Missed,1,,,0,h,MISS Nembhard 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,441
+0022500831,614,PT06M58.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,442
+0022500831,615,PT06M50.00S,4,1610612755,PHI,1630570,Watford,T. Watford,-9,1,1,Made,1,93,119,212,v,Watford 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,443
+0022500831,616,PT06M49.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,444
+0022500831,617,PT06M49.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Edwards FOR Embiid,Substitution,,0,0,445
+0022500831,618,PT06M49.00S,4,1610612755,PHI,1642845,Edgecombe,V. Edgecombe,0,0,0,,0,,,0,v,SUB: Drummond FOR Edgecombe,Substitution,,0,0,446
+0022500831,621,PT06M40.00S,4,1610612754,IND,1641738,Brown,K. Brown,7,8,1,Missed,1,,,0,h,MISS Brown 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,447
+0022500831,622,PT06M37.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,448
+0022500831,623,PT06M27.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,-89,243,26,Missed,1,,,0,h,MISS Nembhard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022500831,624,PT06M24.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,450
+0022500831,625,PT06M09.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,9,16,2,Missed,1,,,0,v,MISS Grimes 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,451
+0022500831,626,PT06M07.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,452
+0022500831,627,PT05M50.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,Potter Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0,453
+0022500831,627,PT05M50.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (1 STL),,,1,0,454
+0022500831,629,PT05M43.00S,4,1610612755,PHI,1630570,Watford,T. Watford,20,36,4,Made,1,93,121,214,v,Watford 4' Driving Floating Jump Shot (6 PTS) (Edwards 1 AST),Made Shot,Driving Floating Jump Shot,1,2,455
+0022500831,631,PT05M31.00S,4,1610612754,IND,1630695,Potter,M. Potter,-245,-34,25,Made,1,96,121,217,h,Potter 25' 3PT Jump Shot (23 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,456
+0022500831,633,PT05M23.00S,4,1610612754,IND,1642880,Jones,K. Jones,0,0,0,,0,,,0,h,Jones Personal Take Foul (P3.T4) (L.Wood),Foul,Personal Take,1,0,457
+0022500831,635,PT05M23.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,,,0,h,SUB: Huff FOR Nembhard,Substitution,,0,0,458
+0022500831,636,PT05M23.00S,4,1610612754,IND,1630695,Potter,M. Potter,0,0,0,,0,,,0,h,SUB: Jackson FOR Potter,Substitution,,0,0,459
+0022500831,637,PT05M23.00S,4,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: Terry FOR Grimes,Substitution,,0,0,460
+0022500831,641,PT05M14.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,27,-13,3,Made,1,96,123,219,v,Drummond 3' Reverse Layup (2 PTS) (Terry 1 AST),Made Shot,Reverse Layup Shot,1,2,461
+0022500831,643,PT04M58.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,217,180,28,Made,1,99,123,222,h,Jackson 28' 3PT Jump Shot (8 PTS) (Walker 6 AST),Made Shot,Jump Shot,1,3,462
+0022500831,645,PT04M43.00S,4,1610612755,PHI,1630570,Watford,T. Watford,-1,2,0,Made,1,99,125,224,v,Watford Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,463
+0022500831,646,PT04M27.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards P.FOUL (P1.PN) (N.Green),Foul,Personal,1,0,464
+0022500831,648,PT04M27.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,100,125,225,h,Walker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,465
+0022500831,649,PT04M27.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,101,125,226,h,Walker Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,466
+0022500831,650,PT04M03.00S,4,1610612755,PHI,1626166,Payne,C. Payne,-5,37,4,Made,1,101,127,228,v,Payne 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,467
+0022500831,651,PT03M34.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,108,318,34,Missed,1,,,0,h,MISS Jackson 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+0022500831,652,PT03M33.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,469
+0022500831,653,PT03M33.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,470
+0022500831,654,PT03M33.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,,,0,h,SUB: Sheppard FOR Walker,Substitution,,0,0,471
+0022500831,656,PT03M17.00S,4,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,472
+0022500831,656,PT03M17.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard STEAL (2 STL),,,1,0,473
+0022500831,658,PT03M16.00S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0,474
+0022500831,660,PT03M16.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,102,127,229,h,Jackson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+0022500831,661,PT03M16.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,103,127,230,h,Jackson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,476
+0022500831,662,PT03M04.00S,4,1610612755,PHI,1630570,Watford,T. Watford,53,64,8,Made,1,103,129,232,v,Watford 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,477
+0022500831,663,PT02M55.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0,478
+0022500831,663,PT02M55.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,,,0,v,Edwards STEAL (1 STL),,,1,0,479
+0022500831,665,PT02M44.00S,4,1610612755,PHI,1626166,Payne,C. Payne,-110,274,30,Missed,1,,,0,v,MISS Payne 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+0022500831,666,PT02M41.00S,4,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,481
+0022500831,667,PT02M28.00S,4,1610612754,IND,1630643,Huff,J. Huff,-78,261,27,Missed,1,,,0,h,MISS Huff 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0022500831,668,PT02M26.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,483
+0022500831,669,PT02M13.00S,4,1610612755,PHI,1631207,Terry,D. Terry,20,43,5,Missed,1,,,0,v,MISS Terry 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,484
+0022500831,670,PT02M11.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,485
+0022500831,671,PT02M09.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,-91,-1,9,Missed,1,,,0,v,MISS Drummond 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,486
+0022500831,672,PT02M06.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,487
+0022500831,673,PT02M02.00S,4,1610612754,IND,1631245,Jackson,Q. Jackson,-62,262,27,Made,1,106,129,235,h,Jackson 27' 3PT Running Pull-Up Jump Shot (13 PTS) (Brown 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,488
+0022500831,675,PT01M44.00S,4,1610612755,PHI,1630570,Watford,T. Watford,-212,206,30,Missed,1,,,0,v,MISS Watford 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,489
+0022500831,676,PT01M43.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,490
+0022500831,678,PT01M32.00S,4,1610612754,IND,1642880,Jones,K. Jones,7,56,6,Made,1,108,129,237,h,Jones 6' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,1,2,491
+0022500831,679,PT01M25.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,13,32,3,Made,1,108,131,239,v,Edwards 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,492
+0022500831,681,PT01M10.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-4,3,1,Missed,1,,,0,h,MISS Sheppard 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,493
+0022500831,681,PT01M10.00S,4,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (2 BLK),,,1,2,494
+0022500831,683,PT01M10.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,495
+0022500831,684,PT01M10.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,Made,1,110,131,241,h,Brown Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,496
+0022500831,685,PT01M06.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,218,193,29,Missed,1,,,0,v,MISS Edwards 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,497
+0022500831,686,PT01M04.00S,4,1610612754,IND,1641738,Brown,K. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,498
+0022500831,687,PT00M58.10S,4,1610612755,PHI,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.PN) (L.Wood),Foul,Shooting,1,0,499
+0022500831,689,PT00M58.10S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,111,131,242,h,Jackson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,500
+0022500831,690,PT00M58.10S,4,1610612754,IND,1631245,Jackson,Q. Jackson,0,0,0,,0,112,131,243,h,Jackson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,501
+0022500831,691,PT00M45.50S,4,1610612755,PHI,1630570,Watford,T. Watford,-28,16,3,Made,1,112,133,245,v,Watford 3' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,1,2,502
+0022500831,692,PT00M44.20S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard Bad Pass Turnover (P3.T18),Turnover,Bad Pass,1,0,503
+0022500831,692,PT00M44.20S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry STEAL (1 STL),,,1,0,504
+0022500831,694,PT00M43.50S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,,,0,h,Sheppard S.FOUL (P3.PN) (L.Wood),Foul,Shooting,1,0,505
+0022500831,696,PT00M43.50S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,112,134,246,v,Terry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,506
+0022500831,697,PT00M43.50S,4,1610612755,PHI,1631207,Terry,D. Terry,0,0,0,,0,112,135,247,v,Terry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,507
+0022500831,698,PT00M31.30S,4,1610612754,IND,1630643,Huff,J. Huff,-2,-2,0,Made,1,114,135,249,h,Huff Cutting Dunk Shot (4 PTS) (Brown 4 AST),Made Shot,Cutting Dunk Shot,1,2,508
+0022500831,700,PT00M12.60S,4,1610612755,PHI,203083,Drummond,A. Drummond,-237,16,24,Missed,1,,,0,v,MISS Drummond 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022500831,701,PT00M09.80S,4,1610612754,IND,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,510
+0022500831,702,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,135,249,,End of 4th Period (9:26 PM EST),period,end,1,0,511

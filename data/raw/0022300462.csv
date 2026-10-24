@@ -1,0 +1,506 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300462,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+0022300462,4,PT12M00.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Jump Ball Holmgren vs. Porzingis: Tip to White,Jump Ball,,1,0,2
+0022300462,7,PT11M43.00S,1,1610612738,BOS,1627759,Brown,J. Brown,123,226,26,Missed,1,,,0,v,MISS Brown 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,3
+0022300462,8,PT11M40.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300462,9,PT11M29.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-75,120,14,Made,1,2,0,2,h,Gilgeous-Alexander 14' Pullup Jump Shot (2 PTS) (Holmgren 1 AST),Made Shot,Pullup Jump shot,1,2,5
+0022300462,11,PT11M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,6
+0022300462,12,PT10M57.00S,1,1610612760,OKC,1631114,Williams,J. Williams,17,12,2,Made,1,4,0,4,h,Jal. Williams 2' Driving Layup (2 PTS) (Giddey 1 AST),Made Shot,Driving Layup Shot,1,2,7
+0022300462,14,PT10M45.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,16,-2,2,Made,1,4,2,6,v,Porzingis 2' Alley Oop Layup (2 PTS) (Brown 1 AST),Made Shot,Alley Oop Layup shot,1,2,8
+0022300462,16,PT10M30.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,-2,76,8,Made,1,6,2,8,h,Holmgren 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,9
+0022300462,17,PT10M16.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,10
+0022300462,19,PT10M16.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,6,3,9,v,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,11
+0022300462,20,PT10M16.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Holiday Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,12
+0022300462,21,PT10M12.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,13
+0022300462,22,PT10M07.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,1,27,3,Missed,1,,,0,v,MISS Tatum 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,14
+0022300462,23,PT10M04.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022300462,24,PT09M58.00S,1,1610612738,BOS,1628401,White,D. White,-156,195,25,Made,1,6,6,12,v,White 25' 3PT Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,16
+0022300462,26,PT09M41.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,1,70,7,Missed,1,,,0,h,MISS Giddey 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,17
+0022300462,27,PT09M39.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,18
+0022300462,28,PT09M39.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Step Out of Bounds Turnover (P2.T2),Turnover,Step Out of Bounds Turnover,1,0,19
+0022300462,29,PT09M27.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,230,10,0,Made,1,9,6,15,h,Giddey 3PT Jump Shot (3 PTS) (Holmgren 2 AST),Made Shot,Jump Shot,1,3,20
+0022300462,31,PT09M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams P.FOUL (P1.T2) (J.Butler),Foul,Personal,1,0,21
+0022300462,33,PT09M17.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,22
+0022300462,34,PT09M01.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-22,7,2,Missed,1,,,0,h,MISS Giddey 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+0022300462,35,PT08M59.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,24
+0022300462,36,PT08M56.00S,1,1610612738,BOS,1628401,White,D. White,154,204,26,Missed,1,,,0,v,MISS White 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,25
+0022300462,37,PT08M52.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,26
+0022300462,38,PT08M50.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,9,4,1,Made,1,9,8,17,v,Porzingis 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,27
+0022300462,39,PT08M38.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-156,214,26,Made,1,12,8,20,h,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,28
+0022300462,40,PT08M23.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,6,268,27,Made,1,12,11,23,v,Porzingis 27' 3PT Jump Shot (7 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,3,29
+0022300462,42,PT08M07.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-234,-35,24,Made,1,15,11,26,h,Giddey 24' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,3,30
+0022300462,44,PT07M43.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,169,192,26,Made,1,15,14,29,v,Porzingis 26' 3PT Jump Shot (10 PTS) (Tatum 2 AST),Made Shot,Jump Shot,1,3,31
+0022300462,46,PT07M34.00S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,32
+0022300462,47,PT07M22.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-237,33,24,Missed,1,,,0,h,MISS Giddey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022300462,48,PT07M18.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300462,49,PT07M11.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,234,9,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022300462,50,PT07M08.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022300462,51,PT07M03.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-13,11,2,Made,1,17,14,31,h,Gilgeous-Alexander 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,37
+0022300462,52,PT07M03.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,38
+0022300462,54,PT07M03.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: K. Williams FOR Holmgren,Substitution,,0,0,39
+0022300462,56,PT07M03.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,MISS Gilgeous-Alexander Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,40
+0022300462,57,PT07M00.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,41
+0022300462,58,PT06M52.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,232,73,24,Made,1,17,17,34,v,Holiday 24' 3PT Jump Shot (4 PTS) (Porzingis 1 AST),Made Shot,Jump Shot,1,3,42
+0022300462,60,PT06M40.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,140,-22,14,Missed,1,,,0,h,MISS Gilgeous-Alexander 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,43
+0022300462,61,PT06M40.00S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,44
+0022300462,62,PT06M40.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown L.B.FOUL (P1.T2) (M.Dagher),Foul,Loose Ball,1,0,45
+0022300462,64,PT06M40.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Hauser FOR Tatum,Substitution,,0,0,46
+0022300462,65,PT06M40.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Horford FOR Holiday,Substitution,,0,0,47
+0022300462,68,PT06M32.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-196,175,26,Missed,1,,,0,h,MISS Dort 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+0022300462,69,PT06M30.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022300462,70,PT06M21.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams P.FOUL (P1.T3) (J.Butler),Foul,Personal,1,0,50
+0022300462,72,PT06M07.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-157,200,25,Missed,1,,,0,v,MISS Porzingis 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,51
+0022300462,73,PT06M04.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+0022300462,74,PT05M59.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,40,58,7,Missed,1,,,0,h,MISS Giddey 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,53
+0022300462,75,PT05M55.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+0022300462,76,PT05M51.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,20,2,Missed,1,,,0,v,MISS Porzingis 2' Layup,Missed Shot,Layup Shot,1,2,55
+0022300462,76,PT05M51.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort BLOCK (1 BLK),,,1,2,56
+0022300462,78,PT05M51.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,57
+0022300462,80,PT05M41.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-50,6,5,Missed,1,,,0,v,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,58
+0022300462,80,PT05M41.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams BLOCK (1 BLK),,,1,2,59
+0022300462,81,PT05M38.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,60
+0022300462,82,PT05M33.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-235,-6,24,Missed,1,,,0,h,MISS Dort 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,61
+0022300462,83,PT05M31.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,62
+0022300462,84,PT05M24.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,5,4,1,Made,1,19,17,36,h,Gilgeous-Alexander 1' Driving Finger Roll Layup (9 PTS) (K. Williams 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,63
+0022300462,86,PT05M20.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,SUB: Pritchard FOR White,Substitution,,0,0,64
+0022300462,88,PT05M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Wallace FOR Jal. Williams,Substitution,,0,0,65
+0022300462,90,PT05M04.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,188,190,27,Missed,1,,,0,v,MISS Pritchard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300462,91,PT05M01.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,67
+0022300462,92,PT04M50.00S,1,1610612760,OKC,1629652,Dort,L. Dort,43,263,27,Missed,1,,,0,h,MISS Dort 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022300462,93,PT04M48.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,69
+0022300462,94,PT04M44.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,70
+0022300462,94,PT04M44.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford STEAL (1 STL),,,1,0,71
+0022300462,96,PT04M35.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-50,264,27,Missed,1,,,0,v,MISS Brown 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,72
+0022300462,97,PT04M32.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,73
+0022300462,98,PT04M27.00S,1,1610612760,OKC,1629652,Dort,L. Dort,162,196,25,Made,1,22,17,39,h,Dort 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,74
+0022300462,100,PT04M02.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-76,41,9,Made,1,22,19,41,v,Porzingis 9' Jump Shot (12 PTS) (Horford 1 AST),Made Shot,Jump Shot,1,2,75
+0022300462,102,PT03M44.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,82,13,8,Made,1,24,19,43,h,Giddey 8' Pullup Jump Shot (8 PTS) (K. Williams 2 AST),Made Shot,Pullup Jump shot,1,2,76
+0022300462,104,PT03M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Offensive Charge Foul (P2) (B.Taylor),Foul,Offensive Charge,1,0,77
+0022300462,106,PT03M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,78
+0022300462,107,PT03M25.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,SUB: Joe FOR Giddey,Substitution,,0,0,79
+0022300462,108,PT03M25.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Wiggins FOR Dort,Substitution,,0,0,80
+0022300462,109,PT03M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Tatum FOR Brown,Substitution,,0,0,81
+0022300462,110,PT03M25.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Holiday FOR Porzingis,Substitution,,0,0,82
+0022300462,115,PT03M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum P.FOUL (P1.T3) (M.Dagher),Foul,Personal,1,0,83
+0022300462,117,PT03M11.00S,1,1610612760,OKC,1630198,Joe,I. Joe,165,190,25,Made,1,27,19,46,h,Joe 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,84
+0022300462,119,PT03M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,85
+0022300462,120,PT03M09.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Holmgren FOR K. Williams,Substitution,,0,0,86
+0022300462,122,PT02M51.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-136,-10,14,Made,1,27,21,48,v,Tatum 14' Fadeaway Jumper (2 PTS) (Holiday 2 AST),Made Shot,Fadeaway Jump Shot,1,2,87
+0022300462,124,PT02M31.00S,1,1610612760,OKC,1630198,Joe,I. Joe,-1,10,1,Made,1,29,21,50,h,Joe 1' Cutting Dunk Shot (5 PTS) (Holmgren 3 AST),Made Shot,Cutting Dunk Shot,1,2,88
+0022300462,126,PT02M13.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,-229,13,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300462,127,PT02M13.00S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,90
+0022300462,129,PT01M59.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,16,13,2,Missed,1,,,0,h,MISS Wiggins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,91
+0022300462,129,PT01M59.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (1 BLK),,,1,2,92
+0022300462,130,PT01M57.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,93
+0022300462,131,PT01M49.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,239,59,25,Made,1,29,24,53,v,Hauser 25' 3PT Pullup Jump Shot (3 PTS) (Horford 2 AST),Made Shot,Pullup Jump shot,1,3,94
+0022300462,133,PT01M31.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-232,-14,0,Missed,1,,,0,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022300462,134,PT01M29.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,96
+0022300462,136,PT01M10.00S,1,1610612738,BOS,201143,Horford,A. Horford,-227,114,25,Made,1,29,27,56,v,Horford 25' 3PT Jump Shot (3 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,3,97
+0022300462,138,PT00M58.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,118,32,12,Missed,1,,,0,h,MISS Gilgeous-Alexander 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,98
+0022300462,139,PT00M54.80S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+0022300462,140,PT00M53.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,92,247,26,Missed,1,,,0,h,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300462,141,PT00M49.60S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300462,142,PT00M36.10S,1,1610612738,BOS,1628369,Tatum,J. Tatum,48,11,5,Missed,1,,,0,v,MISS Tatum 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,102
+0022300462,142,PT00M36.10S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (1 BLK),,,1,2,103
+0022300462,144,PT00M33.70S,1,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300462,145,PT00M17.90S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,65,139,15,Made,1,31,27,58,h,Gilgeous-Alexander 15' Pullup Jump Shot (11 PTS) (Wiggins 1 AST),Made Shot,Pullup Jump shot,1,2,105
+0022300462,148,PT00M00.60S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace S.FOUL (P1.T4) (M.Dagher),Foul,Shooting,1,0,106
+0022300462,150,PT00M00.60S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,107
+0022300462,151,PT00M00.60S,1,0,,148,,,0,0,0,,0,31,27,58,,Instant Replay1st Period (8:35 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,108
+0022300462,152,PT00M00.60S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,31,28,59,v,Tatum Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,109
+0022300462,153,PT00M00.60S,1,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: K. Williams FOR Joe,Substitution,,0,0,110
+0022300462,155,PT00M00.60S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,31,29,60,v,Tatum Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+0022300462,156,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,29,60,,End of 1st Period (8:37 PM EST),period,end,1,0,112
+0022300462,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,29,60,,Start of 2nd Period (8:40 PM EST),period,start,0,0,113
+0022300462,168,PT11M44.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-4,273,27,Made,1,34,29,63,h,Jal. Williams 27' 3PT Jump Shot (5 PTS) (Micic 1 AST),Made Shot,Jump Shot,1,3,114
+0022300462,170,PT11M24.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,115
+0022300462,170,PT11M24.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams STEAL (1 STL),,,1,0,116
+0022300462,173,PT11M07.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,117
+0022300462,174,PT10M57.00S,2,1610612738,BOS,201143,Horford,A. Horford,233,21,0,Missed,1,,,0,v,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022300462,175,PT10M53.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300462,176,PT10M39.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard P.FOUL (P1.T1) (B.Taylor),Foul,Personal,1,0,120
+0022300462,178,PT10M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,-240,32,24,Missed,1,,,0,h,MISS Micic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300462,178,PT10M26.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (2 BLK),,,1,3,122
+0022300462,180,PT10M25.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,0,0,123
+0022300462,181,PT10M25.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,124
+0022300462,182,PT10M11.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,125
+0022300462,184,PT10M11.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,34,30,64,v,Tatum Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,126
+0022300462,185,PT10M11.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,127
+0022300462,186,PT10M11.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,128
+0022300462,188,PT10M03.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-88,42,10,Made,1,36,30,66,h,Dort 10' Pullup Jump Shot (5 PTS) (Micic 2 AST),Made Shot,Pullup Jump shot,1,2,129
+0022300462,190,PT09M43.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,26,8,3,Made,1,36,32,68,v,Pritchard 3' Driving Layup (2 PTS) (Horford 3 AST),Made Shot,Driving Layup Shot,1,2,130
+0022300462,191,PT09M33.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-129,125,18,Missed,1,,,0,h,MISS Jal. Williams 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,131
+0022300462,192,PT09M30.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,132
+0022300462,194,PT09M11.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,76,73,11,Missed,1,,,0,v,MISS Holiday 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,133
+0022300462,195,PT09M06.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,134
+0022300462,196,PT09M00.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-18,-1,2,Missed,1,,,0,v,MISS Holiday 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,135
+0022300462,196,PT09M00.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (2 BLK),,,1,2,136
+0022300462,198,PT08M57.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022300462,199,PT08M53.00S,2,1610612760,OKC,203995,Micić,V. Micić,165,195,26,Made,1,39,32,71,h,Micic 26' 3PT Running Jump Shot (3 PTS) (Holmgren 4 AST),Made Shot,Running Jump Shot,1,3,138
+0022300462,201,PT08M31.00S,2,1610612738,BOS,201143,Horford,A. Horford,-227,-17,0,Missed,1,,,0,v,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300462,202,PT08M30.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022300462,204,PT08M30.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Wallace FOR Dort,Substitution,,0,0,141
+0022300462,205,PT08M30.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Brown FOR Tatum,Substitution,,0,0,142
+0022300462,206,PT08M30.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: White FOR Holiday,Substitution,,0,0,143
+0022300462,210,PT08M15.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,144
+0022300462,212,PT08M15.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,40,32,72,h,Wiggins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0022300462,213,PT08M15.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: K. Williams FOR Holmgren,Substitution,,0,0,146
+0022300462,214,PT08M15.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Porzingis FOR Horford,Substitution,,0,0,147
+0022300462,217,PT08M15.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,41,32,73,h,Wiggins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,148
+0022300462,218,PT08M00.00S,2,1610612738,BOS,1628401,White,D. White,26,35,4,Missed,1,,,0,v,MISS White 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,149
+0022300462,219,PT07M57.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,150
+0022300462,220,PT07M57.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,Made,1,41,34,75,v,Porzingis Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,151
+0022300462,221,PT07M43.00S,2,1610612760,OKC,203995,Micić,V. Micić,100,275,29,Missed,1,,,0,h,MISS Micic 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300462,222,PT07M40.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,153
+0022300462,224,PT07M33.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-20,11,2,Missed,1,,,0,h,MISS K. Williams 2' Layup,Missed Shot,Layup Shot,1,2,154
+0022300462,224,PT07M33.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis BLOCK (1 BLK),,,1,2,155
+0022300462,226,PT07M30.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+0022300462,227,PT07M28.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,1,0,157
+0022300462,229,PT07M28.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,41,35,76,v,Brown Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,158
+0022300462,230,PT07M28.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Giddey FOR Wiggins,Substitution,,0,0,159
+0022300462,232,PT07M28.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,41,36,77,v,Brown Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,160
+0022300462,233,PT07M17.00S,2,1610612760,OKC,203995,Micić,V. Micić,-2,26,3,Missed,1,,,0,h,MISS Micic 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,161
+0022300462,233,PT07M17.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis BLOCK (2 BLK),,,1,2,162
+0022300462,235,PT07M13.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,163
+0022300462,236,PT07M11.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams S.FOUL (P2.T3) (J.Butler),Foul,Shooting,1,0,164
+0022300462,238,PT07M11.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,41,37,78,v,Brown Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,165
+0022300462,239,PT07M11.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,166
+0022300462,241,PT07M11.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,41,38,79,v,Brown Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+0022300462,242,PT06M57.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-230,-21,0,Missed,1,,,0,h,MISS Giddey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022300462,243,PT06M54.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022300462,244,PT06M50.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,170
+0022300462,244,PT06M50.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams STEAL (2 STL),,,1,0,171
+0022300462,309,PT06M46.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,172
+0022300462,309,PT06M46.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White STEAL (1 STL),,,1,0,173
+0022300462,248,PT06M36.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-225,-27,0,Made,1,41,41,82,v,Pritchard 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,174
+0022300462,250,PT06M34.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,175
+0022300462,251,PT06M34.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Jal. Williams,Substitution,,0,0,176
+0022300462,253,PT06M34.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,SUB: Holiday FOR Pritchard,Substitution,,0,0,177
+0022300462,255,PT06M20.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-6,5,1,Made,1,43,41,84,h,K. Williams 1' Cutting Layup Shot (2 PTS) (Wallace 1 AST),Made Shot,Cutting Layup Shot,1,2,178
+0022300462,257,PT06M09.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,179
+0022300462,257,PT06M09.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander STEAL (1 STL),,,1,0,180
+0022300462,259,PT06M02.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,1,0,181
+0022300462,261,PT06M02.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,44,41,85,h,Gilgeous-Alexander Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,182
+0022300462,262,PT06M02.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,45,41,86,h,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,183
+0022300462,263,PT05M48.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-38,46,6,Made,1,45,43,88,v,Porzingis 6' Driving Layup (16 PTS) (White 2 AST),Made Shot,Driving Layup Shot,1,2,184
+0022300462,265,PT05M39.00S,2,1610612760,OKC,1630198,Joe,I. Joe,75,278,29,Missed,1,,,0,h,MISS Joe 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0022300462,266,PT05M37.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,186
+0022300462,267,PT05M30.00S,2,1610612738,BOS,1628401,White,D. White,51,10,5,Made,1,45,45,90,v,White 5' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,187
+0022300462,268,PT05M06.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,188
+0022300462,268,PT05M06.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet STEAL (1 STL),,,1,0,189
+0022300462,270,PT05M05.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams P.FOUL (P3.T4) (J.Butler),Foul,Personal,1,0,190
+0022300462,272,PT05M05.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Dort FOR Wallace,Substitution,,0,0,191
+0022300462,273,PT05M05.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,SUB: Tatum FOR Kornet,Substitution,,0,0,192
+0022300462,277,PT04M54.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Holmgren FOR K. Williams,Substitution,,0,0,193
+0022300462,279,PT04M50.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White OFF.Foul (P3) (B.Taylor),Foul,Offensive,1,0,194
+0022300462,281,PT04M50.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,195
+0022300462,282,PT04M50.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,SUB: Kornet FOR White,Substitution,,0,0,196
+0022300462,284,PT04M28.00S,2,1610612760,OKC,1630198,Joe,I. Joe,138,227,27,Made,1,48,45,93,h,Joe 27' 3PT Jump Shot (8 PTS) (Holmgren 5 AST),Made Shot,Jump Shot,1,3,197
+0022300462,286,PT04M15.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-125,219,25,Made,1,48,48,96,v,Holiday 25' 3PT Jump Shot (7 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,3,198
+0022300462,288,PT03M57.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,137,218,26,Missed,1,,,0,h,MISS Giddey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022300462,289,PT03M54.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,200
+0022300462,290,PT03M45.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,125,36,13,Missed,1,,,0,v,MISS Tatum 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,201
+0022300462,291,PT03M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,202
+0022300462,292,PT03M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,Missed,1,,,0,v,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,203
+0022300462,293,PT03M39.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,204
+0022300462,294,PT03M39.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,Missed,1,,,0,v,MISS Kornet Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,205
+0022300462,295,PT03M38.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,206
+0022300462,296,PT03M34.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,13,79,8,Made,1,50,48,98,h,Giddey 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,207
+0022300462,297,PT03M12.00S,2,1610612738,BOS,1627759,Brown,J. Brown,233,46,24,Missed,1,,,0,v,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022300462,298,PT03M10.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,209
+0022300462,299,PT03M02.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-15,7,2,Made,1,52,48,100,h,Gilgeous-Alexander 2' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,210
+0022300462,300,PT02M46.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P2.PN) (M.Dagher),Foul,Personal,1,0,211
+0022300462,302,PT02M46.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,212
+0022300462,303,PT02M46.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,SUB: Jal. Williams FOR Giddey,Substitution,,0,0,213
+0022300462,304,PT02M46.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: Wallace FOR Joe,Substitution,,0,0,214
+0022300462,307,PT02M46.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,52,49,101,v,Porzingis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+0022300462,308,PT02M46.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,52,50,102,v,Porzingis Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+0022300462,311,PT02M39.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams Traveling Turnover (P2.T6),Turnover,Traveling,1,0,217
+0022300462,312,PT02M30.00S,2,1610612738,BOS,1627759,Brown,J. Brown,17,-4,2,Made,1,52,52,104,v,Brown 2' Driving Dunk (6 PTS) (Holiday 3 AST),Made Shot,Driving Dunk Shot,1,2,218
+0022300462,313,PT02M12.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams Traveling Turnover (P3.T7),Turnover,Traveling,1,0,219
+0022300462,314,PT02M00.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-230,116,26,Made,1,52,55,107,v,Tatum 26' 3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,3,220
+0022300462,316,PT01M47.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,72,106,13,Made,1,54,55,109,h,Wallace 13' Step Back Jump Shot (2 PTS) (Jal. Williams 1 AST),Made Shot,Step Back Jump shot,1,2,221
+0022300462,318,PT01M30.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,94,132,16,Made,1,54,57,111,v,Tatum 16' Turnaround Fadeaway (10 PTS) (Holiday 4 AST),Made Shot,Turnaround Fadeaway shot,1,2,222
+0022300462,319,PT01M15.00S,2,1610612760,OKC,1629652,Dort,L. Dort,239,60,25,Missed,1,,,0,h,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,223
+0022300462,320,PT01M13.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,224
+0022300462,321,PT01M09.00S,2,1610612738,BOS,1627759,Brown,J. Brown,50,9,5,Missed,1,,,0,v,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,225
+0022300462,321,PT01M09.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams BLOCK (2 BLK),,,1,2,226
+0022300462,323,PT01M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,227
+0022300462,325,PT01M03.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-227,74,24,Missed,1,,,0,v,MISS Brown 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,228
+0022300462,326,PT01M01.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,229
+0022300462,327,PT00M50.20S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-48,23,5,Made,1,56,57,113,h,Gilgeous-Alexander 5' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,230
+0022300462,328,PT00M35.30S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P3.PN) (M.Dagher),Foul,Personal,1,0,231
+0022300462,330,PT00M35.30S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,58,114,v,Tatum Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+0022300462,331,PT00M35.30S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Joe FOR Wallace,Substitution,,0,0,233
+0022300462,332,PT00M35.30S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,SUB: Pritchard FOR Kornet,Substitution,,0,0,234
+0022300462,336,PT00M35.30S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,59,115,v,Tatum Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0022300462,337,PT00M22.30S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-2,18,2,Made,1,58,59,117,h,Holmgren 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,236
+0022300462,339,PT00M02.40S,2,1610612738,BOS,1628369,Tatum,J. Tatum,132,153,20,Made,1,58,61,119,v,Tatum 20' Jump Shot (14 PTS),Made Shot,Jump Shot,1,2,237
+0022300462,340,PT00M00.30S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-189,461,50,Missed,1,,,0,h,MISS Holmgren 50' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,238
+0022300462,341,PT00M00.30S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,239
+0022300462,342,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,61,119,,End of 2nd Period (9:08 PM EST),period,end,1,0,240
+0022300462,347,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,61,119,,Start of 3rd Period (9:23 PM EST),period,start,0,0,241
+0022300462,348,PT11M46.00S,3,1610612760,OKC,1631114,Williams,J. Williams,163,188,25,Made,1,61,61,122,h,Jal. Williams 25' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,1,3,242
+0022300462,350,PT11M29.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,-152,212,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022300462,351,PT11M25.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,244
+0022300462,352,PT11M20.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,-137,221,26,Made,1,64,61,125,h,Holmgren 26' 3PT Running Jump Shot (7 PTS) (Giddey 2 AST),Made Shot,Running Jump Shot,1,3,245
+0022300462,354,PT11M04.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Out of Bounds Lost Ball Turnover (P4.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,246
+0022300462,355,PT10M48.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,123,224,26,Missed,1,,,0,h,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,247
+0022300462,356,PT10M43.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,248
+0022300462,357,PT10M34.00S,3,1610612738,BOS,1628401,White,D. White,168,193,26,Missed,1,,,0,v,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0022300462,358,PT10M31.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,250
+0022300462,359,PT10M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,223,-24,0,Missed,1,,,0,v,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022300462,360,PT10M23.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,252
+0022300462,361,PT10M14.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-6,-2,1,Made,1,66,61,127,h,Gilgeous-Alexander 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,253
+0022300462,362,PT10M05.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-33,28,4,Made,1,66,63,129,v,Porzingis 4' Alley Oop Layup (20 PTS) (Holiday 5 AST),Made Shot,Alley Oop Layup shot,1,2,254
+0022300462,364,PT09M47.00S,3,1610612760,OKC,1631114,Williams,J. Williams,61,20,6,Missed,1,,,0,h,MISS Jal. Williams 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,255
+0022300462,365,PT09M45.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,256
+0022300462,366,PT09M39.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-227,64,24,Missed,1,,,0,v,MISS Tatum 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,257
+0022300462,367,PT09M36.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,258
+0022300462,368,PT09M28.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,20,-1,2,Missed,1,,,0,h,MISS Gilgeous-Alexander 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,259
+0022300462,369,PT09M27.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,260
+0022300462,370,PT09M23.00S,3,1610612738,BOS,1628401,White,D. White,163,194,25,Missed,1,,,0,v,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,261
+0022300462,371,PT09M20.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,262
+0022300462,372,PT09M18.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,11,15,2,Missed,1,,,0,v,MISS Tatum 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,263
+0022300462,373,PT09M18.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,264
+0022300462,374,PT09M12.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,5,-2,1,Made,1,68,63,131,h,Gilgeous-Alexander 1' Running Dunk (21 PTS) (Giddey 3 AST),Made Shot,Running Dunk Shot,1,2,265
+0022300462,376,PT08M53.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-42,1,4,Missed,1,,,0,v,MISS Tatum 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,266
+0022300462,376,PT08M53.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort BLOCK (2 BLK),,,1,2,267
+0022300462,378,PT08M53.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,268
+0022300462,380,PT08M52.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P4.T1) (M.Dagher),Foul,Personal,1,0,269
+0022300462,382,PT08M39.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,16,2,2,Made,1,68,65,133,v,Porzingis 2' Driving Layup (22 PTS) (Holiday 6 AST),Made Shot,Driving Layup Shot,1,2,270
+0022300462,383,PT08M18.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-2,101,10,Made,1,70,65,135,h,Dort 10' Step Back Jump Shot (7 PTS) (Holmgren 6 AST),Made Shot,Step Back Jump shot,1,2,271
+0022300462,385,PT07M58.00S,3,1610612738,BOS,1628401,White,D. White,-1,274,27,Made,1,70,68,138,v,White 27' 3PT Jump Shot (8 PTS) (Porzingis 2 AST),Made Shot,Jump Shot,1,3,272
+0022300462,387,PT07M42.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,-31,-7,3,Made,1,72,68,140,h,Giddey 3' Reverse Layup (12 PTS),Made Shot,Reverse Layup Shot,1,2,273
+0022300462,388,PT07M42.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,274
+0022300462,390,PT07M42.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,73,68,141,h,Giddey Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,275
+0022300462,391,PT07M28.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,276
+0022300462,393,PT07M28.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,MISS Tatum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,277
+0022300462,394,PT07M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,278
+0022300462,395,PT07M28.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,73,69,142,v,Tatum Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+0022300462,396,PT07M12.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,143,225,27,Made,1,76,69,145,h,Giddey 27' 3PT Jump Shot (16 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,1,3,280
+0022300462,399,PT06M58.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,281
+0022300462,400,PT06M58.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Wiggins FOR Jal. Williams,Substitution,,0,0,282
+0022300462,403,PT06M55.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,2,17,2,Missed,1,,,0,v,MISS Porzingis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,283
+0022300462,403,PT06M55.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort BLOCK (3 BLK),,,1,2,284
+0022300462,405,PT06M52.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,285
+0022300462,406,PT06M52.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-43,246,25,Made,1,76,72,148,v,Tatum 25' 3PT Jump Shot (18 PTS) (Holiday 7 AST),Made Shot,Jump Shot,1,3,286
+0022300462,409,PT06M31.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,235,99,26,Made,1,79,72,151,h,Giddey 26' 3PT Jump Shot (19 PTS) (Dort 1 AST),Made Shot,Jump Shot,1,3,287
+0022300462,411,PT06M12.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,4,11,1,Made,1,79,74,153,v,Tatum 1' Driving Dunk (20 PTS) (White 3 AST),Made Shot,Driving Dunk Shot,1,2,288
+0022300462,413,PT05M58.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,15,-8,2,Made,1,81,74,155,h,Gilgeous-Alexander 2' Driving Layup (23 PTS) (Holmgren 7 AST),Made Shot,Driving Layup Shot,1,2,289
+0022300462,415,PT05M49.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0,290
+0022300462,417,PT05M49.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,MISS Porzingis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,291
+0022300462,418,PT05M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,292
+0022300462,419,PT05M49.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Hauser FOR Holiday,Substitution,,0,0,293
+0022300462,421,PT05M49.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,81,75,156,v,Porzingis Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022300462,422,PT05M40.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-6,0,1,Made,1,83,75,158,h,Wiggins 1' Cutting Layup Shot (4 PTS) (Giddey 4 AST),Made Shot,Cutting Layup Shot,1,2,295
+0022300462,424,PT05M21.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-66,36,8,Missed,1,,,0,v,MISS Tatum 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,296
+0022300462,425,PT05M18.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,297
+0022300462,426,PT05M18.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,Missed,1,,,0,v,MISS Porzingis Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,298
+0022300462,427,PT05M18.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,299
+0022300462,428,PT05M17.00S,3,1610612738,BOS,1627759,Brown,J. Brown,154,207,26,Missed,1,,,0,v,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+0022300462,429,PT05M14.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,301
+0022300462,430,PT05M05.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-11,-1,1,Made,1,85,75,160,h,Gilgeous-Alexander 1' Layup (25 PTS) (Giddey 5 AST),Made Shot,Layup Shot,1,2,302
+0022300462,432,PT05M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,303
+0022300462,433,PT04M51.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,-234,-19,0,Made,1,85,78,163,v,Hauser 3PT Jump Shot (6 PTS) (Tatum 4 AST),Made Shot,Jump Shot,1,3,304
+0022300462,435,PT04M30.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,134,234,27,Made,1,88,78,166,h,Gilgeous-Alexander 27' 3PT Step Back Jump Shot (28 PTS) (Giddey 6 AST),Made Shot,Step Back Jump shot,1,3,305
+0022300462,436,PT04M15.00S,3,1610612738,BOS,1628401,White,D. White,-4,22,2,Made,1,88,80,168,v,White 2' Cutting Layup Shot (10 PTS),Made Shot,Cutting Layup Shot,1,2,306
+0022300462,437,PT04M03.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,43,103,11,Made,1,90,80,170,h,Giddey 11' Fadeaway Jumper (21 PTS),Made Shot,Fadeaway Jump Shot,1,2,307
+0022300462,438,PT03M44.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,-11,264,26,Missed,1,,,0,v,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+0022300462,439,PT03M42.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,309
+0022300462,440,PT03M34.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,-4,201,20,Missed,1,,,0,h,MISS Holmgren 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,310
+0022300462,442,PT03M34.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,311
+0022300462,443,PT03M26.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-23,47,5,Missed,1,,,0,v,MISS Porzingis 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,312
+0022300462,443,PT03M26.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (3 BLK),,,1,2,313
+0022300462,445,PT03M24.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,314
+0022300462,446,PT03M22.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P3.T2) (B.Taylor),Foul,Shooting,1,0,315
+0022300462,448,PT03M22.00S,3,0,,1628210,,,0,0,0,,0,,,0,,Joe Mazzulla Foul:T.FOUL (B.Taylor),Foul,Technical,0,0,316
+0022300462,449,PT03M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,MISS Gilgeous-Alexander Free Throw Technical,Free Throw,Free Throw Technical,1,0,317
+0022300462,450,PT03M22.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,318
+0022300462,451,PT03M22.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,SUB: Joe FOR Giddey,Substitution,,0,0,319
+0022300462,452,PT03M22.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Horford FOR Brown,Substitution,,0,0,320
+0022300462,455,PT03M22.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,321
+0022300462,456,PT03M22.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,322
+0022300462,457,PT03M22.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,91,80,171,h,Holmgren Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,323
+0022300462,458,PT03M07.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,324
+0022300462,458,PT03M07.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins STEAL (1 STL),,,1,0,325
+0022300462,460,PT02M54.00S,3,1610612760,OKC,1629652,Dort,L. Dort,82,237,25,Missed,1,,,0,h,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022300462,461,PT02M50.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,v,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,327
+0022300462,462,PT02M41.00S,3,1610612738,BOS,1628401,White,D. White,232,-19,0,Missed,1,,,0,v,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022300462,463,PT02M39.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,329
+0022300462,464,PT02M38.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-74,46,9,Missed,1,,,0,v,MISS Porzingis 9' Putback Layup,Missed Shot,Putback Layup Shot,1,2,330
+0022300462,465,PT02M34.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,331
+0022300462,466,PT02M24.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,108,-7,11,Made,1,93,80,173,h,Gilgeous-Alexander 11' Turnaround Fadeaway (30 PTS),Made Shot,Turnaround Fadeaway shot,1,2,332
+0022300462,467,PT02M06.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,1,0,333
+0022300462,469,PT02M06.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,93,81,174,v,Porzingis Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+0022300462,470,PT02M06.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: Jay. Williams FOR Holmgren,Substitution,,0,0,335
+0022300462,471,PT02M06.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: K. Williams FOR Wiggins,Substitution,,0,0,336
+0022300462,472,PT02M06.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,SUB: Pritchard FOR White,Substitution,,0,0,337
+0022300462,473,PT02M06.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,v,SUB: Holiday FOR Hauser,Substitution,,0,0,338
+0022300462,478,PT02M06.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,93,82,175,v,Porzingis Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,339
+0022300462,479,PT01M47.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-70,148,16,Made,1,95,82,177,h,Joe 16' Pullup Jump Shot (10 PTS) (Jay. Williams 1 AST),Made Shot,Pullup Jump shot,1,2,340
+0022300462,481,PT01M31.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-5,10,1,Made,1,95,84,179,v,Porzingis 1' Cutting Finger Roll Layup Shot (27 PTS) (Pritchard 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,341
+0022300462,483,PT01M15.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-18,3,2,Missed,1,,,0,h,MISS Dort 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,342
+0022300462,483,PT01M15.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (3 BLK),,,1,2,343
+0022300462,485,PT01M12.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,344
+0022300462,486,PT01M11.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-7,-7,1,Missed,1,,,0,h,MISS Dort 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,345
+0022300462,486,PT01M11.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis BLOCK (3 BLK),,,1,2,346
+0022300462,488,PT01M08.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,347
+0022300462,489,PT01M07.00S,3,1610612760,OKC,1629652,Dort,L. Dort,2,-1,0,Missed,1,,,0,h,MISS Dort Putback Layup,Missed Shot,Putback Layup Shot,1,2,348
+0022300462,490,PT01M07.00S,3,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,349
+0022300462,491,PT01M06.00S,3,1610612760,OKC,1631119,Williams,J. Williams,107,230,25,Missed,1,,,0,h,MISS Jay. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300462,492,PT01M04.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,351
+0022300462,493,PT01M00.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,12,8,1,Made,1,95,86,181,v,Tatum 1' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,352
+0022300462,494,PT00M53.60S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-43,-5,4,Missed,1,,,0,h,MISS Gilgeous-Alexander 4' Running Layup,Missed Shot,Running Layup Shot,1,2,353
+0022300462,494,PT00M53.60S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (4 BLK),,,1,2,354
+0022300462,496,PT00M51.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,355
+0022300462,497,PT00M39.50S,3,1610612738,BOS,201950,Holiday,J. Holiday,-6,33,3,Missed,1,,,0,v,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,356
+0022300462,498,PT00M37.60S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,357
+0022300462,499,PT00M29.60S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-224,-20,0,Made,1,98,86,184,h,Gilgeous-Alexander 3PT Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,1,3,358
+0022300462,500,PT00M08.40S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-154,223,27,Missed,1,,,0,v,MISS Tatum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,359
+0022300462,501,PT00M05.20S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,360
+0022300462,502,PT00M00.00S,3,0,,0,,,0,0,0,,0,98,86,184,,End of 3rd Period (9:47 PM EST),period,end,1,0,361
+0022300462,513,PT12M00.00S,4,0,,0,,,0,0,0,,0,98,86,184,,Start of 4th Period (9:50 PM EST),period,start,0,0,362
+0022300462,514,PT11M44.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-37,78,9,Made,1,98,88,186,v,Brown 9' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,363
+0022300462,515,PT11M17.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-108,230,25,Made,1,101,88,189,h,Jay. Williams 25' 3PT Jump Shot (3 PTS) (Wallace 2 AST),Made Shot,Jump Shot,1,3,364
+0022300462,517,PT11M01.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-225,-17,0,Missed,1,,,0,v,MISS Pritchard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300462,518,PT10M58.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,h,Jay. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,366
+0022300462,519,PT10M48.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,230,-6,0,Made,1,104,88,192,h,Wallace 3PT Jump Shot (5 PTS) (Micic 3 AST),Made Shot,Jump Shot,1,3,367
+0022300462,521,PT10M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,368
+0022300462,522,PT10M30.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-55,141,15,Missed,1,,,0,v,MISS Brown 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,369
+0022300462,523,PT10M26.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,370
+0022300462,524,PT10M26.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,Missed,1,,,0,v,MISS Kornet Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,371
+0022300462,525,PT10M25.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,372
+0022300462,526,PT10M14.00S,4,1610612760,OKC,203995,Micić,V. Micić,-99,230,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+0022300462,527,PT10M12.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,374
+0022300462,528,PT10M06.00S,4,1610612738,BOS,201143,Horford,A. Horford,-5,28,3,Made,1,104,90,194,v,Horford 3' Hook Shot (5 PTS) (Pritchard 2 AST),Made Shot,Hook Shot,1,2,375
+0022300462,530,PT09M44.00S,4,1610612760,OKC,1629026,Williams,K. Williams,-190,178,26,Missed,1,,,0,h,MISS K. Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022300462,530,PT09M44.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,Kornet BLOCK (1 BLK),,,1,3,377
+0022300462,532,PT09M40.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,378
+0022300462,533,PT09M35.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-21,26,3,Missed,1,,,0,v,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,379
+0022300462,533,PT09M35.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,h,Jay. Williams BLOCK (1 BLK),,,1,2,380
+0022300462,535,PT09M35.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,381
+0022300462,537,PT09M31.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-103,65,12,Missed,1,,,0,v,MISS Brown 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,382
+0022300462,538,PT09M28.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,383
+0022300462,539,PT09M12.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-67,104,12,Made,1,106,90,196,h,Jal. Williams 12' Fadeaway Jumper (10 PTS) (Micic 4 AST),Made Shot,Fadeaway Jump Shot,1,2,384
+0022300462,541,PT09M00.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,385
+0022300462,541,PT09M00.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace STEAL (1 STL),,,1,0,386
+0022300462,543,PT08M39.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,387
+0022300462,543,PT08M39.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,388
+0022300462,545,PT08M29.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,389
+0022300462,545,PT08M29.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams STEAL (3 STL),,,1,0,390
+0022300462,547,PT08M25.00S,4,1610612760,OKC,1631114,Williams,J. Williams,5,1,1,Made,1,108,90,198,h,Jal. Williams 1' Running Dunk (12 PTS) (Wallace 3 AST),Made Shot,Running Dunk Shot,1,2,391
+0022300462,549,PT08M16.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.T1) (M.Dagher),Foul,Personal,1,0,392
+0022300462,551,PT08M16.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Dort FOR K. Williams,Substitution,,0,0,393
+0022300462,552,PT08M16.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Tatum FOR Holiday,Substitution,,0,0,394
+0022300462,553,PT08M16.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,v,SUB: White FOR Kornet,Substitution,,0,0,395
+0022300462,557,PT08M05.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,229,29,0,Missed,1,,,0,v,MISS Pritchard 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,396
+0022300462,558,PT08M00.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,397
+0022300462,559,PT07M49.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-53,245,25,Missed,1,,,0,h,MISS Jay. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022300462,560,PT07M46.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,399
+0022300462,561,PT07M45.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,400
+0022300462,561,PT07M45.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort STEAL (1 STL),,,1,0,401
+0022300462,563,PT07M41.00S,4,1610612760,OKC,1629652,Dort,L. Dort,233,-12,0,Missed,1,,,0,h,MISS Dort 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022300462,564,PT07M37.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,403
+0022300462,565,PT07M34.00S,4,1610612738,BOS,201143,Horford,A. Horford,4,12,1,Made,1,108,92,200,v,Horford 1' Running Dunk (7 PTS) (Tatum 5 AST),Made Shot,Running Dunk Shot,1,2,404
+0022300462,567,PT07M22.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-55,14,6,Made,1,110,92,202,h,Jay. Williams 6' Jump Shot (5 PTS) (Micic 5 AST),Made Shot,Jump Shot,1,2,405
+0022300462,569,PT07M04.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-4,109,11,Missed,1,,,0,v,MISS Tatum 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,406
+0022300462,570,PT07M02.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,h,Jay. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,407
+0022300462,571,PT06M44.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,233,66,24,Missed,1,,,0,h,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0022300462,572,PT06M42.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,409
+0022300462,573,PT06M41.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,-11,1,Missed,1,,,0,h,MISS Dort 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,410
+0022300462,573,PT06M41.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (5 BLK),,,1,2,411
+0022300462,575,PT06M39.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,412
+0022300462,576,PT06M39.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,413
+0022300462,577,PT06M26.00S,4,1610612738,BOS,1628401,White,D. White,-207,167,27,Made,1,110,95,205,v,White 27' 3PT Jump Shot (13 PTS) (Pritchard 3 AST),Made Shot,Jump Shot,1,3,414
+0022300462,579,PT06M12.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-21,138,14,Missed,1,,,0,h,MISS Jal. Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,415
+0022300462,580,PT06M09.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,416
+0022300462,581,PT06M04.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace P.FOUL (P3.T2) (M.Dagher),Foul,Personal,1,0,417
+0022300462,583,PT06M04.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Holmgren FOR Jay. Williams,Substitution,,0,0,418
+0022300462,584,PT06M04.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Jal. Williams,Substitution,,0,0,419
+0022300462,585,PT06M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,420
+0022300462,586,PT06M04.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Porzingis FOR Horford,Substitution,,0,0,421
+0022300462,591,PT05M58.00S,4,1610612738,BOS,1627759,Brown,J. Brown,43,33,5,Made,1,110,97,207,v,Brown 5' Driving Layup (10 PTS) (Tatum 6 AST),Made Shot,Driving Layup Shot,1,2,422
+0022300462,592,PT05M39.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,26,15,3,Missed,1,,,0,h,MISS Holmgren 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+0022300462,592,PT05M39.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White BLOCK (1 BLK),,,1,2,424
+0022300462,594,PT05M37.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,425
+0022300462,595,PT05M33.00S,4,1610612738,BOS,1628401,White,D. White,-189,178,26,Made,1,110,100,210,v,White 26' 3PT Running Jump Shot (16 PTS) (Pritchard 4 AST),Made Shot,Running Jump Shot,1,3,426
+0022300462,597,PT05M32.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,427
+0022300462,599,PT05M32.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Jal. Williams FOR Wallace,Substitution,,0,0,428
+0022300462,601,PT05M13.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,Giddey Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,429
+0022300462,601,PT05M13.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard STEAL (1 STL),,,1,0,430
+0022300462,603,PT05M09.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,10,7,1,Made,1,110,102,212,v,Tatum 1' Running Alley Oop Layup Shot (24 PTS) (White 4 AST),Made Shot,Running Alley Oop Layup Shot,1,2,431
+0022300462,605,PT04M53.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,-108,222,25,Made,1,113,102,215,h,Holmgren 25' 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,1,3,432
+0022300462,607,PT04M44.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum OFF.Foul (P2) (B.Taylor),Foul,Offensive,1,0,433
+0022300462,609,PT04M44.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,434
+0022300462,610,PT04M32.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum S.FOUL (P3.T1) (B.Taylor),Foul,Shooting,1,0,435
+0022300462,612,PT04M32.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,436
+0022300462,613,PT04M32.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,437
+0022300462,614,PT04M32.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,114,102,216,h,Gilgeous-Alexander Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+0022300462,615,PT04M21.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P5.T3) (J.Butler),Foul,Personal,1,0,439
+0022300462,617,PT04M12.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-2,18,2,Made,1,114,104,218,v,Tatum 2' Driving Layup (26 PTS) (White 5 AST),Made Shot,Driving Layup Shot,1,2,440
+0022300462,619,PT03M47.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Jump Ball Holmgren vs. Pritchard: Tip to Brown,Jump Ball,,1,0,441
+0022300462,622,PT03M47.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,442
+0022300462,622,PT03M47.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,v,Pritchard STEAL (2 STL),,,1,0,443
+0022300462,624,PT03M39.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-203,176,27,Missed,1,,,0,v,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022300462,625,PT03M35.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,445
+0022300462,626,PT03M33.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-20,10,2,Missed,1,,,0,v,MISS Tatum 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,446
+0022300462,626,PT03M33.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (4 BLK),,,1,2,447
+0022300462,627,PT03M31.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,448
+0022300462,628,PT03M30.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-13,15,2,Made,1,114,106,220,v,Tatum 2' Putback Dunk (28 PTS),Made Shot,Putback Dunk Shot,1,2,449
+0022300462,629,PT03M10.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-45,82,9,Missed,1,,,0,h,MISS Gilgeous-Alexander 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,450
+0022300462,630,PT03M06.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,451
+0022300462,631,PT03M06.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,Made,1,116,106,222,h,Dort Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,452
+0022300462,633,PT02M50.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-13,270,27,Missed,1,,,0,v,MISS Tatum 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,453
+0022300462,634,PT02M44.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,454
+0022300462,635,PT02M44.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,Made,1,116,108,224,v,Brown Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2,455
+0022300462,636,PT02M31.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,456
+0022300462,636,PT02M31.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum STEAL (1 STL),,,1,0,457
+0022300462,638,PT02M28.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Jal. Williams S.FOUL (P3.T4) (M.Dagher),Foul,Shooting,1,0,458
+0022300462,640,PT02M28.00S,4,0,,638,,,0,0,0,,0,116,108,224,,Instant Replay4th Period (10:09 PM EST),Instant Replay,Ruling Stands,0,0,459
+0022300462,641,PT02M28.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,116,109,225,v,Brown Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+0022300462,642,PT02M28.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,116,110,226,v,Brown Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0022300462,643,PT02M06.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,142,229,27,Made,1,119,110,229,h,Holmgren 27' 3PT Jump Shot (14 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,1,3,462
+0022300462,645,PT01M54.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-11,0,1,Made,1,119,112,231,v,Porzingis 1' Driving Dunk (29 PTS) (White 6 AST),Made Shot,Driving Dunk Shot,1,2,463
+0022300462,647,PT01M54.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,1,0,464
+0022300462,649,PT01M54.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,119,113,232,v,Porzingis Free Throw 1 of 1 (30 PTS),Free Throw,Free Throw 1 of 1,1,0,465
+0022300462,651,PT01M34.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,136,13,14,Missed,1,,,0,h,MISS Gilgeous-Alexander 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,466
+0022300462,652,PT01M32.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,467
+0022300462,653,PT01M32.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort L.B.FOUL (P2.PN) (B.Taylor),Foul,Loose Ball,1,0,468
+0022300462,655,PT01M32.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,469
+0022300462,656,PT01M32.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,470
+0022300462,657,PT01M32.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,119,114,233,v,Brown Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+0022300462,658,PT01M19.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,1,0,472
+0022300462,660,PT01M19.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,120,114,234,h,Jal. Williams Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0022300462,661,PT01M19.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,SUB: K. Williams FOR Giddey,Substitution,,0,0,474
+0022300462,663,PT01M19.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,121,114,235,h,Jal. Williams Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,475
+0022300462,664,PT01M11.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,K. Williams S.FOUL (P4.PN) (M.Dagher),Foul,Shooting,1,0,476
+0022300462,666,PT01M11.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,121,115,236,v,Tatum Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+0022300462,667,PT01M11.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Joe FOR K. Williams,Substitution,,0,0,478
+0022300462,669,PT01M11.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,121,116,237,v,Tatum Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,479
+0022300462,670,PT00M53.80S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,109,242,27,Missed,1,,,0,h,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,480
+0022300462,671,PT00M51.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,481
+0022300462,672,PT00M41.00S,4,1610612738,BOS,1628401,White,D. White,-230,-41,0,Made,1,121,119,240,v,White 3PT Jump Shot (19 PTS) (Tatum 7 AST),Made Shot,Jump Shot,1,3,482
+0022300462,674,PT00M26.10S,4,1610612760,OKC,1631114,Williams,J. Williams,-11,38,4,Made,1,123,119,242,h,Jal. Williams 4' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,483
+0022300462,675,PT00M26.10S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,484
+0022300462,676,PT00M26.10S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: K. Williams FOR Joe,Substitution,,0,0,485
+0022300462,678,PT00M15.20S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren S.FOUL (P1.PN) (J.Butler),Foul,Shooting,1,0,486
+0022300462,680,PT00M15.20S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,123,120,243,v,Porzingis Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022300462,681,PT00M15.20S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Joe FOR Dort,Substitution,,0,0,488
+0022300462,682,PT00M15.20S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Giddey FOR K. Williams,Substitution,,0,0,489
+0022300462,685,PT00M15.20S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,123,121,244,v,Porzingis Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,490
+0022300462,686,PT00M15.20S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,491
+0022300462,687,PT00M15.20S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: Dort FOR Joe,Substitution,,0,0,492
+0022300462,689,PT00M12.10S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,v,White P.FOUL (P4.PN) (B.Taylor),Foul,Personal,1,0,493
+0022300462,691,PT00M12.10S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,124,121,245,h,Giddey Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+0022300462,692,PT00M12.10S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,125,121,246,h,Giddey Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+0022300462,694,PT00M03.70S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-212,-21,21,Made,1,125,123,248,v,Porzingis 21' Jump Shot (34 PTS) (Tatum 8 AST),Made Shot,Jump Shot,1,2,496
+0022300462,696,PT00M03.70S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,497
+0022300462,697,PT00M02.80S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P5.PN) (M.Dagher),Foul,Personal,1,0,498
+0022300462,699,PT00M02.80S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,126,123,249,h,Gilgeous-Alexander Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,1,0,499
+0022300462,700,PT00M02.80S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,,,0,h,SUB: K. Williams FOR Giddey,Substitution,,0,0,500
+0022300462,702,PT00M02.80S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,127,123,250,h,Gilgeous-Alexander Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,1,0,501
+0022300462,703,PT00M02.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,502
+0022300462,704,PT00M00.80S,4,1610612738,BOS,1627759,Brown,J. Brown,225,-25,0,Missed,1,,,0,v,MISS Brown 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,503
+0022300462,705,PT00M00.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,504
+0022300462,706,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,123,250,,End of 4th Period (10:28 PM EST),period,end,1,0,505

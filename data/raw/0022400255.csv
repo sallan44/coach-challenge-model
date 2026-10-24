@@ -1,0 +1,485 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400255,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+0022400255,4,PT12M00.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jump Ball Jackson Jr. vs. Embiid: Tip to Clarke,Jump Ball,,1,0,2
+0022400255,8,PT11M38.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022400255,8,PT11M38.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey STEAL (1 STL),,,1,0,4
+0022400255,10,PT11M26.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,5
+0022400255,10,PT11M26.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane STEAL (1 STL),,,1,0,6
+0022400255,12,PT11M19.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,11,11,2,Missed,1,,,0,h,MISS Jackson Jr. 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,7
+0022400255,13,PT11M19.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,8
+0022400255,15,PT11M01.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,31,21,4,Made,1,0,2,2,v,Maxey 4' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,9
+0022400255,16,PT10M54.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey P.FOUL (P1.T1) (B.Schwab),Foul,Personal,1,0,10
+0022400255,18,PT10M46.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,-10,59,6,Made,1,2,2,4,h,Clarke 6' Floating Jump Shot (2 PTS) (Pippen Jr. 1 AST),Made Shot,Floating Jump shot,1,2,11
+0022400255,20,PT10M30.00S,1,1610612755,PHI,1628997,Martin,C. Martin,-156,204,26,Missed,1,,,0,v,MISS C. Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022400255,21,PT10M27.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022400255,22,PT10M18.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-243,11,24,Missed,1,,,0,h,MISS Bane 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,14
+0022400255,23,PT10M15.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022400255,24,PT09M52.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,143,64,16,Missed,1,,,0,v,MISS Embiid 16' Hook Shot,Missed Shot,Hook Shot,1,2,16
+0022400255,25,PT09M50.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022400255,26,PT09M46.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,22,17,3,Made,1,4,2,6,h,Pippen Jr. 3' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,18
+0022400255,27,PT09M30.00S,1,1610612755,PHI,1642272,McCain,J. McCain,-2,20,2,Made,1,4,4,8,v,McCain 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,19
+0022400255,28,PT09M13.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,22,62,7,Missed,1,,,0,h,MISS Pippen Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,20
+0022400255,29,PT09M11.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022400255,30,PT09M04.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,124,288,31,Missed,1,,,0,v,MISS Maxey 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+0022400255,31,PT09M02.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+0022400255,32,PT08M51.00S,1,1610612755,PHI,1642272,McCain,J. McCain,230,73,24,Missed,1,,,0,v,MISS McCain 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+0022400255,33,PT08M48.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022400255,34,PT08M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,233,31,24,Made,1,7,4,11,h,Jackson Jr. 24' 3PT Jump Shot (3 PTS) (Wells 1 AST),Made Shot,Jump Shot,1,3,26
+0022400255,36,PT08M19.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-62,248,26,Missed,1,,,0,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022400255,37,PT08M16.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022400255,38,PT08M07.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,157,216,27,Missed,1,,,0,h,MISS Jackson Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0022400255,39,PT08M04.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022400255,40,PT08M01.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,31
+0022400255,42,PT08M01.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,7,5,12,v,Maxey Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022400255,43,PT08M01.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,33
+0022400255,44,PT08M01.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Kennard FOR Bane,Substitution,,0,0,34
+0022400255,47,PT08M01.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,7,6,13,v,Maxey Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+0022400255,48,PT07M45.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,45,5,5,Missed,1,,,0,h,MISS Pippen Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,36
+0022400255,49,PT07M45.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,37
+0022400255,50,PT07M41.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,27,14,3,Made,1,9,6,15,h,Clarke 3' Layup (4 PTS),Made Shot,Layup Shot,1,2,38
+0022400255,52,PT07M30.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-230,17,0,Missed,1,,,0,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022400255,53,PT07M27.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+0022400255,54,PT07M24.00S,1,1610612763,MEM,1628379,Kennard,L. Kennard,-164,195,25,Missed,1,,,0,h,MISS Kennard 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,41
+0022400255,55,PT07M21.00S,1,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+0022400255,56,PT07M06.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,28,29,4,Made,1,9,8,17,v,Embiid 4' Turnaround Bank Hook Shot (2 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,43
+0022400255,57,PT06M48.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,228,115,26,Missed,1,,,0,h,MISS Clarke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0022400255,58,PT06M45.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+0022400255,59,PT06M42.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,227,83,24,Missed,1,,,0,v,MISS Maxey 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,46
+0022400255,60,PT06M38.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+0022400255,61,PT06M35.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,48
+0022400255,61,PT06M35.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George STEAL (1 STL),,,1,0,49
+0022400255,63,PT06M32.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,50
+0022400255,65,PT06M32.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022400255,66,PT06M32.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,SUB: Bane FOR Pippen Jr.,Substitution,,0,0,52
+0022400255,67,PT06M32.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Clarke,Substitution,,0,0,53
+0022400255,68,PT06M32.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Jackson FOR Maxey,Substitution,,0,0,54
+0022400255,69,PT06M32.00S,1,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR C. Martin,Substitution,,0,0,55
+0022400255,74,PT06M32.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,9,9,18,v,Embiid Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,56
+0022400255,75,PT06M32.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,9,10,19,v,Embiid Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,57
+0022400255,76,PT06M24.00S,1,1610612763,MEM,1630217,Bane,D. Bane,25,17,3,Missed,1,,,0,h,MISS Bane 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,58
+0022400255,77,PT06M22.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+0022400255,78,PT06M19.00S,1,1610612763,MEM,1642377,Wells,J. Wells,147,234,28,Made,1,12,10,22,h,Wells 28' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,60
+0022400255,80,PT06M02.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,61
+0022400255,82,PT06M02.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12,11,23,v,Embiid Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,62
+0022400255,83,PT06M02.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12,12,24,v,Embiid Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,63
+0022400255,84,PT05M52.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,64
+0022400255,85,PT05M28.00S,1,1610612755,PHI,202331,George,P. George,-232,52,24,Missed,1,,,0,v,MISS George 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,65
+0022400255,86,PT05M26.00S,1,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022400255,87,PT05M21.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-16,14,2,Missed,1,,,0,h,MISS Aldama 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,67
+0022400255,88,PT05M17.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,68
+0022400255,89,PT05M17.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,Missed,1,,,0,h,MISS Aldama Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,69
+0022400255,91,PT05M13.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022400255,92,PT05M09.00S,1,1610612755,PHI,1642272,McCain,J. McCain,18,20,3,Made,1,12,14,26,v,McCain 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,71
+0022400255,93,PT04M59.00S,1,1610612763,MEM,1642377,Wells,J. Wells,-229,11,0,Made,1,15,14,29,h,Wells 3PT Jump Shot (6 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,3,72
+0022400255,95,PT04M44.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-25,26,4,Made,1,15,16,31,v,Embiid 4' Finger Roll Layup (8 PTS) (George 1 AST),Made Shot,Finger Roll Layup Shot,1,2,73
+0022400255,97,PT04M30.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-22,16,3,Made,1,17,16,33,h,Jackson Jr. 3' Driving Finger Roll Layup (5 PTS) (Aldama 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,74
+0022400255,102,PT04M05.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,59,109,12,Made,1,17,18,35,v,Embiid 12' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,75
+0022400255,103,PT03M58.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-82,246,26,Missed,1,,,0,h,MISS Jackson Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,76
+0022400255,104,PT03M55.00S,1,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022400255,105,PT03M48.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-194,178,26,Missed,1,,,0,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022400255,106,PT03M45.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022400255,107,PT03M40.00S,1,1610612763,MEM,1642377,Wells,J. Wells,-12,11,2,Made,1,19,18,37,h,Wells 2' Running Finger Roll Layup (8 PTS) (Bane 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,80
+0022400255,109,PT03M20.00S,1,1610612755,PHI,1642272,McCain,J. McCain,-23,22,3,Missed,1,,,0,v,MISS McCain 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,81
+0022400255,110,PT03M18.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,82
+0022400255,111,PT03M18.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,83
+0022400255,112,PT03M18.00S,1,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,SUB: LaRavia FOR Wells,Substitution,,0,0,84
+0022400255,113,PT03M18.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Huff FOR Jackson Jr.,Substitution,,0,0,85
+0022400255,116,PT03M18.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,86
+0022400255,117,PT03M18.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Drummond FOR George,Substitution,,0,0,87
+0022400255,118,PT03M18.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Yabusele FOR Embiid,Substitution,,0,0,88
+0022400255,121,PT02M55.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane S.FOUL (P1.T4) (J.Orr),Foul,Shooting,1,0,89
+0022400255,123,PT02M55.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,19,19,38,v,McCain Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,1,0,90
+0022400255,124,PT02M55.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,19,20,39,v,McCain Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,1,0,91
+0022400255,125,PT02M55.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,19,21,40,v,McCain Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,1,0,92
+0022400255,126,PT02M45.00S,1,1610612763,MEM,1630643,Huff,J. Huff,-38,262,26,Missed,1,,,0,h,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022400255,127,PT02M40.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022400255,128,PT02M34.00S,1,1610612755,PHI,1642272,McCain,J. McCain,-216,136,26,Made,1,19,24,43,v,McCain 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,95
+0022400255,129,PT02M22.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,2,57,6,Made,1,21,24,45,h,Aldama 6' Driving Hook Shot (2 PTS) (LaRavia 1 AST),Made Shot,Driving Hook Shot,1,2,96
+0022400255,131,PT02M11.00S,1,1610612755,PHI,1642272,McCain,J. McCain,-4,280,28,Missed,1,,,0,v,MISS McCain 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,97
+0022400255,132,PT02M08.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022400255,133,PT02M03.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,99
+0022400255,133,PT02M03.00S,1,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (1 STL),,,1,0,100
+0022400255,135,PT01M56.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-232,50,24,Missed,1,,,0,v,MISS Oubre Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,101
+0022400255,136,PT01M53.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,102
+0022400255,137,PT01M45.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,89,22,9,Made,1,23,24,47,h,Aldama 9' Driving Floating Jump Shot (4 PTS) (Kennard 1 AST),Made Shot,Driving Floating Jump Shot,1,2,103
+0022400255,139,PT01M23.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,-20,21,3,Made,1,23,26,49,v,Drummond 3' Cutting Layup Shot (2 PTS) (McCain 1 AST),Made Shot,Cutting Layup Shot,1,2,104
+0022400255,141,PT01M15.00S,1,1610612763,MEM,1630217,Bane,D. Bane,9,41,4,Made,1,25,26,51,h,Bane 4' Driving Floating Jump Shot (2 PTS) (LaRavia 2 AST),Made Shot,Driving Floating Jump Shot,1,2,105
+0022400255,143,PT00M54.40S,1,1610612755,PHI,202704,Jackson,R. Jackson,-42,21,5,Made,1,25,28,53,v,Jackson 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,106
+0022400255,144,PT00M34.80S,1,1610612763,MEM,1628379,Kennard,L. Kennard,-76,237,25,Made,1,28,28,56,h,Kennard 25' 3PT Pullup Jump Shot (3 PTS) (Bane 2 AST),Made Shot,Pullup Jump shot,1,3,107
+0022400255,146,PT00M23.60S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,-180,194,26,Made,1,28,31,59,v,Yabusele 26' 3PT Jump Shot (3 PTS) (McCain 2 AST),Made Shot,Jump Shot,1,3,108
+0022400255,148,PT00M07.00S,1,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Personal Take Foul (P1.T2) (S.Foster),Foul,Personal Take,1,0,109
+0022400255,150,PT00M07.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: C. Martin FOR McCain,Substitution,,0,0,110
+0022400255,152,PT00M03.40S,1,1610612763,MEM,1630217,Bane,D. Bane,123,273,30,Made,1,31,31,62,h,Bane 30' 3PT Jump Shot (5 PTS) (Huff 1 AST),Made Shot,Jump Shot,1,3,111
+0022400255,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,31,62,,End of 1st Period (8:34 PM EST),period,end,1,0,112
+0022400255,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,31,62,,Start of 2nd Period (8:37 PM EST),period,start,0,0,113
+0022400255,162,PT11M46.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George OFF.Foul (P1) (J.Orr),Foul,Offensive,1,0,114
+0022400255,164,PT11M46.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,115
+0022400255,165,PT11M37.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,-235,40,24,Made,1,34,31,65,h,Kennard 24' 3PT Jump Shot (6 PTS) (Spencer 1 AST),Made Shot,Jump Shot,1,3,116
+0022400255,167,PT11M27.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P1.T1) (J.Orr),Foul,Personal,1,0,117
+0022400255,169,PT11M15.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,178,197,27,Missed,1,,,0,v,MISS Yabusele 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022400255,170,PT11M12.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+0022400255,171,PT11M10.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,7,8,1,Made,1,34,33,67,v,Drummond 1' Dunk (4 PTS) (Yabusele 1 AST),Made Shot,Dunk Shot,1,2,120
+0022400255,173,PT11M03.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,22,250,25,Made,1,37,33,70,h,Kennard 25' 3PT Jump Shot (9 PTS) (Huff 2 AST),Made Shot,Jump Shot,1,3,121
+0022400255,175,PT10M38.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,-25,39,5,Missed,1,,,0,v,MISS Drummond 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,122
+0022400255,175,PT10M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,123
+0022400255,177,PT10M35.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0022400255,178,PT10M26.00S,2,1610612763,MEM,1630643,Huff,J. Huff,-238,4,24,Made,1,40,33,73,h,Huff 24' 3PT Jump Shot (3 PTS) (Spencer 2 AST),Made Shot,Jump Shot,1,3,125
+0022400255,180,PT10M20.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,126
+0022400255,181,PT10M20.00S,2,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,SUB: C. Martin FOR Jackson,Substitution,,0,0,127
+0022400255,182,PT10M20.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: McCain FOR Oubre Jr.,Substitution,,0,0,128
+0022400255,183,PT10M20.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,SUB: Gordon FOR Yabusele,Substitution,,0,0,129
+0022400255,187,PT10M14.00S,2,1610612755,PHI,202331,George,P. George,130,46,14,Missed,1,,,0,v,MISS George 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,130
+0022400255,188,PT10M09.00S,2,1610612763,MEM,1642285,Spencer,C. Spencer,0,0,0,,0,,,0,h,Spencer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022400255,189,PT09M59.00S,2,1610612763,MEM,1630643,Huff,J. Huff,-228,13,0,Missed,1,,,0,h,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022400255,190,PT09M56.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0022400255,191,PT09M52.00S,2,1610612755,PHI,1642272,McCain,J. McCain,-43,28,5,Missed,1,,,0,v,MISS McCain 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,134
+0022400255,192,PT09M48.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,135
+0022400255,193,PT09M48.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,Missed,1,,,0,v,MISS Drummond Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,136
+0022400255,194,PT09M48.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,137
+0022400255,195,PT09M45.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,Missed,1,,,0,v,MISS Drummond Putback Layup,Missed Shot,Putback Layup Shot,1,2,138
+0022400255,195,PT09M45.00S,2,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff BLOCK (1 BLK),,,1,2,139
+0022400255,197,PT09M44.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022400255,198,PT09M33.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,1,53,5,Missed,1,,,0,h,MISS Pippen Jr. 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,141
+0022400255,199,PT09M30.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,142
+0022400255,200,PT09M22.00S,2,1610612755,PHI,202331,George,P. George,-103,178,21,Missed,1,,,0,v,MISS George 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,143
+0022400255,201,PT09M19.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+0022400255,202,PT08M59.00S,2,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,1,0,145
+0022400255,203,PT08M59.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Wells FOR Kennard,Substitution,,0,0,146
+0022400255,205,PT08M42.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,9,12,2,Made,1,40,35,75,v,Drummond 2' Cutting Dunk Shot (6 PTS) (George 2 AST),Made Shot,Cutting Dunk Shot,1,2,147
+0022400255,207,PT08M42.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. S.FOUL (P2.T2) (S.Foster),Foul,Shooting,1,0,148
+0022400255,209,PT08M42.00S,2,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Huff,Substitution,,0,0,149
+0022400255,211,PT08M42.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,MISS Drummond Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,150
+0022400255,212,PT08M39.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022400255,213,PT08M24.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,152
+0022400255,213,PT08M24.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (1 STL),,,1,0,153
+0022400255,215,PT08M18.00S,2,1610612755,PHI,202331,George,P. George,21,17,3,Made,1,40,37,77,v,George 3' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,154
+0022400255,216,PT08M07.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,155
+0022400255,216,PT08M07.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (2 STL),,,1,0,156
+0022400255,218,PT07M53.00S,2,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,157
+0022400255,218,PT07M53.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,158
+0022400255,220,PT07M49.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-49,253,26,Made,1,43,37,80,h,Pippen Jr. 26' 3PT Running Jump Shot (5 PTS) (LaRavia 3 AST),Made Shot,Running Jump Shot,1,3,159
+0022400255,222,PT07M31.00S,2,1610612755,PHI,1642272,McCain,J. McCain,5,295,30,Missed,1,,,0,v,MISS McCain 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,160
+0022400255,223,PT07M27.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,161
+0022400255,224,PT07M27.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,Made,1,43,39,82,v,Drummond Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,162
+0022400255,225,PT07M20.00S,2,1610612763,MEM,1642285,Spencer,C. Spencer,7,246,25,Missed,1,,,0,h,MISS Spencer 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022400255,226,PT07M15.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,164
+0022400255,229,PT07M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,16,2,Made,1,45,39,84,h,LaRavia 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,165
+0022400255,231,PT06M53.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Clarke FOR LaRavia,Substitution,,0,0,166
+0022400255,232,PT06M53.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Embiid FOR Drummond,Substitution,,0,0,167
+0022400255,235,PT06M49.00S,2,1610612755,PHI,202331,George,P. George,20,109,11,Missed,1,,,0,v,MISS George 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,168
+0022400255,236,PT06M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,169
+0022400255,237,PT06M44.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,1,12,1,Made,1,45,41,86,v,Embiid 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,1,2,170
+0022400255,238,PT06M37.00S,2,1610612763,MEM,1642377,Wells,J. Wells,-228,24,0,Missed,1,,,0,h,MISS Wells 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022400255,239,PT06M33.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,172
+0022400255,240,PT06M27.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,-32,67,7,Missed,1,,,0,v,MISS Gordon 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,173
+0022400255,240,PT06M27.00S,2,1610612763,MEM,1642285,Spencer,C. Spencer,0,0,0,,0,,,0,h,Spencer BLOCK (1 BLK),,,1,2,174
+0022400255,242,PT06M27.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0,175
+0022400255,244,PT06M08.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,-96,5,10,Missed,1,,,0,h,MISS Clarke 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,176
+0022400255,245,PT06M06.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,177
+0022400255,246,PT05M59.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-21,8,2,Missed,1,,,0,h,MISS Pippen Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,178
+0022400255,246,PT05M59.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid BLOCK (1 BLK),,,1,2,179
+0022400255,248,PT05M59.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0,180
+0022400255,250,PT05M59.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Yabusele FOR George,Substitution,,0,0,181
+0022400255,252,PT05M55.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,-235,24,24,Missed,1,,,0,h,MISS Clarke 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022400255,253,PT05M53.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,183
+0022400255,254,PT05M50.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,13,1,Made,1,45,43,88,v,Yabusele 1' Running Dunk (5 PTS) (McCain 3 AST),Made Shot,Running Dunk Shot,1,2,184
+0022400255,256,PT05M50.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,185
+0022400255,257,PT05M50.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,SUB: Bane FOR Pippen Jr.,Substitution,,0,0,186
+0022400255,258,PT05M50.00S,2,1610612763,MEM,1642285,Spencer,C. Spencer,0,0,0,,0,,,0,h,SUB: Aldama FOR Spencer,Substitution,,0,0,187
+0022400255,259,PT05M50.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,,,0,v,SUB: Council IV FOR Gordon,Substitution,,0,0,188
+0022400255,263,PT05M37.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-42,20,5,Missed,1,,,0,h,MISS Jackson Jr. 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,189
+0022400255,264,PT05M36.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0,190
+0022400255,266,PT05M30.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,50,82,10,Missed,1,,,0,h,MISS Clarke 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,191
+0022400255,267,PT05M27.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,192
+0022400255,268,PT05M20.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-39,276,28,Missed,1,,,0,h,MISS Bane 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022400255,269,PT05M18.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0,194
+0022400255,271,PT05M08.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-40,252,26,Missed,1,,,0,h,MISS Bane 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022400255,272,PT05M04.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,196
+0022400255,273,PT04M56.00S,2,1610612755,PHI,1642272,McCain,J. McCain,-2,111,11,Missed,1,,,0,v,MISS McCain 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,197
+0022400255,274,PT04M54.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,198
+0022400255,275,PT04M49.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-229,80,24,Made,1,48,43,91,h,Bane 24' 3PT Step Back Jump Shot (8 PTS) (Aldama 3 AST),Made Shot,Step Back Jump shot,1,3,199
+0022400255,277,PT04M29.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele Traveling Turnover (P1.T4),Turnover,Traveling,1,0,200
+0022400255,278,PT04M17.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,45,83,9,Made,1,50,43,93,h,Clarke 9' Turnaround Jump Shot (6 PTS) (Bane 3 AST),Made Shot,Turnaround Jump Shot,1,2,201
+0022400255,280,PT03M53.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-42,31,5,Missed,1,,,0,v,MISS Embiid 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022400255,281,PT03M50.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,203
+0022400255,282,PT03M48.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,9,10,1,Made,1,50,45,95,v,Council IV 1' Driving Dunk (2 PTS) (Yabusele 2 AST),Made Shot,Driving Dunk Shot,1,2,204
+0022400255,284,PT03M44.00S,2,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain P.FOUL (P1.T1) (J.Orr),Foul,Personal,1,0,205
+0022400255,286,PT03M39.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-39,193,20,Made,1,52,45,97,h,Bane 20' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,206
+0022400255,287,PT03M24.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,120,235,26,Made,1,52,48,100,v,Embiid 26' 3PT Jump Shot (15 PTS) (C. Martin 1 AST),Made Shot,Jump Shot,1,3,207
+0022400255,289,PT03M12.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,208
+0022400255,289,PT03M12.00S,2,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin STEAL (1 STL),,,1,0,209
+0022400255,291,PT03M08.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,5,16,2,Made,1,52,50,102,v,Council IV 2' Running Dunk (4 PTS) (C. Martin 2 AST),Made Shot,Running Dunk Shot,1,2,210
+0022400255,293,PT02M59.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-96,234,25,Made,1,55,50,105,h,Jackson Jr. 25' 3PT Jump Shot (8 PTS) (Aldama 4 AST),Made Shot,Jump Shot,1,3,211
+0022400255,295,PT02M40.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,-232,28,0,Made,1,55,53,108,v,Yabusele 3PT Jump Shot (8 PTS) (C. Martin 3 AST),Made Shot,Jump Shot,1,3,212
+0022400255,297,PT02M21.00S,2,1610612763,MEM,1630217,Bane,D. Bane,197,163,26,Made,1,58,53,111,h,Bane 26' 3PT Jump Shot (13 PTS) (Aldama 5 AST),Made Shot,Jump Shot,1,3,213
+0022400255,299,PT02M07.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,31,126,13,Missed,1,,,0,v,MISS Embiid 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,214
+0022400255,300,PT02M05.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,215
+0022400255,301,PT02M05.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,Missed,1,,,0,v,MISS Yabusele Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,216
+0022400255,302,PT02M05.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0,217
+0022400255,303,PT02M05.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele L.B.FOUL (P1.T2) (J.Orr),Foul,Loose Ball,1,0,218
+0022400255,305,PT02M05.00S,2,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,SUB: LaRavia FOR Wells,Substitution,,0,0,219
+0022400255,306,PT02M05.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: Kennard FOR Clarke,Substitution,,0,0,220
+0022400255,307,PT02M05.00S,2,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: Jackson FOR McCain,Substitution,,0,0,221
+0022400255,308,PT02M05.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,SUB: George FOR Yabusele,Substitution,,0,0,222
+0022400255,313,PT01M53.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-82,239,25,Made,1,61,53,114,h,Bane 25' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,223
+0022400255,316,PT01M51.00S,2,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,,"Double Technical - C. Martin, Bane (J.Orr)",Foul,Double Technical,1,0,224
+0022400255,318,PT01M37.00S,2,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,225
+0022400255,319,PT01M22.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-13,4,1,Made,1,63,53,116,h,Jackson Jr. 1' Cutting Layup Shot (10 PTS) (LaRavia 4 AST),Made Shot,Cutting Layup Shot,1,2,226
+0022400255,321,PT01M09.00S,2,1610612755,PHI,202704,Jackson,R. Jackson,-210,143,25,Missed,1,,,0,v,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022400255,322,PT01M06.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,228
+0022400255,323,PT00M58.60S,2,1610612763,MEM,1628379,Kennard,L. Kennard,-234,45,24,Missed,1,,,0,h,MISS Kennard 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,229
+0022400255,324,PT00M57.80S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,230
+0022400255,326,PT00M41.70S,2,1610612755,PHI,202331,George,P. George,-225,54,0,Missed,1,,,0,v,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022400255,327,PT00M39.40S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,232
+0022400255,328,PT00M38.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,11,18,2,Missed,1,,,0,v,MISS Council IV 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,233
+0022400255,328,PT00M38.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. BLOCK (1 BLK),,,1,2,234
+0022400255,330,PT00M35.20S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,235
+0022400255,331,PT00M18.30S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Personal Take Foul (P1.T3) (J.Orr),Foul,Personal Take,1,0,236
+0022400255,333,PT00M02.30S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,237
+0022400255,333,PT00M02.30S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid STEAL (1 STL),,,1,0,238
+0022400255,335,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,53,116,,End of 2nd Period (9:01 PM EST),period,end,1,0,239
+0022400255,346,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,53,116,,Start of 3rd Period (9:17 PM EST),period,start,0,0,240
+0022400255,347,PT11M37.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-104,21,11,Missed,1,,,0,v,MISS Embiid 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,241
+0022400255,348,PT11M33.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,242
+0022400255,349,PT11M29.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-6,106,11,Missed,1,,,0,h,MISS Bane 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,243
+0022400255,350,PT11M24.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,George REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,244
+0022400255,351,PT11M21.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,245
+0022400255,352,PT11M21.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,,,0,v,SUB: Yabusele FOR George,Substitution,,0,0,246
+0022400255,354,PT11M08.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,247
+0022400255,354,PT11M08.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. STEAL (1 STL),,,1,0,248
+0022400255,356,PT11M04.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-196,155,25,Missed,1,,,0,h,MISS Pippen Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,249
+0022400255,356,PT11M04.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin BLOCK (1 BLK),,,1,3,250
+0022400255,358,PT10M59.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,251
+0022400255,359,PT10M41.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,0,252
+0022400255,361,PT10M25.00S,3,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,253
+0022400255,361,PT10M25.00S,3,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells STEAL (1 STL),,,1,0,254
+0022400255,363,PT10M12.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-233,53,24,Missed,1,,,0,h,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022400255,364,PT10M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,256
+0022400255,365,PT10M02.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-21,257,26,Missed,1,,,0,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,257
+0022400255,366,PT10M00.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,258
+0022400255,367,PT09M45.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,17,36,4,Missed,1,,,0,h,MISS Pippen Jr. 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,259
+0022400255,368,PT09M43.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,260
+0022400255,369,PT09M35.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,156,205,26,Made,1,63,56,119,v,Yabusele 26' 3PT Jump Shot (11 PTS) (Embiid 1 AST),Made Shot,Jump Shot,1,3,261
+0022400255,371,PT09M18.00S,3,1610612763,MEM,1642377,Wells,J. Wells,23,21,3,Made,1,65,56,121,h,Wells 3' Reverse Layup (10 PTS),Made Shot,Reverse Layup Shot,1,2,262
+0022400255,372,PT09M04.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,153,247,29,Missed,1,,,0,v,MISS Maxey 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022400255,373,PT09M00.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,264
+0022400255,374,PT08M45.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,-233,26,0,Missed,1,,,0,h,MISS Clarke 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0022400255,375,PT08M43.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,266
+0022400255,376,PT08M38.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,94,247,26,Made,1,65,59,124,v,Yabusele 26' 3PT Jump Shot (14 PTS) (C. Martin 4 AST),Made Shot,Jump Shot,1,3,267
+0022400255,378,PT08M18.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-135,78,16,Missed,1,,,0,h,MISS Bane 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,268
+0022400255,378,PT08M18.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele BLOCK (1 BLK),,,1,2,269
+0022400255,380,PT08M18.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,0,270
+0022400255,382,PT08M18.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,271
+0022400255,384,PT08M10.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,272
+0022400255,385,PT07M56.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-21,134,14,Made,1,65,61,126,v,Embiid 14' Jump Shot (17 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,2,273
+0022400255,387,PT07M44.00S,3,1610612763,MEM,1630217,Bane,D. Bane,64,48,8,Missed,1,,,0,h,MISS Bane 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,274
+0022400255,387,PT07M44.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin BLOCK (2 BLK),,,1,2,275
+0022400255,389,PT07M44.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0,276
+0022400255,391,PT07M44.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Kennard FOR Bane,Substitution,,0,0,277
+0022400255,393,PT07M38.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,213,132,25,Made,1,68,61,129,h,Pippen Jr. 25' 3PT Jump Shot (8 PTS) (Kennard 2 AST),Made Shot,Jump Shot,1,3,278
+0022400255,395,PT07M24.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,78,253,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,279
+0022400255,396,PT07M20.00S,3,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,280
+0022400255,397,PT07M13.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke P.FOUL (P2.T2) (B.Schwab),Foul,Personal,1,0,281
+0022400255,399,PT07M12.00S,3,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,282
+0022400255,400,PT06M56.00S,3,1610612763,MEM,1642377,Wells,J. Wells,165,202,26,Missed,1,,,0,h,MISS Wells 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022400255,401,PT06M53.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+0022400255,402,PT06M44.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,229,27,0,Made,1,68,64,132,v,Yabusele 3PT Jump Shot (17 PTS) (Maxey 2 AST),Made Shot,Jump Shot,1,3,285
+0022400255,404,PT06M29.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,-33,42,5,Missed,1,,,0,h,MISS Aldama 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,286
+0022400255,405,PT06M29.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,287
+0022400255,406,PT06M29.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke L.B.FOUL (P3.T3) (J.Orr),Foul,Loose Ball,1,0,288
+0022400255,408,PT06M29.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,SUB: Bane FOR Pippen Jr.,Substitution,,0,0,289
+0022400255,409,PT06M29.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Clarke,Substitution,,0,0,290
+0022400255,412,PT06M15.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,50,21,5,Missed,1,,,0,v,MISS Maxey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,291
+0022400255,412,PT06M15.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. BLOCK (2 BLK),,,1,2,292
+0022400255,414,PT06M13.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,293
+0022400255,415,PT06M10.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,-185,190,27,Missed,1,,,0,h,MISS Aldama 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,294
+0022400255,416,PT06M06.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,295
+0022400255,417,PT06M06.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Traveling Turnover (P1.T9),Turnover,Traveling,1,0,296
+0022400255,418,PT05M54.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-12,109,11,Missed,1,,,0,h,MISS Jackson Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,297
+0022400255,419,PT05M49.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,298
+0022400255,420,PT05M49.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,Made,1,70,64,134,h,Jackson Jr. Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,299
+0022400255,421,PT05M31.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,1,20,2,Missed,1,,,0,v,MISS Maxey 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,300
+0022400255,422,PT05M31.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,301
+0022400255,423,PT05M26.00S,3,1610612763,MEM,1642377,Wells,J. Wells,18,16,2,Missed,1,,,0,h,MISS Wells 2' Running Layup,Missed Shot,Running Layup Shot,1,2,302
+0022400255,423,PT05M26.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin BLOCK (3 BLK),,,1,2,303
+0022400255,425,PT05M26.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,304
+0022400255,426,PT05M22.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,305
+0022400255,428,PT05M22.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,71,64,135,h,Kennard Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,1,0,306
+0022400255,429,PT05M22.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,72,64,136,h,Kennard Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,307
+0022400255,430,PT05M22.00S,3,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,SUB: LaRavia FOR Wells,Substitution,,0,0,308
+0022400255,432,PT05M22.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,73,64,137,h,Kennard Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,309
+0022400255,433,PT05M09.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,310
+0022400255,433,PT05M09.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard STEAL (1 STL),,,1,0,311
+0022400255,435,PT04M57.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,312
+0022400255,436,PT04M57.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Maxey,Substitution,,0,0,313
+0022400255,437,PT04M57.00S,3,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Council IV FOR C. Martin,Substitution,,0,0,314
+0022400255,440,PT04M49.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,1,0,315
+0022400255,442,PT04M36.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,316
+0022400255,444,PT04M36.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,74,64,138,h,Aldama Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,317
+0022400255,445,PT04M36.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,75,64,139,h,Aldama Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,318
+0022400255,446,PT04M26.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid OFF.Foul (P2) (B.Schwab),Foul,Offensive,1,0,319
+0022400255,448,PT04M26.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,320
+0022400255,449,PT04M14.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-169,193,26,Missed,1,,,0,h,MISS Bane 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,321
+0022400255,450,PT04M11.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,322
+0022400255,451,PT04M03.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane S.FOUL (P2.T4) (S.Foster),Foul,Shooting,1,0,323
+0022400255,453,PT04M03.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,75,65,140,v,Embiid Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+0022400255,454,PT04M03.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Spencer FOR Bane,Substitution,,0,0,325
+0022400255,456,PT04M03.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,75,66,141,v,Embiid Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+0022400255,458,PT03M46.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,230,16,0,Made,1,78,66,144,h,Aldama 3PT Jump Shot (9 PTS) (Kennard 3 AST),Made Shot,Jump Shot,1,3,327
+0022400255,460,PT03M25.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,18,158,16,Made,1,78,68,146,v,Embiid 16' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,328
+0022400255,461,PT03M16.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P3.T4) (S.Foster),Foul,Shooting,1,0,329
+0022400255,463,PT03M16.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,330
+0022400255,464,PT03M16.00S,3,0,,461,Jones,P. Jones,0,0,0,,0,78,68,146,,Instant Replay3rd Period (9:36 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,331
+0022400255,465,PT03M16.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,79,68,147,h,Jackson Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,332
+0022400255,466,PT03M16.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,80,68,148,h,Jackson Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,333
+0022400255,467,PT03M05.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,10,131,13,Made,1,80,70,150,v,Embiid 13' Jump Shot (23 PTS) (McCain 4 AST),Made Shot,Jump Shot,1,2,334
+0022400255,469,PT02M56.00S,3,1610612763,MEM,1642285,Spencer,C. Spencer,0,0,0,,0,,,0,h,Spencer Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,335
+0022400255,469,PT02M56.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,336
+0022400255,471,PT02M52.00S,3,1610612755,PHI,1642272,McCain,J. McCain,192,173,26,Made,1,80,73,153,v,McCain 26' 3PT Running Jump Shot (13 PTS) (Council IV 1 AST),Made Shot,Running Jump Shot,1,3,337
+0022400255,473,PT02M50.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,338
+0022400255,474,PT02M41.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,Yabusele P.FOUL (P3.PN) (S.Foster),Foul,Personal,1,0,339
+0022400255,476,PT02M41.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,81,73,154,h,Jackson Jr. Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,340
+0022400255,477,PT02M41.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,82,73,155,h,Jackson Jr. Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0022400255,478,PT02M28.00S,3,1610612755,PHI,1642272,McCain,J. McCain,34,14,4,Made,1,82,75,157,v,McCain 4' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,342
+0022400255,479,PT02M13.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,-210,136,25,Made,1,85,75,160,h,Aldama 25' 3PT Jump Shot (12 PTS) (Kennard 4 AST),Made Shot,Jump Shot,1,3,343
+0022400255,481,PT01M52.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,77,157,17,Made,1,85,77,162,v,Embiid 17' Jump Shot (25 PTS) (McCain 5 AST),Made Shot,Jump Shot,1,2,344
+0022400255,483,PT01M33.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,4,60,6,Missed,1,,,0,h,MISS Jackson Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,345
+0022400255,484,PT01M31.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,346
+0022400255,485,PT01M27.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. P.FOUL (P3.PN) (J.Orr),Foul,Personal,1,0,347
+0022400255,487,PT01M27.00S,3,0,,485,,,0,0,0,,0,85,77,162,,Instant Replay3rd Period (9:45 PM EST),Instant Replay,Support Ruling,0,0,348
+0022400255,488,PT01M27.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,85,78,163,v,Embiid Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+0022400255,489,PT01M27.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,85,79,164,v,Embiid Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022400255,491,PT01M12.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-25,85,9,Made,1,87,79,166,h,Jackson Jr. 9' Driving Floating Jump Shot (18 PTS) (Aldama 6 AST),Made Shot,Driving Floating Jump Shot,1,2,351
+0022400255,492,PT01M12.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,352
+0022400255,494,PT01M12.00S,3,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: Jackson FOR McCain,Substitution,,0,0,353
+0022400255,497,PT01M12.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,88,79,167,h,Jackson Jr. Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,354
+0022400255,498,PT00M56.70S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,0,355
+0022400255,500,PT00M56.70S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,88,80,168,v,Embiid Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+0022400255,501,PT00M56.70S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,SUB: Bane FOR Jackson Jr.,Substitution,,0,0,357
+0022400255,502,PT00M56.70S,3,1610612763,MEM,1642285,Spencer,C. Spencer,0,0,0,,0,,,0,h,SUB: Huff FOR Spencer,Substitution,,0,0,358
+0022400255,503,PT00M56.70S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,,,0,v,SUB: C. Martin FOR Yabusele,Substitution,,0,0,359
+0022400255,507,PT00M56.70S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,88,81,169,v,Embiid Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+0022400255,508,PT00M38.80S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard Traveling Turnover (P1.T13),Turnover,Traveling,1,0,361
+0022400255,509,PT00M26.60S,3,1610612755,PHI,203954,Embiid,J. Embiid,27,13,3,Missed,1,,,0,v,MISS Embiid 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+0022400255,509,PT00M26.60S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane BLOCK (1 BLK),,,1,2,363
+0022400255,511,PT00M24.10S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,364
+0022400255,512,PT00M24.10S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,Missed,1,,,0,v,MISS Embiid Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,365
+0022400255,513,PT00M24.10S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,1,0,366
+0022400255,514,PT00M24.10S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid L.B.FOUL (P4.PN) (J.Orr),Foul,Loose Ball,1,0,367
+0022400255,516,PT00M24.10S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,89,81,170,h,LaRavia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022400255,517,PT00M24.10S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Maxey FOR Council IV,Substitution,,0,0,369
+0022400255,519,PT00M24.10S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,90,81,171,h,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,370
+0022400255,520,PT00M03.20S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-147,221,27,Missed,1,,,0,v,MISS Maxey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022400255,521,PT00M03.20S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,372
+0022400255,522,PT00M00.00S,3,0,,0,,,0,0,0,,0,90,81,171,,End of 3rd Period (9:52 PM EST),period,end,1,0,373
+0022400255,531,PT12M00.00S,4,0,,0,,,0,0,0,,0,90,81,171,,Start of 4th Period (9:55 PM EST),period,start,0,0,374
+0022400255,532,PT11M45.00S,4,1610612763,MEM,1630643,Huff,J. Huff,-7,15,2,Made,1,92,81,173,h,Huff 2' Driving Dunk (5 PTS) (Pippen Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,375
+0022400255,535,PT11M29.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond 3 Second Violation Turnover (P1.T12),Turnover,3 Second Violation,1,0,376
+0022400255,536,PT11M15.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,214,139,26,Made,1,95,81,176,h,LaRavia 26' 3PT Pullup Jump Shot (7 PTS) (Pippen Jr. 3 AST),Made Shot,Pullup Jump shot,1,3,377
+0022400255,538,PT11M01.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,-15,29,3,Made,1,95,83,178,v,Drummond 3' Layup (10 PTS) (Oubre Jr. 1 AST),Made Shot,Layup Shot,1,2,378
+0022400255,540,PT10M53.00S,4,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,1,0,379
+0022400255,541,PT10M31.00S,4,1610612755,PHI,1628997,Martin,C. Martin,118,183,22,Made,1,95,85,180,v,C. Martin 22' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,380
+0022400255,542,PT10M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,28,3,Made,1,97,85,182,h,LaRavia 3' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,381
+0022400255,543,PT09M59.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,129,4,13,Missed,1,,,0,v,MISS Maxey 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,382
+0022400255,544,PT09M55.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,383
+0022400255,545,PT09M50.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-12,34,4,Made,1,99,85,184,h,LaRavia 4' Running Finger Roll Layup (11 PTS) (Bane 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,384
+0022400255,547,PT09M37.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,25,13,3,Made,1,99,87,186,v,Maxey 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,385
+0022400255,548,PT09M25.00S,4,1610612763,MEM,1630643,Huff,J. Huff,-190,181,26,Missed,1,,,0,h,MISS Huff 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022400255,549,PT09M23.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+0022400255,550,PT09M17.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,39,92,10,Made,1,99,89,188,v,Maxey 10' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,388
+0022400255,552,PT09M16.00S,4,0,,541,,,0,0,0,,0,99,89,188,,Instant Replay4th Period (9:58 PM EST),Instant Replay,Replay Center,0,0,389
+0022400255,553,PT09M02.00S,4,1610612763,MEM,1630643,Huff,J. Huff,-7,264,26,Made,1,102,89,191,h,Huff 26' 3PT Jump Shot (8 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,390
+0022400255,555,PT08M45.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond Traveling Turnover (P2.T13),Turnover,Traveling,1,0,391
+0022400255,556,PT08M25.00S,4,1610612763,MEM,1630217,Bane,D. Bane,21,265,27,Made,1,105,89,194,h,Bane 27' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,392
+0022400255,557,PT08M15.00S,4,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0,393
+0022400255,559,PT08M15.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,394
+0022400255,560,PT08M15.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,395
+0022400255,561,PT08M15.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Council IV FOR Oubre Jr.,Substitution,,0,0,396
+0022400255,563,PT08M15.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,105,90,195,v,Drummond Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022400255,564,PT07M56.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,398
+0022400255,564,PT07M56.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond STEAL (3 STL),,,1,0,399
+0022400255,566,PT07M38.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-32,14,3,Missed,1,,,0,v,MISS Maxey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+0022400255,567,PT07M34.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,Drummond REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,401
+0022400255,568,PT07M34.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,Missed,1,,,0,v,MISS Drummond Putback Layup,Missed Shot,Putback Layup Shot,1,2,402
+0022400255,569,PT07M34.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,403
+0022400255,570,PT07M29.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,1,0,404
+0022400255,572,PT07M29.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,106,90,196,h,Wells Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,405
+0022400255,573,PT07M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Clarke FOR LaRavia,Substitution,,0,0,406
+0022400255,574,PT07M29.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,,,0,v,SUB: Embiid FOR Drummond,Substitution,,0,0,407
+0022400255,577,PT07M29.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,107,90,197,h,Wells Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,408
+0022400255,578,PT07M08.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,54,29,6,Missed,1,,,0,v,MISS Council IV 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,409
+0022400255,579,PT07M06.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,410
+0022400255,580,PT06M59.00S,4,1610612763,MEM,1642377,Wells,J. Wells,-203,18,20,Made,1,109,90,199,h,Wells 20' Jump Shot (14 PTS) (Bane 6 AST),Made Shot,Jump Shot,1,2,411
+0022400255,582,PT06M59.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,412
+0022400255,585,PT06M41.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke S.FOUL (P4.T2) (B.Schwab),Foul,Shooting,1,0,413
+0022400255,587,PT06M41.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,109,91,200,v,Embiid Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022400255,588,PT06M41.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,109,92,201,v,Embiid Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+0022400255,589,PT06M18.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-7,34,3,Made,1,111,92,203,h,Bane 3' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,416
+0022400255,590,PT05M59.00S,4,1610612755,PHI,1628997,Martin,C. Martin,191,166,25,Missed,1,,,0,v,MISS C. Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022400255,591,PT05M56.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,Clarke REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,418
+0022400255,593,PT05M51.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,SUB: Kennard FOR Bane,Substitution,,0,0,419
+0022400255,594,PT05M51.00S,4,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR McCain,Substitution,,0,0,420
+0022400255,597,PT05M42.00S,4,1610612763,MEM,1630643,Huff,J. Huff,-132,233,27,Missed,1,,,0,h,MISS Huff 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0022400255,598,PT05M39.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,422
+0022400255,599,PT05M27.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,129,215,25,Missed,1,,,0,v,MISS Embiid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022400255,600,PT05M23.00S,4,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,C. Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,424
+0022400255,601,PT05M17.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,Pippen Jr. P.FOUL (P3.T3) (B.Schwab),Foul,Personal,1,0,425
+0022400255,603,PT05M17.00S,4,1610612763,MEM,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Huff,Substitution,,0,0,426
+0022400255,604,PT05M17.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Jackson FOR Maxey,Substitution,,0,0,427
+0022400255,605,PT05M17.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: K. Martin FOR Council IV,Substitution,,0,0,428
+0022400255,609,PT05M10.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-237,64,25,Made,1,111,95,206,v,Oubre Jr. 25' 3PT Step Back Jump Shot (3 PTS) (K. Martin 1 AST),Made Shot,Step Back Jump shot,1,3,429
+0022400255,611,PT04M59.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,Wells Out of Bounds Lost Ball Turnover (P3.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,430
+0022400255,612,PT04M51.00S,4,1610612755,PHI,202704,Jackson,R. Jackson,183,174,25,Made,1,111,98,209,v,Jackson 25' 3PT Jump Shot (5 PTS) (Embiid 2 AST),Made Shot,Jump Shot,1,3,431
+0022400255,614,PT04M50.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,432
+0022400255,615,PT04M50.00S,4,1610612763,MEM,1642377,Wells,J. Wells,0,0,0,,0,,,0,h,SUB: LaRavia FOR Wells,Substitution,,0,0,433
+0022400255,616,PT04M50.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,h,SUB: Bane FOR Pippen Jr.,Substitution,,0,0,434
+0022400255,619,PT04M45.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid P.FOUL (P5.T2) (B.Schwab),Foul,Personal,1,0,435
+0022400255,621,PT04M45.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,,,0,h,SUB: Aldama FOR Clarke,Substitution,,0,0,436
+0022400255,624,PT04M35.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,437
+0022400255,624,PT04M35.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. STEAL (1 STL),,,1,0,438
+0022400255,626,PT04M31.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,20,30,4,Missed,1,,,0,v,MISS Oubre Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,439
+0022400255,627,PT04M31.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,440
+0022400255,628,PT04M27.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Made,1,111,100,211,v,Oubre Jr. Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,441
+0022400255,629,PT04M07.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,26,25,4,Made,1,113,100,213,h,Jackson Jr. 4' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,442
+0022400255,630,PT03M53.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-18,157,16,Missed,1,,,0,v,MISS Embiid 16' Jump Shot,Missed Shot,Jump Shot,1,2,443
+0022400255,631,PT03M50.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,444
+0022400255,632,PT03M34.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-38,27,5,Made,1,115,100,215,h,Jackson Jr. 5' Driving Floating Bank Jump Shot (23 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,445
+0022400255,633,PT03M29.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,446
+0022400255,634,PT03M29.00S,4,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: McCain FOR C. Martin,Substitution,,0,0,447
+0022400255,636,PT03M15.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. S.FOUL (P5.T4) (J.Orr),Foul,Shooting,1,0,448
+0022400255,638,PT03M15.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,115,101,216,v,Embiid Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+0022400255,639,PT03M15.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,450
+0022400255,640,PT03M15.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,115,102,217,v,Embiid Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022400255,641,PT02M54.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. Traveling Turnover (P2.T18),Turnover,Traveling,1,0,452
+0022400255,642,PT02M47.00S,4,1610612755,PHI,202704,Jackson,R. Jackson,-64,248,26,Missed,1,,,0,v,MISS Jackson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0022400255,643,PT02M42.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,454
+0022400255,644,PT02M34.00S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,K. Martin P.FOUL (P1.T3) (B.Schwab),Foul,Personal,1,0,455
+0022400255,646,PT02M25.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,,,0,h,Aldama Lost Ball Turnover (P3.T19),Turnover,Lost Ball,1,0,456
+0022400255,646,PT02M25.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. STEAL (2 STL),,,1,0,457
+0022400255,648,PT02M14.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,458
+0022400255,650,PT02M14.00S,4,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,115,103,218,v,McCain Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0022400255,651,PT02M14.00S,4,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,115,104,219,v,McCain Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022400255,652,PT01M59.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,37,22,4,Missed,1,,,0,h,MISS Aldama 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,461
+0022400255,652,PT01M59.00S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,K. Martin BLOCK (1 BLK),,,1,2,462
+0022400255,654,PT01M57.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,463
+0022400255,655,PT01M53.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-230,18,0,Missed,1,,,0,h,MISS Bane 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022400255,656,PT01M51.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,465
+0022400255,657,PT01M47.00S,4,1610612755,PHI,1642272,McCain,J. McCain,-138,222,26,Made,1,115,107,222,v,McCain 26' 3PT Running Pull-Up Jump Shot (20 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,466
+0022400255,658,PT01M31.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,,,0,h,Bane Lost Ball Turnover (P4.T20),Turnover,Lost Ball,1,0,467
+0022400255,658,PT01M31.00S,4,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (2 STL),,,1,0,468
+0022400255,660,PT01M27.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,2,5,1,Made,1,115,109,224,v,Oubre Jr. 1' Running Dunk (7 PTS) (Jackson 1 AST),Made Shot,Running Dunk Shot,1,2,469
+0022400255,662,PT01M27.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,470
+0022400255,663,PT01M27.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Pippen Jr. FOR Kennard,Substitution,,0,0,471
+0022400255,665,PT01M09.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-237,39,24,Missed,1,,,0,h,MISS Pippen Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022400255,666,PT01M06.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,473
+0022400255,667,PT00M54.40S,4,1610612755,PHI,203954,Embiid,J. Embiid,16,5,2,Made,1,115,111,226,v,Embiid 2' Driving Floating Jump Shot (35 PTS),Made Shot,Driving Floating Jump Shot,1,2,474
+0022400255,668,PT00M36.70S,4,1610612763,MEM,1630217,Bane,D. Bane,-53,259,26,Missed,1,,,0,h,MISS Bane 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,475
+0022400255,669,PT00M33.10S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,476
+0022400255,670,PT00M23.70S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,477
+0022400255,671,PT00M17.60S,4,1610612755,PHI,202704,Jackson,R. Jackson,0,0,0,,0,,,0,v,Jackson Personal Take Foul (P2.T4) (S.Foster),Foul,Personal Take,1,0,478
+0022400255,675,PT00M16.00S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,K. Martin Personal Take Foul (P2.PN) (S.Foster),Foul,Personal Take,1,0,479
+0022400255,677,PT00M16.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,116,111,227,h,Jackson Jr. Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+0022400255,678,PT00M16.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,117,111,228,h,Jackson Jr. Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+0022400255,679,PT00M09.90S,4,1610612755,PHI,1642272,McCain,J. McCain,-26,255,26,Missed,1,,,0,v,MISS McCain 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,482
+0022400255,680,PT00M06.50S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,,,0,h,Jackson Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,483
+0022400255,681,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,111,228,,End of 4th Period (10:30 PM EST),period,end,1,0,484

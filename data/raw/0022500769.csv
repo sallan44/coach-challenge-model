@@ -1,0 +1,504 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500769,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:14 PM EST),period,start,1,0,1
+0022500769,4,PT12M00.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Jump Ball Ayton vs. Holmgren: Tip to Smart,Jump Ball,,1,0,2
+0022500769,7,PT11M50.00S,1,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,3
+0022500769,7,PT11M50.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (1 STL),,,1,0,4
+0022500769,9,PT11M47.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,8,1,Missed,1,,,0,v,MISS Jal. Williams 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,5
+0022500769,10,PT11M44.00S,1,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022500769,11,PT11M32.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,58,247,25,Missed,1,,,0,h,MISS Hachimura 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022500769,12,PT11M29.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022500769,13,PT11M08.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,61,16,6,Made,1,0,2,2,v,Wallace 6' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,9
+0022500769,14,PT10M51.00S,1,1610612747,LAL,1631222,LaRavia,J. LaRavia,-161,243,29,Made,1,3,2,5,h,LaRavia 29' 3PT Jump Shot (3 PTS) (L. James 1 AST),Made Shot,Jump Shot,1,3,10
+0022500769,16,PT10M31.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,-4,252,25,Made,1,3,5,8,v,Holmgren 25' 3PT Jump Shot (3 PTS) (Jal. Williams 1 AST),Made Shot,Jump Shot,1,3,11
+0022500769,18,PT10M03.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,12
+0022500769,18,PT10M03.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein STEAL (1 STL),,,1,0,13
+0022500769,20,PT09M57.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-58,141,15,Made,1,3,7,10,v,Wallace 15' Running Pull-Up Jump Shot (4 PTS) (Hartenstein 1 AST),Made Shot,Running Pull-Up Jump Shot,1,2,14
+0022500769,22,PT09M40.00S,1,1610612747,LAL,2544,James,L. James,-72,76,10,Made,1,5,7,12,h,L. James 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,15
+0022500769,23,PT09M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-116,68,13,Missed,1,,,0,v,MISS Jal. Williams 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,16
+0022500769,24,PT09M19.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0,17
+0022500769,26,PT09M10.00S,1,1610612747,LAL,203935,Smart,M. Smart,-147,216,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+0022500769,27,PT09M07.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022500769,28,PT09M02.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,6,63,6,Missed,1,,,0,v,MISS Holmgren 6' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,20
+0022500769,29,PT08M59.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,21
+0022500769,30,PT08M57.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,116,220,25,Missed,1,,,0,v,MISS Wallace 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+0022500769,31,PT08M54.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0022500769,32,PT08M45.00S,1,1610612747,LAL,203935,Smart,M. Smart,-202,132,24,Made,1,8,7,15,h,Smart 24' 3PT Jump Shot (3 PTS) (L. James 2 AST),Made Shot,Jump Shot,1,3,24
+0022500769,34,PT08M27.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-62,-1,6,Made,1,8,9,17,v,Hartenstein 6' Turnaround Hook Shot (2 PTS) (Wallace 1 AST),Made Shot,Turnaround Hook Shot,1,2,25
+0022500769,36,PT08M18.00S,1,1610612747,LAL,203935,Smart,M. Smart,-36,29,5,Missed,1,,,0,h,MISS Smart 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,26
+0022500769,36,PT08M18.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (1 BLK),,,1,2,27
+0022500769,38,PT08M15.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022500769,39,PT08M03.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,40,25,5,Missed,1,,,0,v,MISS Hartenstein 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,29
+0022500769,40,PT08M00.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022500769,41,PT07M51.00S,1,1610612747,LAL,1631222,LaRavia,J. LaRavia,-43,249,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022500769,42,PT07M50.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,32
+0022500769,44,PT07M26.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-181,184,26,Missed,1,,,0,v,MISS Wallace 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,33
+0022500769,45,PT07M26.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,34
+0022500769,46,PT07M26.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,35
+0022500769,47,PT07M10.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-210,85,23,Made,1,10,9,19,h,Hachimura 23' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,36
+0022500769,49,PT06M55.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-44,20,5,Missed,1,,,0,v,MISS Jal. Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,37
+0022500769,49,PT06M55.00S,1,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,38
+0022500769,51,PT06M54.00S,1,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0022500769,52,PT06M44.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-153,200,25,Missed,1,,,0,h,MISS Hachimura 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022500769,53,PT06M42.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,41
+0022500769,55,PT06M42.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+0022500769,56,PT06M42.00S,1,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Reaves FOR LaRavia,Substitution,,0,0,43
+0022500769,57,PT06M42.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Joe FOR Holmgren,Substitution,,0,0,44
+0022500769,60,PT06M33.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-49,17,5,Missed,1,,,0,v,MISS Jal. Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,45
+0022500769,62,PT06M32.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,46
+0022500769,63,PT06M32.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Missed,1,,,0,v,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,47
+0022500769,64,PT06M31.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,48
+0022500769,65,PT06M31.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Made,1,10,11,21,v,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,49
+0022500769,67,PT06M13.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,-4,-4,1,Made,1,12,11,23,h,Ayton 1' Driving Dunk (2 PTS) (Reaves 1 AST),Made Shot,Driving Dunk Shot,1,2,50
+0022500769,70,PT06M00.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,2,111,11,Made,1,12,13,25,v,Hartenstein 11' Floating Jump Shot (6 PTS) (Wallace 2 AST),Made Shot,Floating Jump shot,1,2,51
+0022500769,72,PT05M38.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-33,154,16,Made,1,14,13,27,h,Reaves 16' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,52
+0022500769,73,PT05M30.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,53
+0022500769,75,PT05M30.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,54
+0022500769,76,PT05M30.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Kennard FOR L. James,Substitution,,0,0,55
+0022500769,77,PT05M30.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Hartenstein,Substitution,,0,0,56
+0022500769,80,PT05M09.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,-9,74,7,Made,1,16,13,29,h,Ayton 7' Driving Hook Shot (4 PTS) (Smart 1 AST),Made Shot,Driving Hook Shot,1,2,57
+0022500769,82,PT04M45.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-21,-8,2,Missed,1,,,0,v,MISS Jal. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,58
+0022500769,83,PT04M44.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,59
+0022500769,84,PT04M44.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,Made,1,16,15,31,v,Wallace Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,60
+0022500769,85,PT04M26.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,61
+0022500769,85,PT04M26.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams STEAL (1 STL),,,1,0,62
+0022500769,87,PT04M25.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-7,3,1,Made,1,16,17,33,v,Jal. Williams 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,63
+0022500769,88,PT04M25.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,64
+0022500769,90,PT04M25.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: K. Williams FOR Dort,Substitution,,0,0,65
+0022500769,92,PT04M25.00S,1,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,SUB: Hayes FOR Ayton,Substitution,,0,0,66
+0022500769,94,PT04M25.00S,1,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR Smart,Substitution,,0,0,67
+0022500769,96,PT04M25.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,16,18,34,v,Jal. Williams Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,68
+0022500769,97,PT04M14.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,-12,12,2,Made,1,18,18,36,h,Hayes 2' Alley Oop Dunk (2 PTS) (Reaves 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,69
+0022500769,99,PT04M14.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,70
+0022500769,100,PT04M14.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Wiggins FOR Jal. Williams,Substitution,,0,0,71
+0022500769,102,PT03M56.00S,1,1610612760,OKC,1630198,Joe,I. Joe,113,252,28,Made,1,18,21,39,v,Joe 28' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,3,72
+0022500769,104,PT03M33.00S,1,1610612747,LAL,1628379,Kennard,L. Kennard,-165,190,25,Made,1,21,21,42,h,Kennard 25' 3PT Pullup Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Pullup Jump shot,1,3,73
+0022500769,106,PT03M15.00S,1,1610612760,OKC,1629026,Williams,K. Williams,-99,136,17,Missed,1,,,0,v,MISS K. Williams 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,74
+0022500769,107,PT03M13.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022500769,108,PT03M05.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-83,115,14,Made,1,23,21,44,h,Reaves 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,76
+0022500769,109,PT03M05.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,77
+0022500769,111,PT03M05.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,24,21,45,h,Reaves Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,78
+0022500769,112,PT02M54.00S,1,1610612760,OKC,1630198,Joe,I. Joe,157,232,28,Made,1,24,24,48,v,Joe 28' 3PT Jump Shot (6 PTS) (Jay. Williams 1 AST),Made Shot,Jump Shot,1,3,79
+0022500769,114,PT02M39.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,80
+0022500769,116,PT02M30.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,224,54,0,Missed,1,,,0,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022500769,117,PT02M27.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,82
+0022500769,118,PT02M11.00S,1,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,83
+0022500769,120,PT02M11.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,MISS K. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,84
+0022500769,121,PT02M11.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,85
+0022500769,122,PT02M11.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: L. James FOR Hachimura,Substitution,,0,0,86
+0022500769,123,PT02M11.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: Caruso FOR Wallace,Substitution,,0,0,87
+0022500769,126,PT02M11.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,MISS K. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,88
+0022500769,127,PT02M08.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022500769,128,PT01M59.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-5,23,2,Made,1,26,24,50,h,Reaves 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,90
+0022500769,129,PT01M43.00S,1,1610612760,OKC,1630198,Joe,I. Joe,140,203,25,Made,1,26,27,53,v,Joe 25' 3PT Jump Shot (9 PTS) (Jay. Williams 2 AST),Made Shot,Jump Shot,1,3,91
+0022500769,131,PT01M27.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,92
+0022500769,131,PT01M27.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams STEAL (1 STL),,,1,0,93
+0022500769,133,PT01M11.00S,1,1610612760,OKC,1627936,Caruso,A. Caruso,164,126,21,Made,1,26,29,55,v,Caruso 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,94
+0022500769,135,PT00M52.30S,1,1610612747,LAL,1629637,Hayes,J. Hayes,6,12,1,Missed,1,,,0,h,MISS Hayes 1' Layup,Missed Shot,Layup Shot,1,2,95
+0022500769,136,PT00M48.90S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022500769,137,PT00M33.90S,1,1610612760,OKC,1627936,Caruso,A. Caruso,-18,-4,2,Made,1,26,31,57,v,Caruso 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,97
+0022500769,139,PT00M16.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,225,13,0,Missed,1,,,0,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022500769,140,PT00M15.80S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+0022500769,141,PT00M13.40S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Made,1,28,31,59,h,Hayes Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,100
+0022500769,142,PT00M05.70S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,101
+0022500769,143,PT00M00.20S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-2,12,1,Made,1,30,31,61,h,Reaves 1' Driving Dunk (9 PTS) (Hayes 1 AST),Made Shot,Driving Dunk Shot,1,2,102
+0022500769,147,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,31,61,,End of 1st Period (10:37 PM EST),period,end,1,0,103
+0022500769,158,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,31,61,,Start of 2nd Period (10:41 PM EST),period,start,0,0,104
+0022500769,159,PT11M44.00S,2,1610612760,OKC,1642272,McCain,J. McCain,-89,88,13,Made,1,30,33,63,v,McCain 13' Step Back Jump Shot (2 PTS) (Hartenstein 2 AST),Made Shot,Step Back Jump shot,1,2,105
+0022500769,161,PT11M18.00S,2,1610612747,LAL,2544,James,L. James,-158,57,17,Made,1,32,33,65,h,L. James 17' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,106
+0022500769,162,PT11M06.00S,2,1610612760,OKC,1642272,McCain,J. McCain,-10,276,28,Made,1,32,36,68,v,McCain 28' 3PT Jump Shot (5 PTS) (Hartenstein 3 AST),Made Shot,Jump Shot,1,3,107
+0022500769,164,PT10M44.00S,2,1610612747,LAL,203935,Smart,M. Smart,-13,62,6,Made,1,34,36,70,h,Smart 6' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,108
+0022500769,165,PT10M44.00S,2,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,109
+0022500769,167,PT10M44.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,110
+0022500769,168,PT10M43.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,111
+0022500769,170,PT10M28.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-13,117,12,Missed,1,,,0,v,MISS Holmgren 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,112
+0022500769,171,PT10M25.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0022500769,172,PT10M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,8,1,Made,1,36,36,72,h,Vanderbilt 1' Reverse Layup (2 PTS) (L. James 3 AST),Made Shot,Reverse Layup Shot,1,2,114
+0022500769,174,PT10M02.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,115
+0022500769,176,PT09M53.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,-152,194,25,Missed,1,,,0,v,MISS Caruso 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022500769,177,PT09M52.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,117
+0022500769,178,PT09M52.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,118
+0022500769,180,PT09M52.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,119
+0022500769,181,PT09M52.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,1,0,120
+0022500769,182,PT09M52.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,121
+0022500769,183,PT09M50.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022500769,184,PT09M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,123
+0022500769,185,PT09M39.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Ayton FOR Kennard,Substitution,,0,0,124
+0022500769,187,PT09M31.00S,2,1610612760,OKC,1630198,Joe,I. Joe,36,257,26,Missed,1,,,0,v,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022500769,188,PT09M27.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,126
+0022500769,190,PT09M27.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: LaRavia FOR Vanderbilt,Substitution,,0,0,127
+0022500769,192,PT09M22.00S,2,1610612760,OKC,1630198,Joe,I. Joe,9,4,1,Made,1,36,38,74,v,Joe 1' Cutting Layup Shot (11 PTS) (Hartenstein 4 AST),Made Shot,Cutting Layup Shot,1,2,128
+0022500769,194,PT09M06.00S,2,1610612747,LAL,2544,James,L. James,87,141,17,Made,1,38,38,76,h,L. James 17' Pullup Jump Shot (6 PTS) (Smart 2 AST),Made Shot,Pullup Jump shot,1,2,129
+0022500769,196,PT08M52.00S,2,1610612760,OKC,1642272,McCain,J. McCain,-6,110,11,Made,1,38,40,78,v,McCain 11' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,130
+0022500769,197,PT08M38.00S,2,1610612747,LAL,203935,Smart,M. Smart,-1,76,8,Missed,1,,,0,h,MISS Smart 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,131
+0022500769,198,PT08M36.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,132
+0022500769,199,PT08M29.00S,2,1610612760,OKC,1630198,Joe,I. Joe,9,8,1,Made,1,38,42,80,v,Joe 1' Cutting Dunk Shot (13 PTS) (Hartenstein 5 AST),Made Shot,Cutting Dunk Shot,1,2,133
+0022500769,201,PT08M11.00S,2,1610612747,LAL,2544,James,L. James,-130,220,26,Missed,1,,,0,h,MISS L. James 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,134
+0022500769,202,PT08M10.00S,2,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022500769,203,PT08M09.00S,2,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,136
+0022500769,203,PT08M09.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein STEAL (2 STL),,,1,0,137
+0022500769,205,PT08M01.00S,2,1610612760,OKC,1642272,McCain,J. McCain,91,239,26,Missed,1,,,0,v,MISS McCain 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,138
+0022500769,206,PT08M00.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+0022500769,207,PT07M56.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,20,248,25,Made,1,38,45,83,v,Caruso 25' 3PT Jump Shot (7 PTS) (Hartenstein 6 AST),Made Shot,Jump Shot,1,3,140
+0022500769,209,PT07M54.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141
+0022500769,210,PT07M54.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Hartenstein,Substitution,,0,0,142
+0022500769,212,PT07M38.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,143
+0022500769,212,PT07M38.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso STEAL (1 STL),,,1,0,144
+0022500769,214,PT07M33.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,1,11,1,Made,1,38,47,85,v,Holmgren 1' Running Dunk (5 PTS) (Caruso 1 AST),Made Shot,Running Dunk Shot,1,2,145
+0022500769,216,PT07M21.00S,2,1610612747,LAL,2544,James,L. James,-185,172,25,Missed,1,,,0,h,MISS L. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022500769,217,PT07M18.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022500769,218,PT07M11.00S,2,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P1.T3) (J.Tiven),Foul,Personal,1,0,148
+0022500769,220,PT07M11.00S,2,1610612747,LAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,SUB: Hachimura FOR Kleber,Substitution,,0,0,149
+0022500769,221,PT07M11.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Reaves FOR L. James,Substitution,,0,0,150
+0022500769,224,PT07M02.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,151
+0022500769,224,PT07M02.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,152
+0022500769,226,PT06M55.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,153
+0022500769,226,PT06M55.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe STEAL (1 STL),,,1,0,154
+0022500769,228,PT06M51.00S,2,1610612760,OKC,1630198,Joe,I. Joe,137,222,26,Made,1,38,50,88,v,Joe 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,155
+0022500769,229,PT06M40.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-11,249,25,Missed,1,,,0,h,MISS Reaves 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,156
+0022500769,230,PT06M38.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022500769,231,PT06M32.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,158
+0022500769,231,PT06M32.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,159
+0022500769,233,PT06M29.00S,2,1610612747,LAL,203935,Smart,M. Smart,-14,224,22,Missed,1,,,0,h,MISS Smart 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,160
+0022500769,234,PT06M27.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,161
+0022500769,235,PT06M20.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,1,4,0,Made,1,38,52,90,v,Holmgren Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,162
+0022500769,236,PT06M20.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,163
+0022500769,237,PT06M20.00S,2,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR LaRavia,Substitution,,0,0,164
+0022500769,239,PT06M07.00S,2,1610612747,LAL,203935,Smart,M. Smart,67,121,14,Made,1,40,52,92,h,Smart 14' Driving Floating Jump Shot (7 PTS) (Reaves 4 AST),Made Shot,Driving Floating Jump Shot,1,2,165
+0022500769,241,PT06M07.00S,2,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0,166
+0022500769,243,PT06M07.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,41,52,93,h,Smart Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,167
+0022500769,244,PT05M46.00S,2,1610612760,OKC,1642272,McCain,J. McCain,-44,106,11,Missed,1,,,0,v,MISS McCain 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,168
+0022500769,245,PT05M44.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+0022500769,246,PT05M37.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,-219,141,26,Missed,1,,,0,h,MISS Hachimura 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,170
+0022500769,247,PT05M34.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,171
+0022500769,248,PT05M16.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,28,24,4,Made,1,41,54,95,v,Caruso 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,172
+0022500769,249,PT04M52.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,-9,76,8,Missed,1,,,0,h,MISS Ayton 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,173
+0022500769,250,PT04M51.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,174
+0022500769,251,PT04M51.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,Made,1,43,54,97,h,Ayton Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,175
+0022500769,252,PT04M51.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,0,176
+0022500769,254,PT04M51.00S,2,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,177
+0022500769,255,PT04M51.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: Wallace FOR Caruso,Substitution,,0,0,178
+0022500769,256,PT04M51.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Dort FOR Joe,Substitution,,0,0,179
+0022500769,260,PT04M51.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,MISS Ayton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,180
+0022500769,261,PT04M49.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,181
+0022500769,262,PT04M35.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,1,0,182
+0022500769,264,PT04M35.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,43,55,98,v,Dort Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022500769,265,PT04M35.00S,2,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,SUB: Hayes FOR Ayton,Substitution,,0,0,184
+0022500769,267,PT04M35.00S,2,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: Wiggins FOR McCain,Substitution,,0,0,185
+0022500769,274,PT04M35.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Holmgren,Substitution,,0,0,186
+0022500769,269,PT04M35.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,MISS Dort Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,187
+0022500769,270,PT04M34.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022500769,271,PT04M18.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,189
+0022500769,273,PT04M18.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,44,55,99,h,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,190
+0022500769,276,PT04M18.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,45,55,100,h,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,191
+0022500769,277,PT04M01.00S,2,1610612760,OKC,1631119,Williams,J. Williams,228,42,0,Missed,1,,,0,v,MISS Jay. Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,192
+0022500769,278,PT03M58.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,193
+0022500769,279,PT03M55.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes Offensive Charge Foul (P1) (E.Dalen),Foul,Offensive Charge,1,0,194
+0022500769,281,PT03M55.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,195
+0022500769,282,PT03M48.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt P.FOUL (P3.PN) (J.Tiven),Foul,Personal,1,0,196
+0022500769,284,PT03M48.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,45,56,101,v,Jal. Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+0022500769,285,PT03M48.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,MISS Jal. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,198
+0022500769,286,PT03M46.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,199
+0022500769,287,PT03M33.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,10,248,25,Missed,1,,,0,h,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022500769,288,PT03M30.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,201
+0022500769,290,PT03M28.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,-15,13,2,Made,1,47,56,103,h,Hachimura 2' Cutting Layup Shot (4 PTS) (Reaves 5 AST),Made Shot,Cutting Layup Shot,1,2,202
+0022500769,292,PT03M14.00S,2,1610612760,OKC,1631119,Williams,J. Williams,-127,213,25,Missed,1,,,0,v,MISS Jay. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022500769,293,PT03M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+0022500769,294,PT03M06.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-125,232,26,Made,1,50,56,106,h,Reaves 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,205
+0022500769,295,PT03M05.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+0022500769,296,PT03M05.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: L. James FOR Vanderbilt,Substitution,,0,0,207
+0022500769,297,PT03M05.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Holmgren FOR Jay. Williams,Substitution,,0,0,208
+0022500769,300,PT02M40.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,209
+0022500769,300,PT02M40.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard STEAL (1 STL),,,1,0,210
+0022500769,302,PT02M36.00S,2,1610612747,LAL,2544,James,L. James,-11,1,1,Made,1,52,56,108,h,L. James 1' Running Dunk (8 PTS) (Kennard 1 AST),Made Shot,Running Dunk Shot,1,2,211
+0022500769,304,PT02M26.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,126,-11,13,Made,1,52,58,110,v,Wallace 13' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,212
+0022500769,305,PT02M11.00S,2,1610612747,LAL,2544,James,L. James,-64,50,8,Missed,1,,,0,h,MISS L. James 8' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,213
+0022500769,306,PT02M10.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,214
+0022500769,307,PT02M10.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Missed,1,,,0,h,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,215
+0022500769,308,PT02M10.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0,216
+0022500769,310,PT02M05.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,21,153,15,Made,1,54,58,112,h,Kennard 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,217
+0022500769,311,PT01M52.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-100,47,11,Missed,1,,,0,v,MISS Jal. Williams 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,218
+0022500769,312,PT01M50.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,219
+0022500769,313,PT01M42.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-29,62,7,Missed,1,,,0,h,MISS Reaves 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,220
+0022500769,314,PT01M39.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,221
+0022500769,315,PT01M25.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-38,247,25,Made,1,54,61,115,v,Dort 25' 3PT Jump Shot (4 PTS) (Holmgren 1 AST),Made Shot,Jump Shot,1,3,222
+0022500769,317,PT01M10.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,223
+0022500769,317,PT01M10.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (2 STL),,,1,0,224
+0022500769,319,PT01M03.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,20,5,2,Made,1,54,63,117,v,Wallace 2' Layup (10 PTS) (Dort 1 AST),Made Shot,Layup Shot,1,2,225
+0022500769,322,PT00M50.90S,2,1610612747,LAL,1629637,Hayes,J. Hayes,-20,13,2,Made,1,56,63,119,h,Hayes 2' Alley Oop Dunk (8 PTS) (Reaves 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,226
+0022500769,324,PT00M33.50S,2,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,1,0,227
+0022500769,326,PT00M33.50S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,56,64,120,v,Jal. Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,228
+0022500769,327,PT00M33.50S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,56,65,121,v,Jal. Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+0022500769,328,PT00M12.70S,2,1610612747,LAL,1628379,Kennard,L. Kennard,15,10,2,Missed,1,,,0,h,MISS Kennard 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,230
+0022500769,328,PT00M12.70S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren BLOCK (1 BLK),,,1,2,231
+0022500769,330,PT00M11.00S,2,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,232
+0022500769,331,PT00M10.90S,2,1610612747,LAL,1628379,Kennard,L. Kennard,-7,5,1,Made,1,58,65,123,h,Kennard 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,233
+0022500769,332,PT00M00.30S,2,1610612760,OKC,1631114,Williams,J. Williams,-42,25,5,Made,1,58,67,125,v,Jal. Williams 5' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,234
+0022500769,333,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,67,125,,End of 2nd Period (11:11 PM EST),period,end,1,0,235
+0022500769,342,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,67,125,,Start of 3rd Period (11:27 PM EST),period,start,0,0,236
+0022500769,343,PT11M43.00S,3,1610612760,OKC,1631114,Williams,J. Williams,-12,12,2,Made,1,58,69,127,v,Jal. Williams 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,237
+0022500769,345,PT11M29.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,138,216,26,Made,1,61,69,130,h,Hachimura 26' 3PT Jump Shot (7 PTS) (L. James 4 AST),Made Shot,Jump Shot,1,3,238
+0022500769,347,PT11M09.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,239
+0022500769,347,PT11M09.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James STEAL (1 STL),,,1,0,240
+0022500769,349,PT11M06.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,1,0,241
+0022500769,351,PT11M06.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,62,69,131,h,L. James Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,242
+0022500769,352,PT11M06.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,63,69,132,h,L. James Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,243
+0022500769,353,PT10M47.00S,3,1610612760,OKC,1629652,Dort,L. Dort,77,252,26,Made,1,63,72,135,v,Dort 26' 3PT Jump Shot (7 PTS) (Holmgren 2 AST),Made Shot,Jump Shot,1,3,244
+0022500769,355,PT10M35.00S,3,1610612747,LAL,203935,Smart,M. Smart,30,28,4,Missed,1,,,0,h,MISS Smart 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,245
+0022500769,355,PT10M35.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren BLOCK (2 BLK),,,1,2,246
+0022500769,357,PT10M34.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,247
+0022500769,358,PT10M19.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,248
+0022500769,360,PT10M19.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,63,73,136,v,Hartenstein Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,249
+0022500769,361,PT10M19.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,63,74,137,v,Hartenstein Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,250
+0022500769,362,PT10M08.00S,3,1610612747,LAL,203935,Smart,M. Smart,-85,227,24,Made,1,66,74,140,h,Smart 24' 3PT Jump Shot (11 PTS) (L. James 5 AST),Made Shot,Jump Shot,1,3,251
+0022500769,364,PT09M48.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,72,106,13,Missed,1,,,0,v,MISS Holmgren 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,252
+0022500769,365,PT09M46.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,253
+0022500769,366,PT09M41.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,0,254
+0022500769,368,PT09M41.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,67,74,141,h,LaRavia Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+0022500769,369,PT09M41.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,68,74,142,h,LaRavia Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+0022500769,371,PT09M27.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,-124,242,27,Missed,1,,,0,v,MISS Holmgren 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,257
+0022500769,372,PT09M26.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,258
+0022500769,373,PT09M26.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Missed,1,,,0,v,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,259
+0022500769,374,PT09M24.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,260
+0022500769,375,PT09M24.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton L.B.FOUL (P2.T2) (J.Tiven),Foul,Loose Ball,1,0,261
+0022500769,377,PT09M13.00S,3,1610612760,OKC,1629652,Dort,L. Dort,32,270,27,Missed,1,,,0,v,MISS Dort 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022500769,378,PT09M11.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,263
+0022500769,379,PT09M07.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,264
+0022500769,380,PT08M51.00S,3,1610612747,LAL,2544,James,L. James,-11,6,1,Made,1,70,74,144,h,L. James 1' Driving Layup (12 PTS) (Hachimura 1 AST),Made Shot,Driving Layup Shot,1,2,265
+0022500769,382,PT08M36.00S,3,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,266
+0022500769,384,PT08M36.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,70,75,145,v,Jal. Williams Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,267
+0022500769,385,PT08M36.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,70,76,146,v,Jal. Williams Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,268
+0022500769,386,PT08M25.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,240,6,24,Made,1,73,76,149,h,LaRavia 24' 3PT Jump Shot (8 PTS) (L. James 6 AST),Made Shot,Jump Shot,1,3,269
+0022500769,388,PT08M23.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,270
+0022500769,389,PT08M03.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,221,32,0,Missed,1,,,0,v,MISS Wallace 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022500769,390,PT08M00.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,272
+0022500769,392,PT07M44.00S,3,1610612747,LAL,2544,James,L. James,-31,6,3,Made,1,75,76,151,h,L. James 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,273
+0022500769,394,PT07M31.00S,3,1610612760,OKC,1631114,Williams,J. Williams,54,262,27,Missed,1,,,0,v,MISS Jal. Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+0022500769,395,PT07M28.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,275
+0022500769,396,PT07M24.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,276
+0022500769,398,PT07M24.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,76,76,152,h,LaRavia Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,277
+0022500769,399,PT07M24.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Joe FOR Holmgren,Substitution,,0,0,278
+0022500769,401,PT07M24.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,77,76,153,h,LaRavia Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+0022500769,402,PT07M08.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton S.FOUL (P3.T4) (E.Dalen),Foul,Shooting,1,0,280
+0022500769,404,PT07M08.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,77,77,154,v,Jal. Williams Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,281
+0022500769,405,PT07M08.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Hartenstein,Substitution,,0,0,282
+0022500769,407,PT07M08.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,MISS Jal. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,283
+0022500769,408,PT07M06.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,284
+0022500769,409,PT06M52.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,1,0,285
+0022500769,411,PT06M52.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,77,155,h,LaRavia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022500769,412,PT06M52.00S,3,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Reaves FOR Smart,Substitution,,0,0,287
+0022500769,414,PT06M52.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,79,77,156,h,LaRavia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,288
+0022500769,415,PT06M36.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-165,220,28,Missed,1,,,0,v,MISS Joe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+0022500769,416,PT06M34.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,0,290
+0022500769,418,PT06M19.00S,3,1610612747,LAL,2544,James,L. James,148,84,17,Missed,1,,,0,h,MISS L. James 17' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,291
+0022500769,419,PT06M17.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,292
+0022500769,420,PT06M10.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,-33,53,6,Made,1,81,77,158,h,LaRavia 6' Driving Layup (14 PTS) (Hachimura 2 AST),Made Shot,Driving Layup Shot,1,2,293
+0022500769,423,PT05M51.00S,3,1610612760,OKC,1631114,Williams,J. Williams,-49,73,9,Missed,1,,,0,v,MISS Jal. Williams 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,294
+0022500769,424,PT05M48.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,295
+0022500769,425,PT05M47.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,0,296
+0022500769,427,PT05M47.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,82,77,159,h,L. James Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,297
+0022500769,428,PT05M47.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: Caruso FOR Dort,Substitution,,0,0,298
+0022500769,429,PT05M47.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Wiggins FOR Jal. Williams,Substitution,,0,0,299
+0022500769,432,PT05M47.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,83,77,160,h,L. James Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+0022500769,433,PT05M26.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-2,59,6,Missed,1,,,0,v,MISS Wiggins 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,301
+0022500769,434,PT05M24.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,302
+0022500769,435,PT05M09.00S,3,1610612747,LAL,2544,James,L. James,113,70,13,Made,1,85,77,162,h,L. James 13' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,1,2,303
+0022500769,436,PT05M00.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves P.FOUL (P2.PN) (A.Nagy),Foul,Personal,1,0,304
+0022500769,438,PT05M00.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,305
+0022500769,439,PT05M00.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,85,78,163,v,Jay. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,306
+0022500769,440,PT05M00.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,85,79,164,v,Jay. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+0022500769,441,PT04M41.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,27,88,9,Missed,1,,,0,h,MISS Ayton 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,308
+0022500769,442,PT04M38.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+0022500769,443,PT04M28.00S,3,1610612760,OKC,1631119,Williams,J. Williams,-114,246,27,Made,1,85,82,167,v,Jay. Williams 27' 3PT Jump Shot (5 PTS) (Wallace 3 AST),Made Shot,Jump Shot,1,3,310
+0022500769,446,PT04M18.00S,3,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,SUB: Hayes FOR Ayton,Substitution,,0,0,311
+0022500769,447,PT04M18.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Kennard FOR L. James,Substitution,,0,0,312
+0022500769,450,PT04M11.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,-4,13,1,Made,1,87,82,169,h,Hayes 1' Cutting Layup Shot (10 PTS) (Reaves 7 AST),Made Shot,Cutting Layup Shot,1,2,313
+0022500769,452,PT04M11.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,1,0,314
+0022500769,454,PT04M11.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,315
+0022500769,455,PT04M11.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,316
+0022500769,456,PT04M10.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,317
+0022500769,457,PT03M52.00S,3,1610612760,OKC,1631119,Williams,J. Williams,-162,195,25,Made,1,87,85,172,v,Jay. Williams 25' 3PT Jump Shot (8 PTS) (Caruso 2 AST),Made Shot,Jump Shot,1,3,318
+0022500769,459,PT03M33.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,94,226,24,Missed,1,,,0,h,MISS Reaves 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,319
+0022500769,460,PT03M30.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,320
+0022500769,461,PT03M18.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-135,218,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,321
+0022500769,462,PT03M15.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,322
+0022500769,463,PT03M15.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,1,0,323
+0022500769,465,PT03M15.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,87,86,173,v,Joe Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+0022500769,466,PT03M15.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: Vanderbilt FOR Hachimura,Substitution,,0,0,325
+0022500769,468,PT03M15.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: Holmgren FOR Wallace,Substitution,,0,0,326
+0022500769,470,PT03M15.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,87,87,174,v,Joe Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0022500769,471,PT02M59.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-48,122,13,Missed,1,,,0,h,MISS Reaves 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,328
+0022500769,472,PT02M56.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,329
+0022500769,473,PT02M52.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0,330
+0022500769,475,PT02M52.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,331
+0022500769,476,PT02M38.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,-18,0,2,Missed,1,,,0,h,MISS LaRavia 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,332
+0022500769,477,PT02M35.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,333
+0022500769,478,PT02M29.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,334
+0022500769,478,PT02M29.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,335
+0022500769,480,PT02M16.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,336
+0022500769,480,PT02M16.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren STEAL (1 STL),,,1,0,337
+0022500769,482,PT02M13.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,338
+0022500769,482,PT02M13.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,339
+0022500769,484,PT02M13.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves T.FOUL (P2.PN) (E.Dalen),Foul,Technical,1,0,340
+0022500769,485,PT02M13.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,87,88,175,v,Joe Free Throw Technical (19 PTS),Free Throw,Free Throw Technical,1,0,341
+0022500769,486,PT01M53.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,81,14,8,Missed,1,,,0,h,MISS Reaves 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,342
+0022500769,487,PT01M52.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,343
+0022500769,488,PT01M52.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Made,1,89,88,177,h,Hayes Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2,344
+0022500769,489,PT01M36.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-47,49,7,Missed,1,,,0,v,MISS Wiggins 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,345
+0022500769,490,PT01M36.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,346
+0022500769,491,PT01M36.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,1,0,347
+0022500769,493,PT01M36.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,89,89,178,v,Holmgren Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,348
+0022500769,494,PT01M36.00S,3,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: L. James FOR LaRavia,Substitution,,0,0,349
+0022500769,496,PT01M36.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Wallace FOR Jay. Williams,Substitution,,0,0,350
+0022500769,498,PT01M36.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,89,90,179,v,Holmgren Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+0022500769,499,PT01M20.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,0,352
+0022500769,501,PT01M20.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,90,90,180,h,Reaves Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022500769,502,PT01M20.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,91,90,181,h,Reaves Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,354
+0022500769,504,PT01M07.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,-36,55,7,Missed,1,,,0,v,MISS Holmgren 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,355
+0022500769,504,PT01M07.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt BLOCK (1 BLK),,,1,2,356
+0022500769,506,PT01M04.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,357
+0022500769,507,PT00M54.60S,3,1610612747,LAL,1629637,Hayes,J. Hayes,9,94,9,Missed,1,,,0,h,MISS Hayes 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,358
+0022500769,508,PT00M52.60S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,359
+0022500769,509,PT00M35.30S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,138,222,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,360
+0022500769,510,PT00M31.50S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,361
+0022500769,511,PT00M18.90S,3,1610612747,LAL,1630559,Reaves,A. Reaves,10,250,25,Missed,1,,,0,h,MISS Reaves 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,362
+0022500769,512,PT00M14.20S,3,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,363
+0022500769,513,PT00M04.00S,3,1610612760,OKC,1627936,Caruso,A. Caruso,83,239,25,Made,1,91,93,184,v,Caruso 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,364
+0022500769,514,PT00M00.60S,3,0,,0,,,0,0,0,,0,,,0,h,LAKERS Heave,Heave,Team Field Goal Attempt,1,0,365
+0022500769,515,PT00M00.40S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,366
+0022500769,516,PT00M00.00S,3,0,,0,,,0,0,0,,0,91,93,184,,End of 3rd Period (12:01 AM EST),period,end,1,0,367
+0022500769,525,PT12M00.00S,4,0,,0,,,0,0,0,,0,91,93,184,,Start of 4th Period (12:05 AM EST),period,start,0,0,368
+0022500769,526,PT11M49.00S,4,1610612747,LAL,203935,Smart,M. Smart,229,59,24,Made,1,94,93,187,h,Smart 24' 3PT Jump Shot (14 PTS) (L. James 7 AST),Made Shot,Jump Shot,1,3,369
+0022500769,528,PT11M32.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-203,197,28,Missed,1,,,0,v,MISS Joe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022500769,529,PT11M31.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,371
+0022500769,530,PT11M26.00S,4,1610612747,LAL,203935,Smart,M. Smart,-196,150,25,Missed,1,,,0,h,MISS Smart 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,372
+0022500769,531,PT11M24.00S,4,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,373
+0022500769,532,PT11M13.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,374
+0022500769,537,PT11M06.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-33,26,4,Missed,1,,,0,v,MISS Hartenstein 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,375
+0022500769,538,PT11M05.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,0,376
+0022500769,535,PT11M05.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,377
+0022500769,536,PT11M05.00S,4,0,,533,,,0,0,0,,0,94,93,187,,Instant Replay4th Period (12:06 AM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,378
+0022500769,539,PT10M51.00S,4,1610612747,LAL,2544,James,L. James,-40,151,16,Missed,1,,,0,h,MISS L. James 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,379
+0022500769,540,PT10M49.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,380
+0022500769,541,PT10M41.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-43,58,7,Missed,1,,,0,v,MISS Joe 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,381
+0022500769,542,PT10M40.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,382
+0022500769,544,PT10M26.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,-6,48,5,Made,1,94,95,189,v,Caruso 5' Driving Layup (14 PTS) (Joe 1 AST),Made Shot,Driving Layup Shot,1,2,383
+0022500769,546,PT10M16.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren S.FOUL (P3.T1) (A.Nagy),Foul,Shooting,1,0,384
+0022500769,550,PT10M16.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Dort FOR Holmgren,Substitution,,0,0,385
+0022500769,548,PT10M16.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,MISS Ayton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,386
+0022500769,549,PT10M16.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,387
+0022500769,552,PT10M16.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,MISS Ayton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,388
+0022500769,553,PT10M15.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,389
+0022500769,554,PT09M58.00S,4,1610612760,OKC,1629652,Dort,L. Dort,-159,217,27,Missed,1,,,0,v,MISS Dort 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022500769,555,PT09M56.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,391
+0022500769,556,PT09M52.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,5,249,25,Made,1,94,98,192,v,Caruso 25' 3PT Jump Shot (17 PTS) (Joe 2 AST),Made Shot,Jump Shot,1,3,392
+0022500769,558,PT09M34.00S,4,1610612747,LAL,203935,Smart,M. Smart,28,252,25,Made,1,97,98,195,h,Smart 25' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,393
+0022500769,559,PT09M26.00S,4,1610612760,OKC,1630198,Joe,I. Joe,150,196,25,Missed,1,,,0,v,MISS Joe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022500769,560,PT09M25.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,395
+0022500769,561,PT09M17.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,396
+0022500769,561,PT09M17.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort STEAL (1 STL),,,1,0,397
+0022500769,563,PT09M05.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,398
+0022500769,564,PT08M45.00S,4,1610612747,LAL,2544,James,L. James,105,226,25,Missed,1,,,0,h,MISS L. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022500769,565,PT08M44.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,400
+0022500769,567,PT08M35.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-29,147,15,Missed,1,,,0,v,MISS Joe 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,401
+0022500769,568,PT08M33.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,402
+0022500769,569,PT08M33.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James L.B.FOUL (P1.T1) (A.Nagy),Foul,Loose Ball,1,0,403
+0022500769,571,PT08M33.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: LaRavia FOR Vanderbilt,Substitution,,0,0,404
+0022500769,573,PT08M30.00S,4,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,1,0,405
+0022500769,575,PT08M30.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,MISS Caruso Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,406
+0022500769,576,PT08M30.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,407
+0022500769,577,PT08M30.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Double Lane,Violation,Double Lane,0,0,408
+0022500769,578,PT08M30.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Double Lane,Violation,Double Lane,0,0,409
+0022500769,579,PT08M30.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Jump Ball Ayton vs. Hartenstein: Tip to Smart,Jump Ball,,1,0,410
+0022500769,582,PT08M30.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Lane Violation Turnover (P1.T13),Turnover,Lane Violation,1,0,411
+0022500769,584,PT08M27.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P3.T2) (E.Dalen),Foul,Personal,1,0,412
+0022500769,586,PT08M19.00S,4,1610612747,LAL,2544,James,L. James,-40,21,5,Missed,1,,,0,h,MISS L. James 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,413
+0022500769,586,PT08M19.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort BLOCK (1 BLK),,,1,2,414
+0022500769,588,PT08M18.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,415
+0022500769,589,PT08M17.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort S.FOUL (P4.T3) (J.Tiven),Foul,Shooting,1,0,416
+0022500769,591,PT08M17.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS L. James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,417
+0022500769,592,PT08M17.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,1,0,418
+0022500769,593,PT08M17.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,MISS L. James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,419
+0022500769,594,PT08M17.00S,4,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,420
+0022500769,599,PT08M07.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,421
+0022500769,596,PT08M07.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,422
+0022500769,598,PT08M07.00S,4,0,,595,,,0,0,0,,0,97,98,195,,Instant Replay4th Period (12:19 AM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,423
+0022500769,600,PT08M07.00S,4,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,SUB: Reaves FOR Kennard,Substitution,,0,0,424
+0022500769,602,PT07M53.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,425
+0022500769,602,PT07M53.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein STEAL (3 STL),,,1,0,426
+0022500769,605,PT07M42.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,SUB: Hachimura FOR L. James,Substitution,,0,0,427
+0022500769,607,PT07M38.00S,4,1610612760,OKC,1629652,Dort,L. Dort,147,221,27,Missed,1,,,0,v,MISS Dort 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+0022500769,608,PT07M34.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,429
+0022500769,609,PT07M24.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,45,115,12,Made,1,99,98,197,h,Reaves 12' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,430
+0022500769,610,PT07M09.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-12,11,2,Missed,1,,,0,v,MISS Joe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022500769,611,PT07M08.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,432
+0022500769,612,PT07M08.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Made,1,99,100,199,v,Hartenstein Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,1,2,433
+0022500769,613,PT06M47.00S,4,1610612747,LAL,1631222,LaRavia,J. LaRavia,154,195,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,434
+0022500769,614,PT06M43.00S,4,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,McCain REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,435
+0022500769,615,PT06M35.00S,4,1610612760,OKC,1642272,McCain,J. McCain,113,43,12,Missed,1,,,0,v,MISS McCain 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,436
+0022500769,616,PT06M34.00S,4,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,437
+0022500769,617,PT06M16.00S,4,1610612747,LAL,203935,Smart,M. Smart,56,40,7,Missed,1,,,0,h,MISS Smart 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,438
+0022500769,618,PT06M13.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,439
+0022500769,619,PT06M11.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,Ayton Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,440
+0022500769,619,PT06M11.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe STEAL (2 STL),,,1,0,441
+0022500769,621,PT05M59.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,442
+0022500769,621,PT05M59.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves STEAL (1 STL),,,1,0,443
+0022500769,623,PT05M53.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-12,8,1,Missed,1,,,0,h,MISS Reaves 1' Running Layup,Missed Shot,Running Layup Shot,1,2,444
+0022500769,624,PT05M52.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,445
+0022500769,629,PT05M48.00S,4,1610612747,LAL,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: L. James FOR Smart,Substitution,,0,0,446
+0022500769,630,PT05M48.00S,4,1610612760,OKC,1642272,McCain,J. McCain,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR McCain,Substitution,,0,0,447
+0022500769,631,PT05M48.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Caruso,Substitution,,0,0,448
+0022500769,632,PT05M48.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Holmgren FOR Joe,Substitution,,0,0,449
+0022500769,633,PT05M48.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: Wallace FOR Hartenstein,Substitution,,0,0,450
+0022500769,639,PT05M44.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-224,12,0,Missed,1,,,0,v,MISS Jal. Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022500769,640,PT05M42.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,452
+0022500769,641,PT05M23.00S,4,1610612747,LAL,1631222,LaRavia,J. LaRavia,233,37,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,453
+0022500769,642,PT05M19.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,454
+0022500769,643,PT05M10.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,60,6,Missed,1,,,0,v,MISS Jay. Williams 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,455
+0022500769,644,PT05M07.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,456
+0022500769,646,PT05M01.00S,4,1610612760,OKC,1631114,Williams,J. Williams,13,23,3,Made,1,99,102,201,v,Jal. Williams 3' Cutting Layup Shot (15 PTS) (Wallace 4 AST),Made Shot,Cutting Layup Shot,1,2,457
+0022500769,648,PT04M43.00S,4,1610612747,LAL,1631222,LaRavia,J. LaRavia,229,120,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022500769,649,PT04M39.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,459
+0022500769,650,PT04M22.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,47,59,8,Made,1,99,104,203,v,Holmgren 8' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,1,2,460
+0022500769,651,PT03M56.00S,4,1610612747,LAL,2544,James,L. James,-15,10,2,Made,1,101,104,205,h,L. James 2' Layup (20 PTS) (LaRavia 1 AST),Made Shot,Layup Shot,1,2,461
+0022500769,653,PT03M33.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-36,137,14,Made,1,101,106,207,v,Jal. Williams 14' Step Back Jump Shot (17 PTS) (Wallace 5 AST),Made Shot,Step Back Jump shot,1,2,462
+0022500769,654,PT03M20.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves Step Out of Bounds Turnover (P5.T15),Turnover,Step Out of Bounds Turnover,1,0,463
+0022500769,655,PT03M20.00S,4,1610612747,LAL,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Hayes FOR LaRavia,Substitution,,0,0,464
+0022500769,656,PT03M20.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: Kennard FOR Hachimura,Substitution,,0,0,465
+0022500769,659,PT03M20.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,466
+0022500769,661,PT03M20.00S,4,1610612747,LAL,1629028,Ayton,D. Ayton,0,0,0,,0,,,0,h,SUB: Smart FOR Ayton,Substitution,,0,0,467
+0022500769,663,PT03M05.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-232,67,24,Made,1,101,109,210,v,Jay. Williams 24' 3PT Jump Shot (11 PTS) (Wallace 6 AST),Made Shot,Jump Shot,1,3,468
+0022500769,665,PT02M53.00S,4,1610612747,LAL,203935,Smart,M. Smart,49,13,5,Missed,1,,,0,h,MISS Smart 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,469
+0022500769,666,PT02M50.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,Jay. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,470
+0022500769,668,PT02M46.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams Offensive Charge Foul (P2) (A.Nagy),Foul,Offensive Charge,1,0,471
+0022500769,670,PT02M46.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,472
+0022500769,671,PT02M46.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,473
+0022500769,672,PT02M46.00S,4,0,,668,,,0,0,0,,0,101,109,210,,Instant Replay4th Period (12:31 AM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,474
+0022500769,673,PT02M46.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,h,SUB: Hachimura FOR Hayes,Substitution,,0,0,475
+0022500769,674,PT02M46.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Caruso FOR Jay. Williams,Substitution,,0,0,476
+0022500769,677,PT02M28.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,-230,6,0,Made,1,104,109,213,h,Hachimura 3PT Jump Shot (10 PTS) (L. James 8 AST),Made Shot,Jump Shot,1,3,477
+0022500769,679,PT02M11.00S,4,1610612760,OKC,1631114,Williams,J. Williams,44,136,14,Missed,1,,,0,v,MISS Jal. Williams 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,478
+0022500769,680,PT02M07.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,h,L. James REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,479
+0022500769,681,PT02M04.00S,4,1610612747,LAL,203935,Smart,M. Smart,4,41,4,Made,1,106,109,215,h,Smart 4' Running Layup (19 PTS) (L. James 9 AST),Made Shot,Running Layup Shot,1,2,480
+0022500769,683,PT01M51.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,11,1,Made,1,106,111,217,v,Wallace 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,481
+0022500769,684,PT01M43.00S,4,1610612747,LAL,2544,James,L. James,1,0,0,Made,1,108,111,219,h,L. James Cutting Dunk Shot (22 PTS) (Smart 3 AST),Made Shot,Cutting Dunk Shot,1,2,482
+0022500769,686,PT01M19.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-107,90,14,Missed,1,,,0,v,MISS Jal. Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,483
+0022500769,687,PT01M17.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,484
+0022500769,691,PT01M17.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,-4,5,1,Made,1,108,113,221,v,Holmgren 1' Putback Dunk (13 PTS),Made Shot,Putback Dunk Shot,0,2,485
+0022500769,692,PT01M17.00S,4,0,,691,Roe,L. Roe,0,0,0,,0,108,113,221,,Instant Replay4th Period (12:36 AM EST),Instant Replay,Support Ruling,0,0,486
+0022500769,693,PT01M03.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,-4,6,1,Made,1,110,113,223,h,Hachimura 1' Cutting Layup Shot (12 PTS) (L. James 10 AST),Made Shot,Cutting Layup Shot,1,2,487
+0022500769,695,PT00M51.90S,4,1610612760,OKC,1631114,Williams,J. Williams,-23,99,10,Made,1,110,115,225,v,Jal. Williams 10' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,488
+0022500769,696,PT00M40.70S,4,1610612747,LAL,2544,James,L. James,233,37,24,Missed,1,,,0,h,MISS L. James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022500769,697,PT00M37.90S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,490
+0022500769,698,PT00M37.90S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura P.FOUL (P1.T3) (A.Nagy),Foul,Personal,1,0,491
+0022500769,700,PT00M35.90S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,h,Reaves P.FOUL (P3.PN) (A.Nagy),Foul,Personal,1,0,492
+0022500769,702,PT00M35.90S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,110,116,226,v,Jal. Williams Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,493
+0022500769,703,PT00M35.90S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,110,117,227,v,Jal. Williams Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,494
+0022500769,704,PT00M35.90S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,495
+0022500769,705,PT00M28.30S,4,1610612747,LAL,1630559,Reaves,A. Reaves,6,252,25,Missed,1,,,0,h,MISS Reaves 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,496
+0022500769,706,PT00M26.70S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,497
+0022500769,708,PT00M20.90S,4,1610612747,LAL,1628379,Kennard,L. Kennard,0,0,0,,0,,,0,h,Kennard Personal Take Foul (P4.PN) (A.Nagy),Foul,Personal Take,1,0,498
+0022500769,710,PT00M20.90S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,110,118,228,v,Jal. Williams Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,499
+0022500769,711,PT00M20.90S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,110,119,229,v,Jal. Williams Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,500
+0022500769,712,PT00M17.30S,4,1610612747,LAL,203935,Smart,M. Smart,-181,195,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,501
+0022500769,713,PT00M12.10S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,v,Jal. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,502
+0022500769,714,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,119,229,,End of 4th Period (12:42 AM EST),period,end,1,0,503

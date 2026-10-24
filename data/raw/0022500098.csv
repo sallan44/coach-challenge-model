@@ -1,0 +1,476 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500098,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:12 PM EST),period,start,1,0,1
+0022500098,4,PT12M00.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Jump Ball Sabonis vs. Kessler: Tip to George,Jump Ball,,1,0,2
+0022500098,7,PT11M49.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022500098,7,PT11M49.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder STEAL (1 STL),,,1,0,4
+0022500098,9,PT11M44.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,38,27,5,Missed,1,,,0,h,MISS Schroder 5' Running Layup,Missed Shot,Running Layup Shot,1,2,5
+0022500098,10,PT11M42.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022500098,11,PT11M39.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,-191,167,25,Made,1,0,3,3,v,Mykhailiuk 25' 3PT Running Jump Shot (3 PTS) (George 1 AST),Made Shot,Running Jump Shot,1,3,7
+0022500098,13,PT11M15.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,8
+0022500098,13,PT11M15.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler STEAL (1 STL),,,1,0,9
+0022500098,15,PT11M03.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,56,42,7,Made,1,0,5,5,v,Filipowski 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,10
+0022500098,16,PT10M45.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,108,109,15,Missed,1,,,0,h,MISS LaVine 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,11
+0022500098,17,PT10M43.00S,1,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+0022500098,18,PT10M39.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,-64,38,7,Made,1,2,5,7,h,Schroder 7' Driving Floating Bank Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,13
+0022500098,20,PT10M26.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,14
+0022500098,22,PT10M19.00S,1,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0,15
+0022500098,24,PT10M19.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,2,6,8,v,Markkanen Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,16
+0022500098,25,PT10M19.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,2,7,9,v,Markkanen Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,17
+0022500098,26,PT10M04.00S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,119,102,16,Made,1,4,7,11,h,DeRozan 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,18
+0022500098,27,PT09M48.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,19
+0022500098,27,PT09M48.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder STEAL (2 STL),,,1,0,20
+0022500098,29,PT09M45.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,21
+0022500098,30,PT09M36.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,138,213,25,Made,1,4,10,14,v,Filipowski 25' 3PT Jump Shot (5 PTS) (George 2 AST),Made Shot,Jump Shot,1,3,22
+0022500098,32,PT09M22.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,-53,60,8,Missed,1,,,0,h,MISS Schroder 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,23
+0022500098,33,PT09M18.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022500098,34,PT08M59.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,87,242,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,25
+0022500098,35,PT08M54.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0022500098,36,PT08M51.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,27
+0022500098,38,PT08M51.00S,1,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,SUB: Saric FOR Jones,Substitution,,0,0,28
+0022500098,40,PT08M40.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-221,127,25,Made,1,7,10,17,h,LaVine 25' 3PT Jump Shot (3 PTS) (Schroder 1 AST),Made Shot,Jump Shot,1,3,29
+0022500098,42,PT08M38.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,30
+0022500098,44,PT08M35.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder P.FOUL (P1.T3) (J.Sterling),Foul,Personal,1,0,31
+0022500098,46,PT08M20.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,32
+0022500098,48,PT08M20.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Offensive Foul Turnover (P3.T3),Turnover,Offensive Foul Turnover,1,0,33
+0022500098,50,PT08M01.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,34
+0022500098,52,PT08M01.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,8,10,18,h,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,35
+0022500098,53,PT08M01.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,9,10,19,h,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,36
+0022500098,54,PT07M53.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,37
+0022500098,54,PT07M53.00S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan STEAL (1 STL),,,1,0,38
+0022500098,56,PT07M41.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,-230,7,0,Missed,1,,,0,h,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022500098,57,PT07M39.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0022500098,58,PT07M36.00S,1,1610612762,UTA,1641718,George,K. George,140,211,25,Missed,1,,,0,v,MISS George 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,41
+0022500098,59,PT07M33.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,42
+0022500098,60,PT07M32.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,9,21,2,Missed,1,,,0,v,MISS Mykhailiuk 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,43
+0022500098,61,PT07M32.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,44
+0022500098,62,PT07M20.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,Made,1,9,12,21,v,Markkanen Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,45
+0022500098,63,PT07M17.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,60,278,28,Missed,1,,,0,h,MISS LaVine 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0022500098,64,PT07M15.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,47
+0022500098,65,PT06M58.00S,1,1610612762,UTA,1641718,George,K. George,64,51,8,Made,1,9,14,23,v,George 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,48
+0022500098,66,PT06M39.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-227,16,0,Made,1,12,14,26,h,LaVine 3PT Jump Shot (6 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,3,49
+0022500098,68,PT06M27.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,20,2,Made,1,12,16,28,v,Markkanen 2' Cutting Dunk Shot (6 PTS) (George 3 AST),Made Shot,Cutting Dunk Shot,1,2,50
+0022500098,70,PT06M14.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,162,59,17,Made,1,14,16,30,h,Schroder 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,51
+0022500098,71,PT05M54.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,-234,-13,0,Missed,1,,,0,v,MISS Mykhailiuk 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022500098,72,PT05M50.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,h,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022500098,73,PT05M49.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,54
+0022500098,75,PT05M49.00S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Monk FOR DeRozan,Substitution,,0,0,55
+0022500098,76,PT05M49.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Eubanks FOR Sabonis,Substitution,,0,0,56
+0022500098,77,PT05M49.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Mykhailiuk,Substitution,,0,0,57
+0022500098,78,PT05M49.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,SUB: Bailey FOR Filipowski,Substitution,,0,0,58
+0022500098,84,PT05M37.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,-207,155,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022500098,85,PT05M37.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,60
+0022500098,87,PT05M36.00S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Hendricks FOR Markkanen,Substitution,,0,0,61
+0022500098,89,PT05M20.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Lost Ball Turnover (P3.T4),Turnover,Lost Ball,1,0,62
+0022500098,89,PT05M20.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler STEAL (2 STL),,,1,0,63
+0022500098,91,PT05M12.00S,1,1610612762,UTA,1641718,George,K. George,-67,237,25,Missed,1,,,0,v,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022500098,92,PT05M08.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022500098,93,PT05M02.00S,1,1610612758,SAC,1629234,Eubanks,D. Eubanks,5,26,3,Missed,1,,,0,h,MISS Eubanks 3' Layup,Missed Shot,Layup Shot,1,2,66
+0022500098,93,PT05M02.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George BLOCK (1 BLK),,,1,2,67
+0022500098,95,PT04M59.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022500098,98,PT04M55.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,31,27,4,Made,1,14,18,32,v,Sensabaugh 4' Driving Layup (2 PTS) (George 4 AST),Made Shot,Driving Layup Shot,1,2,69
+0022500098,100,PT04M41.00S,1,1610612758,SAC,1629234,Eubanks,D. Eubanks,89,32,9,Missed,1,,,0,h,MISS Eubanks 9' Jump Shot,Missed Shot,Jump Shot,1,2,70
+0022500098,101,PT04M41.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022500098,102,PT04M30.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,74,152,17,Missed,1,,,0,v,MISS Bailey 17' Jump Shot,Missed Shot,Jump Shot,1,2,72
+0022500098,103,PT04M25.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,73
+0022500098,104,PT04M23.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-205,163,26,Missed,1,,,0,h,MISS LaVine 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,74
+0022500098,105,PT04M23.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022500098,106,PT04M04.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Out of Bounds Lost Ball Turnover (P4.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,76
+0022500098,107,PT04M04.00S,1,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Westbrook FOR Schroder,Substitution,,0,0,77
+0022500098,108,PT04M04.00S,1,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,SUB: Nurkic FOR Kessler,Substitution,,0,0,78
+0022500098,111,PT03M53.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,79
+0022500098,113,PT03M53.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,15,18,33,h,LaVine Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+0022500098,245,PT03M53.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,SUB: Clayton Jr. FOR George,Substitution,,0,0,81
+0022500098,116,PT03M53.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,16,18,34,h,LaVine Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+0022500098,119,PT03M40.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,-15,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022500098,120,PT03M33.00S,1,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022500098,121,PT03M30.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-233,16,0,Missed,1,,,0,v,MISS Sensabaugh 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022500098,122,PT03M30.00S,1,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022500098,123,PT03M19.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-18,94,10,Made,1,18,18,36,h,LaVine 10' Driving Layup (10 PTS) (Westbrook 1 AST),Made Shot,Driving Layup Shot,1,2,87
+0022500098,124,PT03M01.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,12,45,5,Missed,1,,,0,v,MISS Nurkic 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,88
+0022500098,124,PT03M01.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk BLOCK (1 BLK),,,1,2,89
+0022500098,126,PT02M58.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,h,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,90
+0022500098,127,PT02M58.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-69,41,8,Made,1,20,18,38,h,LaVine 8' Layup (12 PTS) (Monk 1 AST),Made Shot,Layup Shot,1,2,91
+0022500098,128,PT02M58.00S,1,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,0,92
+0022500098,131,PT02M58.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,93
+0022500098,133,PT02M58.00S,1,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,h,SUB: DeRozan FOR Saric,Substitution,,0,0,94
+0022500098,247,PT02M58.00S,1,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: Sabonis FOR Eubanks,Substitution,,0,0,95
+0022500098,138,PT02M58.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,21,18,39,h,LaVine Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,96
+0022500098,139,PT02M45.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk P.FOUL (P1.T4) (J.Goble),Foul,Personal,1,0,97
+0022500098,141,PT02M45.00S,1,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,SUB: Ellis FOR LaVine,Substitution,,0,0,98
+0022500098,143,PT02M32.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,11,32,3,Made,1,21,20,41,v,Nurkic 3' Cutting Layup Shot (2 PTS) (Sensabaugh 1 AST),Made Shot,Cutting Layup Shot,1,2,99
+0022500098,147,PT02M21.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,Jazz T.Foul (Def. 3 Sec Bailey ) (J.Goble),Foul,Defense 3 Second,1,0,100
+0022500098,148,PT02M21.00S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,22,20,42,h,DeRozan Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,1,0,101
+0022500098,149,PT02M08.00S,1,1610612758,SAC,1631165,Ellis,K. Ellis,230,79,24,Made,1,25,20,45,h,Ellis 24' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,1,3,102
+0022500098,151,PT01M53.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,103
+0022500098,151,PT01M53.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk STEAL (1 STL),,,1,0,104
+0022500098,153,PT01M48.00S,1,1610612758,SAC,1631165,Ellis,K. Ellis,16,16,2,Missed,1,,,0,h,MISS Ellis 2' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,105
+0022500098,154,PT01M46.00S,1,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+0022500098,155,PT01M42.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-235,87,25,Missed,1,,,0,v,MISS Sensabaugh 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,107
+0022500098,156,PT01M38.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,108
+0022500098,157,PT01M36.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-235,0,24,Made,1,25,23,48,v,Sensabaugh 24' 3PT Jump Shot (5 PTS) (Hendricks 1 AST),Made Shot,Jump Shot,1,3,109
+0022500098,159,PT01M17.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-29,191,19,Made,1,27,23,50,h,Monk 19' Pullup Jump Shot (2 PTS) (Sabonis 1 AST),Made Shot,Pullup Jump shot,1,2,110
+0022500098,161,PT01M07.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,-17,43,5,Missed,1,,,0,v,MISS Nurkic 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,111
+0022500098,162,PT01M06.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,1,0,112
+0022500098,164,PT01M06.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,SUB: Markkanen FOR Sensabaugh,Substitution,,0,0,113
+0022500098,166,PT01M02.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,200,-17,20,Missed,1,,,0,v,MISS Bailey 20' Jump Shot,Missed Shot,Jump Shot,1,2,114
+0022500098,167,PT00M58.50S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0022500098,168,PT00M52.10S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,1,178,18,Made,1,29,23,52,h,DeRozan 18' Pullup Jump Shot (5 PTS) (Monk 2 AST),Made Shot,Pullup Jump shot,1,2,116
+0022500098,170,PT00M32.80S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk P.FOUL (P2.PN) (J.Van Duyne),Foul,Personal,1,0,117
+0022500098,172,PT00M32.80S,1,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,29,24,53,v,Markkanen Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0022500098,175,PT00M32.80S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Double Lane,Violation,Double Lane,0,0,119
+0022500098,176,PT00M32.80S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Double Lane,Violation,Double Lane,0,0,120
+0022500098,173,PT00M32.80S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: LaVine FOR Monk,Substitution,,0,0,121
+0022500098,177,PT00M32.80S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Jump Ball Sabonis vs. Nurkic: Tip to Bailey,Jump Ball,,1,0,122
+0022500098,180,PT00M25.10S,1,1610612762,UTA,1642846,Bailey,A. Bailey,-32,17,4,Missed,1,,,0,v,MISS Bailey 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,123
+0022500098,182,PT00M21.80S,1,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0022500098,183,PT00M04.30S,1,1610612758,SAC,203897,LaVine,Z. LaVine,-18,181,18,Made,1,31,24,55,h,LaVine 18' Jump Shot (15 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,1,2,125
+0022500098,185,PT00M00.00S,1,0,,0,,,0,0,0,,0,,,0,v,JAZZ Heave,Heave,Team Field Goal Attempt,1,0,126
+0022500098,186,PT00M00.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,127
+0022500098,187,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,24,55,,End of 1st Period (10:39 PM EST),period,end,1,0,128
+0022500098,196,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,24,55,,Start of 2nd Period (10:41 PM EST),period,start,0,0,129
+0022500098,197,PT11M44.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,130
+0022500098,199,PT11M39.00S,2,1610612758,SAC,201566,Westbrook,R. Westbrook,-94,260,28,Missed,1,,,0,h,MISS Westbrook 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022500098,200,PT11M34.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022500098,201,PT11M27.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-36,110,12,Missed,1,,,0,v,MISS Clayton Jr. 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,133
+0022500098,202,PT11M23.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0022500098,203,PT11M18.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,-132,117,18,Missed,1,,,0,h,MISS DeRozan 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,135
+0022500098,204,PT11M14.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,136
+0022500098,205,PT11M04.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,-10,61,6,Made,1,31,26,57,v,Nurkic 6' Cutting Layup Shot (4 PTS) (Filipowski 1 AST),Made Shot,Cutting Layup Shot,1,2,137
+0022500098,207,PT10M54.00S,2,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,138
+0022500098,209,PT10M42.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-207,158,26,Made,1,31,29,60,v,Markkanen 26' 3PT Jump Shot (10 PTS) (Filipowski 2 AST),Made Shot,Jump Shot,1,3,139
+0022500098,211,PT10M29.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-50,50,7,Missed,1,,,0,h,MISS Sabonis 7' Hook Shot,Missed Shot,Hook Shot,1,2,140
+0022500098,212,PT10M29.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,141
+0022500098,213,PT10M17.00S,2,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,142
+0022500098,215,PT10M11.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-156,208,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022500098,216,PT10M08.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+0022500098,217,PT10M02.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,112,249,27,Missed,1,,,0,h,MISS Sabonis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022500098,218,PT09M58.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,146
+0022500098,219,PT09M50.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,75,-4,8,Made,1,31,31,62,v,Clayton Jr. 8' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,147
+0022500098,220,PT09M49.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,148
+0022500098,221,PT09M32.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,25,186,19,Missed,1,,,0,h,MISS DeRozan 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,149
+0022500098,222,PT09M28.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,150
+0022500098,223,PT09M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski OFF.Foul (P2) (J.Sterling),Foul,Offensive,1,0,151
+0022500098,225,PT09M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,152
+0022500098,226,PT09M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Filipowski,Substitution,,0,0,153
+0022500098,228,PT09M03.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,12,47,5,Made,1,33,31,64,h,Sabonis 5' Layup (2 PTS) (DeRozan 3 AST),Made Shot,Layup Shot,1,2,154
+0022500098,230,PT08M56.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,155
+0022500098,230,PT08M56.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (1 STL),,,1,0,156
+0022500098,232,PT08M45.00S,2,1610612758,SAC,201566,Westbrook,R. Westbrook,-71,126,14,Missed,1,,,0,h,MISS Westbrook 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,157
+0022500098,233,PT08M41.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,158
+0022500098,234,PT08M38.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,25,25,4,Made,1,33,33,66,v,Clayton Jr. 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,159
+0022500098,235,PT08M30.00S,2,1610612758,SAC,1628370,Monk,M. Monk,92,53,11,Missed,1,,,0,h,MISS Monk 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,160
+0022500098,236,PT08M28.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+0022500098,237,PT08M24.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,43,-2,4,Missed,1,,,0,v,MISS Markkanen 4' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,2,162
+0022500098,238,PT08M19.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022500098,239,PT08M17.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,164
+0022500098,239,PT08M17.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh STEAL (1 STL),,,1,0,165
+0022500098,241,PT08M11.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,227,16,0,Missed,1,,,0,v,MISS Markkanen 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,166
+0022500098,242,PT08M06.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,167
+0022500098,243,PT08M01.00S,2,1610612758,SAC,1628370,Monk,M. Monk,173,204,27,Made,1,36,33,69,h,Monk 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,168
+0022500098,244,PT08M01.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,169
+0022500098,248,PT08M01.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Schroder FOR DeRozan,Substitution,,0,0,170
+0022500098,249,PT08M01.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Eubanks FOR Sabonis,Substitution,,0,0,171
+0022500098,250,PT08M01.00S,2,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Jones FOR Westbrook,Substitution,,0,0,172
+0022500098,251,PT08M01.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,SUB: Hendricks FOR Mykhailiuk,Substitution,,0,0,173
+0022500098,252,PT08M01.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,SUB: George FOR Clayton Jr.,Substitution,,0,0,174
+0022500098,253,PT08M01.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Kessler FOR Markkanen,Substitution,,0,0,175
+0022500098,254,PT08M01.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,SUB: Bailey FOR Nurkic,Substitution,,0,0,176
+0022500098,262,PT07M46.00S,2,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,177
+0022500098,262,PT07M46.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (2 STL),,,1,0,178
+0022500098,264,PT07M40.00S,2,1610612758,SAC,1642403,Jones,I. Jones,174,220,28,Missed,1,,,0,h,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0022500098,265,PT07M36.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+0022500098,266,PT07M16.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-67,73,10,Missed,1,,,0,v,MISS Bailey 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,181
+0022500098,267,PT07M11.00S,2,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0022500098,268,PT07M04.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,-64,275,28,Made,1,39,33,72,h,Schroder 28' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,183
+0022500098,269,PT06M51.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh Traveling Turnover (P2.T10),Turnover,Traveling,1,0,184
+0022500098,270,PT06M51.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: LaVine FOR Monk,Substitution,,0,0,185
+0022500098,273,PT06M28.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,142,49,15,Missed,1,,,0,h,MISS Schroder 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,186
+0022500098,274,PT06M24.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,187
+0022500098,275,PT06M12.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-59,-10,6,Missed,1,,,0,v,MISS Bailey 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,188
+0022500098,276,PT06M09.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,189
+0022500098,277,PT06M05.00S,2,1610612758,SAC,1629234,Eubanks,D. Eubanks,-12,65,7,Missed,1,,,0,h,MISS Eubanks 7' Running Layup,Missed Shot,Running Layup Shot,1,2,190
+0022500098,278,PT06M04.00S,2,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,191
+0022500098,279,PT06M03.00S,2,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,Made,1,41,33,74,h,Jones Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,192
+0022500098,280,PT05M46.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,40,53,7,Made,1,41,35,76,v,Sensabaugh 7' Floating Jump Shot (7 PTS) (Kessler 1 AST),Made Shot,Floating Jump shot,1,2,193
+0022500098,281,PT05M40.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis Palming Turnover (P2.T7),Turnover,Palming Turnover,1,0,194
+0022500098,283,PT05M21.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,SUB: Markkanen FOR Bailey,Substitution,,0,0,195
+0022500098,285,PT05M16.00S,2,1610612762,UTA,1641718,George,K. George,-81,16,8,Made,1,41,37,78,v,George 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,196
+0022500098,286,PT05M06.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,-169,221,28,Missed,1,,,0,h,MISS Schroder 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,197
+0022500098,287,PT05M06.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+0022500098,288,PT04M53.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-200,129,24,Missed,1,,,0,v,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022500098,289,PT04M51.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,200
+0022500098,291,PT04M36.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,34,32,5,Made,1,43,37,80,h,Schroder 5' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,201
+0022500098,292,PT04M21.00S,2,1610612762,UTA,1641718,George,K. George,44,-1,4,Missed,1,,,0,v,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022500098,292,PT04M21.00S,2,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,Eubanks BLOCK (1 BLK),,,1,2,203
+0022500098,294,PT04M21.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,204
+0022500098,295,PT04M21.00S,2,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: DeRozan FOR Eubanks,Substitution,,0,0,205
+0022500098,296,PT04M21.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,SUB: Sabonis FOR Ellis,Substitution,,0,0,206
+0022500098,300,PT04M12.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-71,246,26,Missed,1,,,0,v,MISS Sensabaugh 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,207
+0022500098,301,PT04M10.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,208
+0022500098,302,PT04M00.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,-233,53,24,Missed,1,,,0,h,MISS Schroder 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+0022500098,303,PT03M57.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,210
+0022500098,304,PT03M48.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,-92,113,15,Missed,1,,,0,h,MISS DeRozan 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,211
+0022500098,305,PT03M44.00S,2,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,212
+0022500098,306,PT03M28.00S,2,1610612762,UTA,1641718,George,K. George,-6,253,25,Made,1,43,40,83,v,George 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,213
+0022500098,307,PT03M03.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-27,47,5,Made,1,45,40,85,h,Sabonis 5' Cutting Dunk Shot (4 PTS) (LaVine 1 AST),Made Shot,Cutting Dunk Shot,1,2,214
+0022500098,309,PT02M53.00S,2,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,1,0,215
+0022500098,311,PT02M53.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,SUB: Mykhailiuk FOR Sensabaugh,Substitution,,0,0,216
+0022500098,313,PT02M46.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,217
+0022500098,313,PT02M46.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan STEAL (2 STL),,,1,0,218
+0022500098,315,PT02M36.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,-56,133,14,Missed,1,,,0,h,MISS DeRozan 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,219
+0022500098,316,PT02M34.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,1,0,220
+0022500098,318,PT02M31.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,1,0,221
+0022500098,320,PT02M31.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,222
+0022500098,321,PT02M13.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,-42,31,5,Made,1,47,40,87,h,DeRozan 5' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,223
+0022500098,322,PT02M03.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,-235,-10,24,Made,1,47,43,90,v,Mykhailiuk 24' 3PT Jump Shot (6 PTS) (Kessler 2 AST),Made Shot,Jump Shot,1,3,224
+0022500098,324,PT02M03.00S,2,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,225
+0022500098,326,PT02M03.00S,2,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,SUB: Nurkic FOR Kessler,Substitution,,0,0,226
+0022500098,328,PT02M03.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,47,44,91,v,Mykhailiuk Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,227
+0022500098,330,PT01M44.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,105,173,20,Made,1,49,44,93,h,Schroder 20' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,228
+0022500098,331,PT01M23.00S,2,1610612762,UTA,1641718,George,K. George,71,-4,7,Missed,1,,,0,v,MISS George 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+0022500098,332,PT01M20.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,230
+0022500098,333,PT01M18.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,22,21,3,Missed,1,,,0,v,MISS Nurkic 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,231
+0022500098,334,PT01M15.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,232
+0022500098,335,PT01M09.00S,2,1610612758,SAC,203471,Schröder,D. Schröder,0,68,7,Missed,1,,,0,h,MISS Schroder 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+0022500098,336,PT01M07.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,234
+0022500098,337,PT01M03.00S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,-27,9,3,Made,1,49,46,95,v,Markkanen 3' Running Dunk (12 PTS) (George 5 AST),Made Shot,Running Dunk Shot,1,2,235
+0022500098,339,PT00M49.10S,2,1610612758,SAC,203897,LaVine,Z. LaVine,58,275,28,Missed,1,,,0,h,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,236
+0022500098,340,PT00M49.10S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,237
+0022500098,341,PT00M36.30S,2,1610612762,UTA,1641718,George,K. George,-148,201,25,Missed,1,,,0,v,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,238
+0022500098,342,PT00M31.60S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,239
+0022500098,343,PT00M29.40S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-85,261,27,Missed,1,,,0,v,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,240
+0022500098,344,PT00M25.90S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,241
+0022500098,346,PT00M19.50S,2,1610612762,UTA,1628374,Markkanen,L. Markkanen,113,225,25,Missed,1,,,0,v,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0022500098,347,PT00M15.50S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,243
+0022500098,348,PT00M01.20S,2,1610612758,SAC,203471,Schröder,D. Schröder,229,100,25,Missed,1,,,0,h,MISS Schroder 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+0022500098,349,PT00M01.20S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,245
+0022500098,350,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,46,95,,End of 2nd Period (11:05 PM EST),period,end,1,0,246
+0022500098,356,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,46,95,,Start of 3rd Period (11:20 PM EST),period,start,0,0,247
+0022500098,357,PT11M48.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski P.FOUL (P3.T1) (J.Sterling),Foul,Personal,1,0,248
+0022500098,359,PT11M38.00S,3,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,249
+0022500098,359,PT11M38.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler STEAL (3 STL),,,1,0,250
+0022500098,361,PT11M31.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,17,27,3,Made,1,49,48,97,v,Mykhailiuk 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,251
+0022500098,362,PT11M11.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,-120,25,12,Made,1,51,48,99,h,LaVine 12' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,252
+0022500098,363,PT10M56.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,-222,118,25,Missed,1,,,0,v,MISS Filipowski 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022500098,364,PT10M52.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,254
+0022500098,365,PT10M50.00S,3,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P3.T1) (J.Sterling),Foul,Shooting,1,0,255
+0022500098,368,PT10M50.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,51,49,100,v,George Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,1,0,256
+0022500098,369,PT10M50.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,51,50,101,v,George Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,1,0,257
+0022500098,370,PT10M50.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,51,51,102,v,George Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,1,0,258
+0022500098,372,PT10M32.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,259
+0022500098,373,PT10M23.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,-224,94,24,Missed,1,,,0,h,MISS LaVine 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022500098,374,PT10M19.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,261
+0022500098,375,PT10M00.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,55,270,28,Missed,1,,,0,v,MISS Mykhailiuk 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,262
+0022500098,376,PT09M58.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,0,263
+0022500098,377,PT09M58.00S,3,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,Jones L.B.FOUL (P4.T2) (J.Goble),Foul,Loose Ball,1,0,264
+0022500098,379,PT09M53.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler Out of Bounds - Bad Pass Turnover Turnover (P6.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,265
+0022500098,380,PT09M31.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,266
+0022500098,381,PT09M12.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,-132,253,29,Made,1,51,54,105,v,Markkanen 29' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,267
+0022500098,382,PT09M10.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,268
+0022500098,383,PT09M10.00S,3,1610612758,SAC,1642403,Jones,I. Jones,0,0,0,,0,,,0,h,SUB: Saric FOR Jones,Substitution,,0,0,269
+0022500098,385,PT08M51.00S,3,1610612758,SAC,203967,Šarić,D. Šarić,227,20,0,Made,1,54,54,108,h,Saric 3PT Jump Shot (5 PTS) (Schroder 2 AST),Made Shot,Jump Shot,1,3,270
+0022500098,387,PT08M29.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,-55,132,14,Made,1,54,56,110,v,Markkanen 14' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,1,2,271
+0022500098,388,PT08M15.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,18,3,2,Made,1,56,56,112,h,Sabonis 2' Dunk (6 PTS) (DeRozan 4 AST),Made Shot,Dunk Shot,1,2,272
+0022500098,390,PT08M01.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,273
+0022500098,392,PT08M01.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,274
+0022500098,393,PT07M42.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,1,0,275
+0022500098,395,PT07M42.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,57,56,113,h,LaVine Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0022500098,396,PT07M42.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,58,56,114,h,LaVine Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,277
+0022500098,397,PT07M24.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,6,293,29,Missed,1,,,0,v,MISS Markkanen 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022500098,398,PT07M21.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,279
+0022500098,399,PT07M16.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,7,34,3,Made,1,58,58,116,v,Kessler 3' Layup (2 PTS) (Filipowski 3 AST),Made Shot,Layup Shot,1,2,280
+0022500098,401,PT07M03.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-9,5,1,Made,1,60,58,118,h,Sabonis 1' Layup (8 PTS) (Schroder 3 AST),Made Shot,Layup Shot,1,2,281
+0022500098,403,PT06M46.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,38,41,6,Made,1,60,60,120,v,Markkanen 6' Turnaround Bank Shot (19 PTS) (Filipowski 4 AST),Made Shot,Turnaround Bank shot,1,2,282
+0022500098,405,PT06M32.00S,3,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,DeRozan Traveling Turnover (P1.T10),Turnover,Traveling,1,0,283
+0022500098,406,PT06M32.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,SUB: Hendricks FOR Mykhailiuk,Substitution,,0,0,284
+0022500098,407,PT06M32.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,SUB: Bailey FOR Filipowski,Substitution,,0,0,285
+0022500098,410,PT06M21.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,-48,110,12,Made,1,60,62,122,v,Markkanen 12' Jump Shot (21 PTS) (George 6 AST),Made Shot,Jump Shot,1,2,286
+0022500098,413,PT06M01.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler P.FOUL (P3.T3) (J.Goble),Foul,Personal,1,0,287
+0022500098,415,PT06M01.00S,3,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Monk FOR DeRozan,Substitution,,0,0,288
+0022500098,416,PT06M01.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Eubanks FOR Sabonis,Substitution,,0,0,289
+0022500098,420,PT05M50.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,50,242,25,Made,1,63,62,125,h,LaVine 25' 3PT Step Back Jump Shot (22 PTS) (Eubanks 1 AST),Made Shot,Step Back Jump shot,1,3,290
+0022500098,421,PT05M35.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,140,221,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022500098,422,PT05M31.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,292
+0022500098,423,PT05M26.00S,3,1610612758,SAC,1628370,Monk,M. Monk,-100,235,26,Made,1,66,62,128,h,Monk 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,293
+0022500098,424,PT05M12.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,294
+0022500098,425,PT05M12.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Nurkic FOR Markkanen,Substitution,,0,0,295
+0022500098,426,PT05M12.00S,3,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Kessler,Substitution,,0,0,296
+0022500098,429,PT04M57.00S,3,1610612762,UTA,1641718,George,K. George,11,48,5,Missed,1,,,0,v,MISS George 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,297
+0022500098,430,PT04M54.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,298
+0022500098,431,PT04M50.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,Bailey S.FOUL (P1.T4) (J.Sterling),Foul,Shooting,1,0,299
+0022500098,433,PT04M50.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,67,62,129,h,LaVine Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,300
+0022500098,434,PT04M50.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,68,62,130,h,LaVine Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,301
+0022500098,435,PT04M27.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-112,-15,11,Missed,1,,,0,v,MISS Sensabaugh 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,302
+0022500098,435,PT04M27.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk BLOCK (2 BLK),,,1,2,303
+0022500098,436,PT04M25.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,Bailey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,304
+0022500098,439,PT04M25.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,305
+0022500098,440,PT04M11.00S,3,1610612758,SAC,1629234,Eubanks,D. Eubanks,11,32,3,Missed,1,,,0,h,MISS Eubanks 3' Hook Shot,Missed Shot,Hook Shot,1,2,306
+0022500098,441,PT04M08.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,307
+0022500098,442,PT04M05.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-4,39,4,Made,1,68,64,132,v,Hendricks 4' Running Dunk (2 PTS) (George 7 AST),Made Shot,Running Dunk Shot,1,2,308
+0022500098,445,PT03M45.00S,3,1610612758,SAC,1629234,Eubanks,D. Eubanks,243,5,24,Missed,1,,,0,h,MISS Eubanks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022500098,446,PT03M42.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,310
+0022500098,447,PT03M36.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George Traveling Turnover (P3.T16),Turnover,Traveling,1,0,311
+0022500098,448,PT03M36.00S,3,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,SUB: Ellis FOR LaVine,Substitution,,0,0,312
+0022500098,449,PT03M36.00S,3,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,SUB: Westbrook FOR Schroder,Substitution,,0,0,313
+0022500098,450,PT03M36.00S,3,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: Sabonis FOR Eubanks,Substitution,,0,0,314
+0022500098,451,PT03M36.00S,3,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,h,SUB: DeRozan FOR Saric,Substitution,,0,0,315
+0022500098,452,PT03M36.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Markkanen FOR Hendricks,Substitution,,0,0,316
+0022500098,453,PT03M36.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,SUB: Clayton Jr. FOR George,Substitution,,0,0,317
+0022500098,462,PT03M26.00S,3,1610612758,SAC,201566,Westbrook,R. Westbrook,-17,48,5,Made,1,70,64,134,h,Westbrook 5' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,318
+0022500098,463,PT03M10.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,-97,254,27,Missed,1,,,0,v,MISS Nurkic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022500098,464,PT03M06.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,320
+0022500098,465,PT02M58.00S,3,1610612758,SAC,1628370,Monk,M. Monk,80,6,8,Missed,1,,,0,h,MISS Monk 8' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,321
+0022500098,466,PT02M53.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,Bailey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,322
+0022500098,467,PT02M47.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-56,53,8,Made,1,70,66,136,v,Sensabaugh 8' Running Layup (9 PTS) (Bailey 1 AST),Made Shot,Running Layup Shot,1,2,323
+0022500098,469,PT02M32.00S,3,1610612758,SAC,1628370,Monk,M. Monk,192,169,26,Made,1,73,66,139,h,Monk 26' 3PT Jump Shot (11 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,3,324
+0022500098,471,PT02M25.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,0,325
+0022500098,473,PT02M21.00S,3,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-2,41,4,Made,1,73,68,141,v,Clayton Jr. 4' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,326
+0022500098,474,PT02M21.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,1,0,327
+0022500098,476,PT02M21.00S,3,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,73,69,142,v,Clayton Jr. Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,328
+0022500098,477,PT02M07.00S,3,1610612758,SAC,1628370,Monk,M. Monk,98,247,27,Missed,1,,,0,h,MISS Monk 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022500098,478,PT02M07.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,330
+0022500098,479,PT01M51.00S,3,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,331
+0022500098,479,PT01M51.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk STEAL (2 STL),,,1,0,332
+0022500098,481,PT01M39.00S,3,1610612758,SAC,201942,DeRozan,D. DeRozan,31,32,4,Missed,1,,,0,h,MISS DeRozan 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,333
+0022500098,482,PT01M35.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,334
+0022500098,571,PT01M33.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0,335
+0022500098,487,PT01M33.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis Non-Unsportsmanlike Tech Foul - Flopping (P1.T4) (J.Goble),Foul,Flopping,1,0,336
+0022500098,488,PT01M33.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,337
+0022500098,489,PT01M33.00S,3,0,,486,,,0,0,0,,0,73,69,142,,Instant Replay3rd Period (11:47 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,338
+0022500098,491,PT01M33.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,MISS Markkanen Free Throw Technical,Free Throw,Free Throw Technical,1,0,339
+0022500098,492,PT01M33.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,1,0,340
+0022500098,493,PT01M33.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,v,SUB: Filipowski FOR Bailey,Substitution,,0,0,341
+0022500098,495,PT01M14.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,342
+0022500098,495,PT01M14.00S,3,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. STEAL (1 STL),,,1,0,343
+0022500098,497,PT01M09.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,1,29,3,Made,1,73,71,144,v,Markkanen 3' Running Layup (23 PTS) (Clayton Jr. 1 AST),Made Shot,Running Layup Shot,1,2,344
+0022500098,499,PT01M00.00S,3,1610612758,SAC,1628370,Monk,M. Monk,233,5,0,Missed,1,,,0,h,MISS Monk 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022500098,500,PT01M00.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,346
+0022500098,501,PT00M54.20S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,13,21,2,Made,1,73,73,146,v,Filipowski 2' Driving Layup (7 PTS) (Clayton Jr. 2 AST),Made Shot,Driving Layup Shot,1,2,347
+0022500098,503,PT00M41.80S,3,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,348
+0022500098,503,PT00M41.80S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic STEAL (1 STL),,,1,0,349
+0022500098,505,PT00M37.00S,3,1610612762,UTA,1628374,Markkanen,L. Markkanen,-165,225,28,Missed,1,,,0,v,MISS Markkanen 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,350
+0022500098,506,PT00M33.60S,3,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,351
+0022500098,507,PT00M28.60S,3,1610612758,SAC,201566,Westbrook,R. Westbrook,51,-11,5,Made,1,75,73,148,h,Westbrook 5' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,352
+0022500098,508,PT00M05.80S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-229,75,24,Made,1,75,76,151,v,Sensabaugh 24' 3PT Jump Shot (12 PTS) (Clayton Jr. 3 AST),Made Shot,Jump Shot,1,3,353
+0022500098,510,PT00M02.00S,3,1610612758,SAC,1628370,Monk,M. Monk,66,247,26,Made,1,78,76,154,h,Monk 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,354
+0022500098,511,PT00M00.00S,3,0,,510,,,0,0,0,,0,78,76,154,,Instant Replay3rd Period (11:51 PM EST),Instant Replay,Replay Center,0,0,355
+0022500098,512,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,76,154,,End of 3rd Period (11:53 PM EST),period,end,1,0,356
+0022500098,517,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,76,154,,Start of 4th Period (11:54 PM EST),period,start,0,0,357
+0022500098,518,PT11M46.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,49,21,5,Missed,1,,,0,v,MISS Filipowski 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,358
+0022500098,519,PT11M42.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,359
+0022500098,520,PT11M39.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,15,11,2,Made,1,80,76,156,h,Sabonis 2' Running Dunk (10 PTS) (Monk 3 AST),Made Shot,Running Dunk Shot,1,2,360
+0022500098,522,PT11M25.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-167,211,27,Made,1,80,79,159,v,Clayton Jr. 27' 3PT Jump Shot (10 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,1,3,361
+0022500098,524,PT11M05.00S,4,1610612758,SAC,1628370,Monk,M. Monk,5,140,14,Missed,1,,,0,h,MISS Monk 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,362
+0022500098,525,PT11M03.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,363
+0022500098,526,PT11M01.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,Clayton Jr. Lost Ball Turnover (P2.T19),Turnover,Lost Ball,1,0,364
+0022500098,526,PT11M01.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (3 STL),,,1,0,365
+0022500098,528,PT10M58.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski S.FOUL (P4.T1) (J.Van Duyne),Foul,Shooting,1,0,366
+0022500098,530,PT10M58.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,81,79,160,h,Ellis Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022500098,531,PT10M58.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,MISS Ellis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,368
+0022500098,532,PT10M56.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,369
+0022500098,533,PT10M43.00S,4,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,96,242,26,Missed,1,,,0,v,MISS Mykhailiuk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022500098,534,PT10M38.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,371
+0022500098,535,PT10M32.00S,4,1610612758,SAC,1628370,Monk,M. Monk,-58,255,26,Made,1,84,79,163,h,Monk 26' 3PT Jump Shot (17 PTS) (DeRozan 5 AST),Made Shot,Jump Shot,1,3,372
+0022500098,537,PT10M06.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,-121,254,28,Made,1,84,82,166,v,Markkanen 28' 3PT Jump Shot (26 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,1,3,373
+0022500098,539,PT09M41.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,-227,135,26,Missed,1,,,0,h,MISS Ellis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022500098,540,PT09M38.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,375
+0022500098,541,PT09M34.00S,4,1610612758,SAC,1628370,Monk,M. Monk,13,273,27,Made,1,87,82,169,h,Monk 27' 3PT Jump Shot (20 PTS) (Ellis 1 AST),Made Shot,Jump Shot,1,3,376
+0022500098,543,PT09M10.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-89,259,27,Missed,1,,,0,v,MISS Clayton Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+0022500098,544,PT09M07.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,Nurkic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,378
+0022500098,545,PT09M06.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,18,13,2,Missed,1,,,0,v,MISS Nurkic 2' Layup,Missed Shot,Layup Shot,1,2,379
+0022500098,546,PT09M06.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,1,0,380
+0022500098,547,PT09M06.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis L.B.FOUL (P2.T1) (J.Goble),Foul,Loose Ball,1,0,381
+0022500098,549,PT09M06.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,SUB: Schroder FOR Ellis,Substitution,,0,0,382
+0022500098,550,PT09M06.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,v,SUB: George FOR Clayton Jr.,Substitution,,0,0,383
+0022500098,551,PT09M06.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,v,SUB: Kessler FOR Nurkic,Substitution,,0,0,384
+0022500098,555,PT08M57.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0,385
+0022500098,557,PT08M57.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,87,83,170,v,George Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,386
+0022500098,558,PT08M57.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Markkanen,Substitution,,0,0,387
+0022500098,560,PT08M57.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,87,84,171,v,George Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,388
+0022500098,561,PT08M49.00S,4,1610612758,SAC,1628370,Monk,M. Monk,173,188,26,Missed,1,,,0,h,MISS Monk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022500098,562,PT08M44.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,390
+0022500098,563,PT08M39.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-105,244,27,Missed,1,,,0,v,MISS Sensabaugh 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0022500098,564,PT08M39.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,392
+0022500098,566,PT08M24.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,-78,155,17,Missed,1,,,0,h,MISS LaVine 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,393
+0022500098,567,PT08M19.00S,4,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,Mykhailiuk REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+0022500098,568,PT08M01.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-234,29,24,Made,1,87,87,174,v,Filipowski 24' 3PT Jump Shot (10 PTS) (George 8 AST),Made Shot,Jump Shot,1,3,395
+0022500098,570,PT07M58.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,396
+0022500098,572,PT07M58.00S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: Saric FOR Monk,Substitution,,0,0,397
+0022500098,574,PT07M40.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,-12,-2,1,Missed,1,,,0,h,MISS LaVine 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,398
+0022500098,575,PT07M38.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,399
+0022500098,576,PT07M24.00S,4,1610612762,UTA,1641718,George,K. George,77,126,15,Made,1,87,89,176,v,George 15' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,400
+0022500098,577,PT06M58.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,44,20,5,Missed,1,,,0,h,MISS Sabonis 5' Hook Shot,Missed Shot,Hook Shot,1,2,401
+0022500098,578,PT06M56.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,402
+0022500098,579,PT06M38.00S,4,1610612762,UTA,1641718,George,K. George,137,221,26,Missed,1,,,0,v,MISS George 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,403
+0022500098,580,PT06M33.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,404
+0022500098,582,PT06M22.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,-12,10,2,Made,1,89,89,178,h,Schroder 2' Driving Layup (13 PTS) (Saric 1 AST),Made Shot,Driving Layup Shot,1,2,405
+0022500098,584,PT06M09.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis S.FOUL (P3.T3) (J.Van Duyne),Foul,Shooting,1,0,406
+0022500098,586,PT06M09.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,MISS Kessler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,407
+0022500098,587,PT06M09.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,0,408
+0022500098,588,PT06M09.00S,4,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Westbrook FOR DeRozan,Substitution,,0,0,409
+0022500098,589,PT06M09.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Eubanks FOR Sabonis,Substitution,,0,0,410
+0022500098,590,PT06M09.00S,4,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,v,SUB: Markkanen FOR Mykhailiuk,Substitution,,0,0,411
+0022500098,594,PT06M09.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,89,90,179,v,Kessler Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+0022500098,595,PT05M56.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,Filipowski S.FOUL (P5.T2) (J.Goble),Foul,Shooting,1,0,413
+0022500098,597,PT05M56.00S,4,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,MISS Eubanks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,414
+0022500098,598,PT05M56.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,415
+0022500098,599,PT05M56.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,v,SUB: Clayton Jr. FOR Filipowski,Substitution,,0,0,416
+0022500098,601,PT05M56.00S,4,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,MISS Eubanks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,417
+0022500098,602,PT05M52.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,Sensabaugh REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,418
+0022500098,603,PT05M38.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,-5,274,27,Made,1,89,93,182,v,Markkanen 27' 3PT Jump Shot (29 PTS) (George 9 AST),Made Shot,Jump Shot,1,3,419
+0022500098,605,PT05M20.00S,4,1610612758,SAC,201566,Westbrook,R. Westbrook,205,147,25,Made,1,92,93,185,h,Westbrook 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,3,420
+0022500098,606,PT05M10.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-156,228,28,Made,1,92,96,188,v,Sensabaugh 28' 3PT Jump Shot (15 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,421
+0022500098,608,PT04M57.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,147,216,26,Made,1,95,96,191,h,LaVine 26' 3PT Pullup Jump Shot (27 PTS) (Saric 2 AST),Made Shot,Pullup Jump shot,1,3,422
+0022500098,610,PT04M31.00S,4,1610612762,UTA,1641718,George,K. George,-51,162,17,Missed,1,,,0,v,MISS George 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,423
+0022500098,611,PT04M29.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,424
+0022500098,612,PT04M17.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,-31,8,3,Made,1,97,96,193,h,Schroder 3' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,425
+0022500098,613,PT03M59.00S,4,1610612762,UTA,1641718,George,K. George,191,170,26,Missed,1,,,0,v,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022500098,614,PT03M55.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,427
+0022500098,615,PT03M46.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,-202,161,26,Missed,1,,,0,h,MISS Schroder 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,428
+0022500098,616,PT03M43.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,1,0,429
+0022500098,618,PT03M43.00S,4,1610612758,SAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,h,SUB: DeRozan FOR Eubanks,Substitution,,0,0,430
+0022500098,619,PT03M43.00S,4,1610612758,SAC,203967,Šarić,D. Šarić,0,0,0,,0,,,0,h,SUB: Sabonis FOR Saric,Substitution,,0,0,431
+0022500098,622,PT03M24.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,v,George Bad Pass Turnover (P4.T20),Turnover,Bad Pass,1,0,432
+0022500098,622,PT03M24.00S,4,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook STEAL (1 STL),,,1,0,433
+0022500098,624,PT03M19.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,-32,-1,3,Made,1,99,96,195,h,LaVine 3' Running Layup (29 PTS) (Westbrook 4 AST),Made Shot,Running Layup Shot,1,2,434
+0022500098,626,PT03M19.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,435
+0022500098,627,PT03M19.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,v,SUB: Filipowski FOR Sensabaugh,Substitution,,0,0,436
+0022500098,629,PT02M58.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-109,257,28,Missed,1,,,0,v,MISS Clayton Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022500098,630,PT02M53.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,0,0,0,,0,,,0,h,Schroder REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,438
+0022500098,631,PT02M44.00S,4,1610612758,SAC,201942,DeRozan,D. DeRozan,-32,37,5,Missed,1,,,0,h,MISS DeRozan 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,439
+0022500098,632,PT02M40.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,440
+0022500098,633,PT02M26.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,162,175,24,Missed,1,,,0,v,MISS Filipowski 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022500098,634,PT02M22.00S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,442
+0022500098,635,PT02M19.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,26,91,9,Missed,1,,,0,v,MISS Markkanen 9' Jump Shot,Missed Shot,Jump Shot,1,2,443
+0022500098,635,PT02M19.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine BLOCK (1 BLK),,,1,2,444
+0022500098,637,PT02M19.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,445
+0022500098,638,PT02M04.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,-62,276,28,Missed,1,,,0,h,MISS LaVine 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,446
+0022500098,639,PT02M00.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,447
+0022500098,640,PT01M56.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,1,0,448
+0022500098,642,PT01M56.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,99,97,196,v,George Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+0022500098,643,PT01M56.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,99,98,197,v,George Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+0022500098,644,PT01M43.00S,4,1610612758,SAC,203471,Schröder,D. Schröder,75,11,8,Made,1,101,98,199,h,Schroder 8' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,451
+0022500098,645,PT01M34.00S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,37,133,14,Made,1,101,100,201,v,Markkanen 14' Floating Jump Shot (31 PTS) (George 10 AST),Made Shot,Floating Jump shot,1,2,452
+0022500098,647,PT01M12.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,-115,9,12,Made,1,103,100,203,h,LaVine 12' Fadeaway Jumper (31 PTS) (DeRozan 6 AST),Made Shot,Fadeaway Jump Shot,1,2,453
+0022500098,649,PT01M03.00S,4,1610612762,UTA,1641718,George,K. George,-34,34,5,Made,1,103,102,205,v,George 5' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,454
+0022500098,650,PT00M50.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine Offensive Charge Foul (P3) (J.Van Duyne),Foul,Offensive Charge,1,0,455
+0022500098,652,PT00M50.00S,4,1610612758,SAC,203897,LaVine,Z. LaVine,0,0,0,,0,,,0,h,LaVine Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,456
+0022500098,653,PT00M28.10S,4,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0,457
+0022500098,655,PT00M28.10S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,103,103,206,v,Markkanen Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022500098,657,PT00M28.10S,4,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0,459
+0022500098,656,PT00M28.10S,4,1610612762,UTA,1628374,Markkanen,L. Markkanen,0,0,0,,0,103,104,207,v,Markkanen Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022500098,675,PT00M28.10S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,461
+0022500098,659,PT00M28.10S,4,1610612758,SAC,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Monk FOR Westbrook,Substitution,,0,0,462
+0022500098,661,PT00M06.40S,4,1610612758,SAC,1628370,Monk,M. Monk,2,21,2,Missed,1,,,0,h,MISS Monk 2' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,463
+0022500098,662,PT00M06.40S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,464
+0022500098,663,PT00M06.40S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,Made,1,105,104,209,h,Sabonis Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,465
+0022500098,664,PT00M06.40S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler P.FOUL (P4.T3) (J.Goble),Foul,Personal,1,0,466
+0022500098,666,PT00M06.40S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,MISS Sabonis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,467
+0022500098,667,PT00M06.10S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,Kessler REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,468
+0022500098,668,PT00M06.10S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,469
+0022500098,669,PT00M06.10S,4,1610612758,SAC,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,h,SUB: Westbrook FOR DeRozan,Substitution,,0,0,470
+0022500098,670,PT00M06.10S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: Ellis FOR Monk,Substitution,,0,0,471
+0022500098,671,PT00M06.10S,4,1610612762,UTA,1631117,Kessler,W. Kessler,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Kessler,Substitution,,0,0,472
+0022500098,676,PT00M01.20S,4,1610612762,UTA,1641718,George,K. George,-151,159,22,Missed,1,,,0,v,MISS George 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,473
+0022500098,677,PT00M01.20S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,1,0,474
+0022500098,678,PT00M00.00S,4,0,,0,,,0,0,0,,0,105,104,209,,End of 4th Period (12:26 AM EST),period,end,1,0,475

@@ -1,0 +1,508 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400439,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,1,0,1
+0022400439,4,PT12M00.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Jump Ball Sengun vs. Adebayo: Tip to Love,Jump Ball,,1,0,2
+0022400439,7,PT11M45.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,3
+0022400439,7,PT11M45.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun STEAL (1 STL),,,1,0,4
+0022400439,9,PT11M42.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,5
+0022400439,9,PT11M42.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,0,6
+0022400439,11,PT11M31.00S,1,1610612748,MIA,201567,Love,K. Love,-197,78,21,Missed,1,,,0,v,MISS Love 21' Jump Shot,Missed Shot,Jump Shot,1,2,7
+0022400439,12,PT11M31.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0,8
+0022400439,14,PT11M17.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-135,226,26,Made,1,3,0,3,h,Smith Jr. 26' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,1,3,9
+0022400439,16,PT11M17.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,1,0,10
+0022400439,18,PT11M17.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,4,0,4,h,Smith Jr. Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,11
+0022400439,19,PT11M04.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,1,0,12
+0022400439,21,PT11M04.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,4,1,5,v,Love Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,13
+0022400439,22,PT11M04.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,4,2,6,v,Love Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,14
+0022400439,23,PT10M54.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,-179,196,27,Made,1,7,2,9,h,VanVleet 27' 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,1,3,15
+0022400439,25,PT10M31.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-229,19,0,Missed,1,,,0,v,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022400439,26,PT10M30.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022400439,27,PT10M17.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,26,10,3,Made,1,9,2,11,h,Sengun 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,18
+0022400439,28,PT09M59.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,5,58,6,Missed,1,,,0,v,MISS Adebayo 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,19
+0022400439,29,PT09M56.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+0022400439,30,PT09M56.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,Missed,1,,,0,v,MISS Love Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,21
+0022400439,31,PT09M54.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,22
+0022400439,34,PT09M53.00S,1,1610612748,MIA,201567,Love,K. Love,11,8,1,Made,1,9,4,13,v,Love 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,23
+0022400439,36,PT09M45.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,24
+0022400439,38,PT09M45.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,10,4,14,h,Ja. Green Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,25
+0022400439,39,PT09M45.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,11,4,15,h,Ja. Green Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,26
+0022400439,40,PT09M45.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,12,4,16,h,Ja. Green Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,27
+0022400439,41,PT09M29.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-34,105,11,Made,1,12,6,18,v,Adebayo 11' Pullup Jump Shot (2 PTS) (Herro 1 AST),Made Shot,Pullup Jump shot,1,2,28
+0022400439,43,PT09M14.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,29
+0022400439,43,PT09M14.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (1 STL),,,1,0,30
+0022400439,45,PT09M08.00S,1,1610612748,MIA,1629639,Herro,T. Herro,201,156,25,Made,1,12,9,21,v,Herro 25' 3PT Step Back Jump Shot (3 PTS) (Love 1 AST),Made Shot,Step Back Jump shot,1,3,31
+0022400439,47,PT08M53.00S,1,1610612745,HOU,1630224,Green,J. Green,-54,27,6,Missed,1,,,0,h,MISS Ja. Green 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,32
+0022400439,49,PT08M50.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,33
+0022400439,50,PT08M49.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,146,209,25,Missed,1,,,0,h,MISS VanVleet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+0022400439,51,PT08M46.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022400439,52,PT08M36.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,228,141,27,Missed,1,,,0,v,MISS Rozier 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,36
+0022400439,53,PT08M33.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+0022400439,54,PT08M31.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-199,186,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,38
+0022400439,55,PT08M27.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022400439,56,PT08M13.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-67,80,10,Made,1,12,11,23,v,Adebayo 10' Pullup Jump Shot (4 PTS) (Herro 2 AST),Made Shot,Pullup Jump shot,1,2,40
+0022400439,58,PT07M55.00S,1,1610612745,HOU,1630224,Green,J. Green,142,235,27,Missed,1,,,0,h,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,41
+0022400439,59,PT07M53.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,42
+0022400439,60,PT07M47.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,-32,15,4,Made,1,12,13,25,v,Rozier 4' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,43
+0022400439,61,PT07M30.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,77,109,13,Missed,1,,,0,h,MISS Smith Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,44
+0022400439,62,PT07M27.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022400439,63,PT07M21.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-13,282,28,Missed,1,,,0,v,MISS Adebayo 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0022400439,64,PT07M20.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+0022400439,65,PT07M17.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,48
+0022400439,66,PT07M08.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,240,19,24,Made,1,12,16,28,v,Highsmith 24' 3PT Jump Shot (3 PTS) (Herro 3 AST),Made Shot,Jump Shot,1,3,49
+0022400439,68,PT06M40.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-33,113,12,Missed,1,,,0,h,MISS Smith Jr. 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,50
+0022400439,69,PT06M39.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022400439,70,PT06M29.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,52
+0022400439,70,PT06M29.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (1 STL),,,1,0,53
+0022400439,72,PT06M23.00S,1,1610612745,HOU,1630224,Green,J. Green,-55,25,6,Missed,1,,,0,h,MISS Ja. Green 6' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,54
+0022400439,73,PT06M18.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,55
+0022400439,74,PT06M18.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Made,1,14,16,30,h,Sengun Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,56
+0022400439,75,PT06M13.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,28,62,7,Missed,1,,,0,v,MISS Rozier 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,57
+0022400439,75,PT06M13.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet BLOCK (1 BLK),,,1,2,58
+0022400439,77,PT06M10.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022400439,78,PT06M01.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,10,8,1,Made,1,16,16,32,h,Sengun 1' Running Layup (6 PTS) (VanVleet 2 AST),Made Shot,Running Layup Shot,1,2,60
+0022400439,81,PT05M42.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,61
+0022400439,82,PT05M42.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Thompson FOR Sengun,Substitution,,0,0,62
+0022400439,83,PT05M42.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Adams FOR Smith Jr.,Substitution,,0,0,63
+0022400439,86,PT05M33.00S,1,1610612748,MIA,201567,Love,K. Love,40,17,4,Missed,1,,,0,v,MISS Love 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,64
+0022400439,87,PT05M33.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,65
+0022400439,88,PT05M33.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,66
+0022400439,89,PT05M20.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,-15,64,7,Missed,1,,,0,h,MISS Brooks 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,67
+0022400439,90,PT05M17.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,68
+0022400439,92,PT05M14.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,10,19,2,Made,1,16,18,34,v,Rozier 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,69
+0022400439,93,PT05M14.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green Violation:Defensive Goaltending (J.Goldenberg),Violation,Defensive Goaltending,1,0,70
+0022400439,94,PT04M56.00S,1,1610612745,HOU,203500,Adams,S. Adams,-40,94,10,Missed,1,,,0,h,MISS Adams 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,71
+0022400439,95,PT04M55.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,72
+0022400439,96,PT04M44.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,-241,-7,24,Missed,1,,,0,v,MISS Rozier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022400439,97,PT04M41.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0,74
+0022400439,99,PT04M41.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Love,Substitution,,0,0,75
+0022400439,101,PT04M23.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,-244,76,26,Made,1,19,18,37,h,Brooks 26' 3PT Jump Shot (3 PTS) (Adams 1 AST),Made Shot,Jump Shot,1,3,76
+0022400439,103,PT04M02.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-70,32,8,Made,1,19,20,39,v,Herro 8' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,77
+0022400439,104,PT03M50.00S,1,1610612745,HOU,1630224,Green,J. Green,-123,101,16,Missed,1,,,0,h,MISS Ja. Green 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,78
+0022400439,105,PT03M48.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,79
+0022400439,106,PT03M45.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,129,228,26,Missed,1,,,0,h,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022400439,107,PT03M45.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,81
+0022400439,108,PT03M40.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,-22,18,3,Made,1,21,20,41,h,Brooks 3' Cutting Layup Shot (5 PTS) (Adams 2 AST),Made Shot,Cutting Layup Shot,1,2,82
+0022400439,110,PT03M32.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,83
+0022400439,111,PT03M32.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Ja. Green,Substitution,,0,0,84
+0022400439,112,PT03M32.00S,1,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Whitmore FOR Brooks,Substitution,,0,0,85
+0022400439,113,PT03M32.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Jović FOR Rozier,Substitution,,0,0,86
+0022400439,114,PT03M32.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Ware FOR Adebayo,Substitution,,0,0,87
+0022400439,119,PT03M21.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-10,13,2,Made,1,21,22,43,v,Herro 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,88
+0022400439,120,PT02M54.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,-110,37,12,Missed,1,,,0,h,MISS VanVleet 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,89
+0022400439,121,PT02M51.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,90
+0022400439,122,PT02M51.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,Made,1,23,22,45,h,Adams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,91
+0022400439,123,PT02M40.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,1,0,92
+0022400439,125,PT02M40.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,MISS Ware Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,93
+0022400439,126,PT02M40.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,94
+0022400439,127,PT02M40.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,23,23,46,v,Ware Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,95
+0022400439,128,PT02M21.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,96
+0022400439,128,PT02M21.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (2 STL),,,1,0,97
+0022400439,130,PT02M17.00S,1,1610612748,MIA,1629639,Herro,T. Herro,158,234,28,Missed,1,,,0,v,MISS Herro 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,98
+0022400439,131,PT02M13.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,99
+0022400439,132,PT02M02.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,112,136,18,Missed,1,,,0,h,MISS VanVleet 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,100
+0022400439,133,PT02M00.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+0022400439,134,PT01M52.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-207,196,29,Missed,1,,,0,h,MISS Whitmore 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,102
+0022400439,135,PT01M50.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022400439,136,PT01M40.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,104
+0022400439,136,PT01M40.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,105
+0022400439,138,PT01M35.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-6,13,1,Made,1,25,23,48,h,Whitmore 1' Running Alley Oop Dunk Shot (2 PTS) (Thompson 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,106
+0022400439,140,PT01M12.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-223,104,25,Made,1,25,26,51,v,Jović 25' 3PT Step Back Bank Jump Shot (3 PTS),Made Shot,Step Back Bank Jump Shot,1,3,107
+0022400439,141,PT01M12.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,1,0,108
+0022400439,143,PT01M12.00S,1,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Sengun FOR VanVleet,Substitution,,0,0,109
+0022400439,144,PT01M12.00S,1,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,SUB: Holiday FOR Adams,Substitution,,0,0,110
+0022400439,145,PT01M12.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Rozier FOR Herro,Substitution,,0,0,111
+0022400439,146,PT01M12.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Burks FOR Highsmith,Substitution,,0,0,112
+0022400439,151,PT01M12.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,25,27,52,v,Jović Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,113
+0022400439,152,PT01M03.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,49,117,13,Missed,1,,,0,h,MISS Smith Jr. 13' Jump Shot,Missed Shot,Jump Shot,1,2,114
+0022400439,153,PT01M01.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022400439,154,PT00M53.30S,1,1610612748,MIA,1626179,Rozier,T. Rozier,-72,68,10,Made,1,25,29,54,v,Rozier 10' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,116
+0022400439,155,PT00M40.10S,1,1610612745,HOU,1630578,Sengun,A. Sengun,10,122,12,Made,1,27,29,56,h,Sengun 12' Jump Shot (8 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,2,117
+0022400439,157,PT00M33.70S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks OFF.Foul (P1) (M.Davis),Foul,Offensive,1,0,118
+0022400439,161,PT00M33.70S,1,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,119
+0022400439,159,PT00M33.70S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,120
+0022400439,160,PT00M33.70S,1,0,,157,Harper,D. Harper,0,0,0,,0,27,29,56,,Instant Replay1st Period (7:35 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,121
+0022400439,162,PT00M19.10S,1,1610612745,HOU,1641708,Thompson,A. Thompson,-48,50,7,Missed,1,,,0,h,MISS Thompson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022400439,163,PT00M15.70S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022400439,164,PT00M02.50S,1,1610612748,MIA,1626179,Rozier,T. Rozier,-58,220,23,Made,1,27,31,58,v,Rozier 23' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,124
+0022400439,165,PT00M00.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,-15,352,35,Missed,1,,,0,h,MISS Thompson 35' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,125
+0022400439,166,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0,126
+0022400439,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,31,58,,End of 1st Period (7:39 PM EST),period,end,1,0,127
+0022400439,170,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,31,58,,Start of 2nd Period (7:41 PM EST),period,start,0,0,128
+0022400439,171,PT11M50.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,-7,0,1,Made,1,29,31,60,h,Thompson 1' Driving Dunk (2 PTS) (Holiday 1 AST),Made Shot,Driving Dunk Shot,1,2,129
+0022400439,173,PT11M30.00S,2,1610612748,MIA,202692,Burks,A. Burks,238,131,27,Missed,1,,,0,v,MISS Burks 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,130
+0022400439,174,PT11M24.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022400439,177,PT11M24.00S,2,1610612748,MIA,1631107,Jović,N. Jović,13,36,4,Missed,1,,,0,v,MISS Jović 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,132
+0022400439,178,PT11M22.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022400439,179,PT11M20.00S,2,1610612748,MIA,1631107,Jović,N. Jović,-2,19,2,Made,1,29,33,62,v,Jović 2' Driving Layup (6 PTS) (Ware 1 AST),Made Shot,Driving Layup Shot,1,2,134
+0022400439,181,PT11M13.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,11,1,Made,1,31,33,64,h,Whitmore 1' Dunk (4 PTS) (Thompson 3 AST),Made Shot,Dunk Shot,1,2,135
+0022400439,183,PT10M51.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,13,8,2,Made,1,31,35,66,v,Rozier 2' Driving Layup (10 PTS) (Ware 2 AST),Made Shot,Driving Layup Shot,1,2,136
+0022400439,185,PT10M51.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,1,0,137
+0022400439,186,PT10M40.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-26,11,3,Made,1,33,35,68,h,Sengun 3' Driving Finger Roll Layup (10 PTS) (Holiday 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,138
+0022400439,188,PT10M34.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks P.FOUL (P1.T1) (T.Mirkovich),Foul,Personal,1,0,139
+0022400439,190,PT10M34.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Adebayo FOR Ware,Substitution,,0,0,140
+0022400439,192,PT10M24.00S,2,1610612748,MIA,202692,Burks,A. Burks,-230,-13,0,Missed,1,,,0,v,MISS Burks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022400439,193,PT10M20.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,142
+0022400439,194,PT10M03.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,36,0,4,Made,1,35,35,70,h,Sengun 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,143
+0022400439,195,PT09M43.00S,2,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,144
+0022400439,196,PT09M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,47,5,Missed,1,,,0,h,MISS Whitmore 5' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,145
+0022400439,196,PT09M23.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier BLOCK (1 BLK),,,1,2,146
+0022400439,198,PT09M20.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,147
+0022400439,199,PT09M17.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P1.T2) (T.Mirkovich),Foul,Shooting,1,0,148
+0022400439,201,PT09M17.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,35,36,71,v,Jović Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,149
+0022400439,202,PT09M17.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,35,37,72,v,Jović Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+0022400439,203,PT09M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun OFF.Foul (P2) (T.Mirkovich),Foul,Offensive,1,0,151
+0022400439,205,PT09M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,152
+0022400439,206,PT09M02.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Adams FOR Whitmore,Substitution,,0,0,153
+0022400439,207,PT09M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: VanVleet FOR Sengun,Substitution,,0,0,154
+0022400439,210,PT08M51.00S,2,1610612748,MIA,1631107,Jović,N. Jović,238,83,25,Missed,1,,,0,v,MISS Jović 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022400439,211,PT08M48.00S,2,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,156
+0022400439,212,PT08M39.00S,2,1610612745,HOU,203500,Adams,S. Adams,4,69,7,Made,1,37,37,74,h,Adams 7' Floating Jump Shot (4 PTS) (Thompson 4 AST),Made Shot,Floating Jump shot,1,2,157
+0022400439,214,PT08M14.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Offensive Charge Foul (P1) (J.Goldenberg),Foul,Offensive Charge,1,0,158
+0022400439,216,PT08M14.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,159
+0022400439,217,PT07M53.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,-20,7,2,Missed,1,,,0,h,MISS Brooks 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,160
+0022400439,218,PT07M52.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,161
+0022400439,219,PT07M47.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,-240,43,24,Missed,1,,,0,v,MISS Rozier 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,162
+0022400439,220,PT07M47.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022400439,221,PT07M36.00S,2,1610612745,HOU,1628988,Holiday,A. Holiday,-98,272,29,Missed,1,,,0,h,MISS Holiday 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,164
+0022400439,222,PT07M34.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0022400439,223,PT07M20.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,-7,74,7,Made,1,37,39,76,v,Rozier 7' Driving Floating Jump Shot (12 PTS) (Adebayo 1 AST),Made Shot,Driving Floating Jump Shot,1,2,166
+0022400439,225,PT06M58.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,-152,281,32,Missed,1,,,0,h,MISS VanVleet 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0022400439,226,PT06M57.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,168
+0022400439,227,PT06M51.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,169
+0022400439,228,PT06M51.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170
+0022400439,229,PT06M51.00S,2,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Holiday,Substitution,,0,0,171
+0022400439,230,PT06M51.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Herro FOR Rozier,Substitution,,0,0,172
+0022400439,231,PT06M51.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Highsmith FOR Jaquez Jr.,Substitution,,0,0,173
+0022400439,235,PT06M35.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,11,168,17,Made,1,39,39,78,h,VanVleet 17' Pullup Jump Shot (5 PTS) (Adams 3 AST),Made Shot,Pullup Jump shot,1,2,174
+0022400439,237,PT06M17.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-12,9,2,Made,1,39,41,80,v,Adebayo 2' Hook Shot (6 PTS) (Herro 4 AST),Made Shot,Hook Shot,1,2,175
+0022400439,239,PT06M03.00S,2,1610612745,HOU,1630224,Green,J. Green,-151,231,28,Missed,1,,,0,h,MISS Ja. Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022400439,240,PT06M00.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,177
+0022400439,241,PT05M53.00S,2,1610612748,MIA,1629639,Herro,T. Herro,10,9,1,Made,1,39,43,82,v,Herro 1' Running Reverse Layup (9 PTS) (Jović 1 AST),Made Shot,Running Reverse Layup Shot,1,2,178
+0022400439,243,PT05M33.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,179
+0022400439,245,PT05M33.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green L.B.FOUL (P1.T3) (T.Mirkovich),Foul,Loose Ball,1,0,180
+0022400439,247,PT05M33.00S,2,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,SUB: Sengun FOR Adams,Substitution,,0,0,181
+0022400439,249,PT05M11.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-56,43,7,Made,1,39,45,84,v,Adebayo 7' Turnaround Fadeaway (8 PTS) (Jović 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,182
+0022400439,251,PT04M56.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,189,176,26,Made,1,42,45,87,h,Brooks 26' 3PT Jump Shot (8 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,1,3,183
+0022400439,254,PT04M41.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Brooks,Substitution,,0,0,184
+0022400439,256,PT04M37.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,1,0,185
+0022400439,258,PT04M37.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,42,46,88,v,Herro Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,186
+0022400439,259,PT04M37.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,MISS Herro Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,187
+0022400439,260,PT04M35.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,188
+0022400439,261,PT04M22.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,7,22,2,Made,1,44,46,90,h,Sengun 2' Layup (14 PTS) (VanVleet 3 AST),Made Shot,Layup Shot,1,2,189
+0022400439,263,PT04M11.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-114,281,30,Missed,1,,,0,v,MISS Herro 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022400439,264,PT04M09.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,191
+0022400439,265,PT04M02.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,-2,16,2,Missed,1,,,0,h,MISS VanVleet 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,192
+0022400439,266,PT04M00.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,193
+0022400439,267,PT04M00.00S,2,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,194
+0022400439,269,PT04M00.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,195
+0022400439,270,PT04M00.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,196
+0022400439,271,PT04M00.00S,2,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Rozier FOR Burks,Substitution,,0,0,197
+0022400439,273,PT04M00.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,45,46,91,h,Thompson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+0022400439,274,PT03M47.00S,2,1610612748,MIA,1631107,Jović,N. Jović,-218,159,27,Missed,1,,,0,v,MISS Jović 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022400439,275,PT03M45.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,200
+0022400439,276,PT03M45.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.PN) (T.Mirkovich),Foul,Shooting,1,0,201
+0022400439,278,PT03M45.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,MISS Adebayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,202
+0022400439,279,PT03M45.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,203
+0022400439,280,PT03M45.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,45,47,92,v,Adebayo Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022400439,281,PT03M35.00S,2,1610612745,HOU,1630224,Green,J. Green,-13,12,2,Missed,1,,,0,h,MISS Ja. Green 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,205
+0022400439,282,PT03M34.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,206
+0022400439,283,PT03M27.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,1,0,207
+0022400439,284,PT03M12.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,-7,191,19,Missed,1,,,0,h,MISS VanVleet 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+0022400439,285,PT03M10.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,209
+0022400439,287,PT03M01.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,11,8,1,Missed,1,,,0,v,MISS Adebayo 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,210
+0022400439,288,PT03M00.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,211
+0022400439,289,PT03M00.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P2.PN) (M.Davis),Foul,Shooting,1,0,212
+0022400439,291,PT03M00.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,45,48,93,v,Adebayo Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+0022400439,292,PT03M00.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,MISS Adebayo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,214
+0022400439,293,PT03M00.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,215
+0022400439,294,PT02M46.00S,2,1610612745,HOU,1630224,Green,J. Green,29,95,10,Made,1,47,48,95,h,Ja. Green 10' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,216
+0022400439,295,PT02M32.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,232,27,0,Made,1,47,51,98,v,Highsmith 3PT Jump Shot (6 PTS) (Jović 3 AST),Made Shot,Jump Shot,1,3,217
+0022400439,297,PT02M10.00S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,167,204,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022400439,298,PT02M08.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,219
+0022400439,299,PT02M07.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović L.B.FOUL (P1.T2) (M.Davis),Foul,Loose Ball,1,0,220
+0022400439,301,PT02M07.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,221
+0022400439,302,PT02M07.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Brooks FOR Smith Jr.,Substitution,,0,0,222
+0022400439,304,PT02M00.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,1,0,223
+0022400439,306,PT02M00.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,224
+0022400439,307,PT01M40.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-18,40,4,Missed,1,,,0,v,MISS Adebayo 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,225
+0022400439,308,PT01M39.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,226
+0022400439,309,PT01M39.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,10,40,4,Made,1,47,53,100,v,Highsmith 4' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,227
+0022400439,310,PT01M24.00S,2,1610612745,HOU,1630224,Green,J. Green,-25,160,16,Missed,1,,,0,h,MISS Ja. Green 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,228
+0022400439,311,PT01M23.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,229
+0022400439,312,PT01M10.00S,2,1610612748,MIA,1629639,Herro,T. Herro,-188,182,26,Missed,1,,,0,v,MISS Herro 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,230
+0022400439,313,PT01M08.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,231
+0022400439,314,PT01M04.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,238,93,26,Missed,1,,,0,v,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0022400439,315,PT01M02.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,233
+0022400439,317,PT00M48.70S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-212,75,22,Missed,1,,,0,v,MISS Adebayo 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,234
+0022400439,318,PT00M46.20S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,235
+0022400439,319,PT00M31.90S,2,1610612745,HOU,1627832,VanVleet,F. VanVleet,-240,21,24,Made,1,50,53,103,h,VanVleet 24' 3PT Jump Shot (8 PTS) (Sengun 1 AST),Made Shot,Jump Shot,1,3,236
+0022400439,321,PT00M14.10S,2,1610612748,MIA,1626179,Rozier,T. Rozier,-4,276,28,Missed,1,,,0,v,MISS Rozier 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,237
+0022400439,322,PT00M12.40S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,238
+0022400439,323,PT00M00.00S,2,1610612745,HOU,1628415,Brooks,D. Brooks,188,190,27,Missed,1,,,0,h,MISS Brooks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+0022400439,324,PT00M00.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0,240
+0022400439,325,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,53,103,,End of 2nd Period (8:07 PM EST),period,end,1,0,241
+0022400439,330,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,53,103,,Start of 3rd Period (8:22 PM EST),period,start,0,0,242
+0022400439,417,PT11M34.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,243
+0022400439,417,PT11M34.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (2 STL),,,1,0,244
+0022400439,335,PT11M24.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,-244,29,25,Missed,1,,,0,v,MISS Rozier 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,245
+0022400439,336,PT11M20.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,246
+0022400439,337,PT11M19.00S,3,1610612745,HOU,1630224,Green,J. Green,9,27,3,Made,1,52,53,105,h,Ja. Green 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,247
+0022400439,339,PT10M49.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-107,120,16,Missed,1,,,0,v,MISS Herro 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,248
+0022400439,340,PT10M46.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,249
+0022400439,341,PT10M46.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,Made,1,52,55,107,v,Highsmith Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,250
+0022400439,342,PT10M40.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,174,209,27,Made,1,55,55,110,h,Brooks 27' 3PT Pullup Jump Shot (11 PTS) (VanVleet 4 AST),Made Shot,Pullup Jump shot,1,3,251
+0022400439,344,PT10M24.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-11,88,9,Missed,1,,,0,v,MISS Adebayo 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,252
+0022400439,345,PT10M22.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,253
+0022400439,346,PT10M18.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,-22,22,3,Missed,1,,,0,v,MISS Rozier 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,254
+0022400439,346,PT10M18.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (1 BLK),,,1,2,255
+0022400439,348,PT10M18.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,256
+0022400439,349,PT10M13.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,-58,24,6,Made,1,57,55,112,h,Brooks 6' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,257
+0022400439,350,PT10M13.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,1,0,258
+0022400439,352,PT10M13.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,58,55,113,h,Brooks Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,259
+0022400439,353,PT10M04.00S,3,1610612748,MIA,201567,Love,K. Love,233,4,0,Missed,1,,,0,v,MISS Love 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022400439,354,PT10M03.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,261
+0022400439,355,PT09M53.00S,3,1610612745,HOU,1630224,Green,J. Green,67,251,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,262
+0022400439,356,PT09M50.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,263
+0022400439,357,PT09M44.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,264
+0022400439,358,PT09M37.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-158,211,26,Made,1,61,55,116,h,Smith Jr. 26' 3PT Jump Shot (7 PTS) (Sengun 2 AST),Made Shot,Jump Shot,1,3,265
+0022400439,360,PT09M19.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-207,183,28,Missed,1,,,0,v,MISS Highsmith 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022400439,361,PT09M18.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,267
+0022400439,362,PT09M04.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,74,9,7,Missed,1,,,0,h,MISS Sengun 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,268
+0022400439,363,PT09M04.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,269
+0022400439,364,PT08M57.00S,3,1610612748,MIA,1629639,Herro,T. Herro,97,34,10,Made,1,61,57,118,v,Herro 10' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,270
+0022400439,365,PT08M41.00S,3,1610612745,HOU,1630224,Green,J. Green,-9,8,1,Made,1,63,57,120,h,Ja. Green 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,271
+0022400439,366,PT08M29.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,272
+0022400439,366,PT08M29.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (2 STL),,,1,0,273
+0022400439,368,PT08M25.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,-162,215,27,Made,1,66,57,123,h,Brooks 27' 3PT Running Pull-Up Jump Shot (17 PTS) (VanVleet 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,274
+0022400439,370,PT08M23.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,275
+0022400439,372,PT08M23.00S,3,0,,0,,,0,0,0,,0,66,57,123,,Instant Replay3rd Period (8:30 PM EST),Instant Replay,Altercation Ruling,0,0,276
+0022400439,373,PT08M23.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,,"Double Technical - Brooks, Adebayo (M.Davis)",Foul,Double Technical,1,0,277
+0022400439,375,PT08M06.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,107,6,11,Missed,1,,,0,v,MISS Rozier 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,278
+0022400439,376,PT08M04.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,279
+0022400439,377,PT07M56.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,280
+0022400439,377,PT07M56.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier STEAL (1 STL),,,1,0,281
+0022400439,380,PT07M45.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet S.FOUL (P3.T1) (J.Goldenberg),Foul,Shooting,1,0,282
+0022400439,382,PT07M45.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,MISS Love Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,283
+0022400439,383,PT07M45.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,284
+0022400439,384,PT07M45.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,66,58,124,v,Love Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+0022400439,385,PT07M33.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro S.FOUL (P2.T2) (T.Mirkovich),Foul,Shooting,1,0,286
+0022400439,387,PT07M33.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,67,58,125,h,Ja. Green Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,287
+0022400439,388,PT07M33.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,58,126,h,Ja. Green Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,288
+0022400439,389,PT07M19.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,Jump Ball VanVleet vs. Herro: Tip to Smith Jr.,Jump Ball,,1,0,289
+0022400439,392,PT07M19.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,290
+0022400439,392,PT07M19.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet STEAL (3 STL),,,1,0,291
+0022400439,394,PT07M12.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,48,15,5,Missed,1,,,0,h,MISS Brooks 5' Running Layup,Missed Shot,Running Layup Shot,1,2,292
+0022400439,395,PT07M10.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,293
+0022400439,396,PT06M52.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,34,65,7,Missed,1,,,0,v,MISS Adebayo 7' Hook Shot,Missed Shot,Hook Shot,1,2,294
+0022400439,397,PT06M51.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,295
+0022400439,398,PT06M31.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,-141,229,27,Missed,1,,,0,h,MISS Brooks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+0022400439,399,PT06M30.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,297
+0022400439,400,PT06M18.00S,3,1610612748,MIA,201567,Love,K. Love,-44,80,9,Missed,1,,,0,v,MISS Love 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,298
+0022400439,401,PT06M16.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,299
+0022400439,402,PT06M13.00S,3,1610612748,MIA,1629639,Herro,T. Herro,241,4,24,Made,1,68,61,129,v,Herro 24' 3PT Jump Shot (15 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,1,3,300
+0022400439,404,PT06M01.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P3.T3) (J.Goldenberg),Foul,Personal,1,0,301
+0022400439,406,PT06M01.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Adams FOR Sengun,Substitution,,0,0,302
+0022400439,407,PT06M01.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Ware FOR Adebayo,Substitution,,0,0,303
+0022400439,410,PT05M50.00S,3,1610612745,HOU,1630224,Green,J. Green,157,144,21,Made,1,70,61,131,h,Ja. Green 21' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,304
+0022400439,413,PT05M28.00S,3,1610612748,MIA,201567,Love,K. Love,-22,42,5,Missed,1,,,0,v,MISS Love 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,305
+0022400439,414,PT05M26.00S,3,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,306
+0022400439,415,PT05M19.00S,3,1610612745,HOU,1630224,Green,J. Green,121,242,27,Made,1,73,61,134,h,Ja. Green 27' 3PT Running Pull-Up Jump Shot (16 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,307
+0022400439,416,PT05M19.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,308
+0022400439,419,PT05M19.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Jović FOR Love,Substitution,,0,0,309
+0022400439,421,PT05M03.00S,3,1610612748,MIA,1631107,Jović,N. Jović,-34,57,7,Made,1,73,63,136,v,Jović 7' Hook Shot (10 PTS),Made Shot,Hook Shot,1,2,310
+0022400439,422,PT04M49.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet OFF.Foul (P4) (T.Mirkovich),Foul,Offensive,1,0,311
+0022400439,424,PT04M49.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0,312
+0022400439,425,PT04M49.00S,3,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Thompson FOR VanVleet,Substitution,,0,0,313
+0022400439,427,PT04M39.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-203,211,29,Made,1,73,66,139,v,Herro 29' 3PT Jump Shot (18 PTS) (Jović 4 AST),Made Shot,Jump Shot,1,3,314
+0022400439,429,PT04M26.00S,3,1610612745,HOU,1630224,Green,J. Green,11,166,17,Made,1,75,66,141,h,Ja. Green 17' Pullup Jump Shot (18 PTS) (Thompson 5 AST),Made Shot,Pullup Jump shot,1,2,315
+0022400439,431,PT04M02.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Traveling Turnover (P1.T13),Turnover,Traveling,1,0,316
+0022400439,432,PT04M02.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Holiday FOR Thompson,Substitution,,0,0,317
+0022400439,433,PT04M02.00S,3,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Burks FOR Rozier,Substitution,,0,0,318
+0022400439,436,PT03M42.00S,3,1610612745,HOU,1630224,Green,J. Green,179,187,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,319
+0022400439,437,PT03M38.00S,3,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,320
+0022400439,438,PT03M33.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,13,87,9,Missed,1,,,0,h,MISS Holiday 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,321
+0022400439,439,PT03M31.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,322
+0022400439,440,PT03M25.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks S.FOUL (P2.T2) (M.Davis),Foul,Shooting,1,0,323
+0022400439,442,PT03M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,MISS Herro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,324
+0022400439,443,PT03M25.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,325
+0022400439,444,PT03M25.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Thompson FOR Smith Jr.,Substitution,,0,0,326
+0022400439,446,PT03M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,75,67,142,v,Herro Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0022400439,447,PT03M08.00S,3,1610612745,HOU,1630224,Green,J. Green,22,48,5,Missed,1,,,0,h,MISS Ja. Green 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+0022400439,448,PT03M06.00S,3,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,329
+0022400439,449,PT03M05.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,-232,24,0,Missed,1,,,0,h,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022400439,450,PT03M05.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,331
+0022400439,451,PT02M54.00S,3,1610612748,MIA,202692,Burks,A. Burks,-169,221,28,Missed,1,,,0,v,MISS Burks 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022400439,452,PT02M52.00S,3,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,333
+0022400439,453,PT02M42.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,12,14,2,Made,1,77,67,144,h,Holiday 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,334
+0022400439,454,PT02M30.00S,3,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,335
+0022400439,456,PT02M19.00S,3,1610612748,MIA,202692,Burks,A. Burks,-237,69,25,Made,1,77,70,147,v,Burks 25' 3PT Jump Shot (3 PTS) (Herro 5 AST),Made Shot,Jump Shot,1,3,336
+0022400439,458,PT02M09.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,33,11,3,Made,1,79,70,149,h,Thompson 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,337
+0022400439,459,PT01M53.00S,3,1610612748,MIA,1642276,Ware,K. Ware,-22,6,2,Made,1,79,72,151,v,Ware 2' Cutting Layup Shot (3 PTS) (Herro 6 AST),Made Shot,Cutting Layup Shot,1,2,338
+0022400439,461,PT01M45.00S,3,1610612745,HOU,1630224,Green,J. Green,114,155,19,Missed,1,,,0,h,MISS Ja. Green 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,339
+0022400439,462,PT01M42.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,340
+0022400439,463,PT01M32.00S,3,1610612748,MIA,1642276,Ware,K. Ware,-23,28,4,Made,1,79,74,153,v,Ware 4' Alley Oop Dunk (5 PTS) (Herro 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,341
+0022400439,465,PT01M31.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,342
+0022400439,466,PT01M31.00S,3,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Sengun FOR Brooks,Substitution,,0,0,343
+0022400439,467,PT01M31.00S,3,1610612745,HOU,203500,Adams,S. Adams,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Adams,Substitution,,0,0,344
+0022400439,470,PT01M19.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,6,94,9,Missed,1,,,0,h,MISS Sengun 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,345
+0022400439,470,PT01M19.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware BLOCK (1 BLK),,,1,2,346
+0022400439,472,PT01M15.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,347
+0022400439,473,PT01M11.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,148,231,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+0022400439,474,PT01M09.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,349
+0022400439,475,PT01M03.00S,3,1610612748,MIA,1631107,Jović,N. Jović,-157,225,27,Made,1,79,77,156,v,Jović 27' 3PT Running Jump Shot (13 PTS) (Herro 8 AST),Made Shot,Running Jump Shot,1,3,350
+0022400439,477,PT00M45.10S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,1,0,351
+0022400439,479,PT00M45.10S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,80,77,157,h,Ja. Green Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0022400439,480,PT00M45.10S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,MISS Ja. Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,353
+0022400439,481,PT00M45.10S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,354
+0022400439,482,PT00M31.80S,3,1610612748,MIA,1629639,Herro,T. Herro,-1,102,10,Made,1,80,79,159,v,Herro 10' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,355
+0022400439,483,PT00M22.20S,3,1610612745,HOU,1628988,Holiday,A. Holiday,21,168,17,Missed,1,,,0,h,MISS Holiday 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,356
+0022400439,484,PT00M19.60S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,357
+0022400439,485,PT00M19.60S,3,1610612745,HOU,1630578,Sengun,A. Sengun,10,6,1,Made,1,82,79,161,h,Sengun 1' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1,2,358
+0022400439,486,PT00M00.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-20,8,2,Made,1,82,81,163,v,Highsmith 2' Reverse Layup (12 PTS) (Jović 5 AST),Made Shot,Reverse Layup Shot,1,2,359
+0022400439,488,PT00M00.00S,3,0,,486,,,0,0,0,,0,82,81,163,,Instant Replay3rd Period (8:50 PM EST),Instant Replay,Support Ruling,0,0,360
+0022400439,489,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,81,163,,End of 3rd Period (8:51 PM EST),period,end,1,0,361
+0022400439,501,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,81,163,,Start of 4th Period (8:52 PM EST),period,start,0,0,362
+0022400439,502,PT11M46.00S,4,1610612748,MIA,1642276,Ware,K. Ware,-26,20,3,Made,1,82,83,165,v,Ware 3' Layup (7 PTS) (Jović 6 AST),Made Shot,Layup Shot,1,2,363
+0022400439,504,PT11M46.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P3.T1) (M.Davis),Foul,Shooting,1,0,364
+0022400439,506,PT11M46.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,MISS Ware Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,365
+0022400439,507,PT11M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,366
+0022400439,508,PT11M34.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware S.FOUL (P2.T1) (M.Davis),Foul,Shooting,1,0,367
+0022400439,510,PT11M34.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,83,83,166,h,Sengun Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022400439,511,PT11M34.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,84,83,167,h,Sengun Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022400439,512,PT11M19.00S,4,1610612748,MIA,1631107,Jović,N. Jović,-102,62,12,Missed,1,,,0,v,MISS Jović 12' Driving Layup,Missed Shot,Driving Layup Shot,1,2,370
+0022400439,512,PT11M19.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks BLOCK (1 BLK),,,1,2,371
+0022400439,514,PT11M19.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,372
+0022400439,516,PT11M11.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,-229,121,26,Missed,1,,,0,v,MISS Rozier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022400439,517,PT11M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,374
+0022400439,518,PT11M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,71,7,Missed,1,,,0,h,MISS Whitmore 7' Running Layup,Missed Shot,Running Layup Shot,1,2,375
+0022400439,519,PT11M04.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,376
+0022400439,520,PT10M52.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,-58,267,27,Missed,1,,,0,h,MISS VanVleet 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+0022400439,521,PT10M49.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,378
+0022400439,522,PT10M31.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,6,74,7,Missed,1,,,0,v,MISS Rozier 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,379
+0022400439,522,PT10M31.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet BLOCK (2 BLK),,,1,2,380
+0022400439,524,PT10M28.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,381
+0022400439,525,PT10M26.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,206,152,26,Made,1,87,83,170,h,VanVleet 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Sengun 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,382
+0022400439,527,PT10M03.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,1,4,0,Missed,1,,,0,v,MISS Jaquez Jr. Layup,Missed Shot,Layup Shot,1,2,383
+0022400439,528,PT10M02.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,384
+0022400439,529,PT10M00.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-43,33,5,Made,1,87,85,172,v,Jaquez Jr. 5' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,385
+0022400439,530,PT09M45.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,29,89,9,Missed,1,,,0,h,MISS Sengun 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,386
+0022400439,531,PT09M43.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,387
+0022400439,532,PT09M29.00S,4,1610612748,MIA,202692,Burks,A. Burks,237,12,24,Missed,1,,,0,v,MISS Burks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022400439,533,PT09M28.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,389
+0022400439,534,PT09M17.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,37,260,26,Made,1,90,85,175,h,VanVleet 26' 3PT Pullup Jump Shot (14 PTS) (Sengun 4 AST),Made Shot,Pullup Jump shot,1,3,390
+0022400439,536,PT09M16.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,391
+0022400439,537,PT09M16.00S,4,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Adebayo FOR Ware,Substitution,,0,0,392
+0022400439,539,PT09M01.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,-189,174,26,Missed,1,,,0,v,MISS Rozier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022400439,540,PT08M59.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,394
+0022400439,541,PT08M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-183,5,18,Missed,1,,,0,h,MISS Whitmore 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,395
+0022400439,542,PT08M43.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,396
+0022400439,543,PT08M39.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P4.T2) (T.Mirkovich),Foul,Personal,1,0,397
+0022400439,545,PT08M35.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Out of Bounds Lost Ball Turnover (P4.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,398
+0022400439,546,PT08M22.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-36,112,12,Missed,1,,,0,v,MISS Adebayo 12' Jump Shot,Missed Shot,Jump Shot,1,2,399
+0022400439,547,PT08M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,400
+0022400439,548,PT08M10.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,22,27,3,Made,1,92,85,177,h,VanVleet 3' Driving Layup (16 PTS) (Sengun 5 AST),Made Shot,Driving Layup Shot,1,2,401
+0022400439,550,PT07M54.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,402
+0022400439,551,PT07M54.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Herro FOR Jović,Substitution,,0,0,403
+0022400439,552,PT07M54.00S,4,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,SUB: Highsmith FOR Burks,Substitution,,0,0,404
+0022400439,555,PT07M35.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-29,253,25,Missed,1,,,0,h,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022400439,556,PT07M34.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,1,0,406
+0022400439,557,PT07M34.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith L.B.FOUL (P1.T3) (J.Goldenberg),Foul,Loose Ball,1,0,407
+0022400439,559,PT07M34.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Thompson,Substitution,,0,0,408
+0022400439,560,PT07M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,409
+0022400439,563,PT07M28.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,-5,168,17,Missed,1,,,0,h,MISS VanVleet 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,410
+0022400439,564,PT07M23.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,411
+0022400439,565,PT07M23.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,Missed,1,,,0,h,MISS Brooks Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,412
+0022400439,566,PT07M23.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,413
+0022400439,567,PT07M13.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-197,167,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022400439,568,PT07M09.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,415
+0022400439,569,PT06M57.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-169,97,19,Made,1,92,87,179,v,Herro 19' Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,2,416
+0022400439,570,PT06M34.00S,4,1610612745,HOU,1630224,Green,J. Green,116,250,28,Missed,1,,,0,h,MISS Ja. Green 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,417
+0022400439,571,PT06M32.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,418
+0022400439,572,PT06M19.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,-18,16,2,Missed,1,,,0,v,MISS Rozier 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,419
+0022400439,573,PT06M19.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,420
+0022400439,574,PT06M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-43,264,27,Missed,1,,,0,h,MISS Sengun 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0022400439,575,PT06M09.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,422
+0022400439,576,PT06M05.00S,4,1610612748,MIA,1629639,Herro,T. Herro,6,265,27,Missed,1,,,0,v,MISS Herro 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,423
+0022400439,577,PT06M01.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,424
+0022400439,578,PT06M01.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Traveling Turnover (P3.T15),Turnover,Traveling,1,0,425
+0022400439,579,PT06M01.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,426
+0022400439,580,PT06M01.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Thompson FOR Brooks,Substitution,,0,0,427
+0022400439,581,PT06M01.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Jović FOR Jaquez Jr.,Substitution,,0,0,428
+0022400439,585,PT05M42.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,54,19,6,Missed,1,,,0,h,MISS Sengun 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,429
+0022400439,586,PT05M39.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,430
+0022400439,588,PT05M18.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,1,0,431
+0022400439,590,PT05M18.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,92,88,180,v,Rozier Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+0022400439,591,PT05M18.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Brooks FOR Smith Jr.,Substitution,,0,0,433
+0022400439,593,PT05M18.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,92,89,181,v,Rozier Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022400439,594,PT05M04.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,229,32,0,Missed,1,,,0,h,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022400439,595,PT05M02.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,436
+0022400439,596,PT04M47.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,-233,23,0,Made,1,92,92,184,v,Highsmith 3PT Jump Shot (15 PTS) (Herro 9 AST),Made Shot,Jump Shot,1,3,437
+0022400439,598,PT04M18.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,-214,147,26,Missed,1,,,0,h,MISS VanVleet 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,438
+0022400439,599,PT04M17.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,439
+0022400439,600,PT04M11.00S,4,1610612745,HOU,1630224,Green,J. Green,129,229,26,Missed,1,,,0,h,MISS Ja. Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,440
+0022400439,601,PT04M11.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,441
+0022400439,602,PT04M07.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P5.T4) (T.Mirkovich),Foul,Personal,1,0,442
+0022400439,604,PT04M02.00S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,-9,279,28,Missed,1,,,0,h,MISS VanVleet 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,443
+0022400439,604,PT04M02.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith BLOCK (1 BLK),,,1,3,444
+0022400439,606,PT03M59.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,445
+0022400439,607,PT03M44.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P4.T3) (M.Davis),Foul,Shooting,1,0,446
+0022400439,609,PT03M44.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,92,93,185,v,Herro Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0022400439,610,PT03M44.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,MISS Herro Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,448
+0022400439,611,PT03M44.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,449
+0022400439,612,PT03M21.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,450
+0022400439,612,PT03M21.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (3 STL),,,1,0,451
+0022400439,614,PT03M08.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,-180,189,26,Missed,1,,,0,v,MISS Rozier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022400439,615,PT03M05.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,453
+0022400439,616,PT02M47.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-17,19,3,Made,1,94,93,187,h,Brooks 3' Driving Layup (19 PTS) (VanVleet 6 AST),Made Shot,Driving Layup Shot,1,2,454
+0022400439,618,PT02M33.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-154,48,16,Missed,1,,,0,v,MISS Herro 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,455
+0022400439,619,PT02M32.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,456
+0022400439,620,PT02M15.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,135,85,16,Missed,1,,,0,h,MISS Brooks 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,457
+0022400439,621,PT02M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:5 Def:12),Rebound,Unknown,1,0,458
+0022400439,622,PT02M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Missed,1,,,0,h,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,459
+0022400439,623,PT02M10.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,460
+0022400439,625,PT02M03.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Sengun,Substitution,,0,0,461
+0022400439,627,PT01M56.00S,4,1610612748,MIA,1629639,Herro,T. Herro,67,71,10,Made,1,94,95,189,v,Herro 10' Fadeaway Jumper (26 PTS),Made Shot,Fadeaway Jump Shot,1,2,462
+0022400439,628,PT01M47.00S,4,1610612745,HOU,1630224,Green,J. Green,-192,188,27,Missed,1,,,0,h,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,463
+0022400439,629,PT01M45.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,464
+0022400439,630,PT01M28.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-62,64,9,Missed,1,,,0,v,MISS Herro 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,465
+0022400439,631,PT01M26.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,466
+0022400439,632,PT01M19.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Violation:Kicked Ball (J.Goldenberg),Violation,Kicked Ball,0,0,467
+0022400439,633,PT01M19.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Sengun FOR Smith Jr.,Substitution,,0,0,468
+0022400439,635,PT01M11.00S,4,1610612745,HOU,1628415,Brooks,D. Brooks,-234,55,24,Missed,1,,,0,h,MISS Brooks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,469
+0022400439,636,PT01M09.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,470
+0022400439,637,PT00M47.40S,4,1610612748,MIA,1631107,Jović,N. Jović,201,174,27,Made,1,94,98,192,v,Jović 27' 3PT Jump Shot (16 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,1,3,471
+0022400439,639,PT00M47.40S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,472
+0022400439,640,PT00M47.40S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Turnover: 5 Second Violation (T#13),Turnover,5 Second Violation,1,0,473
+0022400439,641,PT00M47.40S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet T.FOUL (P4.T3) (M.Davis),Foul,Technical,1,0,474
+0022400439,642,PT00M47.40S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,VanVleet Ejection:Other,Ejection,Other,1,0,475
+0022400439,643,PT00M47.40S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,94,99,193,v,Herro Free Throw Technical (27 PTS),Free Throw,Free Throw Technical,1,0,476
+0022400439,644,PT00M47.40S,4,1610612745,HOU,1627832,VanVleet,F. VanVleet,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR VanVleet,Substitution,,0,0,477
+0022400439,646,PT00M39.90S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P3.T4) (J.Goldenberg),Foul,Personal,1,0,478
+0022400439,649,PT00M35.70S,4,0,,0,,,0,0,0,,0,94,99,193,,Instant Replay4th Period (9:23 PM EST),Instant Replay,Altercation Ruling,0,0,479
+0022400439,651,PT00M35.70S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Ejection:Other,Ejection,Other,1,0,480
+0022400439,652,PT00M35.70S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green Ejection:Other,Ejection,Other,1,0,481
+0022400439,653,PT00M35.70S,4,0,,204224,,,0,0,0,,0,,,0,,Ben Sullivan Ejection:Other,Ejection,Other,1,0,482
+0022400439,655,PT00M35.70S,4,0,,203152,,,0,0,0,,0,,,0,,Ime Udoka Ejection:Other,Ejection,Other,1,0,483
+0022400439,656,PT00M35.70S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier Ejection:Other,Ejection,Other,1,0,484
+0022400439,685,PT00M35.70S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Ejection:Other,Ejection,Other,0,0,485
+0022400439,657,PT00M35.70S,4,0,,203152,,,0,0,0,,0,,,0,,Ime Udoka Foul:T.FOUL (M.Davis),Foul,Technical,1,0,486
+0022400439,686,PT00M35.70S,4,0,,204224,,,0,0,0,,0,,,0,,Ben Sullivan Foul:T.FOUL (M.Davis),Foul,Technical,0,0,487
+0022400439,689,PT00M35.70S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Ja. Green T.FOUL (P2.T4) (M.Davis),Foul,Technical,0,0,488
+0022400439,690,PT00M35.70S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson T.FOUL (P3.T4) (M.Davis),Foul,Technical,0,0,489
+0022400439,691,PT00M35.70S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier T.FOUL (P1.T4) (M.Davis),Foul,Technical,0,0,490
+0022400439,692,PT00M35.70S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro T.FOUL (P2.T4) (M.Davis),Foul,Technical,0,0,491
+0022400439,688,PT00M35.70S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,94,100,194,v,Jović Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,0,492
+0022400439,658,PT00M35.70S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,94,101,195,v,Jović Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,1,0,493
+0022400439,660,PT00M35.70S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Whitmore FOR Thompson,Substitution,,0,0,494
+0022400439,661,PT00M35.70S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Holiday FOR Ja. Green,Substitution,,0,0,495
+0022400439,662,PT00M35.70S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Rozier,Substitution,,0,0,496
+0022400439,663,PT00M35.70S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Burks FOR Herro,Substitution,,0,0,497
+0022400439,669,PT00M33.90S,4,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,Holiday AWAY.FROM.PLAY.FOUL (P2.PN) (T.Mirkovich),Foul,Away From Play,1,0,498
+0022400439,671,PT00M33.90S,4,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,94,102,196,v,Burks Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,499
+0022400439,673,PT00M12.30S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-175,-10,18,Missed,1,,,0,v,MISS Jaquez Jr. 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,500
+0022400439,674,PT00M09.90S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:5 Def:13),Rebound,Unknown,1,0,501
+0022400439,675,PT00M06.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,104,251,27,Made,1,97,102,199,h,Whitmore 27' 3PT Pullup Jump Shot (7 PTS) (Sengun 6 AST),Made Shot,Pullup Jump shot,1,3,502
+0022400439,677,PT00M04.00S,4,1610612745,HOU,1628988,Holiday,A. Holiday,0,0,0,,0,,,0,h,Holiday Personal Take Foul (P3.PN) (M.Davis),Foul,Personal Take,1,0,503
+0022400439,679,PT00M04.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,97,103,200,v,Adebayo Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,504
+0022400439,680,PT00M04.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,97,104,201,v,Adebayo Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,505
+0022400439,681,PT00M01.60S,4,1610612745,HOU,1628415,Brooks,D. Brooks,145,253,29,Made,1,100,104,204,h,Brooks 29' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,506
+0022400439,683,PT00M00.00S,4,0,,0,,,0,0,0,,0,100,104,204,,End of 4th Period (9:31 PM EST),period,end,1,0,507

@@ -1,0 +1,512 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022301209,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:41 PM EST),period,start,0,0,1
+0022301209,4,PT12M00.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Jump Ball Capela vs. Claxton: Tip to Bey,Jump Ball,,1,0,2
+0022301209,7,PT11M44.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges P.FOUL (P1.T1) (M.Myers),Foul,Personal,1,0,3
+0022301209,9,PT11M35.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,4
+0022301209,9,PT11M35.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie STEAL (1 STL),,,1,0,5
+0022301209,11,PT11M30.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-196,47,20,Missed,1,,,0,v,MISS Johnson 20' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,6
+0022301209,12,PT11M28.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,7
+0022301209,14,PT11M21.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,4,0,0,Made,1,2,0,2,h,Hunter Cutting Layup Shot (2 PTS) (Young 1 AST),Made Shot,Cutting Layup Shot,1,2,8
+0022301209,16,PT11M21.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,9
+0022301209,18,PT11M21.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,3,0,3,h,Hunter Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,10
+0022301209,19,PT11M04.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-121,228,26,Missed,1,,,0,v,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022301209,20,PT11M00.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022301209,21,PT10M54.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,5,-1,1,Made,1,5,0,5,h,Hunter 1' Driving Layup (5 PTS) (Murray 1 AST),Made Shot,Driving Layup Shot,1,2,13
+0022301209,23,PT10M40.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,233,22,0,Made,1,5,3,8,v,Johnson 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,14
+0022301209,25,PT10M31.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-234,29,24,Missed,1,,,0,h,MISS Bey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022301209,26,PT10M28.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022301209,27,PT10M24.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-167,193,26,Made,1,5,6,11,v,Bridges 26' 3PT Running Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Running Jump Shot,1,3,17
+0022301209,29,PT10M12.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-143,205,25,Made,1,8,6,14,h,Bey 25' 3PT Jump Shot (3 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,18
+0022301209,31,PT09M55.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-37,117,12,Missed,1,,,0,v,MISS Bridges 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,19
+0022301209,32,PT09M53.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+0022301209,33,PT09M46.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,29,121,12,Missed,1,,,0,h,MISS Hunter 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,21
+0022301209,34,PT09M41.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022301209,35,PT09M37.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,228,37,0,Made,1,8,9,17,v,Johnson 3PT Running Jump Shot (6 PTS) (Bridges 2 AST),Made Shot,Running Jump Shot,1,3,23
+0022301209,37,PT09M24.00S,1,1610612737,ATL,1627749,Murray,D. Murray,92,8,9,Made,1,10,9,19,h,Murray 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,24
+0022301209,38,PT09M08.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,1,0,25
+0022301209,39,PT09M01.00S,1,1610612737,ATL,1629027,Young,T. Young,37,43,6,Made,1,12,9,21,h,Young 6' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,26
+0022301209,40,PT08M48.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,17,18,2,Missed,1,,,0,v,MISS Thomas 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,27
+0022301209,40,PT08M48.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (1 BLK),,,1,2,28
+0022301209,42,PT08M48.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,0,29
+0022301209,45,PT08M30.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-136,216,26,Made,1,15,9,24,h,Bey 26' 3PT Jump Shot (6 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,30
+0022301209,47,PT08M19.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,31
+0022301209,49,PT08M19.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,15,10,25,v,Claxton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022301209,50,PT08M19.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,33
+0022301209,51,PT08M17.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022301209,52,PT08M05.00S,1,1610612737,ATL,1629027,Young,T. Young,9,73,7,Missed,1,,,0,h,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,35
+0022301209,53,PT08M03.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022301209,54,PT07M47.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-32,47,6,Missed,1,,,0,v,MISS Claxton 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,37
+0022301209,55,PT07M44.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,38
+0022301209,56,PT07M37.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-66,132,15,Missed,1,,,0,h,MISS Murray 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,39
+0022301209,57,PT07M35.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0022301209,58,PT07M16.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-49,121,13,Missed,1,,,0,v,MISS Dinwiddie 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,41
+0022301209,58,PT07M16.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young BLOCK (1 BLK),,,1,2,42
+0022301209,60,PT07M14.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,43
+0022301209,61,PT07M12.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-5,4,1,Made,1,17,10,27,h,Bey 1' Running Layup (8 PTS) (Murray 3 AST),Made Shot,Running Layup Shot,1,2,44
+0022301209,63,PT07M01.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-33,50,6,Missed,1,,,0,v,MISS Dinwiddie 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,45
+0022301209,64,PT06M56.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0022301209,65,PT06M52.00S,1,1610612737,ATL,1629027,Young,T. Young,115,302,32,Missed,1,,,0,h,MISS Young 32' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,47
+0022301209,66,PT06M50.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,48
+0022301209,67,PT06M48.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,49
+0022301209,67,PT06M48.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton STEAL (1 STL),,,1,0,50
+0022301209,69,PT06M41.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,4,11,1,Made,1,17,12,29,v,Johnson 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,51
+0022301209,70,PT06M26.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0,52
+0022301209,197,PT06M26.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,53
+0022301209,72,PT06M26.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Bey,Substitution,,0,0,54
+0022301209,73,PT06M26.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Mathews FOR Capela,Substitution,,0,0,55
+0022301209,74,PT06M26.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Okongwu FOR Young,Substitution,,0,0,56
+0022301209,75,PT06M26.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Sharpe FOR Claxton,Substitution,,0,0,57
+0022301209,80,PT06M16.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,134,3,13,Made,1,19,12,31,h,Bogdanovic 13' Jump Shot (2 PTS) (Murray 4 AST),Made Shot,Jump Shot,1,2,58
+0022301209,82,PT06M03.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-229,-5,0,Made,1,19,15,34,v,Johnson 3PT Jump Shot (11 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,1,3,59
+0022301209,83,PT05M50.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-80,248,26,Made,1,22,15,37,h,Murray 26' 3PT Jump Shot (5 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,1,3,60
+0022301209,85,PT05M40.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe OFF.Foul (P1) (M.Ervin),Foul,Offensive,1,0,61
+0022301209,87,PT05M40.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,62
+0022301209,88,PT05M40.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Thomas,Substitution,,0,0,63
+0022301209,90,PT05M23.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-87,236,25,Missed,1,,,0,h,MISS Hunter 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,64
+0022301209,91,PT05M20.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022301209,92,PT05M15.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,5,12,1,Missed,1,,,0,v,MISS Dinwiddie 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,66
+0022301209,93,PT05M13.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,67
+0022301209,95,PT04M59.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,16,19,2,Missed,1,,,0,h,MISS Hunter 2' Layup,Missed Shot,Layup Shot,1,2,68
+0022301209,95,PT04M59.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,69
+0022301209,97,PT04M55.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,70
+0022301209,98,PT04M51.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,71
+0022301209,99,PT04M50.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges L.B.FOUL (P2.T4) (M.Ervin),Foul,Loose Ball,1,0,72
+0022301209,101,PT04M39.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,38,121,13,Missed,1,,,0,h,MISS Hunter 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,73
+0022301209,102,PT04M36.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,74
+0022301209,103,PT04M29.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,188,174,26,Made,1,22,18,40,v,Bridges 26' 3PT Jump Shot (6 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,75
+0022301209,105,PT04M29.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray FLAGRANT.FOUL.TYPE1 (P1.T2) (M.Ervin),Foul,Flagrant Type 1,1,0,76
+0022301209,107,PT04M29.00S,1,0,,105,Majerle,D. Majerle,0,0,0,,0,22,18,40,,Instant Replay1st Period (7:56 PM EST),Instant Replay,Overturn Ruling,0,0,77
+0022301209,108,PT04M29.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,22,19,41,v,Bridges Free Throw Flagrant 1 of 1 (7 PTS),Free Throw,Free Throw Flagrant 1 of 1,1,0,78
+0022301209,109,PT04M20.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,2,58,6,Missed,1,,,0,v,MISS Finney-Smith 6' Layup,Missed Shot,Layup Shot,1,2,79
+0022301209,110,PT04M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+0022301209,111,PT04M15.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-27,76,8,Missed,1,,,0,v,MISS Sharpe 8' Putback Layup,Missed Shot,Putback Layup Shot,1,2,81
+0022301209,112,PT04M13.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,82
+0022301209,113,PT04M13.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,83
+0022301209,113,PT04M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,84
+0022301209,115,PT04M02.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-203,148,25,Missed,1,,,0,h,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,85
+0022301209,115,PT04M02.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges BLOCK (1 BLK),,,1,3,86
+0022301209,117,PT03M59.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,87
+0022301209,118,PT03M45.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-131,226,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022301209,119,PT03M43.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,89
+0022301209,120,PT03M43.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,90
+0022301209,122,PT03M43.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,91
+0022301209,123,PT03M43.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,1,0,92
+0022301209,124,PT03M43.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,SUB: Matthews FOR Hunter,Substitution,,0,0,93
+0022301209,125,PT03M43.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: O'Neale FOR Johnson,Substitution,,0,0,94
+0022301209,126,PT03M43.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Dinwiddie,Substitution,,0,0,95
+0022301209,130,PT03M43.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,22,20,42,v,Sharpe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,96
+0022301209,131,PT03M29.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,18,73,8,Made,1,24,20,44,h,Bogdanovic 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,97
+0022301209,132,PT03M16.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-180,185,26,Made,1,24,23,47,v,O'Neale 26' 3PT Jump Shot (3 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,98
+0022301209,134,PT03M01.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,99
+0022301209,134,PT03M01.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0,100
+0022301209,258,PT02M58.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-39,13,4,Missed,1,,,0,v,MISS Smith Jr. 4' Layup,Missed Shot,Layup Shot,1,2,101
+0022301209,259,PT02M58.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+0022301209,136,PT02M58.00S,1,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0,103
+0022301209,198,PT02M58.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,104
+0022301209,138,PT02M58.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,SUB: Bey FOR Murray,Substitution,,0,0,105
+0022301209,139,PT02M58.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,106
+0022301209,143,PT02M58.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,24,24,48,v,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+0022301209,144,PT02M58.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,24,25,49,v,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,108
+0022301209,145,PT02M49.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.PN) (D.Taylor),Foul,Personal,1,0,109
+0022301209,147,PT02M49.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,25,50,h,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+0022301209,148,PT02M49.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,26,25,51,h,Young Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+0022301209,149,PT02M36.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-4,12,1,Made,1,26,27,53,v,Sharpe 1' Layup (3 PTS) (Smith Jr. 1 AST),Made Shot,Layup Shot,1,2,112
+0022301209,151,PT02M36.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,1,0,113
+0022301209,153,PT02M36.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,114
+0022301209,154,PT02M34.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022301209,155,PT02M21.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,116
+0022301209,157,PT02M04.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,36,179,18,Missed,1,,,0,v,MISS Bridges 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0022301209,158,PT02M03.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022301209,159,PT02M03.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,119
+0022301209,161,PT02M03.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,27,27,54,h,Bogdanovic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022301209,162,PT02M03.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,28,27,55,h,Bogdanovic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+0022301209,163,PT01M55.00S,1,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,122
+0022301209,165,PT01M55.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,28,28,56,v,Bridges Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,123
+0022301209,166,PT01M55.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,28,29,57,v,Bridges Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,124
+0022301209,167,PT01M39.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,15,30,3,Missed,1,,,0,h,MISS Okongwu 3' Hook Shot,Missed Shot,Hook Shot,1,2,125
+0022301209,168,PT01M34.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022301209,169,PT01M20.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic P.FOUL (P1.PN) (D.Taylor),Foul,Personal,1,0,127
+0022301209,171,PT01M20.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,28,30,58,v,Smith Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+0022301209,172,PT01M20.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,SUB: Thomas FOR Bridges,Substitution,,0,0,129
+0022301209,174,PT01M20.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,28,31,59,v,Smith Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022301209,175,PT01M09.00S,1,1610612737,ATL,1629027,Young,T. Young,-158,199,25,Missed,1,,,0,h,MISS Young 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,131
+0022301209,176,PT01M07.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022301209,177,PT01M06.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0,133
+0022301209,179,PT01M06.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,29,31,60,h,Young Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,134
+0022301209,180,PT01M06.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,135
+0022301209,182,PT01M06.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,30,31,61,h,Young Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,136
+0022301209,183,PT00M44.10S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,17,2,Missed,1,,,0,v,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,137
+0022301209,184,PT00M42.30S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,138
+0022301209,185,PT00M40.90S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-43,258,26,Missed,1,,,0,v,MISS O'Neale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022301209,186,PT00M35.80S,1,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301209,187,PT00M32.00S,1,1610612737,ATL,1629027,Young,T. Young,-94,55,11,Made,1,32,31,63,h,Young 11' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,141
+0022301209,188,PT00M32.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,142
+0022301209,190,PT00M32.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,33,31,64,h,Young Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,143
+0022301209,192,PT00M17.30S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-43,39,6,Missed,1,,,0,v,MISS Thomas 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,144
+0022301209,193,PT00M14.20S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+0022301209,194,PT00M01.90S,1,1610612737,ATL,202083,Matthews,W. Matthews,43,255,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+0022301209,195,PT00M01.90S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022301209,196,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,31,64,,End of 1st Period (8:13 PM EST),period,end,1,0,148
+0022301209,203,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,31,64,,Start of 2nd Period (8:16 PM EST),period,start,0,0,149
+0022301209,204,PT11M49.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-230,17,0,Made,1,33,34,67,v,Finney-Smith 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,0,3,150
+0022301209,206,PT11M30.00S,2,1610612737,ATL,1629027,Young,T. Young,-123,215,25,Missed,1,,,0,h,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,151
+0022301209,207,PT11M28.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,152
+0022301209,208,PT11M19.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,153
+0022301209,208,PT11M19.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey STEAL (1 STL),,,0,0,154
+0022301209,210,PT11M15.00S,2,1610612737,ATL,1630180,Bey,S. Bey,17,-1,2,Made,1,35,34,69,h,Bey 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,0,2,155
+0022301209,211,PT10M58.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,18,116,12,Missed,1,,,0,v,MISS Thomas 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,156
+0022301209,212,PT10M56.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,157
+0022301209,213,PT10M46.00S,2,1610612737,ATL,203991,Capela,C. Capela,26,64,7,Missed,1,,,0,h,MISS Capela 7' Hook Shot,Missed Shot,Hook Shot,1,2,158
+0022301209,214,PT10M41.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,159
+0022301209,215,PT10M26.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,159,194,25,Missed,1,,,0,v,MISS Thomas 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022301209,216,PT10M22.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0022301209,217,PT10M08.00S,2,1610612737,ATL,1630180,Bey,S. Bey,-153,201,25,Missed,1,,,0,h,MISS Bey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,162
+0022301209,218,PT10M04.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,163
+0022301209,219,PT10M01.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-2,18,2,Missed,1,,,0,v,MISS Claxton 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,164
+0022301209,220,PT09M59.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+0022301209,221,PT09M49.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith Offensive Charge Foul (P1) (D.Taylor),Foul,Offensive Charge,1,0,166
+0022301209,223,PT09M49.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,167
+0022301209,224,PT09M40.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,1,0,168
+0022301209,225,PT09M40.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,169
+0022301209,226,PT09M25.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,109,231,26,Missed,1,,,0,v,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022301209,227,PT09M22.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,171
+0022301209,228,PT09M09.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,172
+0022301209,228,PT09M09.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale STEAL (1 STL),,,1,0,173
+0022301209,231,PT09M04.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Matthews FOR Bey,Substitution,,0,0,174
+0022301209,232,PT09M04.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Hunter FOR Capela,Substitution,,0,0,175
+0022301209,235,PT08M50.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,176
+0022301209,235,PT08M50.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews STEAL (1 STL),,,1,0,177
+0022301209,237,PT08M47.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,178
+0022301209,239,PT08M47.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,36,34,70,h,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,179
+0022301209,240,PT08M47.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,37,34,71,h,Matthews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,180
+0022301209,241,PT08M31.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu P.FOUL (P2.T1) (M.Myers),Foul,Personal,1,0,181
+0022301209,243,PT08M25.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-48,193,20,Made,1,37,36,73,v,Smith Jr. 20' Pullup Jump Shot (6 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,1,2,182
+0022301209,245,PT08M07.00S,2,1610612737,ATL,1629027,Young,T. Young,-44,40,6,Missed,1,,,0,h,MISS Young 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,183
+0022301209,246,PT08M05.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,184
+0022301209,247,PT07M57.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,1,-3,0,Made,1,37,38,75,v,Smith Jr. Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,1,2,185
+0022301209,248,PT07M43.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-9,25,3,Made,1,39,38,77,h,Bogdanovic 3' Driving Layup (8 PTS) (Young 3 AST),Made Shot,Driving Layup Shot,1,2,186
+0022301209,250,PT07M32.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-4,31,3,Missed,1,,,0,v,MISS Claxton 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,187
+0022301209,251,PT07M29.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022301209,252,PT07M26.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-174,193,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,189
+0022301209,253,PT07M24.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,190
+0022301209,254,PT07M12.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-120,223,25,Missed,1,,,0,v,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,191
+0022301209,255,PT07M08.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,192
+0022301209,256,PT07M07.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,25,262,26,Made,1,39,41,80,v,Finney-Smith 26' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,3,193
+0022301209,257,PT07M06.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,194
+0022301209,260,PT07M06.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Murray FOR Young,Substitution,,0,0,195
+0022301209,261,PT07M06.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Johnson FOR Thomas,Substitution,,0,0,196
+0022301209,262,PT07M06.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Finney-Smith,Substitution,,0,0,197
+0022301209,263,PT07M06.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Sharpe FOR Claxton,Substitution,,0,0,198
+0022301209,268,PT06M46.00S,2,1610612737,ATL,1627749,Murray,D. Murray,91,163,19,Made,1,41,41,82,h,Murray 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,199
+0022301209,269,PT06M25.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-4,105,11,Missed,1,,,0,v,MISS Smith Jr. 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,200
+0022301209,270,PT06M20.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+0022301209,271,PT06M04.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-170,190,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,202
+0022301209,272,PT06M01.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,203
+0022301209,273,PT05M51.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,81,194,21,Made,1,41,43,84,v,Johnson 21' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,204
+0022301209,274,PT05M40.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,1,0,205
+0022301209,276,PT05M40.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,42,43,85,h,Matthews Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,206
+0022301209,278,PT05M40.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,207
+0022301209,280,PT05M40.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,43,43,86,h,Matthews Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,208
+0022301209,282,PT05M25.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-74,246,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,209
+0022301209,283,PT05M22.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,210
+0022301209,284,PT05M18.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-126,220,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,211
+0022301209,285,PT05M14.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,212
+0022301209,286,PT05M08.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,228,25,0,Missed,1,,,0,h,MISS Okongwu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022301209,287,PT05M06.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,214
+0022301209,288,PT04M57.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-229,46,0,Missed,1,,,0,v,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022301209,289,PT04M56.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,216
+0022301209,290,PT04M56.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu L.B.FOUL (P3.T2) (D.Taylor),Foul,Loose Ball,1,0,217
+0022301209,292,PT04M56.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,SUB: Bey FOR Bogdanovic,Substitution,,0,0,218
+0022301209,293,PT04M56.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Young FOR Okongwu,Substitution,,0,0,219
+0022301209,294,PT04M56.00S,2,1610612737,ATL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Capela FOR Matthews,Substitution,,0,0,220
+0022301209,298,PT04M44.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-5,23,2,Made,1,43,45,88,v,Dinwiddie 2' Driving Floating Bank Jump Shot (2 PTS) (O'Neale 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,221
+0022301209,299,PT04M28.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-72,172,19,Missed,1,,,0,h,MISS Murray 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,222
+0022301209,300,PT04M24.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,223
+0022301209,301,PT04M16.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,2,18,2,Missed,1,,,0,v,MISS O'Neale 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,224
+0022301209,302,PT04M14.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,225
+0022301209,303,PT04M07.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-11,14,2,Missed,1,,,0,h,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+0022301209,304,PT04M05.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,227
+0022301209,305,PT04M02.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,228
+0022301209,306,PT04M02.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR O'Neale,Substitution,,0,0,229
+0022301209,308,PT03M49.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,230
+0022301209,310,PT03M49.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+0022301209,311,PT03M49.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,232
+0022301209,312,PT03M49.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,44,45,89,h,Capela Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+0022301209,313,PT03M36.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,121,-4,12,Missed,1,,,0,v,MISS Johnson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,234
+0022301209,314,PT03M33.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,235
+0022301209,315,PT03M26.00S,2,1610612737,ATL,1629027,Young,T. Young,-23,106,11,Made,1,46,45,91,h,Young 11' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,236
+0022301209,316,PT03M14.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,11,1,Made,1,46,47,93,v,Sharpe 1' Dunk (5 PTS) (Dinwiddie 3 AST),Made Shot,Dunk Shot,1,2,237
+0022301209,318,PT02M58.00S,2,1610612737,ATL,1629027,Young,T. Young,-16,5,2,Missed,1,,,0,h,MISS Young 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,238
+0022301209,319,PT02M54.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,239
+0022301209,320,PT02M51.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray P.FOUL (P2.T3) (D.Taylor),Foul,Personal,1,0,240
+0022301209,322,PT02M51.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,241
+0022301209,324,PT02M44.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-36,130,13,Missed,1,,,0,v,MISS Johnson 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,242
+0022301209,325,PT02M42.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,243
+0022301209,327,PT02M25.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-42,53,7,Made,1,48,47,95,h,Murray 7' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,244
+0022301209,328,PT02M08.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-9,134,13,Made,1,48,49,97,v,Johnson 13' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,245
+0022301209,329,PT01M53.00S,2,1610612737,ATL,203991,Capela,C. Capela,-23,5,2,Made,1,50,49,99,h,Capela 2' Driving Layup (3 PTS) (Young 4 AST),Made Shot,Driving Layup Shot,1,2,246
+0022301209,331,PT01M41.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-40,260,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,247
+0022301209,332,PT01M39.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,248
+0022301209,333,PT01M35.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey Traveling Turnover (P3.T7),Turnover,Traveling,1,0,249
+0022301209,334,PT01M35.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,250
+0022301209,336,PT01M27.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,15,23,3,Missed,1,,,0,v,MISS Dinwiddie 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,251
+0022301209,337,PT01M26.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,252
+0022301209,351,PT01M25.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,15,43,5,Missed,1,,,0,v,MISS Dinwiddie 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,253
+0022301209,352,PT01M25.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,254
+0022301209,338,PT01M18.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Made,1,50,51,101,v,Claxton Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,255
+0022301209,339,PT01M10.00S,2,1610612737,ATL,203991,Capela,C. Capela,-6,6,1,Made,1,52,51,103,h,Capela 1' Reverse Dunk (5 PTS) (Murray 5 AST),Made Shot,Reverse Dunk Shot,1,2,256
+0022301209,341,PT00M44.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,65,7,Missed,1,,,0,v,MISS Dinwiddie 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,257
+0022301209,342,PT00M41.60S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,258
+0022301209,343,PT00M35.10S,2,1610612737,ATL,1627749,Murray,D. Murray,29,96,10,Made,1,54,51,105,h,Murray 10' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,259
+0022301209,344,PT00M31.30S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela P.FOUL (P2.T4) (M.Ervin),Foul,Personal,1,0,260
+0022301209,346,PT00M22.60S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-1,17,2,Made,1,54,53,107,v,Finney-Smith 2' Cutting Dunk Shot (8 PTS) (Bridges 4 AST),Made Shot,Cutting Dunk Shot,1,2,261
+0022301209,348,PT00M00.80S,2,1610612737,ATL,1629631,Hunter,D. Hunter,2,111,11,Made,1,56,53,109,h,Hunter 11' Pullup Jump Shot (7 PTS) (Young 5 AST),Made Shot,Pullup Jump shot,1,2,262
+0022301209,350,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,53,109,,End of 2nd Period (8:40 PM EST),period,end,1,0,263
+0022301209,355,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,53,109,,Start of 3rd Period (8:55 PM EST),period,start,0,0,264
+0022301209,356,PT11M46.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,6,4,1,Made,1,56,55,111,v,Johnson 1' Cutting Layup Shot (17 PTS) (Claxton 2 AST),Made Shot,Cutting Layup Shot,1,2,265
+0022301209,358,PT11M28.00S,3,1610612737,ATL,1630180,Bey,S. Bey,-21,121,12,Missed,1,,,0,h,MISS Bey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,266
+0022301209,359,PT11M25.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,267
+0022301209,360,PT11M19.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,-16,101,10,Made,1,56,57,113,v,Thomas 10' Driving Floating Jump Shot (2 PTS) (Claxton 3 AST),Made Shot,Driving Floating Jump Shot,1,2,268
+0022301209,361,PT11M04.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,230,5,0,Missed,1,,,0,h,MISS Hunter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022301209,362,PT11M02.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,270
+0022301209,365,PT10M57.00S,3,1610612737,ATL,1629027,Young,T. Young,-22,20,3,Made,1,58,57,115,h,Young 3' Driving Layup (13 PTS) (Capela 1 AST),Made Shot,Driving Layup Shot,1,2,271
+0022301209,367,PT10M46.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray P.FOUL (P3.T1) (M.Myers),Foul,Personal,1,0,272
+0022301209,369,PT10M38.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,17,114,12,Missed,1,,,0,v,MISS Bridges 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,273
+0022301209,370,PT10M36.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,274
+0022301209,371,PT10M31.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-44,258,26,Missed,1,,,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+0022301209,372,PT10M27.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,276
+0022301209,373,PT10M21.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-70,83,11,Missed,1,,,0,v,MISS Bridges 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,277
+0022301209,374,PT10M18.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,278
+0022301209,375,PT10M18.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,279
+0022301209,375,PT10M18.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,280
+0022301209,377,PT10M15.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0,281
+0022301209,379,PT09M58.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,54,241,25,Missed,1,,,0,v,MISS Dinwiddie 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,282
+0022301209,380,PT09M54.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,283
+0022301209,381,PT09M48.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,129,37,13,Made,1,60,57,117,h,Hunter 13' Jump Shot (9 PTS) (Murray 6 AST),Made Shot,Jump Shot,1,2,284
+0022301209,383,PT09M31.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young P.FOUL (P1.T3) (D.Taylor),Foul,Personal,1,0,285
+0022301209,385,PT09M24.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,228,4,0,Made,1,60,60,120,v,Bridges 3PT Jump Shot (12 PTS) (Thomas 1 AST),Made Shot,Jump Shot,1,3,286
+0022301209,387,PT09M09.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,287
+0022301209,389,PT09M04.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,221,121,25,Made,1,63,60,123,h,Hunter 25' 3PT Jump Shot (12 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,288
+0022301209,391,PT08M51.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,289
+0022301209,392,PT08M44.00S,3,1610612737,ATL,1629027,Young,T. Young,42,58,7,Missed,1,,,0,h,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,290
+0022301209,392,PT08M44.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton BLOCK (1 BLK),,,1,2,291
+0022301209,394,PT08M39.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,292
+0022301209,395,PT08M36.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-227,22,0,Missed,1,,,0,v,MISS Bridges 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,293
+0022301209,396,PT08M33.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,294
+0022301209,397,PT08M25.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-110,136,17,Made,1,65,60,125,h,Murray 17' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,295
+0022301209,398,PT08M12.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,15,159,16,Missed,1,,,0,v,MISS Bridges 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,296
+0022301209,399,PT08M09.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,297
+0022301209,400,PT08M05.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-6,4,1,Made,1,65,62,127,v,Bridges 1' Driving Dunk (14 PTS) (Johnson 2 AST),Made Shot,Driving Dunk Shot,1,2,298
+0022301209,402,PT07M45.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,299
+0022301209,404,PT07M45.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,66,62,128,h,Bey Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,300
+0022301209,405,PT07M45.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,67,62,129,h,Bey Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,301
+0022301209,406,PT07M31.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,302
+0022301209,406,PT07M31.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray STEAL (1 STL),,,1,0,303
+0022301209,408,PT07M28.00S,3,1610612737,ATL,1629027,Young,T. Young,17,18,2,Made,1,69,62,131,h,Young 2' Running Layup (15 PTS) (Murray 7 AST),Made Shot,Running Layup Shot,1,2,304
+0022301209,410,PT07M28.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,1,0,305
+0022301209,411,PT07M20.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,306
+0022301209,412,PT07M07.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,20,8,2,Made,1,69,64,133,v,Bridges 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,307
+0022301209,413,PT06M49.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,33,102,11,Missed,1,,,0,h,MISS Hunter 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,308
+0022301209,414,PT06M48.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,309
+0022301209,415,PT06M48.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Missed,1,,,0,h,MISS Capela Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,310
+0022301209,416,PT06M47.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,311
+0022301209,418,PT06M25.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0,312
+0022301209,420,PT06M25.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,69,65,134,v,Bridges Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,313
+0022301209,421,PT06M25.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Okongwu FOR Young,Substitution,,0,0,314
+0022301209,422,PT06M25.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Capela,Substitution,,0,0,315
+0022301209,423,PT06M25.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Dinwiddie,Substitution,,0,0,316
+0022301209,427,PT06M25.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,69,66,135,v,Bridges Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+0022301209,428,PT06M11.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,129,233,27,Made,1,72,66,138,h,Bogdanovic 27' 3PT Jump Shot (11 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,318
+0022301209,430,PT05M52.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-98,95,14,Made,1,72,68,140,v,Bridges 14' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1,2,319
+0022301209,431,PT05M41.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,6,18,2,Missed,1,,,0,h,MISS Okongwu 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,320
+0022301209,432,PT05M39.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,321
+0022301209,433,PT05M34.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,1,3,0,Made,1,72,70,142,v,Bridges Running Reverse Layup (22 PTS) (Claxton 4 AST),Made Shot,Running Reverse Layup Shot,1,2,322
+0022301209,435,PT05M34.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,323
+0022301209,436,PT05M34.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Mathews FOR Bey,Substitution,,0,0,324
+0022301209,437,PT05M34.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Sharpe FOR Claxton,Substitution,,0,0,325
+0022301209,440,PT05M16.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,11,16,2,Missed,1,,,0,h,MISS Bogdanovic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,326
+0022301209,440,PT05M16.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (2 BLK),,,1,2,327
+0022301209,442,PT05M13.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,328
+0022301209,513,PT05M09.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Step Out of Bounds Turnover (P5.T11),Turnover,Step Out of Bounds Turnover,0,0,329
+0022301209,445,PT04M40.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-230,-10,0,Missed,1,,,0,h,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,0,3,330
+0022301209,446,PT04M38.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,331
+0022301209,447,PT04M34.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,332
+0022301209,449,PT04M34.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,72,71,143,v,Sharpe Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+0022301209,450,PT04M34.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,334
+0022301209,451,PT04M32.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+0022301209,452,PT04M16.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-22,254,25,Missed,1,,,0,h,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+0022301209,453,PT04M13.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,337
+0022301209,454,PT04M12.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-164,201,26,Made,1,75,71,146,h,Bogdanovic 26' 3PT Jump Shot (14 PTS) (Okongwu 2 AST),Made Shot,Jump Shot,1,3,338
+0022301209,456,PT03M55.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-7,5,1,Made,1,75,73,148,v,Smith Jr. 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,339
+0022301209,457,PT03M55.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0,340
+0022301209,459,PT03M55.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,75,74,149,v,Smith Jr. Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,341
+0022301209,460,PT03M40.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-16,111,11,Missed,1,,,0,h,MISS Murray 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,342
+0022301209,461,PT03M37.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,343
+0022301209,512,PT03M27.00S,3,0,,518,Mozgov,T. Mozgov,0,0,0,,0,75,74,149,,Instant Replay3rd Period (9:16 PM EST),Instant Replay,Replay Center,0,0,344
+0022301209,463,PT03M27.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,345
+0022301209,465,PT03M27.00S,3,0,,462,Reid,J. Reid,0,0,0,,0,75,74,149,,Instant Replay3rd Period (9:17 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,346
+0022301209,466,PT03M27.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,SUB: Young FOR Murray,Substitution,,0,0,347
+0022301209,467,PT03M27.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,SUB: Matthews FOR Hunter,Substitution,,0,0,348
+0022301209,468,PT03M27.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: O'Neale FOR Johnson,Substitution,,0,0,349
+0022301209,469,PT03M27.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Thomas,Substitution,,0,0,350
+0022301209,474,PT03M14.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,-96,115,15,Missed,1,,,0,v,MISS Sharpe 15' Jump Shot,Missed Shot,Jump Shot,1,2,351
+0022301209,475,PT03M12.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,352
+0022301209,476,PT03M05.00S,3,1610612737,ATL,1629027,Young,T. Young,115,270,29,Missed,1,,,0,h,MISS Young 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,353
+0022301209,477,PT03M01.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,354
+0022301209,478,PT02M46.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-10,6,1,Made,1,75,76,151,v,O'Neale 1' Cutting Layup Shot (5 PTS) (Smith Jr. 3 AST),Made Shot,Cutting Layup Shot,1,2,355
+0022301209,480,PT02M19.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,44,47,6,Missed,1,,,0,h,MISS Bogdanovic 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,356
+0022301209,481,PT02M18.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,357
+0022301209,482,PT02M18.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,358
+0022301209,483,PT02M12.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,359
+0022301209,485,PT02M12.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,75,77,152,v,O'Neale Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022301209,486,PT02M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,361
+0022301209,488,PT02M12.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,MISS O'Neale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,362
+0022301209,489,PT02M10.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,363
+0022301209,490,PT01M54.00S,3,1610612737,ATL,1629027,Young,T. Young,-1,18,2,Made,1,77,77,154,h,Young 2' Driving Layup (17 PTS) (Bogdanovic 1 AST),Made Shot,Driving Layup Shot,1,2,364
+0022301209,491,PT01M42.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,365
+0022301209,491,PT01M42.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu STEAL (1 STL),,,1,0,366
+0022301209,493,PT01M30.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,367
+0022301209,493,PT01M30.00S,3,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith STEAL (1 STL),,,1,0,368
+0022301209,495,PT01M27.00S,3,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-1,0,0,Made,1,77,79,156,v,Finney-Smith Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,369
+0022301209,496,PT01M11.00S,3,1610612737,ATL,1629027,Young,T. Young,-115,235,26,Made,1,80,79,159,h,Young 26' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,370
+0022301209,497,PT00M52.50S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,-7,3,1,Made,1,80,81,161,v,Sharpe 1' Dunk (8 PTS) (Bridges 5 AST),Made Shot,Dunk Shot,1,2,371
+0022301209,499,PT00M39.40S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P4.T3) (D.Taylor),Foul,Personal,1,0,372
+0022301209,501,PT00M39.40S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,373
+0022301209,503,PT00M31.70S,3,1610612737,ATL,1629027,Young,T. Young,-29,265,27,Missed,1,,,0,h,MISS Young 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,374
+0022301209,504,PT00M29.80S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,375
+0022301209,506,PT00M29.80S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Thomas FOR Claxton,Substitution,,0,0,376
+0022301209,508,PT00M10.50S,3,1610612751,BKN,1630560,Thomas,C. Thomas,6,158,16,Missed,1,,,0,v,MISS Thomas 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,377
+0022301209,509,PT00M07.60S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,378
+0022301209,510,PT00M03.40S,3,1610612737,ATL,1629027,Young,T. Young,15,102,10,Made,1,82,81,163,h,Young 10' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,1,2,379
+0022301209,511,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,81,163,,End of 3rd Period (9:25 PM EST),period,end,1,0,380
+0022301209,520,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,81,163,,Start of 4th Period (9:28 PM EST),period,start,0,0,381
+0022301209,521,PT11M46.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-136,232,27,Missed,1,,,0,h,MISS Bogdanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022301209,522,PT11M42.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,383
+0022301209,523,PT11M42.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,Made,1,84,81,165,h,Bey Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,384
+0022301209,524,PT11M32.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,-232,42,24,Missed,1,,,0,v,MISS O'Neale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+0022301209,525,PT11M29.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,386
+0022301209,526,PT11M17.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,387
+0022301209,527,PT11M08.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,11,8,1,Made,1,84,83,167,v,Smith Jr. 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,388
+0022301209,528,PT10M54.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,1,0,389
+0022301209,530,PT10M42.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,-10,17,2,Missed,1,,,0,v,MISS Claxton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+0022301209,531,PT10M40.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,391
+0022301209,532,PT10M38.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale P.FOUL (P2.T1) (D.Taylor),Foul,Personal,1,0,392
+0022301209,534,PT10M27.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,227,-11,0,Missed,1,,,0,h,MISS Okongwu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022301209,535,PT10M24.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+0022301209,536,PT10M17.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-124,216,25,Made,1,84,86,170,v,Finney-Smith 25' 3PT Jump Shot (13 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,1,3,395
+0022301209,538,PT10M14.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,396
+0022301209,539,PT10M14.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Hunter FOR Okongwu,Substitution,,0,0,397
+0022301209,543,PT09M55.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,-131,15,13,Missed,1,,,0,h,MISS Hunter 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,398
+0022301209,544,PT09M52.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,399
+0022301209,545,PT09M40.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-88,71,11,Made,1,84,88,172,v,Thomas 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,400
+0022301209,546,PT09M24.00S,4,1610612737,ATL,1630180,Bey,S. Bey,223,-11,0,Made,1,87,88,175,h,Bey 3PT Jump Shot (17 PTS) (Hunter 1 AST),Made Shot,Jump Shot,1,3,401
+0022301209,548,PT09M13.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,1,0,402
+0022301209,550,PT09M13.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,403
+0022301209,551,PT09M13.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,1,0,404
+0022301209,552,PT09M13.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,87,89,176,v,Claxton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,405
+0022301209,553,PT09M01.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-134,227,26,Made,1,90,89,179,h,Bogdanovic 26' 3PT Jump Shot (17 PTS) (Young 7 AST),Made Shot,Jump Shot,1,3,406
+0022301209,555,PT08M33.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,-11,289,29,Missed,1,,,0,v,MISS O'Neale 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,407
+0022301209,556,PT08M30.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,408
+0022301209,557,PT08M14.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Lost Ball Turnover (P5.T13),Turnover,Lost Ball,1,0,409
+0022301209,557,PT08M14.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (2 STL),,,1,0,410
+0022301209,559,PT08M09.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-1,6,1,Made,1,90,91,181,v,Finney-Smith 1' Running Alley Oop Dunk Shot (15 PTS) (Smith Jr. 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,411
+0022301209,561,PT07M53.00S,4,1610612737,ATL,1630180,Bey,S. Bey,9,21,2,Made,1,92,91,183,h,Bey 2' Driving Reverse Layup (19 PTS) (Young 8 AST),Made Shot,Driving Reverse Layup Shot,1,2,412
+0022301209,563,PT07M35.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-29,62,7,Made,1,92,93,185,v,Thomas 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,413
+0022301209,564,PT07M19.00S,4,1610612737,ATL,1629027,Young,T. Young,70,247,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,414
+0022301209,565,PT07M18.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,415
+0022301209,566,PT07M18.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela L.B.FOUL (P4.T2) (M.Ervin),Foul,Loose Ball,1,0,416
+0022301209,568,PT07M18.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Murray FOR Capela,Substitution,,0,0,417
+0022301209,569,PT07M18.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,418
+0022301209,572,PT07M18.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Okongwu FOR Young,Substitution,,0,0,419
+0022301209,574,PT07M06.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,113,58,13,Missed,1,,,0,v,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,420
+0022301209,575,PT07M03.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+0022301209,576,PT06M54.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,131,111,17,Made,1,94,93,187,h,Hunter 17' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,422
+0022301209,577,PT06M43.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,20,9,2,Made,1,94,95,189,v,Dinwiddie 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,423
+0022301209,578,PT06M43.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu S.FOUL (P4.T3) (M.Ervin),Foul,Shooting,1,0,424
+0022301209,580,PT06M43.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Sharpe FOR O'Neale,Substitution,,0,0,425
+0022301209,581,PT06M43.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Bridges FOR Thomas,Substitution,,0,0,426
+0022301209,582,PT06M43.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Johnson FOR Claxton,Substitution,,0,0,427
+0022301209,586,PT06M43.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,94,96,190,v,Dinwiddie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,428
+0022301209,587,PT06M28.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,-5,11,1,Made,1,96,96,192,h,Okongwu 1' Cutting Layup Shot (2 PTS) (Bey 1 AST),Made Shot,Cutting Layup Shot,1,2,429
+0022301209,589,PT06M19.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,17,20,3,Made,1,96,98,194,v,Bridges 3' Driving Reverse Layup (24 PTS) (Johnson 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,430
+0022301209,591,PT06M01.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,45,251,26,Made,1,99,98,197,h,Bogdanovic 26' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,431
+0022301209,592,PT05M36.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,21,19,3,Missed,1,,,0,v,MISS Dinwiddie 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,432
+0022301209,593,PT05M35.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,433
+0022301209,594,PT05M29.00S,4,1610612737,ATL,1630180,Bey,S. Bey,225,-14,0,Missed,1,,,0,h,MISS Bey 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,434
+0022301209,595,PT05M26.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,435
+0022301209,596,PT05M12.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,11,11,2,Missed,1,,,0,v,MISS Dinwiddie 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,436
+0022301209,597,PT05M11.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,437
+0022301209,599,PT05M11.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,h,SUB: Capela FOR Bogdanovic,Substitution,,0,0,438
+0022301209,600,PT05M11.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Young FOR Okongwu,Substitution,,0,0,439
+0022301209,603,PT05M11.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,440
+0022301209,604,PT05M01.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,1,110,11,Missed,1,,,0,v,MISS Dinwiddie 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,441
+0022301209,605,PT04M58.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,442
+0022301209,606,PT04M56.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-224,56,0,Missed,1,,,0,v,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022301209,607,PT04M53.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,444
+0022301209,608,PT04M48.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,-13,13,2,Missed,1,,,0,h,MISS Hunter 2' Running Layup,Missed Shot,Running Layup Shot,1,2,445
+0022301209,608,PT04M48.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith BLOCK (1 BLK),,,1,2,446
+0022301209,609,PT04M40.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,447
+0022301209,610,PT04M40.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,101,98,199,h,Capela Putback Dunk (7 PTS),Made Shot,Putback Dunk Shot,1,2,448
+0022301209,611,PT04M32.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-104,72,13,Made,1,101,100,201,v,Bridges 13' Fadeaway Jumper (26 PTS),Made Shot,Fadeaway Jump Shot,1,2,449
+0022301209,612,PT04M12.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,-109,120,16,Missed,1,,,0,h,MISS Hunter 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,450
+0022301209,613,PT04M08.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,451
+0022301209,614,PT03M46.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-16,10,2,Made,1,101,102,203,v,Dinwiddie 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,452
+0022301209,615,PT03M26.00S,4,1610612737,ATL,1627749,Murray,D. Murray,13,57,6,Missed,1,,,0,h,MISS Murray 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,453
+0022301209,616,PT03M23.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,454
+0022301209,618,PT03M23.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,455
+0022301209,619,PT03M23.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,456
+0022301209,621,PT03M21.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-98,237,26,Missed,1,,,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022301209,622,PT03M19.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,458
+0022301209,624,PT03M03.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-1,14,1,Missed,1,,,0,v,MISS Bridges 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,459
+0022301209,624,PT03M03.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (2 BLK),,,1,2,460
+0022301209,626,PT03M00.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,461
+0022301209,627,PT02M58.00S,4,1610612737,ATL,1629027,Young,T. Young,-183,183,26,Made,1,104,102,206,h,Young 26' 3PT Running Jump Shot (25 PTS) (Murray 9 AST),Made Shot,Running Jump Shot,1,3,462
+0022301209,629,PT02M44.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,4,58,6,Made,1,104,104,208,v,Dinwiddie 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,463
+0022301209,630,PT02M38.00S,4,1610612737,ATL,1630180,Bey,S. Bey,-7,23,2,Missed,1,,,0,h,MISS Bey 2' Running Layup,Missed Shot,Running Layup Shot,1,2,464
+0022301209,630,PT02M38.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie BLOCK (1 BLK),,,1,2,465
+0022301209,632,PT02M37.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,466
+0022301209,633,PT02M37.00S,4,1610612737,ATL,1630180,Bey,S. Bey,1,23,2,Missed,1,,,0,h,MISS Bey 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,467
+0022301209,634,PT02M36.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,468
+0022301209,635,PT02M19.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,121,242,27,Made,1,104,107,211,v,Dinwiddie 27' 3PT Jump Shot (12 PTS) (Bridges 6 AST),Made Shot,Jump Shot,1,3,469
+0022301209,637,PT02M06.00S,4,1610612737,ATL,203991,Capela,C. Capela,-7,11,1,Made,1,106,107,213,h,Capela 1' Dunk (9 PTS) (Young 9 AST),Made Shot,Dunk Shot,1,2,470
+0022301209,639,PT01M47.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-29,195,20,Made,1,106,109,215,v,Bridges 20' Step Back Jump Shot (28 PTS),Made Shot,Step Back Jump shot,1,2,471
+0022301209,640,PT01M40.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T2) (M.Myers),Foul,Personal,1,0,472
+0022301209,642,PT01M35.00S,4,1610612737,ATL,1629027,Young,T. Young,93,120,15,Missed,1,,,0,h,MISS Young 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,473
+0022301209,643,PT01M33.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,474
+0022301209,644,PT01M33.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela L.B.FOUL (P5.T4) (D.Taylor),Foul,Loose Ball,1,0,475
+0022301209,646,PT01M19.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,228,40,0,Missed,1,,,0,v,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,476
+0022301209,647,PT01M16.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,h,Hunter REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,477
+0022301209,648,PT01M10.00S,4,1610612737,ATL,1629027,Young,T. Young,-47,110,12,Made,1,108,109,217,h,Young 12' Driving Floating Jump Shot (27 PTS) (Hunter 2 AST),Made Shot,Driving Floating Jump Shot,1,2,478
+0022301209,650,PT00M57.70S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,230,48,0,Missed,1,,,0,v,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,479
+0022301209,651,PT00M53.90S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,480
+0022301209,652,PT00M43.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,37,83,9,Missed,1,,,0,v,MISS Dinwiddie 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,481
+0022301209,652,PT00M43.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young BLOCK (2 BLK),,,1,2,482
+0022301209,654,PT00M39.90S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,483
+0022301209,655,PT00M36.30S,4,1610612737,ATL,1627749,Murray,D. Murray,-10,21,2,Missed,1,,,0,h,MISS Murray 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,484
+0022301209,656,PT00M35.40S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,Bey REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,485
+0022301209,658,PT00M35.40S,4,0,,657,,,0,0,0,,0,108,109,217,,Instant Replay4th Period (9:53 PM EST),Instant Replay,Overturn Ruling,0,0,486
+0022301209,659,PT00M35.40S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,v,Finney-Smith S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,1,0,487
+0022301209,661,PT00M35.40S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,109,109,218,h,Bey Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,488
+0022301209,662,PT00M35.40S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,110,109,219,h,Bey Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,489
+0022301209,663,PT00M35.40S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,490
+0022301209,664,PT00M35.40S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: O'Neale FOR Claxton,Substitution,,0,0,491
+0022301209,666,PT00M32.80S,4,1610612751,BKN,1628969,Bridges,M. Bridges,6,8,1,Made,1,110,111,221,v,Bridges 1' Cutting Layup Shot (30 PTS) (Dinwiddie 4 AST),Made Shot,Cutting Layup Shot,1,2,492
+0022301209,668,PT00M27.20S,4,1610612737,ATL,1629027,Young,T. Young,93,96,13,Missed,1,,,0,h,MISS Young 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,493
+0022301209,669,PT00M24.30S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,494
+0022301209,670,PT00M24.30S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Personal Take Foul (P2.PN) (D.Taylor),Foul,Personal Take,1,0,495
+0022301209,672,PT00M24.30S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,110,112,222,v,Dinwiddie Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,496
+0022301209,673,PT00M24.30S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Claxton FOR Johnson,Substitution,,0,0,497
+0022301209,674,PT00M24.30S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR O'Neale,Substitution,,0,0,498
+0022301209,677,PT00M24.30S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Okongwu FOR Young,Substitution,,0,0,499
+0022301209,679,PT00M24.30S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,MISS Dinwiddie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,500
+0022301209,680,PT00M22.30S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,501
+0022301209,681,PT00M22.20S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,502
+0022301209,682,PT00M22.20S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Bey,Substitution,,0,0,503
+0022301209,683,PT00M22.20S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Young FOR Okongwu,Substitution,,0,0,504
+0022301209,686,PT00M17.30S,4,1610612737,ATL,1629027,Young,T. Young,119,239,27,Made,1,113,112,225,h,Young 27' 3PT Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,1,3,505
+0022301209,687,PT00M05.10S,4,1610612751,BKN,1628969,Bridges,M. Bridges,108,143,18,Made,1,113,114,227,v,Bridges 18' Fadeaway Jumper (32 PTS),Made Shot,Fadeaway Jump Shot,1,2,506
+0022301209,688,PT00M04.50S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,507
+0022301209,689,PT00M04.50S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Bey FOR Capela,Substitution,,0,0,508
+0022301209,691,PT00M00.80S,4,1610612737,ATL,1629027,Young,T. Young,18,165,17,Missed,1,,,0,h,MISS Young 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,509
+0022301209,692,PT00M00.80S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,510
+0022301209,693,PT00M00.00S,4,0,,0,,,0,0,0,,0,113,114,227,,End of 4th Period (10:03 PM EST),period,end,1,0,511

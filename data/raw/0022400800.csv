@@ -1,0 +1,495 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400800,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:43 PM EST),period,start,0,0,1
+0022400800,4,PT12M00.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball Robinson vs. Ware: Tip to Mitchell,Jump Ball,,1,0,2
+0022400800,7,PT11M42.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,3
+0022400800,8,PT11M30.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,9,10,1,Made,1,2,0,2,h,Robinson 1' Cutting Layup Shot (2 PTS) (Barrett 1 AST),Made Shot,Cutting Layup Shot,1,2,4
+0022400800,10,PT11M19.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,-62,243,25,Missed,1,,,0,v,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0022400800,11,PT11M15.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022400800,12,PT11M10.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-115,232,26,Missed,1,,,0,h,MISS Quickley 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,7
+0022400800,13,PT11M06.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022400800,14,PT10M55.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0,9
+0022400800,14,PT10M55.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett STEAL (1 STL),,,1,0,10
+0022400800,16,PT10M51.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-40,57,7,Missed,1,,,0,h,MISS Barrett 7' Running Layup,Missed Shot,Running Layup Shot,1,2,11
+0022400800,17,PT10M48.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022400800,18,PT10M37.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,158,198,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+0022400800,19,PT10M34.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+0022400800,20,PT10M18.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,91,256,27,Missed,1,,,0,h,MISS Barnes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022400800,21,PT10M16.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022400800,22,PT10M07.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-13,58,6,Made,1,2,2,4,v,Herro 6' Driving Floating Jump Shot (2 PTS) (Adebayo 1 AST),Made Shot,Driving Floating Jump Shot,1,2,17
+0022400800,23,PT09M48.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,18
+0022400800,23,PT09M48.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0,19
+0022400800,25,PT09M43.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,20
+0022400800,27,PT09M43.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,2,3,5,v,Herro Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+0022400800,28,PT09M43.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,2,4,6,v,Herro Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+0022400800,29,PT09M21.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,21,90,9,Missed,1,,,0,h,MISS Robinson 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,23
+0022400800,30,PT09M19.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+0022400800,31,PT09M08.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,16,2,Missed,1,,,0,v,MISS Wiggins 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,25
+0022400800,32,PT09M05.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,26
+0022400800,33,PT09M05.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson S.FOUL (P1.T2) (M.Myers),Foul,Shooting,1,0,27
+0022400800,35,PT09M05.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,2,5,7,v,Adebayo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,28
+0022400800,36,PT09M05.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,2,6,8,v,Adebayo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,29
+0022400800,37,PT08M54.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson OFF.Foul (P2) (J.Williams),Foul,Offensive,1,0,30
+0022400800,39,PT08M54.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,31
+0022400800,40,PT08M41.00S,1,1610612748,MIA,1642276,Ware,K. Ware,9,9,1,Missed,1,,,0,v,MISS Ware 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,32
+0022400800,41,PT08M39.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022400800,42,PT08M37.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,34
+0022400800,42,PT08M37.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (2 STL),,,1,0,35
+0022400800,44,PT08M32.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,154,192,25,Made,1,2,9,11,v,Wiggins 25' 3PT Running Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Running Jump Shot,1,3,36
+0022400800,46,PT08M29.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022400800,48,PT08M06.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P1.T1) (M.Myers),Foul,Personal,1,0,38
+0022400800,50,PT08M04.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,23,59,6,Missed,1,,,0,h,MISS Barnes 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,39
+0022400800,51,PT08M01.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0022400800,52,PT07M52.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,41
+0022400800,52,PT07M52.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett STEAL (2 STL),,,1,0,42
+0022400800,54,PT07M37.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-43,41,6,Made,1,4,9,13,h,Barnes 6' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,43
+0022400800,55,PT07M14.00S,1,1610612748,MIA,1629639,Herro,T. Herro,-42,51,7,Missed,1,,,0,v,MISS Herro 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,44
+0022400800,56,PT07M12.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+0022400800,57,PT07M01.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,153,204,26,Made,1,4,12,16,v,Wiggins 26' 3PT Jump Shot (6 PTS) (Herro 2 AST),Made Shot,Jump Shot,1,3,46
+0022400800,59,PT06M48.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Traveling Turnover (P2.T4),Turnover,Traveling,1,0,47
+0022400800,60,PT06M48.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,SUB: Agbaji FOR Barnes,Substitution,,0,0,48
+0022400800,61,PT06M48.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Robinson FOR Adebayo,Substitution,,0,0,49
+0022400800,62,PT06M48.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Jović FOR Wiggins,Substitution,,0,0,50
+0022400800,66,PT06M32.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,51
+0022400800,66,PT06M32.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick STEAL (1 STL),,,1,0,52
+0022400800,68,PT06M28.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Violation:Kicked Ball (M.Myers),Violation,Kicked Ball,0,0,53
+0022400800,69,PT06M28.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,54
+0022400800,70,PT06M26.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-23,11,3,Made,1,6,12,18,h,Quickley 3' Cutting Layup Shot (2 PTS) (Barrett 2 AST),Made Shot,Cutting Layup Shot,0,2,55
+0022400800,72,PT06M07.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-74,247,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022400800,73,PT06M04.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022400800,74,PT05M57.00S,1,1610612761,TOR,1641711,Dick,G. Dick,-239,-22,24,Missed,1,,,0,h,MISS Dick 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022400800,75,PT05M53.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,59
+0022400800,76,PT05M49.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-157,123,20,Made,1,8,12,20,h,Quickley 20' Pullup Jump Shot (4 PTS) (Agbaji 1 AST),Made Shot,Pullup Jump shot,1,2,60
+0022400800,78,PT05M27.00S,1,1610612748,MIA,1642276,Ware,K. Ware,230,69,24,Missed,1,,,0,v,MISS Ware 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022400800,79,PT05M24.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,62
+0022400800,80,PT05M13.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-116,148,19,Missed,1,,,0,h,MISS Quickley 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,63
+0022400800,81,PT05M11.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022400800,82,PT05M06.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-239,-22,24,Made,1,8,15,23,v,Robinson 24' 3PT Running Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Running Jump Shot,1,3,65
+0022400800,84,PT04M45.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,69,257,27,Missed,1,,,0,h,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022400800,85,PT04M42.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+0022400800,86,PT04M36.00S,1,1610612748,MIA,1629639,Herro,T. Herro,11,-5,1,Missed,1,,,0,v,MISS Herro 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,68
+0022400800,87,PT04M33.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,69
+0022400800,88,PT04M27.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,70
+0022400800,88,PT04M27.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (1 STL),,,1,0,71
+0022400800,90,PT04M21.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,Made,1,8,17,25,v,Mitchell Running Layup (2 PTS) (Jović 1 AST),Made Shot,Running Layup Shot,1,2,72
+0022400800,92,PT04M11.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,73
+0022400800,92,PT04M11.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,74
+0022400800,94,PT04M08.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,7,3,1,Made,1,8,19,27,v,Mitchell 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,75
+0022400800,95,PT04M08.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro T.FOUL (P0.T1) (R.Acosta),Foul,Technical,0,0,76
+0022400800,96,PT04M08.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,9,19,28,h,Quickley Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,1,0,77
+0022400800,97,PT04M08.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,SUB: Barnes FOR Dick,Substitution,,0,0,78
+0022400800,98,PT04M08.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Walter FOR Quickley,Substitution,,0,0,79
+0022400800,99,PT04M08.00S,1,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Shead FOR Robinson,Substitution,,0,0,80
+0022400800,103,PT03M55.00S,1,1610612761,TOR,1642266,Walter,J. Walter,102,-1,10,Made,1,11,19,30,h,Walter 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,81
+0022400800,104,PT03M40.00S,1,1610612748,MIA,1629639,Herro,T. Herro,27,268,27,Missed,1,,,0,v,MISS Herro 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,82
+0022400800,105,PT03M40.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,0,0,83
+0022400800,107,PT03M31.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-184,175,25,Missed,1,,,0,h,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022400800,108,PT03M26.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,85
+0022400800,110,PT03M14.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,SUB: Mogbo FOR Barrett,Substitution,,0,0,86
+0022400800,111,PT03M14.00S,1,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Rozier FOR Mitchell,Substitution,,0,0,87
+0022400800,114,PT03M04.00S,1,1610612748,MIA,1631107,Jović,N. Jović,69,251,26,Made,1,11,22,33,v,Jović 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,88
+0022400800,115,PT02M56.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier P.FOUL (P1.T2) (R.Acosta),Foul,Personal,1,0,89
+0022400800,117,PT02M56.00S,1,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Wiggins FOR Ware,Substitution,,0,0,90
+0022400800,118,PT02M56.00S,1,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,SUB: Adebayo FOR Herro,Substitution,,0,0,91
+0022400800,121,PT02M39.00S,1,1610612761,TOR,1642347,Shead,J. Shead,-32,76,8,Made,1,13,22,35,h,Shead 8' Driving Floating Bank Jump Shot (2 PTS) (Barnes 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,92
+0022400800,123,PT02M21.00S,1,1610612748,MIA,1629130,Robinson,D. Robinson,179,193,26,Made,1,13,25,38,v,Robinson 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,93
+0022400800,124,PT02M04.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0,94
+0022400800,127,PT01M53.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,95
+0022400800,127,PT01M53.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier STEAL (1 STL),,,1,0,96
+0022400800,129,PT01M51.00S,1,1610612748,MIA,1626179,Rozier,T. Rozier,-4,5,1,Made,1,13,27,40,v,Rozier 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,97
+0022400800,130,PT01M51.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,1,0,98
+0022400800,132,PT01M38.00S,1,1610612761,TOR,1642266,Walter,J. Walter,-227,112,25,Made,1,16,27,43,h,Walter 25' 3PT Jump Shot (5 PTS) (Shead 1 AST),Made Shot,Jump Shot,1,3,99
+0022400800,134,PT01M16.00S,1,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,1,0,100
+0022400800,136,PT01M16.00S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,101
+0022400800,137,PT01M16.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,SUB: Boucher FOR Barnes,Substitution,,0,0,102
+0022400800,139,PT01M16.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,16,28,44,v,Adebayo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022400800,140,PT01M16.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,MISS Adebayo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,104
+0022400800,141,PT01M13.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,105
+0022400800,142,PT01M05.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,11,63,6,Made,1,16,30,46,v,Adebayo 6' Layup (5 PTS),Made Shot,Layup Shot,1,2,106
+0022400800,143,PT00M43.20S,1,1610612761,TOR,1642347,Shead,J. Shead,-60,174,18,Missed,1,,,0,h,MISS Shead 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,107
+0022400800,144,PT00M40.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,108
+0022400800,145,PT00M38.20S,1,1610612761,TOR,1642347,Shead,J. Shead,-18,259,26,Made,1,19,30,49,h,Shead 26' 3PT Jump Shot (5 PTS) (Boucher 1 AST),Made Shot,Jump Shot,1,3,109
+0022400800,147,PT00M29.60S,1,1610612748,MIA,1629130,Robinson,D. Robinson,-219,131,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022400800,148,PT00M25.60S,1,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022400800,149,PT00M22.90S,1,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,1,0,112
+0022400800,151,PT00M22.90S,1,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,MISS Mogbo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,113
+0022400800,152,PT00M22.90S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Normal Rebound,1,0,114
+0022400800,153,PT00M22.90S,1,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,MISS Mogbo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,115
+0022400800,154,PT00M21.60S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,116
+0022400800,155,PT00M01.10S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,47,32,6,Missed,1,,,0,v,MISS Wiggins 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,117
+0022400800,156,PT00M01.10S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022400800,157,PT00M00.10S,1,1610612761,TOR,1642266,Walter,J. Walter,32,582,58,Missed,1,,,0,h,MISS Walter 58' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,3,119
+0022400800,158,PT00M00.10S,1,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,1,0,120
+0022400800,159,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,30,49,,End of 1st Period (8:11 PM EST),period,end,1,0,121
+0022400800,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,19,30,49,,Start of 2nd Period (8:14 PM EST),period,start,0,0,122
+0022400800,163,PT11M43.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-143,216,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022400800,164,PT11M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,124
+0022400800,165,PT11M26.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,-213,136,25,Made,1,19,33,52,v,Rozier 25' 3PT Jump Shot (5 PTS) (Jović 2 AST),Made Shot,Jump Shot,1,3,125
+0022400800,167,PT11M04.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,-234,-6,0,Made,1,22,33,55,h,Mogbo 3PT Jump Shot (3 PTS) (Agbaji 2 AST),Made Shot,Jump Shot,1,3,126
+0022400800,169,PT10M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,RAPTORS T.Foul (Def. 3 Sec Boucher ) (J.Williams),Foul,Defense 3 Second,1,0,127
+0022400800,170,PT10M49.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw Technical,Free Throw,Free Throw Technical,1,0,128
+0022400800,171,PT10M49.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,129
+0022400800,172,PT10M35.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,15,159,16,Made,1,22,35,57,v,Adebayo 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,130
+0022400800,173,PT10M09.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,62,280,29,Made,1,25,35,60,h,Quickley 29' 3PT Jump Shot (8 PTS) (Boucher 2 AST),Made Shot,Jump Shot,1,3,131
+0022400800,175,PT09M53.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,-233,-16,0,Missed,1,,,0,v,MISS Rozier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022400800,176,PT09M52.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,133
+0022400800,177,PT09M44.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,-7,256,26,Made,1,28,35,63,h,Quickley 26' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,134
+0022400800,178,PT09M44.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,135
+0022400800,179,PT09M30.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,-81,242,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+0022400800,180,PT09M27.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,137
+0022400800,181,PT09M18.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,-109,246,27,Missed,1,,,0,h,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022400800,182,PT09M15.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+0022400800,183,PT09M10.00S,2,1610612748,MIA,1631107,Jović,N. Jović,112,219,25,Missed,1,,,0,v,MISS Jović 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,140
+0022400800,184,PT09M07.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,141
+0022400800,185,PT09M04.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,-11,41,4,Made,1,30,35,65,h,Agbaji 4' Running Finger Roll Layup (2 PTS) (Quickley 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,142
+0022400800,187,PT08M49.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-4,8,1,Made,1,30,37,67,v,Adebayo 1' Cutting Dunk Shot (9 PTS) (Jović 3 AST),Made Shot,Cutting Dunk Shot,1,2,143
+0022400800,189,PT08M21.00S,2,1610612761,TOR,1642266,Walter,J. Walter,113,46,12,Missed,1,,,0,h,MISS Walter 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,144
+0022400800,190,PT08M17.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,145
+0022400800,191,PT07M57.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-138,-6,14,Made,1,30,39,69,v,Adebayo 14' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,146
+0022400800,192,PT07M30.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,169,204,26,Missed,1,,,0,h,MISS Quickley 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,147
+0022400800,193,PT07M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,148
+0022400800,194,PT07M29.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,1,0,149
+0022400800,196,PT07M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,31,39,70,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+0022400800,197,PT07M29.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,SUB: Barnes FOR Mogbo,Substitution,,0,0,151
+0022400800,198,PT07M29.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,SUB: Barrett FOR Walter,Substitution,,0,0,152
+0022400800,199,PT07M29.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,SUB: Robinson FOR Agbaji,Substitution,,0,0,153
+0022400800,200,PT07M29.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Ware FOR Adebayo,Substitution,,0,0,154
+0022400800,201,PT07M29.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Herro FOR Robinson,Substitution,,0,0,155
+0022400800,207,PT07M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,32,39,71,h,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,156
+0022400800,208,PT07M11.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,1,0,157
+0022400800,210,PT07M11.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,32,40,72,v,Wiggins Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,158
+0022400800,211,PT07M11.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,32,41,73,v,Wiggins Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,159
+0022400800,212,PT06M59.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,40,254,26,Missed,1,,,0,h,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022400800,213,PT06M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,161
+0022400800,214,PT06M53.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,15,33,4,Missed,1,,,0,h,MISS Boucher 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,162
+0022400800,215,PT06M52.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,163
+0022400800,216,PT06M30.00S,2,1610612748,MIA,1642276,Ware,K. Ware,9,29,3,Missed,1,,,0,v,MISS Ware 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,164
+0022400800,217,PT06M24.00S,2,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0022400800,218,PT06M21.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,31,13,3,Missed,1,,,0,h,MISS Quickley 3' Running Layup,Missed Shot,Running Layup Shot,1,2,166
+0022400800,218,PT06M21.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović BLOCK (1 BLK),,,1,2,167
+0022400800,220,PT06M21.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,168
+0022400800,221,PT06M18.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0,169
+0022400800,225,PT06M18.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,170
+0022400800,223,PT06M18.00S,2,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,171
+0022400800,224,PT06M18.00S,2,0,,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,32,41,73,,Instant Replay2nd Period (8:25 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,172
+0022400800,226,PT06M18.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Shead FOR Quickley,Substitution,,0,0,173
+0022400800,227,PT06M18.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Dick FOR Boucher,Substitution,,0,0,174
+0022400800,228,PT06M18.00S,2,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Burks FOR Rozier,Substitution,,0,0,175
+0022400800,229,PT06M18.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Mitchell FOR Wiggins,Substitution,,0,0,176
+0022400800,234,PT06M06.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-96,13,10,Missed,1,,,0,h,MISS Barrett 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,177
+0022400800,234,PT06M06.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware BLOCK (1 BLK),,,1,2,178
+0022400800,236,PT06M02.00S,2,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,179
+0022400800,237,PT06M02.00S,2,1610612761,TOR,1631115,Robinson,O. Robinson,7,4,1,Made,1,34,41,75,h,Robinson 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,180
+0022400800,238,PT05M39.00S,2,1610612748,MIA,1631107,Jović,N. Jović,148,188,24,Missed,1,,,0,v,MISS Jović 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,181
+0022400800,239,PT05M37.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,182
+0022400800,240,PT05M35.00S,2,1610612748,MIA,1642276,Ware,K. Ware,-5,-7,1,Made,1,34,43,77,v,Ware 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,183
+0022400800,241,PT05M22.00S,2,1610612761,TOR,1642347,Shead,J. Shead,-21,88,9,Made,1,36,43,79,h,Shead 9' Driving Floating Jump Shot (7 PTS) (Robinson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,184
+0022400800,243,PT05M08.00S,2,1610612748,MIA,1631107,Jović,N. Jović,45,15,5,Made,1,36,45,81,v,Jović 5' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,185
+0022400800,244,PT04M54.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-11,197,20,Missed,1,,,0,h,MISS Barrett 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,186
+0022400800,245,PT04M52.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,187
+0022400800,247,PT04M52.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Adebayo FOR Jović,Substitution,,0,0,188
+0022400800,249,PT04M36.00S,2,1610612748,MIA,1629639,Herro,T. Herro,207,147,25,Made,1,36,48,84,v,Herro 25' 3PT Jump Shot (7 PTS) (Ware 1 AST),Made Shot,Jump Shot,1,3,189
+0022400800,251,PT04M25.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,237,64,25,Made,1,39,48,87,h,Barrett 25' 3PT Jump Bank Shot (3 PTS) (Shead 2 AST),Made Shot,Jump Bank Shot,1,3,190
+0022400800,253,PT04M06.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,-222,110,25,Made,1,39,51,90,v,Mitchell 25' 3PT Jump Shot (7 PTS) (Herro 3 AST),Made Shot,Jump Shot,1,3,191
+0022400800,255,PT03M55.00S,2,1610612761,TOR,1631115,Robinson,O. Robinson,-17,284,28,Missed,1,,,0,h,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,192
+0022400800,256,PT03M53.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,193
+0022400800,257,PT03M45.00S,2,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0,194
+0022400800,259,PT03M36.00S,2,1610612748,MIA,1642276,Ware,K. Ware,-15,0,2,Missed,1,,,0,v,MISS Ware 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,195
+0022400800,260,PT03M34.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+0022400800,261,PT03M26.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-16,109,11,Made,1,41,51,92,h,Barnes 11' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,197
+0022400800,262,PT02M58.00S,2,1610612748,MIA,1629639,Herro,T. Herro,162,226,28,Made,1,41,54,95,v,Herro 28' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,198
+0022400800,263,PT02M47.00S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.T2) (M.Myers),Foul,Personal,1,0,199
+0022400800,265,PT02M47.00S,2,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,SUB: Quickley FOR Shead,Substitution,,0,0,200
+0022400800,266,PT02M47.00S,2,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Wiggins FOR Ware,Substitution,,0,0,201
+0022400800,269,PT02M38.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,53,252,26,Made,1,44,54,98,h,Barrett 26' 3PT Jump Shot (6 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,202
+0022400800,271,PT02M11.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-227,-10,0,Missed,1,,,0,v,MISS Adebayo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022400800,272,PT02M08.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,204
+0022400800,273,PT02M04.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,27,29,4,Missed,1,,,0,h,MISS Quickley 4' Running Layup,Missed Shot,Running Layup Shot,1,2,205
+0022400800,274,PT02M02.00S,2,1610612748,MIA,202692,Burks,A. Burks,0,0,0,,0,,,0,v,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,206
+0022400800,275,PT01M49.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-4,51,5,Missed,1,,,0,v,MISS Adebayo 5' Hook Shot,Missed Shot,Hook Shot,1,2,207
+0022400800,275,PT01M49.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes BLOCK (1 BLK),,,1,2,208
+0022400800,277,PT01M46.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,209
+0022400800,278,PT01M45.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-4,52,5,Missed,1,,,0,v,MISS Adebayo 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,210
+0022400800,279,PT01M42.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,211
+0022400800,280,PT01M36.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-13,7,1,Made,1,46,54,100,h,Barnes 1' Driving Finger Roll Layup (6 PTS) (Barrett 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,212
+0022400800,282,PT01M14.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,-47,116,13,Missed,1,,,0,v,MISS Wiggins 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,213
+0022400800,283,PT01M11.00S,2,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,214
+0022400800,284,PT01M08.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,16,11,2,Missed,1,,,0,h,MISS Quickley 2' Running Layup,Missed Shot,Running Layup Shot,1,2,215
+0022400800,285,PT01M08.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,216
+0022400800,286,PT01M08.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,217
+0022400800,288,PT01M08.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,47,54,101,h,Dick Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,218
+0022400800,289,PT01M08.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,48,54,102,h,Dick Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,219
+0022400800,290,PT00M54.90S,2,1610612748,MIA,1629639,Herro,T. Herro,48,56,7,Missed,1,,,0,v,MISS Herro 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,220
+0022400800,291,PT00M52.80S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,221
+0022400800,292,PT00M48.80S,2,1610612761,TOR,1641711,Dick,G. Dick,235,7,24,Missed,1,,,0,h,MISS Dick 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,222
+0022400800,293,PT00M45.50S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,223
+0022400800,294,PT00M33.90S,2,1610612748,MIA,1630558,Mitchell,D. Mitchell,137,211,25,Made,1,48,57,105,v,Mitchell 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,224
+0022400800,295,PT00M16.20S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-224,116,25,Missed,1,,,0,h,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022400800,296,PT00M12.40S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,226
+0022400800,297,PT00M11.20S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Step Out of Bounds Turnover (P3.T8),Turnover,Step Out of Bounds Turnover,1,0,227
+0022400800,298,PT00M06.80S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley Personal Take Foul (P1.T3) (R.Acosta),Foul,Personal Take,0,0,228
+0022400800,300,PT00M06.80S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,SUB: Agbaji FOR Dick,Substitution,,0,0,229
+0022400800,301,PT00M06.80S,2,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Mogbo FOR Robinson,Substitution,,0,0,230
+0022400800,304,PT00M01.60S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,-192,171,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022400800,305,PT00M01.60S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,232
+0022400800,306,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,57,105,,End of 2nd Period (8:38 PM EST),period,end,1,0,233
+0022400800,313,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,57,105,,Start of 3rd Period (8:53 PM EST),period,start,0,0,234
+0022400800,314,PT11M44.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,22,95,10,Made,1,50,57,107,h,Quickley 10' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,235
+0022400800,315,PT11M25.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-20,298,30,Made,1,50,60,110,v,Herro 30' 3PT Jump Shot (13 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,3,236
+0022400800,317,PT11M17.00S,3,1610612761,TOR,1641711,Dick,G. Dick,240,59,25,Missed,1,,,0,h,MISS Dick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0022400800,318,PT11M14.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,238
+0022400800,319,PT11M04.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,-55,32,6,Made,1,50,62,112,v,Mitchell 6' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,239
+0022400800,320,PT10M48.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-31,62,7,Made,1,52,62,114,h,Barrett 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,240
+0022400800,321,PT10M25.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,241
+0022400800,321,PT10M25.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick STEAL (2 STL),,,1,0,242
+0022400800,323,PT10M15.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-230,-13,0,Missed,1,,,0,h,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022400800,324,PT10M11.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,244
+0022400800,325,PT10M10.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,-127,237,27,Made,1,55,62,117,h,Quickley 27' 3PT Jump Shot (16 PTS) (Robinson 2 AST),Made Shot,Jump Shot,1,3,245
+0022400800,327,PT09M54.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-36,137,14,Made,1,55,64,119,v,Herro 14' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,246
+0022400800,328,PT09M54.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley S.FOUL (P2.T1) (J.Williams),Foul,Shooting,1,0,247
+0022400800,330,PT09M54.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,55,65,120,v,Herro Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,248
+0022400800,332,PT09M31.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,1,0,249
+0022400800,334,PT09M31.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,56,65,121,h,Barnes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,250
+0022400800,335,PT09M31.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,57,65,122,h,Barnes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+0022400800,336,PT09M20.00S,3,1610612748,MIA,1642276,Ware,K. Ware,5,10,1,Made,1,57,67,124,v,Ware 1' Alley Oop Dunk (4 PTS) (Herro 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,252
+0022400800,338,PT09M01.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-43,258,26,Made,1,60,67,127,h,Barrett 26' 3PT Jump Shot (11 PTS) (Quickley 2 AST),Made Shot,Jump Shot,1,3,253
+0022400800,340,PT08M36.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Jump Ball Dick vs. Mitchell: Tip to Robinson,Jump Ball,,1,0,254
+0022400800,343,PT08M36.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,255
+0022400800,343,PT08M36.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick STEAL (3 STL),,,1,0,256
+0022400800,345,PT08M31.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson OFF.Foul (P3) (R.Acosta),Foul,Offensive,1,0,257
+0022400800,347,PT08M31.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,258
+0022400800,348,PT08M23.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,259
+0022400800,349,PT08M23.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: 5 Second Violation (T#8),Turnover,5 Second Violation,1,0,260
+0022400800,350,PT08M13.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P3.T2) (M.Myers),Foul,Personal,1,0,261
+0022400800,352,PT08M06.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,150,197,25,Missed,1,,,0,h,MISS Barnes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022400800,353,PT07M59.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,263
+0022400800,354,PT07M58.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,264
+0022400800,354,PT07M58.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware STEAL (1 STL),,,1,0,265
+0022400800,356,PT07M52.00S,3,1610612748,MIA,1629639,Herro,T. Herro,-179,231,29,Missed,1,,,0,v,MISS Herro 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022400800,357,PT07M47.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,267
+0022400800,358,PT07M37.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,230,5,0,Made,1,63,67,130,h,Barnes 3PT Jump Shot (11 PTS) (Robinson 3 AST),Made Shot,Jump Shot,1,3,268
+0022400800,360,PT07M14.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-17,74,8,Made,1,63,69,132,v,Wiggins 8' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,2,269
+0022400800,361,PT06M59.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,110,242,27,Made,1,66,69,135,h,Quickley 27' 3PT Pullup Jump Shot (19 PTS) (Robinson 4 AST),Made Shot,Pullup Jump shot,1,3,270
+0022400800,363,PT06M41.00S,3,1610612748,MIA,1642276,Ware,K. Ware,232,52,24,Missed,1,,,0,v,MISS Ware 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022400800,364,PT06M38.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,272
+0022400800,365,PT06M33.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,-180,186,26,Made,1,66,72,138,v,Mitchell 26' 3PT Jump Shot (15 PTS) (Herro 5 AST),Made Shot,Jump Shot,1,3,273
+0022400800,367,PT06M20.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P4.T3) (J.Williams),Foul,Shooting,1,0,274
+0022400800,369,PT06M20.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,67,72,139,h,Barrett Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,275
+0022400800,370,PT06M20.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,SUB: Shead FOR Barnes,Substitution,,0,0,276
+0022400800,371,PT06M20.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Agbaji FOR Quickley,Substitution,,0,0,277
+0022400800,372,PT06M20.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Robinson FOR Adebayo,Substitution,,0,0,278
+0022400800,373,PT06M20.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Jović FOR Wiggins,Substitution,,0,0,279
+0022400800,378,PT06M20.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,280
+0022400800,379,PT06M18.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,281
+0022400800,380,PT06M09.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware OFF.Foul (P2) (M.Myers),Foul,Offensive,1,0,282
+0022400800,382,PT06M09.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,Ware Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,283
+0022400800,383,PT05M59.00S,3,1610612761,TOR,1641711,Dick,G. Dick,1,161,16,Missed,1,,,0,h,MISS Dick 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,284
+0022400800,384,PT05M56.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,285
+0022400800,385,PT05M50.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,286
+0022400800,385,PT05M50.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead STEAL (1 STL),,,1,0,287
+0022400800,387,PT05M45.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,-11,1,Made,1,69,72,141,h,Barrett 1' Running Finger Roll Layup (14 PTS) (Shead 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,288
+0022400800,389,PT05M32.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,-18,131,13,Missed,1,,,0,v,MISS Mitchell 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,289
+0022400800,390,PT05M28.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,290
+0022400800,391,PT05M23.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P2.T4) (J.Williams),Foul,Personal,1,0,291
+0022400800,393,PT05M06.00S,3,1610612761,TOR,1642347,Shead,J. Shead,11,0,1,Missed,1,,,0,h,MISS Shead 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,292
+0022400800,394,PT05M06.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,293
+0022400800,395,PT05M06.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,Made,1,71,72,143,h,Robinson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,294
+0022400800,396,PT05M06.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,295
+0022400800,397,PT05M06.00S,3,1610612748,MIA,1642276,Ware,K. Ware,0,0,0,,0,,,0,v,SUB: Anderson FOR Ware,Substitution,,0,0,296
+0022400800,399,PT04M47.00S,3,1610612748,MIA,1629639,Herro,T. Herro,121,235,26,Missed,1,,,0,v,MISS Herro 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,297
+0022400800,400,PT04M47.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,298
+0022400800,401,PT04M47.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead L.B.FOUL (P3.T2) (J.Williams),Foul,Loose Ball,1,0,299
+0022400800,403,PT04M43.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,6,18,2,Made,1,71,74,145,v,Robinson 2' Cutting Layup Shot (8 PTS) (Anderson 1 AST),Made Shot,Cutting Layup Shot,1,2,300
+0022400800,405,PT04M43.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,1,0,301
+0022400800,406,PT04M25.00S,3,1610612761,TOR,1642347,Shead,J. Shead,228,117,26,Missed,1,,,0,h,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0022400800,407,PT04M23.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,303
+0022400800,409,PT04M23.00S,3,1610612761,TOR,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Mogbo FOR Robinson,Substitution,,0,0,304
+0022400800,411,PT04M12.00S,3,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,305
+0022400800,411,PT04M12.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji STEAL (1 STL),,,1,0,306
+0022400800,413,PT04M04.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-51,32,6,Made,1,73,74,147,h,Barrett 6' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,307
+0022400800,414,PT03M51.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick S.FOUL (P2.T3) (J.Williams),Foul,Shooting,1,0,308
+0022400800,416,PT03M51.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,73,75,148,v,Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+0022400800,417,PT03M51.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,73,76,149,v,Robinson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,310
+0022400800,418,PT03M39.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,311
+0022400800,420,PT03M39.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,MISS Dick Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,312
+0022400800,421,PT03M39.00S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,313
+0022400800,422,PT03M39.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,74,76,150,h,Dick Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+0022400800,423,PT03M25.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,-50,33,6,Missed,1,,,0,v,MISS Anderson 6' Layup,Missed Shot,Layup Shot,1,2,315
+0022400800,423,PT03M25.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,Mogbo BLOCK (1 BLK),,,1,2,316
+0022400800,425,PT03M22.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,317
+0022400800,426,PT03M19.00S,3,1610612761,TOR,1641711,Dick,G. Dick,230,4,0,Made,1,77,76,153,h,Dick 3PT Running Jump Shot (6 PTS) (Barrett 4 AST),Made Shot,Running Jump Shot,1,3,318
+0022400800,428,PT03M07.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead P.FOUL (P4.T4) (J.Williams),Foul,Personal,1,0,319
+0022400800,430,PT03M07.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,SUB: Barnes FOR Dick,Substitution,,0,0,320
+0022400800,431,PT03M07.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,SUB: Walter FOR Barrett,Substitution,,0,0,321
+0022400800,432,PT03M07.00S,3,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Wiggins FOR Mitchell,Substitution,,0,0,322
+0022400800,436,PT03M02.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,-4,11,1,Made,1,77,78,155,v,Anderson 1' Driving Layup (2 PTS) (Herro 6 AST),Made Shot,Driving Layup Shot,1,2,323
+0022400800,438,PT02M47.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-16,9,2,Missed,1,,,0,h,MISS Agbaji 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,324
+0022400800,439,PT02M44.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,325
+0022400800,440,PT02M32.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,326
+0022400800,440,PT02M32.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović STEAL (1 STL),,,1,0,327
+0022400800,442,PT02M23.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,2,13,1,Made,1,77,80,157,v,Wiggins 1' Driving Finger Roll Layup (12 PTS) (Jović 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,328
+0022400800,444,PT01M59.00S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,329
+0022400800,446,PT01M59.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,78,80,158,h,Barnes Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022400800,447,PT01M59.00S,3,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,SUB: Quickley FOR Shead,Substitution,,0,0,331
+0022400800,449,PT01M59.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,79,80,159,h,Barnes Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0022400800,450,PT01M50.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,-131,267,30,Missed,1,,,0,v,MISS Robinson 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,333
+0022400800,451,PT01M48.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,334
+0022400800,452,PT01M42.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-9,246,25,Missed,1,,,0,h,MISS Barnes 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,335
+0022400800,453,PT01M38.00S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,336
+0022400800,454,PT01M30.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0,337
+0022400800,456,PT01M30.00S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,338
+0022400800,457,PT01M16.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,,,0,h,Agbaji Traveling Turnover (P2.T12),Turnover,Traveling,1,0,339
+0022400800,458,PT01M02.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,34,260,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,340
+0022400800,459,PT01M00.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022400800,460,PT00M55.30S,3,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P3.PN) (J.Williams),Foul,Shooting,1,0,342
+0022400800,462,PT00M55.30S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,343
+0022400800,463,PT00M55.30S,3,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,344
+0022400800,464,PT00M55.30S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,80,80,160,h,Quickley Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,345
+0022400800,465,PT00M42.90S,3,1610612748,MIA,1629130,Robinson,D. Robinson,5,7,1,Made,1,80,82,162,v,Robinson 1' Cutting Dunk Shot (12 PTS) (Anderson 2 AST),Made Shot,Cutting Dunk Shot,1,2,346
+0022400800,467,PT00M33.50S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,347
+0022400800,467,PT00M33.50S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović STEAL (2 STL),,,1,0,348
+0022400800,469,PT00M17.50S,3,1610612748,MIA,1629639,Herro,T. Herro,16,97,10,Made,1,80,84,164,v,Herro 10' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,349
+0022400800,470,PT00M04.80S,3,1610612761,TOR,1630193,Quickley,I. Quickley,-40,245,25,Missed,1,,,0,h,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,350
+0022400800,471,PT00M04.80S,3,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,351
+0022400800,472,PT00M00.20S,3,1610612748,MIA,203937,Anderson,K. Anderson,-138,533,55,Missed,1,,,0,v,MISS Anderson 55' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,3,352
+0022400800,473,PT00M00.10S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,353
+0022400800,474,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,84,164,,End of 3rd Period (9:21 PM EST),period,end,1,0,354
+0022400800,479,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,84,164,,Start of 4th Period (9:24 PM EST),period,start,0,0,355
+0022400800,480,PT11M46.00S,4,1610612748,MIA,1631107,Jović,N. Jović,115,15,12,Missed,1,,,0,v,MISS Jović 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,356
+0022400800,481,PT11M43.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,357
+0022400800,482,PT11M34.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,53,57,8,Missed,1,,,0,h,MISS Barnes 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,358
+0022400800,483,PT11M31.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,359
+0022400800,484,PT11M19.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-7,46,5,Missed,1,,,0,v,MISS Wiggins 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,360
+0022400800,486,PT11M15.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+0022400800,487,PT11M12.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,-13,77,8,Missed,1,,,0,h,MISS Quickley 8' Running Layup,Missed Shot,Running Layup Shot,1,2,362
+0022400800,488,PT11M10.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,363
+0022400800,489,PT11M05.00S,4,1610612748,MIA,1631107,Jović,N. Jović,6,8,1,Made,1,80,86,166,v,Jović 1' Running Finger Roll Layup (7 PTS) (Rozier 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,364
+0022400800,491,PT10M43.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-124,29,13,Missed,1,,,0,h,MISS Barnes 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,365
+0022400800,492,PT10M40.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,366
+0022400800,493,PT10M32.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,211,126,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022400800,494,PT10M29.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,368
+0022400800,495,PT10M22.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,53,50,7,Missed,1,,,0,h,MISS Mogbo 7' Running Layup,Missed Shot,Running Layup Shot,1,2,369
+0022400800,496,PT10M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,370
+0022400800,497,PT10M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,h,MISS Boucher Putback Layup,Missed Shot,Putback Layup Shot,1,2,371
+0022400800,498,PT10M17.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,372
+0022400800,499,PT10M01.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,17,23,3,Made,1,80,88,168,v,Robinson 3' Cutting Finger Roll Layup Shot (14 PTS) (Anderson 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,373
+0022400800,501,PT09M49.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,-1,5,1,Made,1,82,88,170,h,Mogbo 1' Cutting Finger Roll Layup Shot (5 PTS) (Barnes 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,374
+0022400800,503,PT09M26.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-4,214,21,Missed,1,,,0,v,MISS Wiggins 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,375
+0022400800,504,PT09M24.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,376
+0022400800,505,PT09M20.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,-1,7,1,Made,1,82,90,172,v,Wiggins 1' Layup (14 PTS),Made Shot,Layup Shot,1,2,377
+0022400800,506,PT09M09.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,176,192,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022400800,507,PT09M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:5 Def:0),Rebound,Unknown,1,0,379
+0022400800,508,PT09M05.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović S.FOUL (P3.T1) (J.Williams),Foul,Shooting,1,0,380
+0022400800,510,PT09M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,83,90,173,h,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+0022400800,511,PT09M05.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,SUB: Adebayo FOR Anderson,Substitution,,0,0,382
+0022400800,513,PT09M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,84,90,174,h,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022400800,514,PT08M42.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,105,95,14,Made,1,84,92,176,v,Adebayo 14' Jump Shot (13 PTS),Made Shot,Jump Shot,1,2,384
+0022400800,515,PT08M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-201,158,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+0022400800,516,PT08M15.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,386
+0022400800,517,PT08M03.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,387
+0022400800,519,PT08M03.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,SUB: Robinson FOR Mogbo,Substitution,,0,0,388
+0022400800,520,PT08M03.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,SUB: Shead FOR Barnes,Substitution,,0,0,389
+0022400800,521,PT08M03.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Barrett FOR Quickley,Substitution,,0,0,390
+0022400800,525,PT07M54.00S,4,1610612748,MIA,1631107,Jović,N. Jović,-185,175,25,Missed,1,,,0,v,MISS Jović 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0022400800,526,PT07M51.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,Shead REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,392
+0022400800,527,PT07M37.00S,4,1610612761,TOR,1642266,Walter,J. Walter,211,150,26,Made,1,87,92,179,h,Walter 26' 3PT Jump Shot (8 PTS) (Shead 4 AST),Made Shot,Jump Shot,1,3,393
+0022400800,529,PT07M16.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,151,18,15,Made,1,87,94,181,v,Wiggins 15' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,2,394
+0022400800,530,PT06M51.00S,4,1610612761,TOR,1642347,Shead,J. Shead,185,177,26,Missed,1,,,0,h,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022400800,531,PT06M47.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,396
+0022400800,532,PT06M45.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,40,16,4,Missed,1,,,0,v,MISS Rozier 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,397
+0022400800,533,PT06M42.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,Walter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,398
+0022400800,534,PT06M30.00S,4,1610612761,TOR,1631115,Robinson,O. Robinson,172,189,26,Made,1,90,94,184,h,Robinson 26' 3PT Jump Shot (9 PTS) (Boucher 3 AST),Made Shot,Jump Shot,1,3,399
+0022400800,536,PT06M29.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,400
+0022400800,537,PT06M29.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,,,0,h,SUB: Dick FOR Walter,Substitution,,0,0,401
+0022400800,538,PT06M29.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Herro FOR Jović,Substitution,,0,0,402
+0022400800,539,PT06M29.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Anderson FOR Robinson,Substitution,,0,0,403
+0022400800,543,PT06M07.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,105,151,18,Missed,1,,,0,v,MISS Anderson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,404
+0022400800,544,PT06M04.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,405
+0022400800,545,PT05M46.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson S.FOUL (P2.T2) (J.Williams),Foul,Shooting,1,0,406
+0022400800,547,PT05M46.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,91,94,185,h,Shead Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,407
+0022400800,548,PT05M46.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,92,94,186,h,Shead Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,408
+0022400800,549,PT05M34.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-131,139,19,Made,1,92,96,188,v,Herro 19' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,2,409
+0022400800,550,PT05M18.00S,4,1610612761,TOR,1641711,Dick,G. Dick,223,136,26,Made,1,95,96,191,h,Dick 26' 3PT Jump Shot (9 PTS) (Shead 5 AST),Made Shot,Jump Shot,1,3,410
+0022400800,552,PT05M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher P.FOUL (P1.T2) (M.Myers),Foul,Personal,1,0,411
+0022400800,554,PT05M00.00S,4,1610612748,MIA,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Mitchell FOR Rozier,Substitution,,0,0,412
+0022400800,556,PT04M52.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-11,148,15,Missed,1,,,0,v,MISS Adebayo 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,413
+0022400800,557,PT04M49.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,414
+0022400800,558,PT04M41.00S,4,1610612761,TOR,1631115,Robinson,O. Robinson,-15,253,25,Missed,1,,,0,h,MISS Robinson 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,415
+0022400800,559,PT04M40.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,1,0,416
+0022400800,560,PT04M40.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins L.B.FOUL (P3.T3) (M.Myers),Foul,Loose Ball,1,0,417
+0022400800,562,PT04M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,418
+0022400800,564,PT04M40.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,,,0,h,SUB: Quickley FOR Shead,Substitution,,0,0,419
+0022400800,566,PT04M37.00S,4,1610612761,TOR,1641711,Dick,G. Dick,107,3,11,Missed,1,,,0,h,MISS Dick 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,420
+0022400800,567,PT04M34.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,421
+0022400800,568,PT04M14.00S,4,1610612748,MIA,1629639,Herro,T. Herro,53,116,13,Made,1,95,98,193,v,Herro 13' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,422
+0022400800,569,PT03M55.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P3.T4) (M.Myers),Foul,Personal,1,0,423
+0022400800,571,PT03M55.00S,4,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,424
+0022400800,572,PT03M55.00S,4,1610612748,MIA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,SUB: Jović FOR Anderson,Substitution,,0,0,425
+0022400800,574,PT03M48.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-87,276,29,Made,1,98,98,196,h,Barrett 29' 3PT Pullup Jump Shot (19 PTS) (Quickley 3 AST),Made Shot,Pullup Jump shot,1,3,426
+0022400800,576,PT03M28.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick S.FOUL (P3.T3) (M.Myers),Foul,Shooting,1,0,427
+0022400800,578,PT03M28.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,428
+0022400800,579,PT03M28.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,429
+0022400800,580,PT03M28.00S,4,1610612748,MIA,1630558,Mitchell,D. Mitchell,0,0,0,,0,98,99,197,v,Mitchell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,430
+0022400800,581,PT03M14.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-38,117,12,Made,1,100,99,199,h,Barrett 12' Turnaround Hook Shot (21 PTS),Made Shot,Turnaround Hook Shot,1,2,431
+0022400800,582,PT03M13.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,432
+0022400800,583,PT02M48.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,7,5,1,Made,1,100,101,201,v,Wiggins 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,433
+0022400800,584,PT02M22.00S,4,1610612761,TOR,1631115,Robinson,O. Robinson,21,57,6,Missed,1,,,0,h,MISS Robinson 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,434
+0022400800,585,PT02M20.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,435
+0022400800,586,PT02M04.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,436
+0022400800,586,PT02M04.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley STEAL (1 STL),,,1,0,437
+0022400800,588,PT01M56.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,53,253,26,Made,1,103,101,204,h,Quickley 26' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,3,438
+0022400800,589,PT01M43.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-179,223,29,Made,1,103,104,207,v,Herro 29' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,1,3,439
+0022400800,590,PT01M21.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović S.FOUL (P4.PN) (M.Myers),Foul,Shooting,1,0,440
+0022400800,592,PT01M21.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,104,104,208,h,Barrett Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+0022400800,593,PT01M21.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,105,104,209,h,Barrett Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,442
+0022400800,594,PT01M07.00S,4,1610612748,MIA,1629639,Herro,T. Herro,-36,316,32,Missed,1,,,0,v,MISS Herro 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,443
+0022400800,595,PT01M04.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,444
+0022400800,596,PT00M53.30S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-36,32,5,Made,1,107,104,211,h,Barrett 5' Cutting Finger Roll Layup Shot (25 PTS) (Barnes 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,445
+0022400800,598,PT00M45.60S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett S.FOUL (P2.T4) (M.Myers),Foul,Shooting,1,0,446
+0022400800,600,PT00M45.60S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,107,105,212,v,Wiggins Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,1,0,447
+0022400800,601,PT00M45.60S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,107,106,213,v,Wiggins Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,1,0,448
+0022400800,602,PT00M45.60S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,107,107,214,v,Wiggins Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,1,0,449
+0022400800,603,PT00M21.10S,4,1610612761,TOR,1630567,Barnes,S. Barnes,1,66,7,Missed,1,,,0,h,MISS Barnes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,450
+0022400800,604,PT00M19.00S,4,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,451
+0022400800,605,PT00M01.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,104,15,11,Missed,1,,,0,v,MISS Adebayo 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,452
+0022400800,606,PT00M01.00S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,453
+0022400800,607,PT00M00.60S,4,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,Missed,1,,,0,v,MISS Wiggins Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,454
+0022400800,609,PT00M00.10S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,455
+0022400800,610,PT00M00.00S,4,0,,0,,,0,0,0,,0,107,107,214,,End of 4th Period (9:50 PM EST),period,end,1,0,456
+0022400800,613,PT05M00.00S,5,0,,0,,,0,0,0,,0,107,107,214,,Start of 1st OT (9:53 PM EST),period,start,0,0,457
+0022400800,615,PT05M00.00S,5,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Jump Ball Barnes vs. Adebayo: Tip to Herro,Jump Ball,,1,0,458
+0022400800,618,PT04M45.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,-6,11,1,Made,1,107,109,216,v,Adebayo 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,459
+0022400800,619,PT04M18.00S,5,1610612761,TOR,1629628,Barrett,R. Barrett,102,156,19,Made,1,109,109,218,h,Barrett 19' Step Back Bank Jump Shot (27 PTS),Made Shot,Step Back Bank Jump Shot,1,2,460
+0022400800,620,PT04M05.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,15,86,9,Made,1,109,111,220,v,Adebayo 9' Driving Floating Jump Shot (17 PTS) (Herro 7 AST),Made Shot,Driving Floating Jump Shot,1,2,461
+0022400800,622,PT03M54.00S,5,1610612761,TOR,1630193,Quickley,I. Quickley,152,9,15,Missed,1,,,0,h,MISS Quickley 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,462
+0022400800,623,PT03M51.00S,5,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jović REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,463
+0022400800,624,PT03M44.00S,5,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,Mogbo P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,464
+0022400800,626,PT03M32.00S,5,1610612748,MIA,1630558,Mitchell,D. Mitchell,-238,-8,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022400800,627,PT03M28.00S,5,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,466
+0022400800,628,PT03M05.00S,5,1610612761,TOR,1642367,Mogbo,J. Mogbo,-174,178,25,Missed,1,,,0,h,MISS Mogbo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022400800,629,PT03M02.00S,5,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,468
+0022400800,630,PT02M59.00S,5,1610612761,TOR,1630193,Quickley,I. Quickley,-64,239,25,Missed,1,,,0,h,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,469
+0022400800,631,PT02M56.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,470
+0022400800,632,PT02M45.00S,5,1610612748,MIA,1629639,Herro,T. Herro,-13,178,18,Made,1,109,113,222,v,Herro 18' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,2,471
+0022400800,633,PT02M45.00S,5,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,Mogbo S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,1,0,472
+0022400800,635,PT02M45.00S,5,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,109,114,223,v,Herro Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,1,0,473
+0022400800,636,PT02M31.00S,5,1610612761,TOR,1629628,Barrett,R. Barrett,49,31,6,Missed,1,,,0,h,MISS Barrett 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,474
+0022400800,637,PT02M28.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,475
+0022400800,638,PT02M16.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,11,70,7,Made,1,109,116,225,v,Adebayo 7' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,476
+0022400800,640,PT02M16.00S,5,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,477
+0022400800,641,PT02M16.00S,5,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,,,0,h,SUB: Shead FOR Mogbo,Substitution,,0,0,478
+0022400800,643,PT01M53.00S,5,1610612761,TOR,1630193,Quickley,I. Quickley,130,40,14,Missed,1,,,0,h,MISS Quickley 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,479
+0022400800,644,PT01M52.00S,5,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,1,0,480
+0022400800,645,PT01M52.00S,5,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,481
+0022400800,646,PT01M37.00S,5,1610612748,MIA,1629639,Herro,T. Herro,42,278,28,Missed,1,,,0,v,MISS Herro 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0022400800,647,PT01M35.00S,5,0,,1610612761,,,0,0,0,,0,,,0,h,RAPTORS Rebound,Rebound,Unknown,1,0,483
+0022400800,649,PT01M29.00S,5,1610612761,TOR,1642347,Shead,J. Shead,18,6,2,Missed,1,,,0,h,MISS Shead 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,484
+0022400800,649,PT01M29.00S,5,1610612748,MIA,1629639,Herro,T. Herro,0,0,0,,0,,,0,v,Herro BLOCK (1 BLK),,,1,2,485
+0022400800,651,PT01M26.00S,5,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,486
+0022400800,652,PT01M09.00S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,-15,60,6,Made,1,109,118,227,v,Wiggins 6' Driving Hook Shot (23 PTS) (Jović 5 AST),Made Shot,Driving Hook Shot,1,2,487
+0022400800,654,PT01M05.00S,5,1610612761,TOR,1630567,Barnes,S. Barnes,-85,256,27,Missed,1,,,0,h,MISS Barnes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,488
+0022400800,655,PT01M01.00S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,489
+0022400800,656,PT00M45.90S,5,1610612748,MIA,203952,Wiggins,A. Wiggins,0,7,1,Made,1,109,120,229,v,Wiggins 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,490
+0022400800,657,PT00M34.10S,5,1610612761,TOR,1629628,Barrett,R. Barrett,-37,111,12,Made,1,111,120,231,h,Barrett 12' Driving Floating Jump Shot (29 PTS),Made Shot,Driving Floating Jump Shot,1,2,491
+0022400800,658,PT00M32.70S,5,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,,,0,h,Dick Personal Take Foul (P4.T3) (J.Williams),Foul,Personal Take,1,0,492
+0022400800,660,PT00M08.70S,5,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,493
+0022400800,661,PT00M00.00S,5,0,,0,,,0,0,0,,0,111,120,231,,End of 1st OT (10:02 PM EST),period,end,1,0,494

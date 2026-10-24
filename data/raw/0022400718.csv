@@ -1,0 +1,554 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400718,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+0022400718,4,PT12M00.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Jump Ball Duren vs. Allen: Tip to LeVert,Jump Ball,,1,0,2
+0022400718,7,PT11M48.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-114,232,26,Made,1,0,3,3,v,Mobley 26' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,3,3
+0022400718,9,PT11M21.00S,1,1610612765,DET,202699,Harris,T. Harris,-77,148,17,Missed,1,,,0,h,MISS Harris 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,4
+0022400718,10,PT11M21.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0,5
+0022400718,12,PT11M18.00S,1,1610612765,DET,202699,Harris,T. Harris,-119,94,15,Missed,1,,,0,h,MISS Harris 15' Jump Shot,Missed Shot,Jump Shot,1,2,6
+0022400718,13,PT11M16.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022400718,14,PT11M07.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-45,-1,5,Missed,1,,,0,v,MISS LeVert 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,8
+0022400718,15,PT11M04.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022400718,16,PT11M04.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,48,5,5,Missed,1,,,0,h,MISS Thompson 5' Running Dunk,Missed Shot,Running Dunk Shot,1,2,10
+0022400718,16,PT11M04.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus BLOCK (1 BLK),,,1,2,11
+0022400718,17,PT11M03.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0,12
+0022400718,19,PT10M54.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,17,136,14,Missed,1,,,0,h,MISS Cunningham 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,13
+0022400718,20,PT10M51.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+0022400718,21,PT10M38.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0,15
+0022400718,23,PT10M28.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-191,206,28,Made,1,0,6,6,v,Strus 28' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,1,3,16
+0022400718,25,PT10M06.00S,1,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,105,261,28,Made,1,3,6,9,h,Hardaway Jr. 28' 3PT Jump Shot (3 PTS) (Cunningham 1 AST),Made Shot,Jump Shot,1,3,17
+0022400718,27,PT09M52.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-64,11,6,Missed,1,,,0,v,MISS Garland 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,18
+0022400718,28,PT09M49.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022400718,29,PT09M45.00S,1,1610612765,DET,1631105,Duren,J. Duren,-33,16,4,Made,1,5,6,11,h,Duren 4' Running Alley Oop Dunk Shot (2 PTS) (Thompson 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,20
+0022400718,31,PT09M26.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,17,53,6,Made,1,5,8,13,v,Mobley 6' Driving Hook Shot (5 PTS) (Strus 1 AST),Made Shot,Driving Hook Shot,1,2,21
+0022400718,33,PT09M12.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,92,3,9,Missed,1,,,0,h,MISS Cunningham 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,22
+0022400718,34,PT09M11.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,23
+0022400718,35,PT09M10.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham P.FOUL (P1.T2) (C.Blair),Foul,Personal,1,0,24
+0022400718,37,PT08M58.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,25
+0022400718,37,PT08M58.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,26
+0022400718,39,PT08M56.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,27
+0022400718,39,PT08M56.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus STEAL (1 STL),,,1,0,28
+0022400718,41,PT08M50.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-237,10,24,Made,1,5,11,16,v,Mobley 24' 3PT Running Jump Shot (8 PTS) (Garland 2 AST),Made Shot,Running Jump Shot,1,3,29
+0022400718,43,PT08M38.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,25,21,3,Made,1,7,11,18,h,Cunningham 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,30
+0022400718,44,PT08M29.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,1,0,31
+0022400718,46,PT08M29.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,7,12,19,v,Mobley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,32
+0022400718,47,PT08M29.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,SUB: Stewart FOR Duren,Substitution,,0,0,33
+0022400718,49,PT08M29.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,7,13,20,v,Mobley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,34
+0022400718,50,PT08M10.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,36,100,11,Missed,1,,,0,h,MISS Cunningham 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,35
+0022400718,51,PT08M07.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022400718,52,PT08M03.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,27,4,3,Missed,1,,,0,v,MISS LeVert 3' Running Layup,Missed Shot,Running Layup Shot,1,2,37
+0022400718,52,PT08M03.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris BLOCK (1 BLK),,,1,2,38
+0022400718,54,PT08M02.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,39
+0022400718,55,PT07M59.00S,1,1610612739,CLE,1629636,Garland,D. Garland,22,26,3,Made,1,7,15,22,v,Garland 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,40
+0022400718,56,PT07M58.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41
+0022400718,57,PT07M44.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,42
+0022400718,60,PT07M44.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,8,15,23,h,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,43
+0022400718,61,PT07M44.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,9,15,24,h,Thompson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,44
+0022400718,62,PT07M34.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,45
+0022400718,63,PT07M17.00S,1,1610612765,DET,202699,Harris,T. Harris,97,135,17,Made,1,11,15,26,h,Harris 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,46
+0022400718,64,PT07M05.00S,1,1610612739,CLE,1629636,Garland,D. Garland,34,2,3,Made,1,11,17,28,v,Garland 3' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,1,2,47
+0022400718,65,PT06M58.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,34,16,4,Missed,1,,,0,h,MISS Thompson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,48
+0022400718,66,PT06M58.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0022400718,67,PT06M52.00S,1,1610612739,CLE,1629636,Garland,D. Garland,192,178,26,Missed,1,,,0,v,MISS Garland 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,50
+0022400718,68,PT06M51.00S,1,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0,51
+0022400718,70,PT06M35.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,73,7,Missed,1,,,0,h,MISS Cunningham 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,52
+0022400718,71,PT06M32.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,53
+0022400718,72,PT06M22.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,42,12,4,Missed,1,,,0,v,MISS Mobley 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,54
+0022400718,72,PT06M22.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (1 BLK),,,1,2,55
+0022400718,74,PT06M18.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,56
+0022400718,75,PT06M16.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-121,254,28,Missed,1,,,0,v,MISS LeVert 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+0022400718,76,PT06M15.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+0022400718,77,PT06M00.00S,1,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,-186,188,26,Made,1,14,17,31,h,Hardaway Jr. 26' 3PT Jump Shot (6 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,1,3,59
+0022400718,79,PT05M52.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-225,142,27,Missed,1,,,0,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022400718,80,PT05M50.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,61
+0022400718,81,PT05M41.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-240,5,24,Missed,1,,,0,v,MISS Strus 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0022400718,82,PT05M40.00S,1,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022400718,83,PT05M35.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-23,32,4,Made,1,16,17,33,h,Stewart 4' Running Layup (2 PTS) (Cunningham 3 AST),Made Shot,Running Layup Shot,1,2,64
+0022400718,85,PT05M35.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,65
+0022400718,86,PT05M35.00S,1,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Beasley FOR Thompson,Substitution,,0,0,66
+0022400718,87,PT05M35.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Niang FOR Strus,Substitution,,0,0,67
+0022400718,88,PT05M35.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Merrill FOR LeVert,Substitution,,0,0,68
+0022400718,89,PT05M35.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Jerome FOR Mobley,Substitution,,0,0,69
+0022400718,94,PT05M24.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-196,212,29,Made,1,16,20,36,v,Garland 29' 3PT Pullup Jump Shot (7 PTS) (Allen 2 AST),Made Shot,Pullup Jump shot,1,3,70
+0022400718,96,PT05M01.00S,1,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,222,173,28,Missed,1,,,0,h,MISS Hardaway Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022400718,97,PT05M00.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022400718,98,PT04M48.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,-67,21,7,Made,1,16,22,38,v,Jerome 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,73
+0022400718,99,PT04M31.00S,1,1610612765,DET,202699,Harris,T. Harris,98,67,12,Made,1,18,22,40,h,Harris 12' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,74
+0022400718,100,PT04M16.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,64,12,7,Made,1,18,24,42,v,Jerome 7' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,75
+0022400718,101,PT03M59.00S,1,1610612765,DET,202699,Harris,T. Harris,62,263,27,Missed,1,,,0,h,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022400718,102,PT03M56.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,77
+0022400718,103,PT03M56.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,1,29,3,Made,1,20,24,44,h,Stewart 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,78
+0022400718,104,PT03M41.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,79
+0022400718,104,PT03M41.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris STEAL (1 STL),,,1,0,80
+0022400718,106,PT03M39.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,81
+0022400718,106,PT03M39.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,82
+0022400718,108,PT03M36.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-230,33,0,Missed,1,,,0,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022400718,109,PT03M32.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,84
+0022400718,110,PT03M31.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-10,11,1,Missed,1,,,0,v,MISS Allen 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,85
+0022400718,111,PT03M31.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,86
+0022400718,112,PT03M28.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-85,272,28,Missed,1,,,0,h,MISS Cunningham 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+0022400718,113,PT03M27.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,88
+0022400718,115,PT03M27.00S,1,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,89
+0022400718,116,PT03M27.00S,1,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Holland II FOR Harris,Substitution,,0,0,90
+0022400718,117,PT03M27.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Mobley FOR Garland,Substitution,,0,0,91
+0022400718,118,PT03M27.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Tyson FOR Allen,Substitution,,0,0,92
+0022400718,123,PT03M06.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-69,25,7,Missed,1,,,0,v,MISS Mobley 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,93
+0022400718,124,PT03M04.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022400718,125,PT02M51.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-25,20,3,Made,1,22,24,46,h,Cunningham 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,95
+0022400718,126,PT02M39.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,96
+0022400718,126,PT02M39.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham STEAL (1 STL),,,1,0,97
+0022400718,128,PT02M35.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,26,8,3,Made,1,24,24,48,h,Cunningham 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,98
+0022400718,129,PT02M23.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-104,272,29,Made,1,24,27,51,v,Niang 29' 3PT Jump Shot (3 PTS) (Mobley 1 AST),Made Shot,Jump Shot,1,3,99
+0022400718,131,PT02M00.00S,1,1610612765,DET,1641842,Holland II,R. Holland II,-235,10,24,Missed,1,,,0,h,MISS Holland II 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022400718,132,PT01M57.00S,1,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,,,0,v,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022400718,133,PT01M56.00S,1,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,,,0,v,Tyson Traveling Turnover (P1.T5),Turnover,Traveling,1,0,102
+0022400718,134,PT01M41.00S,1,1610612765,DET,1627736,Beasley,M. Beasley,165,216,27,Missed,1,,,0,h,MISS Beasley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022400718,135,PT01M38.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,104
+0022400718,136,PT01M29.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,1,59,6,Made,1,24,29,53,v,Jerome 6' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,105
+0022400718,137,PT01M07.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-6,53,5,Missed,1,,,0,h,MISS Stewart 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,106
+0022400718,138,PT01M05.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022400718,139,PT00M55.40S,1,1610612739,CLE,1627777,Niang,G. Niang,37,5,4,Made,1,24,31,55,v,Niang 4' Driving Layup (5 PTS) (Jerome 1 AST),Made Shot,Driving Layup Shot,1,2,108
+0022400718,141,PT00M41.60S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P2.T2) (C.Blair),Foul,Shooting,1,0,109
+0022400718,143,PT00M41.60S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,25,31,56,h,Stewart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+0022400718,144,PT00M41.60S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,SUB: Sasser FOR Cunningham,Substitution,,0,0,111
+0022400718,146,PT00M41.60S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,26,31,57,h,Stewart Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+0022400718,147,PT00M33.50S,1,1610612739,CLE,1629660,Jerome,T. Jerome,-4,75,8,Made,1,26,33,59,v,Jerome 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,113
+0022400718,148,PT00M33.50S,1,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser S.FOUL (P1.T4) (N.Buchert),Foul,Shooting,1,0,114
+0022400718,150,PT00M33.50S,1,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,26,34,60,v,Jerome Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,115
+0022400718,151,PT00M13.90S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,116
+0022400718,152,PT00M13.90S,1,1610612765,DET,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,SUB: Thompson FOR Fontecchio,Substitution,,0,0,117
+0022400718,153,PT00M13.90S,1,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,,,0,v,SUB: Garland FOR Tyson,Substitution,,0,0,118
+0022400718,156,PT00M02.80S,1,1610612739,CLE,1629660,Jerome,T. Jerome,-65,64,9,Missed,1,,,0,v,MISS Jerome 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,119
+0022400718,157,PT00M01.80S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,120
+0022400718,158,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,34,60,,End of 1st Period (7:35 PM EST),period,end,1,0,121
+0022400718,165,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,34,60,,Start of 2nd Period (7:38 PM EST),period,start,0,0,122
+0022400718,166,PT11M44.00S,2,1610612765,DET,1630194,Reed,P. Reed,80,121,15,Missed,1,,,0,h,MISS Reed 15' Jump Shot,Missed Shot,Jump Shot,1,2,123
+0022400718,167,PT11M41.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,124
+0022400718,168,PT11M33.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,125
+0022400718,168,PT11M33.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed STEAL (1 STL),,,1,0,126
+0022400718,170,PT11M26.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,-27,16,3,Missed,1,,,0,h,MISS Sasser 3' Running Layup,Missed Shot,Running Layup Shot,1,2,127
+0022400718,171,PT11M26.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,128
+0022400718,172,PT11M24.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,-21,19,3,Made,1,28,34,62,h,Holland II 3' Layup (2 PTS) (Reed 1 AST),Made Shot,Layup Shot,1,2,129
+0022400718,174,PT11M24.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,130
+0022400718,175,PT11M05.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,58,0,6,Missed,1,,,0,v,MISS Tyson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,131
+0022400718,176,PT11M02.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,132
+0022400718,177,PT10M54.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,237,14,24,Missed,1,,,0,h,MISS Holland II 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022400718,178,PT10M52.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,134
+0022400718,179,PT10M50.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,120,57,13,Missed,1,,,0,h,MISS Fontecchio 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,135
+0022400718,180,PT10M49.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+0022400718,181,PT10M42.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-165,249,30,Made,1,28,37,65,v,Merrill 30' 3PT Running Jump Shot (3 PTS) (Mobley 2 AST),Made Shot,Running Jump Shot,1,3,137
+0022400718,183,PT10M17.00S,2,1610612765,DET,1630194,Reed,P. Reed,21,5,2,Made,1,30,37,67,h,Reed 2' Driving Layup (2 PTS) (Sasser 1 AST),Made Shot,Driving Layup Shot,1,2,138
+0022400718,185,PT10M01.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,-234,8,0,Missed,1,,,0,v,MISS Tyson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022400718,186,PT10M00.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022400718,187,PT09M51.00S,2,1610612765,DET,1630194,Reed,P. Reed,-34,20,4,Missed,1,,,0,h,MISS Reed 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,141
+0022400718,188,PT09M50.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,142
+0022400718,189,PT09M44.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,124,235,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,143
+0022400718,190,PT09M42.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,,,0,v,Tyson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022400718,191,PT09M39.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II L.B.FOUL (P1.T1) (N.Buchert),Foul,Loose Ball,1,0,145
+0022400718,193,PT09M39.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Niang,Substitution,,0,0,146
+0022400718,195,PT09M36.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-23,57,6,Made,1,30,39,69,v,Mobley 6' Driving Floating Jump Shot (12 PTS) (Jerome 2 AST),Made Shot,Driving Floating Jump Shot,1,2,147
+0022400718,197,PT09M36.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed S.FOUL (P1.T2) (C.Blair),Foul,Shooting,1,0,148
+0022400718,199,PT09M36.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,30,40,70,v,Mobley Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,149
+0022400718,200,PT09M22.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,98,20,10,Missed,1,,,0,h,MISS Fontecchio 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,150
+0022400718,200,PT09M22.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (1 BLK),,,1,2,151
+0022400718,202,PT09M21.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,152
+0022400718,203,PT09M18.00S,2,1610612765,DET,1630194,Reed,P. Reed,23,5,2,Made,1,32,40,72,h,Reed 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,153
+0022400718,204,PT09M04.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-28,13,3,Made,1,32,42,74,v,Mobley 3' Driving Layup (15 PTS) (Jerome 3 AST),Made Shot,Driving Layup Shot,1,2,154
+0022400718,206,PT08M54.00S,2,1610612765,DET,1630194,Reed,P. Reed,-15,262,26,Made,1,35,42,77,h,Reed 26' 3PT Jump Shot (7 PTS) (Sasser 2 AST),Made Shot,Jump Shot,1,3,155
+0022400718,208,PT08M43.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,45,263,27,Made,1,35,45,80,v,Mobley 27' 3PT Jump Shot (18 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,156
+0022400718,210,PT08M30.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,40,16,4,Made,1,37,45,82,h,Holland II 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,157
+0022400718,211,PT08M20.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,Fontecchio P.FOUL (P1.T3) (N.Buchert),Foul,Personal,1,0,158
+0022400718,213,PT08M20.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,SUB: Allen FOR Jerome,Substitution,,0,0,159
+0022400718,214,PT08M20.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Garland FOR Mobley,Substitution,,0,0,160
+0022400718,217,PT08M14.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,161
+0022400718,218,PT08M01.00S,2,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,162
+0022400718,218,PT08M01.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (1 STL),,,1,0,163
+0022400718,220,PT07M56.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-36,-5,4,Made,1,37,47,84,v,Porter Jr. 4' Running Layup (2 PTS) (Tyson 1 AST),Made Shot,Running Layup Shot,1,2,164
+0022400718,222,PT07M48.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,234,21,0,Missed,1,,,0,h,MISS Fontecchio 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022400718,223,PT07M47.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,166
+0022400718,224,PT07M41.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,1,0,167
+0022400718,226,PT07M41.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,37,48,85,v,Porter Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+0022400718,227,PT07M41.00S,2,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Harris FOR Reed,Substitution,,0,0,169
+0022400718,228,PT07M41.00S,2,1610612765,DET,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,SUB: Duren FOR Fontecchio,Substitution,,0,0,170
+0022400718,231,PT07M41.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,,,0,v,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,171
+0022400718,232,PT07M40.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,172
+0022400718,233,PT07M27.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T1) (B.Nansel),Foul,Personal,1,0,173
+0022400718,235,PT07M16.00S,2,1610612765,DET,1627736,Beasley,M. Beasley,28,16,3,Made,1,39,48,87,h,Beasley 3' Cutting Dunk Shot (2 PTS) (Holland II 1 AST),Made Shot,Cutting Dunk Shot,1,2,174
+0022400718,237,PT07M05.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Traveling Turnover (P3.T8),Turnover,Traveling,1,0,175
+0022400718,238,PT06M51.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,210,178,28,Made,1,42,48,90,h,Holland II 28' 3PT Jump Shot (7 PTS) (Sasser 3 AST),Made Shot,Jump Shot,1,3,176
+0022400718,240,PT06M36.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,177
+0022400718,240,PT06M36.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II STEAL (1 STL),,,1,0,178
+0022400718,242,PT06M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.T2) (C.Blair),Foul,Shooting,1,0,179
+0022400718,244,PT06M33.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,180
+0022400718,245,PT06M33.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,SUB: Cunningham FOR Sasser,Substitution,,0,0,181
+0022400718,246,PT06M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,182
+0022400718,247,PT06M33.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,,,0,v,SUB: Strus FOR Tyson,Substitution,,0,0,183
+0022400718,251,PT06M33.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,43,48,91,h,Holland II Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,184
+0022400718,252,PT06M33.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,44,48,92,h,Holland II Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+0022400718,253,PT06M11.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,228,8,0,Missed,1,,,0,v,MISS LeVert 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,186
+0022400718,254,PT06M10.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,187
+0022400718,255,PT06M04.00S,2,1610612739,CLE,1628386,Allen,J. Allen,17,17,2,Made,1,44,50,94,v,Allen 2' Cutting Layup Shot (2 PTS) (Strus 2 AST),Made Shot,Cutting Layup Shot,1,2,188
+0022400718,257,PT06M04.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,189
+0022400718,259,PT06M04.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,44,51,95,v,Allen Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,190
+0022400718,260,PT05M48.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,191
+0022400718,262,PT05M48.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,45,51,96,h,Cunningham Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,192
+0022400718,263,PT05M48.00S,2,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,SUB: Thompson FOR Holland II,Substitution,,0,0,193
+0022400718,264,PT05M48.00S,2,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Beasley,Substitution,,0,0,194
+0022400718,267,PT05M48.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,46,51,97,h,Cunningham Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+0022400718,268,PT05M37.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,63,6,Missed,1,,,0,v,MISS Garland 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,196
+0022400718,269,PT05M34.00S,2,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,197
+0022400718,270,PT05M14.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-6,47,5,Missed,1,,,0,h,MISS Cunningham 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,198
+0022400718,271,PT05M13.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,199
+0022400718,272,PT05M02.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-2,73,7,Missed,1,,,0,v,MISS LeVert 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,200
+0022400718,273,PT05M00.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+0022400718,274,PT04M56.00S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,32,10,3,Missed,1,,,0,h,MISS Hardaway Jr. 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,202
+0022400718,275,PT04M55.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,203
+0022400718,276,PT04M55.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,48,51,99,h,Duren Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,204
+0022400718,277,PT04M46.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,56,249,26,Made,1,48,54,102,v,Porter Jr. 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,205
+0022400718,278,PT04M46.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham P.FOUL (P3.PN) (N.Buchert),Foul,Personal,1,0,206
+0022400718,282,PT04M46.00S,2,0,,278,Augmon,S. Augmon,0,0,0,,0,48,54,102,,Instant Replay2nd Period (7:54 PM EST),Instant Replay,Ruling Stands,0,0,207
+0022400718,283,PT04M46.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,48,55,103,v,Strus Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,208
+0022400718,284,PT04M28.00S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,22,262,26,Made,1,51,55,106,h,Hardaway Jr. 26' 3PT Jump Shot (9 PTS) (Cunningham 4 AST),Made Shot,Jump Shot,1,3,209
+0022400718,286,PT04M15.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-23,23,3,Made,1,51,57,108,v,Porter Jr. 3' Cutting Dunk Shot (8 PTS) (Allen 3 AST),Made Shot,Cutting Dunk Shot,1,2,210
+0022400718,288,PT03M57.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,211
+0022400718,288,PT03M57.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (2 STL),,,1,0,212
+0022400718,290,PT03M50.00S,2,1610612739,CLE,1629622,Strus,M. Strus,162,199,26,Made,1,51,60,111,v,Strus 26' 3PT Running Jump Shot (7 PTS) (Allen 4 AST),Made Shot,Running Jump Shot,1,3,213
+0022400718,292,PT03M38.00S,2,1610612765,DET,202699,Harris,T. Harris,-86,63,11,Missed,1,,,0,h,MISS Harris 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,214
+0022400718,293,PT03M38.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,1,0,215
+0022400718,294,PT03M38.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus L.B.FOUL (P1.T4) (C.Blair),Foul,Loose Ball,1,0,216
+0022400718,296,PT03M27.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,168,208,27,Missed,1,,,0,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,217
+0022400718,297,PT03M25.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,218
+0022400718,298,PT03M20.00S,2,1610612739,CLE,1629622,Strus,M. Strus,-99,273,29,Missed,1,,,0,v,MISS Strus 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+0022400718,299,PT03M19.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,1,0,220
+0022400718,301,PT03M02.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,-11,58,6,Made,1,53,60,113,h,Thompson 6' Pullup Jump Shot (4 PTS) (Harris 1 AST),Made Shot,Pullup Jump shot,1,2,221
+0022400718,303,PT03M02.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,222
+0022400718,305,PT03M02.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,,,0,v,SUB: Mobley FOR Porter Jr.,Substitution,,0,0,223
+0022400718,307,PT03M02.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,224
+0022400718,308,PT03M01.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,225
+0022400718,309,PT02M55.00S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,169,210,27,Made,1,56,60,116,h,Hardaway Jr. 27' 3PT Jump Shot (12 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,226
+0022400718,312,PT02M39.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,227
+0022400718,313,PT02M29.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,228
+0022400718,313,PT02M29.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham STEAL (2 STL),,,1,0,229
+0022400718,315,PT02M27.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,230
+0022400718,315,PT02M27.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (3 STL),,,1,0,231
+0022400718,317,PT02M24.00S,2,1610612739,CLE,1629622,Strus,M. Strus,26,28,4,Made,1,56,62,118,v,Strus 4' Driving Dunk (9 PTS) (Allen 5 AST),Made Shot,Driving Dunk Shot,1,2,232
+0022400718,319,PT02M24.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren S.FOUL (P3.PN) (C.Blair),Foul,Shooting,1,0,233
+0022400718,321,PT02M24.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,SUB: Stewart FOR Duren,Substitution,,0,0,234
+0022400718,323,PT02M24.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,56,63,119,v,Strus Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,235
+0022400718,324,PT02M03.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-61,57,8,Missed,1,,,0,h,MISS Cunningham 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,236
+0022400718,325,PT02M01.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,237
+0022400718,326,PT01M52.00S,2,1610612739,CLE,1629622,Strus,M. Strus,234,21,0,Missed,1,,,0,v,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022400718,327,PT01M49.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,239
+0022400718,328,PT01M47.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,240
+0022400718,330,PT01M47.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,241
+0022400718,331,PT01M47.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Normal Rebound,1,0,242
+0022400718,332,PT01M47.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,SUB: Sasser FOR Cunningham,Substitution,,0,0,243
+0022400718,334,PT01M47.00S,2,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,244
+0022400718,335,PT01M44.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,245
+0022400718,336,PT01M27.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-22,63,7,Missed,1,,,0,v,MISS Mobley 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,246
+0022400718,337,PT01M24.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,247
+0022400718,338,PT01M16.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,248
+0022400718,338,PT01M16.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert STEAL (1 STL),,,1,0,249
+0022400718,340,PT01M13.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-38,-1,4,Missed,1,,,0,v,MISS LeVert 4' Running Layup,Missed Shot,Running Layup Shot,1,2,250
+0022400718,341,PT01M12.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,251
+0022400718,342,PT01M12.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Made,1,56,65,121,v,Mobley Tip Dunk Shot (20 PTS),Made Shot,Tip Dunk Shot,1,2,252
+0022400718,343,PT01M03.00S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,229,131,26,Missed,1,,,0,h,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022400718,344,PT01M03.00S,2,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,1,0,254
+0022400718,346,PT01M03.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,SUB: Beasley FOR Sasser,Substitution,,0,0,255
+0022400718,348,PT00M58.90S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,-130,236,27,Missed,1,,,0,h,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0022400718,349,PT00M56.20S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,257
+0022400718,350,PT00M41.80S,2,1610612739,CLE,1627747,LeVert,C. LeVert,47,4,5,Missed,1,,,0,v,MISS LeVert 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,258
+0022400718,351,PT00M40.80S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,259
+0022400718,354,PT00M35.70S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,260
+0022400718,355,PT00M15.00S,2,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,188,210,28,Missed,1,,,0,h,MISS Hardaway Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022400718,356,PT00M12.20S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,262
+0022400718,357,PT00M00.70S,2,1610612739,CLE,1629622,Strus,M. Strus,-49,274,28,Missed,1,,,0,v,MISS Strus 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022400718,358,PT00M00.10S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,264
+0022400718,359,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,65,121,,End of 2nd Period (8:08 PM EST),period,end,1,0,265
+0022400718,364,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,65,121,,Start of 3rd Period (8:23 PM EST),period,start,0,0,266
+0022400718,365,PT11M43.00S,3,1610612765,DET,202699,Harris,T. Harris,33,4,3,Made,1,58,65,123,h,Harris 3' Driving Floating Jump Shot (6 PTS) (Cunningham 5 AST),Made Shot,Driving Floating Jump Shot,1,2,267
+0022400718,367,PT11M38.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,268
+0022400718,368,PT11M14.00S,3,1610612765,DET,202699,Harris,T. Harris,-126,78,15,Missed,1,,,0,h,MISS Harris 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,269
+0022400718,369,PT11M12.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,270
+0022400718,370,PT10M55.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,0,271
+0022400718,372,PT10M55.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,58,66,124,v,Allen Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+0022400718,373,PT10M55.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,273
+0022400718,374,PT10M52.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,274
+0022400718,375,PT10M41.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P3.T1) (B.Nansel),Foul,Shooting,1,0,275
+0022400718,377,PT10M41.00S,3,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,59,66,125,h,Harris Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0022400718,378,PT10M41.00S,3,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,60,66,126,h,Harris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+0022400718,379,PT10M20.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-40,19,4,Made,1,60,68,128,v,Allen 4' Cutting Dunk Shot (6 PTS) (Mobley 3 AST),Made Shot,Cutting Dunk Shot,1,2,278
+0022400718,381,PT10M10.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-40,11,4,Missed,1,,,0,h,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,279
+0022400718,381,PT10M10.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (2 BLK),,,1,2,280
+0022400718,383,PT10M09.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,281
+0022400718,384,PT10M08.00S,3,1610612765,DET,1631105,Duren,J. Duren,13,15,2,Missed,1,,,0,h,MISS Duren 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,282
+0022400718,384,PT10M08.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (3 BLK),,,1,2,283
+0022400718,389,PT10M07.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,284
+0022400718,386,PT10M07.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Jump Ball Duren vs. Mobley: Tip to Allen,Jump Ball,,1,0,285
+0022400718,391,PT09M50.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-32,10,3,Made,1,60,70,130,v,Strus 3' Driving Reverse Layup (12 PTS) (Garland 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,286
+0022400718,393,PT09M41.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-87,253,27,Missed,1,,,0,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,287
+0022400718,394,PT09M38.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,288
+0022400718,395,PT09M31.00S,3,1610612739,CLE,1629636,Garland,D. Garland,51,19,5,Missed,1,,,0,v,MISS Garland 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+0022400718,396,PT09M29.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,290
+0022400718,397,PT09M23.00S,3,1610612765,DET,202699,Harris,T. Harris,233,11,0,Missed,1,,,0,h,MISS Harris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,291
+0022400718,398,PT09M22.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,292
+0022400718,399,PT09M10.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,12,264,26,Missed,1,,,0,v,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+0022400718,400,PT09M09.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,294
+0022400718,401,PT09M00.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,124,233,26,Made,1,63,70,133,h,Hardaway Jr. 26' 3PT Running Jump Shot (15 PTS) (Thompson 3 AST),Made Shot,Running Jump Shot,1,3,295
+0022400718,403,PT08M50.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren P.FOUL (P4.T2) (C.Blair),Foul,Personal,1,0,296
+0022400718,405,PT08M50.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,SUB: Stewart FOR Duren,Substitution,,0,0,297
+0022400718,407,PT08M50.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland OFF.Foul (P2) (C.Blair),Foul,Offensive,1,0,298
+0022400718,409,PT08M50.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Offensive Foul Turnover (P5.T13),Turnover,Offensive Foul Turnover,1,0,299
+0022400718,410,PT08M44.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert P.FOUL (P2.T2) (B.Nansel),Foul,Personal,1,0,300
+0022400718,412,PT08M33.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,-15,54,6,Made,1,65,70,135,h,Thompson 6' Floating Jump Shot (6 PTS) (Cunningham 6 AST),Made Shot,Floating Jump shot,1,2,301
+0022400718,414,PT08M18.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-104,250,27,Missed,1,,,0,v,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0022400718,415,PT08M15.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,303
+0022400718,416,PT08M07.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,1,50,5,Made,1,67,70,137,h,Stewart 5' Floating Jump Shot (8 PTS) (Cunningham 7 AST),Made Shot,Floating Jump shot,1,2,304
+0022400718,418,PT07M43.00S,3,1610612739,CLE,1629622,Strus,M. Strus,64,281,29,Made,1,67,73,140,v,Strus 29' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,305
+0022400718,419,PT07M18.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,50,2,5,Made,1,69,73,142,h,Cunningham 5' Driving Layup (10 PTS) (Stewart 1 AST),Made Shot,Driving Layup Shot,1,2,306
+0022400718,421,PT07M05.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,178,205,27,Missed,1,,,0,v,MISS Mobley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022400718,422,PT07M03.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,308
+0022400718,423,PT06M55.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus S.FOUL (P2.T3) (C.Blair),Foul,Shooting,1,0,309
+0022400718,425,PT06M55.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,310
+0022400718,426,PT06M55.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Merrill FOR LeVert,Substitution,,0,0,311
+0022400718,427,PT06M55.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Niang FOR Mobley,Substitution,,0,0,312
+0022400718,430,PT06M55.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,70,73,143,h,Cunningham Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,313
+0022400718,431,PT06M55.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,71,73,144,h,Cunningham Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+0022400718,432,PT06M33.00S,3,1610612739,CLE,1627777,Niang,G. Niang,74,19,8,Made,1,71,75,146,v,Niang 8' Driving Floating Bank Jump Shot (7 PTS) (Garland 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,315
+0022400718,434,PT06M08.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,27,6,3,Missed,1,,,0,h,MISS Cunningham 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,316
+0022400718,435,PT06M07.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,317
+0022400718,436,PT06M05.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,Missed,1,,,0,h,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,318
+0022400718,437,PT06M04.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,319
+0022400718,439,PT05M49.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,320
+0022400718,439,PT05M49.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (2 STL),,,1,0,321
+0022400718,441,PT05M47.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,-50,10,5,Missed,1,,,0,h,MISS Thompson 5' Running Layup,Missed Shot,Running Layup Shot,1,2,322
+0022400718,441,PT05M47.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland BLOCK (1 BLK),,,1,2,323
+0022400718,443,PT05M46.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,0,0,324
+0022400718,445,PT05M35.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,22,5,2,Missed,1,,,0,h,MISS Thompson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022400718,446,PT05M34.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,326
+0022400718,447,PT05M33.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,Missed,1,,,0,h,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,327
+0022400718,448,PT05M32.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,328
+0022400718,449,PT05M30.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,Made,1,73,75,148,h,Thompson Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,329
+0022400718,450,PT05M30.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,330
+0022400718,451,PT05M30.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Jerome FOR Garland,Substitution,,0,0,331
+0022400718,453,PT05M17.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,62,16,6,Made,1,73,77,150,v,Jerome 6' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,332
+0022400718,454,PT05M01.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P3.T4) (N.Buchert),Foul,Personal,1,0,333
+0022400718,456,PT05M01.00S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Beasley FOR Thompson,Substitution,,0,0,334
+0022400718,458,PT04M47.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-240,15,24,Made,1,76,77,153,h,Cunningham 24' 3PT Jump Shot (15 PTS) (Beasley 1 AST),Made Shot,Jump Shot,1,3,335
+0022400718,460,PT04M27.00S,3,1610612739,CLE,1627777,Niang,G. Niang,44,16,5,Missed,1,,,0,v,MISS Niang 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,336
+0022400718,460,PT04M27.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (2 BLK),,,1,2,337
+0022400718,462,PT04M24.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,338
+0022400718,463,PT04M23.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-234,25,24,Missed,1,,,0,v,MISS Strus 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022400718,464,PT04M21.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,340
+0022400718,465,PT04M21.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,341
+0022400718,465,PT04M21.00S,3,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley STEAL (1 STL),,,1,0,342
+0022400718,467,PT04M12.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,184,174,25,Missed,1,,,0,h,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022400718,468,PT04M10.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,344
+0022400718,477,PT04M08.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham Transition Take Foul (P4.T3) (C.Blair),Foul,Transition Take,1,0,345
+0022400718,482,PT04M08.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,76,78,154,v,Jerome Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,346
+0022400718,471,PT04M08.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Mobley FOR Allen,Substitution,,0,0,347
+0022400718,473,PT04M08.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Strus,Substitution,,0,0,348
+0022400718,475,PT03M56.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,-32,46,6,Missed,1,,,0,v,MISS Jerome 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,349
+0022400718,476,PT03M53.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,350
+0022400718,497,PT03M50.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-53,62,8,Missed,1,,,0,h,MISS Cunningham 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,351
+0022400718,498,PT03M50.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,352
+0022400718,483,PT03M50.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,353
+0022400718,484,PT03M50.00S,3,0,,480,,,0,0,0,,0,76,78,154,,Instant Replay3rd Period (8:44 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,354
+0022400718,485,PT03M50.00S,3,0,,2794,Bickerstaff,T. Bickerstaff,0,0,0,,0,,,0,,John-Blair Bickerstaff Foul:T.FOUL (N.Buchert),Foul,Technical,1,0,355
+0022400718,486,PT03M50.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,76,79,155,v,Jerome Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,0,356
+0022400718,487,PT03M37.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Traveling Turnover (P2.T16),Turnover,Traveling,1,0,357
+0022400718,488,PT03M14.00S,3,1610612765,DET,1627736,Beasley,M. Beasley,1,71,7,Missed,1,,,0,h,MISS Beasley 7' Jump Shot,Missed Shot,Jump Shot,1,2,358
+0022400718,489,PT03M11.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,359
+0022400718,490,PT03M00.00S,3,1610612739,CLE,1627777,Niang,G. Niang,-97,253,27,Missed,1,,,0,v,MISS Niang 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,360
+0022400718,491,PT02M57.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,361
+0022400718,492,PT02M53.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang P.FOUL (P1.PN) (C.Blair),Foul,Personal,1,0,362
+0022400718,494,PT02M53.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,77,79,156,h,Hardaway Jr. Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+0022400718,495,PT02M53.00S,3,1610612765,DET,202699,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Holland II FOR Harris,Substitution,,0,0,364
+0022400718,499,PT02M53.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,78,79,157,h,Hardaway Jr. Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+0022400718,500,PT02M35.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,69,260,27,Missed,1,,,0,v,MISS Mobley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022400718,501,PT02M32.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,367
+0022400718,502,PT02M28.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,12,-4,1,Made,1,80,79,159,h,Cunningham 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,368
+0022400718,503,PT02M06.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-33,14,4,Made,1,80,81,161,v,Mobley 4' Cutting Dunk Shot (22 PTS) (Jerome 4 AST),Made Shot,Cutting Dunk Shot,1,2,369
+0022400718,505,PT01M41.00S,3,1610612765,DET,1627736,Beasley,M. Beasley,45,254,26,Missed,1,,,0,h,MISS Beasley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,370
+0022400718,506,PT01M39.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,371
+0022400718,507,PT01M36.00S,3,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley S.FOUL (P1.T4) (C.Blair),Foul,Shooting,1,0,372
+0022400718,509,PT01M36.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,80,82,162,v,Mobley Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022400718,510,PT01M36.00S,3,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Reed FOR Hardaway Jr.,Substitution,,0,0,374
+0022400718,511,PT01M36.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Stewart,Substitution,,0,0,375
+0022400718,514,PT01M36.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,80,83,163,v,Mobley Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022400718,515,PT01M15.00S,3,1610612765,DET,1630194,Reed,P. Reed,-26,6,3,Missed,1,,,0,h,MISS Reed 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,377
+0022400718,515,PT01M15.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (4 BLK),,,1,2,378
+0022400718,517,PT01M14.00S,3,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,379
+0022400718,518,PT01M12.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,380
+0022400718,519,PT01M00.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,381
+0022400718,519,PT01M00.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham STEAL (3 STL),,,1,0,382
+0022400718,521,PT00M53.50S,3,1610612765,DET,1631323,Fontecchio,S. Fontecchio,-239,63,25,Made,1,83,83,166,h,Fontecchio 25' 3PT Jump Shot (3 PTS) (Cunningham 8 AST),Made Shot,Jump Shot,1,3,383
+0022400718,523,PT00M37.50S,3,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,234,10,0,Made,1,83,86,169,v,Porter Jr. 3PT Jump Shot (11 PTS) (Mobley 4 AST),Made Shot,Jump Shot,1,3,384
+0022400718,525,PT00M24.80S,3,1610612765,DET,1627736,Beasley,M. Beasley,88,244,26,Missed,1,,,0,h,MISS Beasley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+0022400718,526,PT00M23.30S,3,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,386
+0022400718,527,PT00M21.30S,3,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II Double Dribble Turnover (P1.T9),Turnover,Double Dribble,1,0,387
+0022400718,528,PT00M21.30S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,SUB: Thompson FOR Cunningham,Substitution,,0,0,388
+0022400718,530,PT00M07.30S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome Backcourt Turnover (P3.T18),Turnover,Backcourt Turnover,1,0,389
+0022400718,531,PT00M07.30S,3,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,SUB: Cunningham FOR Holland II,Substitution,,0,0,390
+0022400718,532,PT00M07.30S,3,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Thompson,Substitution,,0,0,391
+0022400718,535,PT00M07.30S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,SUB: Allen FOR Jerome,Substitution,,0,0,392
+0022400718,536,PT00M07.30S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Strus FOR Niang,Substitution,,0,0,393
+0022400718,539,PT00M01.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-145,223,27,Missed,1,,,0,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,394
+0022400718,540,PT00M01.00S,3,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Rebound,Rebound,Unknown,1,0,395
+0022400718,541,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,86,169,,End of 3rd Period (8:55 PM EST),period,end,1,0,396
+0022400718,550,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,86,169,,Start of 4th Period (8:57 PM EST),period,start,0,0,397
+0022400718,551,PT11M40.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-32,15,4,Missed,1,,,0,v,MISS Mobley 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,398
+0022400718,551,PT11M40.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed BLOCK (1 BLK),,,1,2,399
+0022400718,552,PT11M37.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,400
+0022400718,553,PT11M25.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser Traveling Turnover (P2.T10),Turnover,Traveling,1,0,401
+0022400718,554,PT11M10.00S,4,1610612739,CLE,1627777,Niang,G. Niang,237,13,24,Missed,1,,,0,v,MISS Niang 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022400718,555,PT11M10.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,403
+0022400718,556,PT11M10.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed L.B.FOUL (P2.T1) (N.Buchert),Foul,Loose Ball,1,0,404
+0022400718,559,PT11M04.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed P.FOUL (P3.T2) (N.Buchert),Foul,Personal,1,0,405
+0022400718,561,PT11M01.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome OFF.Foul (P1) (N.Buchert),Foul,Offensive,1,0,406
+0022400718,563,PT11M01.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome Offensive Foul Turnover (P4.T19),Turnover,Offensive Foul Turnover,1,0,407
+0022400718,564,PT10M46.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,-119,246,27,Missed,1,,,0,h,MISS Beasley 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,408
+0022400718,565,PT10M44.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,409
+0022400718,567,PT10M40.00S,4,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,Holland II Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,410
+0022400718,568,PT10M29.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-2,34,3,Made,1,83,88,171,v,Mobley 3' Cutting Dunk Shot (26 PTS) (Jerome 5 AST),Made Shot,Cutting Dunk Shot,1,2,411
+0022400718,570,PT10M11.00S,4,1610612765,DET,1641842,Holland II,R. Holland II,181,188,26,Missed,1,,,0,h,MISS Holland II 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+0022400718,571,PT10M08.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,413
+0022400718,572,PT10M02.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,Reed FLAGRANT.FOUL.TYPE1 (P4.T3) (N.Buchert),Foul,Flagrant Type 1,1,0,414
+0022400718,574,PT10M02.00S,4,0,,572,,,0,0,0,,0,83,88,171,,Instant Replay4th Period (9:01 PM EST),Instant Replay,Overturn Ruling,0,0,415
+0022400718,575,PT10M02.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Beasley,Substitution,,0,0,416
+0022400718,576,PT10M02.00S,4,1610612765,DET,1630194,Reed,P. Reed,0,0,0,,0,,,0,h,SUB: Duren FOR Reed,Substitution,,0,0,417
+0022400718,577,PT10M02.00S,4,1610612765,DET,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,h,SUB: Cunningham FOR Fontecchio,Substitution,,0,0,418
+0022400718,578,PT10M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,419
+0022400718,583,PT10M02.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw Flagrant 1 of 3,Free Throw,Free Throw Flagrant 1 of 3,1,0,420
+0022400718,584,PT10M02.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,421
+0022400718,585,PT10M02.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,83,89,172,v,Mobley Free Throw Flagrant 2 of 3 (27 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,422
+0022400718,586,PT10M02.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,83,90,173,v,Mobley Free Throw Flagrant 3 of 3 (28 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,0,423
+0022400718,587,PT09M43.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-151,234,28,Made,1,83,93,176,v,Porter Jr. 28' 3PT Pullup Jump Shot (14 PTS) (Mobley 5 AST),Made Shot,Pullup Jump shot,1,3,424
+0022400718,589,PT09M28.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang P.FOUL (P2.T1) (C.Blair),Foul,Personal,1,0,425
+0022400718,591,PT09M18.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,426
+0022400718,592,PT09M03.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-40,6,4,Made,1,83,95,178,v,Porter Jr. 4' Driving Layup (16 PTS) (Mobley 6 AST),Made Shot,Driving Layup Shot,1,2,427
+0022400718,593,PT08M46.00S,4,1610612765,DET,1641842,Holland II,R. Holland II,-17,264,26,Missed,1,,,0,h,MISS Holland II 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+0022400718,594,PT08M44.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,Jerome REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,429
+0022400718,595,PT08M32.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-230,42,0,Missed,1,,,0,v,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+0022400718,596,PT08M30.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,431
+0022400718,597,PT08M25.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,49,1,5,Made,1,85,95,180,h,Cunningham 5' Running Layup (19 PTS),Made Shot,Running Layup Shot,1,2,432
+0022400718,598,PT07M59.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert Lost Ball Turnover (P2.T20),Turnover,Lost Ball,1,0,433
+0022400718,598,PT07M59.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,Sasser STEAL (1 STL),,,1,0,434
+0022400718,600,PT07M53.00S,4,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,-188,226,29,Made,1,88,95,183,h,Hardaway Jr. 29' 3PT Running Jump Shot (20 PTS) (Sasser 4 AST),Made Shot,Running Jump Shot,1,3,435
+0022400718,602,PT07M53.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,436
+0022400718,603,PT07M53.00S,4,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,SUB: Thompson FOR Holland II,Substitution,,0,0,437
+0022400718,604,PT07M53.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,SUB: Beasley FOR Sasser,Substitution,,0,0,438
+0022400718,605,PT07M53.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,,,0,v,SUB: Garland FOR Jerome,Substitution,,0,0,439
+0022400718,606,PT07M53.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Allen FOR Mobley,Substitution,,0,0,440
+0022400718,611,PT07M36.00S,4,1610612739,CLE,1629636,Garland,D. Garland,163,215,27,Missed,1,,,0,v,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022400718,612,PT07M33.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,442
+0022400718,615,PT07M24.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-17,159,16,Missed,1,,,0,h,MISS Cunningham 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,443
+0022400718,616,PT07M22.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,444
+0022400718,617,PT07M21.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,90,95,185,h,Duren Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,445
+0022400718,618,PT07M06.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,,,0,v,Porter Jr. Bad Pass Turnover (P1.T21),Turnover,Bad Pass,1,0,446
+0022400718,618,PT07M06.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham STEAL (4 STL),,,1,0,447
+0022400718,620,PT07M05.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,31,21,4,Made,1,92,95,187,h,Cunningham 4' Running Dunk (21 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Dunk Shot,1,2,448
+0022400718,622,PT07M05.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,449
+0022400718,623,PT07M05.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Merrill FOR LeVert,Substitution,,0,0,450
+0022400718,624,PT07M05.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,,,0,v,SUB: Strus FOR Porter Jr.,Substitution,,0,0,451
+0022400718,627,PT06M49.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-76,257,27,Made,1,92,98,190,v,Garland 27' 3PT Jump Shot (10 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,452
+0022400718,667,PT06M33.00S,4,1610612765,DET,1631105,Duren,J. Duren,-15,36,4,Missed,1,,,0,h,MISS Duren 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,453
+0022400718,668,PT06M32.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,454
+0022400718,631,PT06M17.00S,4,1610612739,CLE,1629636,Garland,D. Garland,48,15,5,Missed,1,,,0,v,MISS Garland 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,455
+0022400718,632,PT06M15.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,456
+0022400718,633,PT06M11.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,-239,11,24,Missed,1,,,0,h,MISS Beasley 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,457
+0022400718,634,PT06M09.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,458
+0022400718,635,PT05M51.00S,4,1610612739,CLE,1629636,Garland,D. Garland,34,10,4,Made,1,92,100,192,v,Garland 4' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,459
+0022400718,636,PT05M41.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang P.FOUL (P3.T2) (N.Buchert),Foul,Personal,1,0,460
+0022400718,638,PT05M28.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-127,231,26,Made,1,95,100,195,h,Cunningham 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,461
+0022400718,641,PT05M09.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-43,31,5,Missed,1,,,0,v,MISS Garland 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,462
+0022400718,642,PT05M07.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,463
+0022400718,643,PT05M01.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-12,37,4,Made,1,97,100,197,h,Cunningham 4' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,2,464
+0022400718,644,PT04M39.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-26,19,3,Missed,1,,,0,v,MISS Garland 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,465
+0022400718,645,PT04M39.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,466
+0022400718,647,PT04M39.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Mobley FOR Niang,Substitution,,0,0,467
+0022400718,649,PT04M35.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-229,21,0,Made,1,97,103,200,v,Merrill 3PT Jump Shot (6 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,3,468
+0022400718,651,PT04M13.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland P.FOUL (P3.T3) (N.Buchert),Foul,Personal,1,0,469
+0022400718,653,PT04M05.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-94,251,27,Missed,1,,,0,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,470
+0022400718,654,PT04M02.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,471
+0022400718,655,PT03M48.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-229,45,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022400718,656,PT03M46.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,473
+0022400718,657,PT03M45.00S,4,1610612739,CLE,1628386,Allen,J. Allen,27,15,3,Missed,1,,,0,v,MISS Allen 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,474
+0022400718,658,PT03M44.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,475
+0022400718,659,PT03M40.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-27,19,3,Made,1,97,105,202,v,Garland 3' Driving Layup (14 PTS) (Mobley 7 AST),Made Shot,Driving Layup Shot,1,2,476
+0022400718,662,PT03M40.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland T.FOUL (P3.T3) (C.Blair),Foul,Technical,1,0,477
+0022400718,661,PT03M40.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,478
+0022400718,663,PT03M40.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,SUB: Holland II FOR Beasley,Substitution,,0,0,479
+0022400718,665,PT03M40.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,98,105,203,h,Cunningham Free Throw Technical (27 PTS),Free Throw,Free Throw Technical,1,0,480
+0022400718,666,PT03M30.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P4.T4) (C.Blair),Foul,Shooting,1,0,481
+0022400718,670,PT03M30.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,99,105,204,h,Cunningham Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0,482
+0022400718,671,PT03M30.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,100,105,205,h,Cunningham Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022400718,672,PT03M12.00S,4,1610612739,CLE,1629636,Garland,D. Garland,48,20,5,Missed,1,,,0,v,MISS Garland 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,484
+0022400718,672,PT03M12.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren BLOCK (1 BLK),,,1,2,485
+0022400718,673,PT03M09.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,486
+0022400718,674,PT03M06.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,-37,7,4,Made,1,102,105,207,h,Thompson 4' Running Dunk (10 PTS) (Cunningham 9 AST),Made Shot,Running Dunk Shot,1,2,487
+0022400718,676,PT02M41.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,43,10,4,Made,1,102,107,209,v,Mobley 4' Cutting Layup Shot (30 PTS) (Allen 6 AST),Made Shot,Cutting Layup Shot,1,2,488
+0022400718,678,PT02M35.00S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,489
+0022400718,680,PT02M22.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,37,22,4,Missed,1,,,0,h,MISS Cunningham 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,490
+0022400718,681,PT02M22.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,491
+0022400718,701,PT02M03.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus Lost Ball Turnover (P2.T22),Turnover,Lost Ball,1,0,492
+0022400718,701,PT02M03.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (3 STL),,,1,0,493
+0022400718,686,PT01M55.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-184,195,27,Missed,1,,,0,h,MISS Cunningham 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,494
+0022400718,687,PT01M55.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,495
+0022400718,688,PT01M52.00S,4,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,184,183,26,Missed,1,,,0,h,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,496
+0022400718,689,PT01M52.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,497
+0022400718,690,PT01M35.00S,4,1610612739,CLE,1629636,Garland,D. Garland,205,188,28,Made,1,102,110,212,v,Garland 28' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,498
+0022400718,691,PT01M21.00S,4,1610612765,DET,1631105,Duren,J. Duren,-36,13,4,Missed,1,,,0,h,MISS Duren 4' Layup,Missed Shot,Layup Shot,1,2,499
+0022400718,691,PT01M21.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen BLOCK (1 BLK),,,1,2,500
+0022400718,693,PT01M19.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,501
+0022400718,694,PT01M03.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-232,25,0,Missed,1,,,0,v,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1,3,502
+0022400718,695,PT01M02.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,503
+0022400718,697,PT01M02.00S,4,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,SUB: Beasley FOR Holland II,Substitution,,0,0,504
+0022400718,748,PT01M02.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,505
+0022400718,700,PT01M02.00S,4,0,,696,Best,T. Best,0,0,0,,0,102,110,212,,Instant Replay4th Period (9:26 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,506
+0022400718,703,PT00M56.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen FLAGRANT.FOUL.TYPE2 (P1.PN) (C.Blair),Foul,Flagrant Type 2,1,0,507
+0022400718,705,PT00M56.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Offensive Foul Turnover (P4.T23),Turnover,Offensive Foul Turnover,1,0,508
+0022400718,707,PT00M56.00S,4,0,,703,Thomas,K. Thomas,0,0,0,,0,102,110,212,,Instant Replay4th Period (9:30 PM EST),Instant Replay,Altercation Ruling,0,0,509
+0022400718,752,PT00M56.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Ejection:Other,Ejection,Other,0,0,510
+0022400718,708,PT00M56.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson T.FOUL (P1.T3) (C.Blair),Foul,Technical,0,0,511
+0022400718,709,PT00M56.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley T.FOUL (P1.T3) (C.Blair),Foul,Technical,0,0,512
+0022400718,710,PT00M56.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Niang FOR Allen,Substitution,,0,0,513
+0022400718,714,PT00M56.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,103,112,215,h,Thompson Free Throw Technical 1 of 2 (11 PTS),Free Throw,Free Throw Technical 1 of 2,0,0,514
+0022400718,715,PT00M56.00S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,104,112,216,h,Thompson Free Throw Technical 2 of 2 (12 PTS),Free Throw,Free Throw Technical 2 of 2,0,0,515
+0022400718,712,PT00M56.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,102,111,213,v,Garland Free Throw Technical 1 of 2 (18 PTS),Free Throw,Free Throw Technical 1 of 2,1,0,516
+0022400718,713,PT00M56.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,102,112,214,v,Garland Free Throw Technical 2 of 2 (19 PTS),Free Throw,Free Throw Technical 2 of 2,1,0,517
+0022400718,716,PT00M45.00S,4,1610612765,DET,1627736,Beasley,M. Beasley,190,168,25,Missed,1,,,0,h,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,518
+0022400718,717,PT00M44.50S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,519
+0022400718,720,PT00M44.00S,4,1610612765,DET,1631105,Duren,J. Duren,-1,7,1,Missed,1,,,0,h,MISS Duren 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,520
+0022400718,721,PT00M43.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,521
+0022400718,718,PT00M39.50S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,106,112,218,h,Duren Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,522
+0022400718,719,PT00M33.10S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,523
+0022400718,722,PT00M27.40S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Personal Take Foul (P2.T4) (C.Blair),Foul,Personal Take,0,0,524
+0022400718,724,PT00M18.90S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Jump Ball Duren vs. Niang: Tip to Cunningham,Jump Ball,,1,0,525
+0022400718,727,PT00M18.90S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang Lost Ball Turnover (P1.T24),Turnover,Lost Ball,1,0,526
+0022400718,727,PT00M18.90S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,,,0,h,Duren STEAL (1 STL),,,1,0,527
+0022400718,729,PT00M16.60S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-33,293,29,Made,1,109,112,221,h,Cunningham 29' 3PT Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,3,528
+0022400718,730,PT00M12.80S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Personal Take Foul (P3.PN) (N.Buchert),Foul,Personal Take,1,0,529
+0022400718,732,PT00M12.80S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,MISS Garland Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,530
+0022400718,733,PT00M12.80S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,531
+0022400718,734,PT00M12.80S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Sasser FOR Thompson,Substitution,,0,0,532
+0022400718,736,PT00M12.80S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,109,113,222,v,Garland Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,533
+0022400718,737,PT00M07.30S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P4.PN) (N.Buchert),Foul,Shooting,1,0,534
+0022400718,739,PT00M07.30S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,110,113,223,h,Cunningham Free Throw 1 of 3 (33 PTS),Free Throw,Free Throw 1 of 3,1,0,535
+0022400718,740,PT00M07.30S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,111,113,224,h,Cunningham Free Throw 2 of 3 (34 PTS),Free Throw,Free Throw 2 of 3,1,0,536
+0022400718,742,PT00M07.30S,4,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Holland II FOR Hardaway Jr.,Substitution,,0,0,537
+0022400718,761,PT00M07.30S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,,,0,h,SUB: Thompson FOR Sasser,Substitution,,0,0,538
+0022400718,745,PT00M07.30S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,112,113,225,h,Cunningham Free Throw 3 of 3 (35 PTS),Free Throw,Free Throw 3 of 3,1,0,539
+0022400718,746,PT00M06.20S,4,1610612765,DET,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,h,Beasley Personal Take Foul (P2.PN) (B.Nansel),Foul,Personal Take,1,0,540
+0022400718,751,PT00M06.20S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,112,114,226,v,Garland Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,541
+0022400718,753,PT00M06.20S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,112,115,227,v,Garland Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,542
+0022400718,754,PT00M06.20S,4,0,,1610612765,,,0,0,0,,0,,,0,h,PISTONS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,543
+0022400718,755,PT00M06.20S,4,1610612765,DET,1641842,Holland II,R. Holland II,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Holland II,Substitution,,0,0,544
+0022400718,756,PT00M06.20S,4,1610612765,DET,1641709,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Sasser FOR Thompson,Substitution,,0,0,545
+0022400718,759,PT00M05.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P4.PN) (C.Blair),Foul,Shooting,1,0,546
+0022400718,762,PT00M05.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,113,115,228,h,Cunningham Free Throw 1 of 3 (36 PTS),Free Throw,Free Throw 1 of 3,1,0,547
+0022400718,763,PT00M05.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,114,115,229,h,Cunningham Free Throw 2 of 3 (37 PTS),Free Throw,Free Throw 2 of 3,1,0,548
+0022400718,764,PT00M05.00S,4,1610612765,DET,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Thompson FOR Hardaway Jr.,Substitution,,0,0,549
+0022400718,766,PT00M05.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,115,115,230,h,Cunningham Free Throw 3 of 3 (38 PTS),Free Throw,Free Throw 3 of 3,1,0,550
+0022400718,767,PT00M00.00S,4,1610612739,CLE,1629636,Garland,D. Garland,38,309,31,Made,1,115,118,233,v,Garland 31' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,551
+0022400718,768,PT00M00.00S,4,0,,767,Catledge,T. Catledge,0,0,0,,0,115,118,233,,Instant Replay4th Period (9:47 PM EST),Instant Replay,Support Ruling,0,0,552
+0022400718,769,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,118,233,,End of 4th Period (9:47 PM EST),period,end,1,0,553

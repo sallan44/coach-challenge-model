@@ -1,0 +1,527 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022501184,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:12 PM EST),period,start,1,0,1
+0022501184,4,PT12M00.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Jump Ball Raynaud vs. Porzingis: Tip to Green,Jump Ball,,1,0,2
+0022501184,7,PT11M44.00S,1,1610612744,GSW,201939,Curry,S. Curry,221,58,0,Made,1,0,3,3,v,St. Curry 3PT Jump Shot (3 PTS) (Podziemski 1 AST),Made Shot,Jump Shot,1,3,3
+0022501184,9,PT11M31.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,4
+0022501184,11,PT11M31.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,5
+0022501184,12,PT11M21.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,6
+0022501184,12,PT11M21.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa STEAL (1 STL),,,1,0,7
+0022501184,14,PT11M16.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-36,38,5,Missed,1,,,0,h,MISS Achiuwa 5' Running Layup,Missed Shot,Running Layup Shot,1,2,8
+0022501184,15,PT11M15.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022501184,16,PT11M08.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,-78,252,26,Made,1,0,6,6,v,Porzingis 26' 3PT Running Jump Shot (3 PTS) (Santos 1 AST),Made Shot,Running Jump Shot,1,3,10
+0022501184,18,PT10M50.00S,1,1610612758,SAC,1631342,Plowden,D. Plowden,-92,118,15,Made,1,2,6,8,h,Plowden 15' Driving Floating Jump Shot (2 PTS) (Achiuwa 1 AST),Made Shot,Driving Floating Jump Shot,1,2,11
+0022501184,19,PT10M50.00S,1,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,12
+0022501184,21,PT10M50.00S,1,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,3,6,9,h,Plowden Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,13
+0022501184,22,PT10M28.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,17,129,13,Missed,1,,,0,v,MISS Porzingis 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,14
+0022501184,23,PT10M26.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022501184,28,PT10M17.00S,1,1610612758,SAC,1642269,Carter,D. Carter,-27,33,4,Missed,1,,,0,h,MISS Carter 4' Layup,Missed Shot,Layup Shot,1,2,16
+0022501184,29,PT10M16.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,17
+0022501184,26,PT10M16.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,18
+0022501184,27,PT10M16.00S,1,0,,24,Jennings,K. Jennings,0,0,0,,0,3,6,9,,Instant Replay1st Period (10:15 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,19
+0022501184,30,PT10M16.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Jump Ball (CC) Raynaud vs. Porzingis: Tip to Achiuwa,Jump Ball,Coach Challenge,1,0,20
+0022501184,33,PT09M58.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-138,32,14,Made,1,5,6,11,h,Achiuwa 14' Driving Floating Jump Shot (2 PTS) (Carter 1 AST),Made Shot,Driving Floating Jump Shot,1,2,21
+0022501184,38,PT09M35.00S,1,1610612744,GSW,203110,Green,D. Green,94,264,28,Made,1,5,9,14,v,Green 28' 3PT Jump Shot (3 PTS) (St. Curry 1 AST),Made Shot,Jump Shot,1,3,22
+0022501184,40,PT09M14.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,-9,105,11,Made,1,7,9,16,h,Raynaud 11' Hook Shot (2 PTS) (Carter 2 AST),Made Shot,Hook Shot,1,2,23
+0022501184,42,PT09M08.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,24
+0022501184,42,PT09M08.00S,1,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter STEAL (1 STL),,,1,0,25
+0022501184,44,PT09M05.00S,1,1610612758,SAC,1642269,Carter,D. Carter,-7,54,5,Made,1,9,9,18,h,Carter 5' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,26
+0022501184,45,PT08M53.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,27
+0022501184,45,PT08M53.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa STEAL (2 STL),,,1,0,28
+0022501184,47,PT08M49.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,201,172,26,Missed,1,,,0,h,MISS Clifford 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,29
+0022501184,48,PT08M46.00S,1,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+0022501184,49,PT08M44.00S,1,1610612758,SAC,1631342,Plowden,D. Plowden,-44,285,29,Made,1,12,9,21,h,Plowden 29' 3PT Jump Shot (6 PTS) (Carter 3 AST),Made Shot,Jump Shot,1,3,31
+0022501184,51,PT08M43.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,32
+0022501184,53,PT08M19.00S,1,1610612744,GSW,1630611,Santos,G. Santos,51,53,7,Made,1,12,11,23,v,Santos 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,33
+0022501184,54,PT08M04.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-32,121,13,Made,1,14,11,25,h,Achiuwa 13' Floating Jump Shot (4 PTS) (Clifford 1 AST),Made Shot,Floating Jump shot,1,2,34
+0022501184,56,PT07M53.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,29,255,26,Missed,1,,,0,v,MISS Podziemski 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,35
+0022501184,57,PT07M52.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022501184,58,PT07M42.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-82,267,28,Missed,1,,,0,h,MISS Achiuwa 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+0022501184,59,PT07M38.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,38
+0022501184,60,PT07M31.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,39
+0022501184,60,PT07M31.00S,1,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter STEAL (2 STL),,,1,0,40
+0022501184,62,PT07M23.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,29,44,5,Missed,1,,,0,h,MISS Clifford 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,41
+0022501184,63,PT07M20.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+0022501184,64,PT07M08.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,-241,74,25,Made,1,14,14,28,v,Podziemski 25' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,1,3,43
+0022501184,66,PT06M49.00S,1,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,44
+0022501184,66,PT06M49.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski STEAL (1 STL),,,1,0,45
+0022501184,68,PT06M41.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,234,48,24,Made,1,14,17,31,v,Podziemski 24' 3PT Pullup Jump Shot (6 PTS) (Santos 2 AST),Made Shot,Pullup Jump shot,1,3,46
+0022501184,70,PT06M40.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+0022501184,71,PT06M40.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,SUB: Hayes FOR Clifford,Substitution,,0,0,48
+0022501184,72,PT06M40.00S,1,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,SUB: Monk FOR Carter,Substitution,,0,0,49
+0022501184,73,PT06M40.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Payton II FOR Podziemski,Substitution,,0,0,50
+0022501184,74,PT06M40.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Melton FOR Porzingis,Substitution,,0,0,51
+0022501184,75,PT06M40.00S,1,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,SUB: Horford FOR Santos,Substitution,,0,0,52
+0022501184,81,PT06M26.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,-175,225,29,Missed,1,,,0,h,MISS Hayes 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+0022501184,82,PT06M22.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022501184,84,PT06M04.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,29,48,6,Missed,1,,,0,v,MISS Payton II 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,55
+0022501184,84,PT06M04.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa BLOCK (1 BLK),,,1,2,56
+0022501184,86,PT06M03.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,57
+0022501184,87,PT05M59.00S,1,1610612744,GSW,201143,Horford,A. Horford,100,243,26,Missed,1,,,0,v,MISS Horford 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,58
+0022501184,88,PT05M58.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,59
+0022501184,89,PT05M49.00S,1,1610612758,SAC,1628370,Monk,M. Monk,214,157,27,Made,1,17,17,34,h,Monk 27' 3PT Pullup Jump Shot (3 PTS) (Achiuwa 2 AST),Made Shot,Pullup Jump shot,1,3,60
+0022501184,91,PT05M29.00S,1,1610612744,GSW,201143,Horford,A. Horford,28,41,5,Missed,1,,,0,v,MISS Horford 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,61
+0022501184,92,PT05M27.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022501184,93,PT05M26.00S,1,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,63
+0022501184,95,PT05M26.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,18,17,35,h,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,64
+0022501184,96,PT05M26.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,19,17,36,h,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,65
+0022501184,97,PT05M15.00S,1,1610612744,GSW,201143,Horford,A. Horford,233,34,24,Made,1,19,20,39,v,Horford 24' 3PT Jump Shot (3 PTS) (St. Curry 2 AST),Made Shot,Jump Shot,1,3,66
+0022501184,99,PT04M51.00S,1,1610612758,SAC,1628370,Monk,M. Monk,16,97,10,Made,1,21,20,41,h,Monk 10' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,67
+0022501184,100,PT04M44.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,-9,11,1,Made,1,21,22,43,v,Payton II 1' Cutting Layup Shot (2 PTS) (Green 2 AST),Made Shot,Cutting Layup Shot,1,2,68
+0022501184,102,PT04M30.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,248,29,25,Missed,1,,,0,h,MISS Achiuwa 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022501184,103,PT04M26.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,70
+0022501184,104,PT04M13.00S,1,1610612744,GSW,201143,Horford,A. Horford,-9,14,2,Made,1,21,24,45,v,Horford 2' Cutting Layup Shot (5 PTS) (Melton 1 AST),Made Shot,Cutting Layup Shot,1,2,71
+0022501184,106,PT04M08.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,72
+0022501184,106,PT04M08.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry STEAL (1 STL),,,1,0,73
+0022501184,108,PT03M55.00S,1,1610612744,GSW,201939,Curry,S. Curry,-28,262,26,Missed,1,,,0,v,MISS St. Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022501184,109,PT03M52.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+0022501184,110,PT03M45.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-9,123,12,Missed,1,,,0,h,MISS Achiuwa 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,76
+0022501184,111,PT03M42.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,77
+0022501184,112,PT03M40.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-114,256,28,Made,1,24,24,48,h,Monk 28' 3PT Jump Shot (8 PTS) (Plowden 1 AST),Made Shot,Jump Shot,1,3,78
+0022501184,114,PT03M24.00S,1,1610612744,GSW,201939,Curry,S. Curry,221,124,25,Missed,1,,,0,v,MISS St. Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022501184,115,PT03M20.00S,1,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022501184,116,PT03M13.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-222,154,27,Made,1,27,24,51,h,Monk 27' 3PT Pullup Jump Shot (11 PTS) (Hayes 1 AST),Made Shot,Pullup Jump shot,1,3,81
+0022501184,118,PT02M55.00S,1,1610612744,GSW,203110,Green,D. Green,-157,204,26,Missed,1,,,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022501184,119,PT02M51.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,83
+0022501184,120,PT02M40.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-222,173,28,Missed,1,,,0,h,MISS Monk 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022501184,121,PT02M36.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,85
+0022501184,122,PT02M22.00S,1,1610612744,GSW,203110,Green,D. Green,-11,16,2,Made,1,27,26,53,v,Green 2' Cutting Layup Shot (5 PTS) (Horford 1 AST),Made Shot,Cutting Layup Shot,1,2,86
+0022501184,124,PT02M11.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II Personal Take Foul (P1.T3) (B.Schwab),Foul,Personal Take,1,0,87
+0022501184,126,PT02M11.00S,1,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,SUB: McDermott FOR Achiuwa,Substitution,,0,0,88
+0022501184,127,PT02M11.00S,1,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,SUB: Cardwell FOR Plowden,Substitution,,0,0,89
+0022501184,128,PT02M11.00S,1,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,SUB: Clifford FOR Raynaud,Substitution,,0,0,90
+0022501184,129,PT02M11.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Podziemski FOR Green,Substitution,,0,0,91
+0022501184,130,PT02M11.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Santos FOR St. Curry,Substitution,,0,0,92
+0022501184,131,PT02M11.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Spencer FOR Payton II,Substitution,,0,0,93
+0022501184,132,PT02M11.00S,1,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,SUB: Porzingis FOR Melton,Substitution,,0,0,94
+0022501184,133,PT02M11.00S,1,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Bassey FOR Horford,Substitution,,0,0,95
+0022501184,142,PT01M57.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,-70,101,12,Missed,1,,,0,h,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,96
+0022501184,143,PT01M53.00S,1,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022501184,144,PT01M44.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,98
+0022501184,144,PT01M44.00S,1,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes STEAL (1 STL),,,1,0,99
+0022501184,146,PT01M38.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,6,52,5,Made,1,29,26,55,h,Clifford 5' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,100
+0022501184,147,PT01M25.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,69,88,11,Missed,1,,,0,v,MISS Porzingis 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,101
+0022501184,148,PT01M22.00S,1,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022501184,149,PT01M12.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,16,44,5,Missed,1,,,0,h,MISS Clifford 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,103
+0022501184,150,PT01M10.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,104
+0022501184,151,PT01M08.00S,1,1610612758,SAC,1642363,Clifford,N. Clifford,11,60,6,Missed,1,,,0,h,MISS Clifford 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,105
+0022501184,151,PT01M08.00S,1,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,106
+0022501184,153,PT01M07.00S,1,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022501184,154,PT01M00.00S,1,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,108
+0022501184,156,PT01M00.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,MISS Porzingis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,109
+0022501184,157,PT01M00.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0,110
+0022501184,158,PT01M00.00S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,29,27,56,v,Porzingis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+0022501184,159,PT00M53.50S,1,1610612758,SAC,203926,McDermott,D. McDermott,-96,259,28,Missed,1,,,0,h,MISS McDermott 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022501184,160,PT00M50.10S,1,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0022501184,161,PT00M44.30S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,2,272,27,Missed,1,,,0,v,MISS Porzingis 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,114
+0022501184,162,PT00M40.30S,1,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022501184,163,PT00M33.20S,1,1610612758,SAC,1642363,Clifford,N. Clifford,129,241,27,Missed,1,,,0,h,MISS Clifford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022501184,164,PT00M29.30S,1,1610612744,GSW,1630311,Spencer,P. Spencer,0,0,0,,0,,,0,v,Spencer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022501184,165,PT00M07.90S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,22,110,11,Missed,1,,,0,v,MISS Porzingis 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,118
+0022501184,166,PT00M04.30S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022501184,167,PT00M02.30S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski Personal Take Foul (P1.T4) (P.O'Connell),Foul,Personal Take,1,0,120
+0022501184,169,PT00M02.30S,1,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Payton II FOR Porzingis,Substitution,,0,0,121
+0022501184,171,PT00M00.20S,1,1610612758,SAC,1642928,Cardwell,D. Cardwell,-65,284,29,Made,1,32,27,59,h,Cardwell 29' 3PT Jump Shot (3 PTS) (McDermott 1 AST),Made Shot,Jump Shot,1,3,122
+0022501184,173,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,27,59,,End of 1st Period (10:38 PM EST),period,end,1,0,123
+0022501184,174,PT00M00.00S,1,0,,171,,,0,0,0,,0,32,27,59,,Instant Replay1st Period (10:38 PM EST),Instant Replay,Support Ruling,0,0,124
+0022501184,181,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,27,59,,Start of 2nd Period (10:41 PM EST),period,start,0,0,125
+0022501184,182,PT11M53.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,126
+0022501184,182,PT11M53.00S,2,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos STEAL (1 STL),,,1,0,127
+0022501184,184,PT11M48.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,128
+0022501184,186,PT11M48.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,32,28,60,v,Melton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,129
+0022501184,187,PT11M48.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,32,29,61,v,Melton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022501184,188,PT11M23.00S,2,1610612758,SAC,1628370,Monk,M. Monk,23,227,23,Missed,1,,,0,h,MISS Monk 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,131
+0022501184,189,PT11M18.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022501184,190,PT11M12.00S,2,1610612744,GSW,1629001,Melton,D. Melton,39,24,5,Made,1,32,31,63,v,Melton 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,133
+0022501184,191,PT11M05.00S,2,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,1,0,134
+0022501184,193,PT11M05.00S,2,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,33,31,64,h,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,135
+0022501184,194,PT11M05.00S,2,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,SUB: Green FOR Santos,Substitution,,0,0,136
+0022501184,196,PT11M05.00S,2,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,34,31,65,h,Hayes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,137
+0022501184,197,PT10M52.00S,2,1610612744,GSW,201939,Curry,S. Curry,21,256,26,Missed,1,,,0,v,MISS St. Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022501184,197,PT10M52.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk BLOCK (1 BLK),,,1,3,139
+0022501184,199,PT10M51.00S,2,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022501184,200,PT10M48.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,141
+0022501184,200,PT10M48.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton STEAL (1 STL),,,1,0,142
+0022501184,202,PT10M47.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton Traveling Turnover (P1.T6),Turnover,Traveling,1,0,143
+0022501184,203,PT10M44.00S,2,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,144
+0022501184,203,PT10M44.00S,2,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II STEAL (1 STL),,,1,0,145
+0022501184,205,PT10M28.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,146
+0022501184,205,PT10M28.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell STEAL (1 STL),,,1,0,147
+0022501184,207,PT10M20.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis S.FOUL (P1.T2) (P.O'Connell),Foul,Shooting,1,0,148
+0022501184,209,PT10M20.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,MISS Cardwell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,149
+0022501184,210,PT10M20.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,150
+0022501184,211,PT10M20.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,MISS Cardwell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,151
+0022501184,212,PT10M17.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,152
+0022501184,213,PT09M58.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,-109,51,12,Missed,1,,,0,v,MISS Porzingis 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,153
+0022501184,217,PT09M55.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0,154
+0022501184,214,PT09M55.00S,2,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Jump Ball Hayes vs. Porzingis: Tip to Green,Jump Ball,,1,0,155
+0022501184,218,PT09M49.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,-11,88,9,Missed,1,,,0,v,MISS Porzingis 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,156
+0022501184,218,PT09M49.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk BLOCK (2 BLK),,,1,2,157
+0022501184,220,PT09M45.00S,2,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,158
+0022501184,221,PT09M43.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,159
+0022501184,221,PT09M43.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell STEAL (2 STL),,,1,0,160
+0022501184,226,PT09M38.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,161
+0022501184,224,PT09M26.00S,2,1610612744,GSW,1627780,Payton II,G. Payton II,36,80,9,Made,1,34,33,67,v,Payton II 9' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,162
+0022501184,225,PT09M16.00S,2,1610612758,SAC,203926,McDermott,D. McDermott,0,55,6,Missed,1,,,0,h,MISS McDermott 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,163
+0022501184,227,PT09M16.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+0022501184,228,PT09M16.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,Made,1,36,33,69,h,Cardwell Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,165
+0022501184,229,PT08M58.00S,2,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes P.FOUL (P1.T2) (T.Brothers),Foul,Personal,1,0,166
+0022501184,231,PT08M58.00S,2,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Santos FOR Payton II,Substitution,,0,0,167
+0022501184,233,PT08M53.00S,2,1610612744,GSW,1630611,Santos,G. Santos,26,47,5,Missed,1,,,0,v,MISS Santos 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,168
+0022501184,235,PT08M52.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,169
+0022501184,236,PT08M52.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,6,21,2,Made,1,36,35,71,v,Porzingis 2' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,170
+0022501184,237,PT08M52.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,171
+0022501184,239,PT08M52.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: Raynaud FOR Monk,Substitution,,0,0,172
+0022501184,240,PT08M52.00S,2,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,SUB: Plowden FOR Hayes,Substitution,,0,0,173
+0022501184,241,PT08M52.00S,2,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,SUB: Carter FOR Cardwell,Substitution,,0,0,174
+0022501184,245,PT08M52.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,36,36,72,v,Porzingis Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,175
+0022501184,246,PT08M37.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,83,8,Made,1,38,36,74,h,Clifford 8' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,2,176
+0022501184,247,PT08M23.00S,2,1610612744,GSW,201939,Curry,S. Curry,-21,34,4,Missed,1,,,0,v,MISS St. Curry 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,177
+0022501184,248,PT08M20.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,178
+0022501184,249,PT08M17.00S,2,1610612758,SAC,203926,McDermott,D. McDermott,183,199,27,Missed,1,,,0,h,MISS McDermott 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,179
+0022501184,250,PT08M15.00S,2,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,180
+0022501184,251,PT08M11.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,2,62,6,Made,1,40,36,76,h,Clifford 6' Cutting Layup Shot (6 PTS) (Raynaud 1 AST),Made Shot,Cutting Layup Shot,1,2,181
+0022501184,253,PT07M57.00S,2,1610612744,GSW,1629001,Melton,D. Melton,-156,215,27,Made,1,40,39,79,v,Melton 27' 3PT Jump Shot (7 PTS) (Porzingis 1 AST),Made Shot,Jump Shot,1,3,182
+0022501184,255,PT07M42.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,-37,281,28,Made,1,43,39,82,h,Clifford 28' 3PT Jump Shot (9 PTS) (Raynaud 2 AST),Made Shot,Jump Shot,1,3,183
+0022501184,257,PT07M21.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,184
+0022501184,257,PT07M21.00S,2,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden STEAL (1 STL),,,1,0,185
+0022501184,259,PT07M18.00S,2,1610612758,SAC,1642269,Carter,D. Carter,-1,38,4,Made,1,45,39,84,h,Carter 4' Running Dunk (4 PTS) (Plowden 2 AST),Made Shot,Running Dunk Shot,1,2,186
+0022501184,261,PT07M06.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford P.FOUL (P2.T4) (P.O'Connell),Foul,Personal,1,0,187
+0022501184,263,PT07M06.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Horford FOR Porzingis,Substitution,,0,0,188
+0022501184,264,PT07M06.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,SUB: Podziemski FOR Melton,Substitution,,0,0,189
+0022501184,267,PT07M00.00S,2,1610612744,GSW,201939,Curry,S. Curry,-107,237,26,Missed,1,,,0,v,MISS St. Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,190
+0022501184,268,PT06M58.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,191
+0022501184,270,PT06M58.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,192
+0022501184,271,PT06M58.00S,2,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: Achiuwa FOR McDermott,Substitution,,0,0,193
+0022501184,272,PT06M58.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Melton FOR St. Curry,Substitution,,0,0,194
+0022501184,275,PT06M39.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,-148,242,28,Made,1,48,39,87,h,Raynaud 28' 3PT Jump Shot (5 PTS) (Achiuwa 3 AST),Made Shot,Jump Shot,1,3,195
+0022501184,277,PT06M20.00S,2,1610612744,GSW,1630611,Santos,G. Santos,219,137,26,Missed,1,,,0,v,MISS Santos 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+0022501184,278,PT06M16.00S,2,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,197
+0022501184,279,PT06M07.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,198
+0022501184,279,PT06M07.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,199
+0022501184,281,PT06M02.00S,2,1610612744,GSW,1630611,Santos,G. Santos,28,42,5,Missed,1,,,0,v,MISS Santos 5' Running Layup,Missed Shot,Running Layup Shot,1,2,200
+0022501184,282,PT06M00.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,201
+0022501184,283,PT05M54.00S,2,1610612758,SAC,1642269,Carter,D. Carter,2,48,5,Made,1,50,39,89,h,Carter 5' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,202
+0022501184,284,PT05M29.00S,2,1610612744,GSW,1629001,Melton,D. Melton,-173,187,25,Made,1,50,42,92,v,Melton 25' 3PT Jump Shot (10 PTS) (Santos 3 AST),Made Shot,Jump Shot,1,3,203
+0022501184,286,PT05M07.00S,2,1610612758,SAC,1642269,Carter,D. Carter,163,241,29,Made,1,53,42,95,h,Carter 29' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,204
+0022501184,287,PT04M41.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,78,267,28,Missed,1,,,0,v,MISS Podziemski 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022501184,288,PT04M38.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,206
+0022501184,289,PT04M34.00S,2,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,207
+0022501184,291,PT04M34.00S,2,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,MISS Achiuwa Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,208
+0022501184,292,PT04M34.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,209
+0022501184,293,PT04M34.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Porzingis FOR Green,Substitution,,0,0,210
+0022501184,295,PT04M34.00S,2,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,54,42,96,h,Achiuwa Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,211
+0022501184,296,PT04M20.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,9,167,17,Missed,1,,,0,v,MISS Porzingis 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,212
+0022501184,297,PT04M17.00S,2,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,213
+0022501184,298,PT04M05.00S,2,1610612758,SAC,1642363,Clifford,N. Clifford,71,269,28,Made,1,57,42,99,h,Clifford 28' 3PT Jump Shot (12 PTS) (Achiuwa 4 AST),Made Shot,Jump Shot,1,3,214
+0022501184,300,PT03M45.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,-44,260,26,Missed,1,,,0,v,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022501184,301,PT03M42.00S,2,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,216
+0022501184,302,PT03M38.00S,2,1610612758,SAC,1642269,Carter,D. Carter,40,281,28,Missed,1,,,0,h,MISS Carter 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,217
+0022501184,303,PT03M35.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,218
+0022501184,304,PT03M21.00S,2,1610612744,GSW,1629001,Melton,D. Melton,56,263,27,Made,1,57,45,102,v,Melton 27' 3PT Jump Shot (13 PTS) (Santos 4 AST),Made Shot,Jump Shot,1,3,219
+0022501184,306,PT02M56.00S,2,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,48,160,17,Missed,1,,,0,h,MISS Achiuwa 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,220
+0022501184,307,PT02M54.00S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,221
+0022501184,308,PT02M46.00S,2,1610612744,GSW,1630611,Santos,G. Santos,-218,152,27,Missed,1,,,0,v,MISS Santos 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022501184,309,PT02M41.00S,2,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,223
+0022501184,310,PT02M33.00S,2,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos S.FOUL (P3.T4) (P.O'Connell),Foul,Shooting,1,0,224
+0022501184,312,PT02M33.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,225
+0022501184,321,PT02M33.00S,2,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,MISS Carter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,226
+0022501184,322,PT02M33.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,227
+0022501184,738,PT02M33.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Leons FOR Podziemski,Substitution,,0,0,228
+0022501184,739,PT02M33.00S,2,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,SUB: Richard FOR Santos,Substitution,,0,0,229
+0022501184,740,PT02M33.00S,2,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Spencer FOR Horford,Substitution,,0,0,230
+0022501184,741,PT02M33.00S,2,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Bassey FOR Porzingis,Substitution,,0,0,231
+0022501184,323,PT02M33.00S,2,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,MISS Carter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,232
+0022501184,324,PT02M31.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,233
+0022501184,326,PT02M12.00S,2,1610612744,GSW,1642954,Richard,W. Richard,-233,29,0,Missed,1,,,0,v,MISS Richard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0022501184,327,PT02M09.00S,2,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,235
+0022501184,328,PT01M59.00S,2,1610612758,SAC,1631342,Plowden,D. Plowden,15,109,11,Missed,1,,,0,h,MISS Plowden 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2,236
+0022501184,328,PT01M59.00S,2,1610612744,GSW,1642954,Richard,W. Richard,0,0,0,,0,,,0,v,Richard BLOCK (1 BLK),,,1,2,237
+0022501184,330,PT01M57.00S,2,1610612744,GSW,1642954,Richard,W. Richard,0,0,0,,0,,,0,v,Richard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,238
+0022501184,331,PT01M39.00S,2,1610612744,GSW,1642502,Leons,M. Leons,22,26,3,Made,1,57,47,104,v,Leons 3' Driving Reverse Layup (2 PTS) (Melton 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,239
+0022501184,333,PT01M17.00S,2,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey P.FOUL (P1.PN) (P.O'Connell),Foul,Personal,1,0,240
+0022501184,335,PT01M17.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,58,47,105,h,Raynaud Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+0022501184,336,PT01M17.00S,2,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,MISS Raynaud Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,242
+0022501184,337,PT01M14.00S,2,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,243
+0022501184,338,PT00M59.50S,2,1610612744,GSW,1629001,Melton,D. Melton,94,34,10,Made,1,58,49,107,v,Melton 10' Jump Bank Shot (15 PTS),Made Shot,Jump Bank Shot,1,2,244
+0022501184,339,PT00M40.80S,2,1610612758,SAC,1642269,Carter,D. Carter,-153,235,28,Made,1,61,49,110,h,Carter 28' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,245
+0022501184,340,PT00M33.80S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford P.FOUL (P3.PN) (B.Schwab),Foul,Personal,1,0,246
+0022501184,342,PT00M33.80S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,61,50,111,v,Melton Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,247
+0022501184,343,PT00M33.80S,2,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,SUB: Hayes FOR Clifford,Substitution,,0,0,248
+0022501184,345,PT00M33.80S,2,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,61,51,112,v,Melton Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+0022501184,346,PT00M16.60S,2,1610612758,SAC,1631342,Plowden,D. Plowden,-9,71,7,Made,1,63,51,114,h,Plowden 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,250
+0022501184,347,PT00M02.80S,2,1610612744,GSW,1629001,Melton,D. Melton,31,266,27,Missed,1,,,0,v,MISS Melton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,251
+0022501184,348,PT00M00.90S,2,1610612744,GSW,1642954,Richard,W. Richard,0,0,0,,0,,,0,v,Richard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,252
+0022501184,349,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,51,114,,End of 2nd Period (11:08 PM EST),period,end,1,0,253
+0022501184,362,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,51,114,,Start of 3rd Period (11:24 PM EST),period,start,1,0,254
+0022501184,363,PT11M46.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,-82,250,26,Missed,1,,,0,h,MISS Plowden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022501184,364,PT11M42.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,256
+0022501184,365,PT11M40.00S,3,1610612758,SAC,1642269,Carter,D. Carter,11,31,3,Made,1,65,51,116,h,Carter 3' Driving Reverse Layup (14 PTS),Made Shot,Driving Reverse Layup Shot,1,2,257
+0022501184,366,PT11M30.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,-82,289,30,Missed,1,,,0,v,MISS Porzingis 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0022501184,367,PT11M29.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,259
+0022501184,368,PT11M19.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,120,227,26,Missed,1,,,0,h,MISS Achiuwa 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022501184,369,PT11M16.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,261
+0022501184,371,PT11M07.00S,3,1610612744,GSW,201939,Curry,S. Curry,-66,265,27,Made,1,65,54,119,v,St. Curry 27' 3PT Jump Shot (6 PTS) (Green 3 AST),Made Shot,Jump Shot,1,3,262
+0022501184,373,PT10M45.00S,3,1610612758,SAC,1642363,Clifford,N. Clifford,104,243,26,Missed,1,,,0,h,MISS Clifford 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,263
+0022501184,374,PT10M42.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,264
+0022501184,375,PT10M35.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter FLAGRANT.FOUL.TYPE1 (P1.T1) (T.Brothers),Foul,Flagrant Type 1,1,0,265
+0022501184,377,PT10M35.00S,3,0,,375,Rider,I. Rider,0,0,0,,0,65,54,119,,Instant Replay3rd Period (11:26 PM EST),Instant Replay,Overturn Ruling,0,0,266
+0022501184,378,PT10M35.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,65,55,120,v,Green Free Throw Flagrant 1 of 2 (6 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,267
+0022501184,379,PT10M35.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,65,56,121,v,Green Free Throw Flagrant 2 of 2 (7 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,268
+0022501184,380,PT10M26.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,-85,139,16,Made,1,65,58,123,v,Podziemski 16' Driving Floating Bank Jump Shot (8 PTS) (Santos 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,269
+0022501184,382,PT10M26.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,270
+0022501184,384,PT10M26.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,65,59,124,v,Podziemski Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,271
+0022501184,385,PT10M08.00S,3,1610612758,SAC,1642269,Carter,D. Carter,38,129,13,Missed,1,,,0,h,MISS Carter 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,272
+0022501184,385,PT10M08.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis BLOCK (1 BLK),,,1,2,273
+0022501184,387,PT10M05.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,274
+0022501184,388,PT10M02.00S,3,1610612744,GSW,1630611,Santos,G. Santos,-39,43,6,Missed,1,,,0,v,MISS Santos 6' Running Layup,Missed Shot,Running Layup Shot,1,2,275
+0022501184,389,PT10M00.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,276
+0022501184,390,PT09M56.00S,3,1610612758,SAC,1642269,Carter,D. Carter,6,279,28,Missed,1,,,0,h,MISS Carter 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,277
+0022501184,391,PT09M52.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,278
+0022501184,392,PT09M47.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,29,52,6,Missed,1,,,0,h,MISS Plowden 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,279
+0022501184,393,PT09M46.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,280
+0022501184,394,PT09M45.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,281
+0022501184,394,PT09M45.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud STEAL (1 STL),,,1,0,282
+0022501184,396,PT09M44.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P1.T1) (P.O'Connell),Foul,Personal,1,0,283
+0022501184,398,PT09M32.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,-238,52,24,Missed,1,,,0,h,MISS Achiuwa 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+0022501184,399,PT09M29.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0,285
+0022501184,401,PT09M18.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,-17,46,5,Made,1,65,61,126,v,Podziemski 5' Driving Layup (11 PTS) (Green 4 AST),Made Shot,Driving Layup Shot,1,2,286
+0022501184,403,PT09M11.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,-172,193,26,Missed,1,,,0,h,MISS Plowden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022501184,404,PT09M07.00S,3,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,288
+0022501184,405,PT08M58.00S,3,1610612744,GSW,201939,Curry,S. Curry,-29,28,4,Made,1,65,63,128,v,St. Curry 4' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,289
+0022501184,406,PT08M58.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,290
+0022501184,407,PT08M58.00S,3,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,SUB: Payton II FOR Santos,Substitution,,0,0,291
+0022501184,409,PT08M42.00S,3,1610612758,SAC,1642269,Carter,D. Carter,127,232,26,Made,1,68,63,131,h,Carter 26' 3PT Pullup Jump Shot (17 PTS) (Clifford 2 AST),Made Shot,Pullup Jump shot,1,3,292
+0022501184,411,PT08M16.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,107,75,13,Made,1,68,65,133,v,Porzingis 13' Fadeaway Jumper (9 PTS) (St. Curry 3 AST),Made Shot,Fadeaway Jump Shot,1,2,293
+0022501184,413,PT07M59.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Jump Ball Plowden vs. Payton II: Tip to Porzingis,Jump Ball,,1,0,294
+0022501184,416,PT07M59.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,295
+0022501184,416,PT07M59.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II STEAL (2 STL),,,0,0,296
+0022501184,418,PT07M38.00S,3,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,297
+0022501184,419,PT07M38.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Melton FOR Podziemski,Substitution,,0,0,298
+0022501184,421,PT07M35.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa P.FOUL (P1.T3) (P.O'Connell),Foul,Personal,1,0,299
+0022501184,423,PT07M31.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II FLAGRANT.FOUL.TYPE1 (P2.T2) (P.O'Connell),Foul,Flagrant Type 1,1,0,300
+0022501184,425,PT07M31.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,301
+0022501184,426,PT07M31.00S,3,0,,423,Gatling,C. Gatling,0,0,0,,0,68,65,133,,Instant Replay3rd Period (11:38 PM EST),Instant Replay,Overturn Ruling,0,0,302
+0022501184,427,PT07M31.00S,3,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,SUB: Hayes FOR Clifford,Substitution,,0,0,303
+0022501184,429,PT07M31.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,69,65,134,h,Carter Free Throw Flagrant 1 of 2 (18 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,304
+0022501184,430,PT07M31.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,MISS Carter Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,1,0,305
+0022501184,431,PT07M31.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,306
+0022501184,432,PT07M23.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II P.FOUL (P3.T3) (P.O'Connell),Foul,Personal,1,0,307
+0022501184,434,PT07M18.00S,3,1610612758,SAC,1642269,Carter,D. Carter,-167,214,27,Missed,1,,,0,h,MISS Carter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+0022501184,435,PT07M14.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,309
+0022501184,436,PT07M09.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,310
+0022501184,437,PT07M02.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa Traveling Turnover (P1.T10),Turnover,Traveling,1,0,311
+0022501184,438,PT07M02.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Horford FOR Porzingis,Substitution,,0,0,312
+0022501184,440,PT06M53.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,-1,54,5,Made,1,69,67,136,v,Payton II 5' Driving Layup (6 PTS) (Green 5 AST),Made Shot,Driving Layup Shot,1,2,313
+0022501184,442,PT06M36.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,225,48,0,Missed,1,,,0,h,MISS Plowden 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0022501184,443,PT06M36.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,315
+0022501184,444,PT06M24.00S,3,1610612758,SAC,1630165,Hayes,K. Hayes,-67,252,26,Missed,1,,,0,h,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022501184,445,PT06M21.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,317
+0022501184,446,PT06M17.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden P.FOUL (P2.T4) (B.Schwab),Foul,Personal,1,0,318
+0022501184,448,PT06M17.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,SUB: Cardwell FOR Achiuwa,Substitution,,0,0,319
+0022501184,450,PT06M11.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,10,49,5,Made,1,69,69,138,v,Payton II 5' Cutting Layup Shot (8 PTS) (Green 6 AST),Made Shot,Cutting Layup Shot,1,2,320
+0022501184,452,PT06M00.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,321
+0022501184,452,PT06M00.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry STEAL (2 STL),,,1,0,322
+0022501184,454,PT05M56.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,323
+0022501184,454,PT05M56.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden STEAL (2 STL),,,1,0,324
+0022501184,456,PT05M46.00S,3,1610612758,SAC,1642269,Carter,D. Carter,225,61,0,Made,1,72,69,141,h,Carter 3PT Jump Shot (21 PTS) (Plowden 3 AST),Made Shot,Jump Shot,1,3,325
+0022501184,458,PT05M36.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II OFF.Foul (P4) (T.Brothers),Foul,Offensive,1,0,326
+0022501184,460,PT05M36.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,327
+0022501184,461,PT05M36.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II T.FOUL (P4.T3) (T.Brothers),Foul,Technical,0,0,328
+0022501184,462,PT05M36.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,73,69,142,h,Raynaud Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,0,329
+0022501184,463,PT05M36.00S,3,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,SUB: McDermott FOR Plowden,Substitution,,0,0,330
+0022501184,466,PT05M21.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P2.T4) (B.Schwab),Foul,Personal,1,0,331
+0022501184,468,PT05M10.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,7,117,12,Made,1,75,69,144,h,Raynaud 12' Driving Floating Jump Shot (9 PTS) (Hayes 2 AST),Made Shot,Driving Floating Jump Shot,1,2,332
+0022501184,470,PT04M58.00S,3,1610612744,GSW,1629001,Melton,D. Melton,-151,239,28,Missed,1,,,0,v,MISS Melton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022501184,471,PT04M57.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,334
+0022501184,472,PT04M47.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,335
+0022501184,473,PT04M47.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Porzingis FOR Green,Substitution,,0,0,336
+0022501184,474,PT04M47.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Podziemski FOR St. Curry,Substitution,,0,0,337
+0022501184,477,PT04M39.00S,3,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Jump Ball Cardwell vs. Melton: Tip to Horford,Jump Ball,,1,0,338
+0022501184,480,PT04M35.00S,3,1610612744,GSW,201143,Horford,A. Horford,124,249,28,Made,1,75,72,147,v,Horford 28' 3PT Jump Shot (8 PTS) (Melton 3 AST),Made Shot,Jump Shot,1,3,339
+0022501184,482,PT04M33.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,St. Curry T.FOUL (P0.T4) (P.O'Connell),Foul,Technical,1,0,340
+0022501184,483,PT04M33.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,MISS Raynaud Free Throw Technical,Free Throw,Free Throw Technical,1,0,341
+0022501184,484,PT04M33.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,342
+0022501184,485,PT04M14.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,86,79,12,Missed,1,,,0,h,MISS Raynaud 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,343
+0022501184,486,PT04M11.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,344
+0022501184,487,PT04M08.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,-18,58,6,Made,1,75,74,149,v,Podziemski 6' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,345
+0022501184,488,PT03M48.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,-153,242,29,Missed,1,,,0,h,MISS Raynaud 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022501184,488,PT03M48.00S,3,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (1 BLK),,,1,3,347
+0022501184,490,PT03M47.00S,3,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,348
+0022501184,491,PT03M41.00S,3,1610612744,GSW,1629001,Melton,D. Melton,10,39,4,Missed,1,,,0,v,MISS Melton 4' Running Layup,Missed Shot,Running Layup Shot,1,2,349
+0022501184,492,PT03M40.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,350
+0022501184,495,PT03M26.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,235,61,24,Missed,1,,,0,h,MISS Raynaud 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+0022501184,496,PT03M22.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,352
+0022501184,497,PT03M14.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,-7,43,4,Made,1,75,76,151,v,Porzingis 4' Cutting Dunk Shot (11 PTS) (Horford 2 AST),Made Shot,Cutting Dunk Shot,1,2,353
+0022501184,499,PT02M48.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,45,89,10,Made,1,77,76,153,h,Raynaud 10' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,354
+0022501184,500,PT02M31.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,-37,38,5,Made,1,77,78,155,v,Payton II 5' Reverse Layup (10 PTS) (Porzingis 2 AST),Made Shot,Reverse Layup Shot,1,2,355
+0022501184,502,PT02M31.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Violation: Delay of game Violation,Violation,Delay Of Game,0,0,356
+0022501184,504,PT02M25.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,1,0,357
+0022501184,506,PT02M25.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,358
+0022501184,507,PT02M25.00S,3,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,SUB: Achiuwa FOR Carter,Substitution,,0,0,359
+0022501184,508,PT02M25.00S,3,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,SUB: Clifford FOR Raynaud,Substitution,,0,0,360
+0022501184,509,PT02M25.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Spencer FOR Payton II,Substitution,,0,0,361
+0022501184,510,PT02M25.00S,3,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,SUB: Santos FOR Melton,Substitution,,0,0,362
+0022501184,511,PT02M25.00S,3,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Leons FOR Horford,Substitution,,0,0,363
+0022501184,512,PT02M25.00S,3,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Bassey FOR Porzingis,Substitution,,0,0,364
+0022501184,519,PT02M25.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,78,78,156,h,McDermott Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,365
+0022501184,520,PT02M25.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,79,78,157,h,McDermott Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,366
+0022501184,521,PT02M25.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,80,78,158,h,McDermott Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,367
+0022501184,522,PT02M03.00S,3,1610612744,GSW,1629646,Bassey,C. Bassey,-1,109,11,Missed,1,,,0,v,MISS Bassey 11' Jump Shot,Missed Shot,Jump Shot,1,2,368
+0022501184,523,PT01M59.00S,3,1610612758,SAC,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,h,Achiuwa REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,369
+0022501184,524,PT01M51.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,67,83,11,Missed,1,,,0,h,MISS McDermott 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,370
+0022501184,525,PT01M48.00S,3,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,,,0,v,Leons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,371
+0022501184,526,PT01M43.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott P.FOUL (P2.PN) (B.Schwab),Foul,Personal,1,0,372
+0022501184,528,PT01M43.00S,3,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,80,79,159,v,Bassey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022501184,529,PT01M43.00S,3,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,80,80,160,v,Bassey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022501184,530,PT01M32.00S,3,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,,,0,v,Leons S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,1,0,375
+0022501184,532,PT01M32.00S,3,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,81,80,161,h,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,376
+0022501184,533,PT01M32.00S,3,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,82,80,162,h,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,377
+0022501184,534,PT01M20.00S,3,1610612744,GSW,1630611,Santos,G. Santos,129,249,28,Made,1,82,83,165,v,Santos 28' 3PT Jump Shot (5 PTS) (Spencer 1 AST),Made Shot,Jump Shot,1,3,378
+0022501184,536,PT01M00.00S,3,1610612758,SAC,203926,McDermott,D. McDermott,-61,251,26,Missed,1,,,0,h,MISS McDermott 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022501184,537,PT00M57.20S,3,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,380
+0022501184,538,PT00M53.20S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,4,33,3,Made,1,82,85,167,v,Podziemski 3' Running Layup (15 PTS) (Spencer 2 AST),Made Shot,Running Layup Shot,1,2,381
+0022501184,539,PT00M53.20S,3,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,1,0,382
+0022501184,542,PT00M53.20S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,82,86,168,v,Podziemski Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,383
+0022501184,543,PT00M34.50S,3,1610612758,SAC,1642363,Clifford,N. Clifford,-50,62,8,Missed,1,,,0,h,MISS Clifford 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+0022501184,544,PT00M32.40S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,385
+0022501184,545,PT00M26.30S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,87,275,29,Missed,1,,,0,v,MISS Podziemski 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,386
+0022501184,546,PT00M25.30S,3,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,,,0,v,Leons REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,387
+0022501184,547,PT00M12.40S,3,1610612744,GSW,1642502,Leons,M. Leons,-241,52,25,Made,1,82,89,171,v,Leons 25' 3PT Jump Shot (5 PTS) (Santos 6 AST),Made Shot,Jump Shot,1,3,388
+0022501184,549,PT00M00.20S,3,1610612758,SAC,1642363,Clifford,N. Clifford,119,260,29,Missed,1,,,0,h,MISS Clifford 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,389
+0022501184,550,PT00M00.10S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,390
+0022501184,551,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,89,171,,End of 3rd Period (12:00 AM EST),period,end,1,0,391
+0022501184,562,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,89,171,,Start of 4th Period (12:03 AM EST),period,start,1,0,392
+0022501184,563,PT11M46.00S,4,1610612744,GSW,201143,Horford,A. Horford,-11,34,4,Made,1,82,91,173,v,Horford 4' Cutting Layup Shot (10 PTS) (St. Curry 4 AST),Made Shot,Cutting Layup Shot,1,2,393
+0022501184,565,PT11M26.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,-89,34,10,Missed,1,,,0,h,MISS Clifford 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,394
+0022501184,566,PT11M24.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,395
+0022501184,567,PT11M23.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,-12,29,3,Missed,1,,,0,h,MISS Plowden 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,396
+0022501184,568,PT11M22.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,397
+0022501184,569,PT11M22.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,Made,1,84,91,175,h,Plowden Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,398
+0022501184,570,PT11M17.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,-10,33,3,Made,1,84,93,177,v,Podziemski 3' Driving Layup (18 PTS) (St. Curry 5 AST),Made Shot,Driving Layup Shot,1,2,399
+0022501184,573,PT11M01.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,136,236,27,Missed,1,,,0,h,MISS Plowden 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+0022501184,574,PT10M58.00S,4,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,401
+0022501184,575,PT10M50.00S,4,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P3.T1) (P.O'Connell),Foul,Shooting,1,0,402
+0022501184,577,PT10M50.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,84,94,178,v,Podziemski Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+0022501184,578,PT10M50.00S,4,1610612758,SAC,1630165,Hayes,K. Hayes,0,0,0,,0,,,0,h,SUB: Raynaud FOR Hayes,Substitution,,0,0,404
+0022501184,579,PT10M50.00S,4,1610612758,SAC,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: Carter FOR McDermott,Substitution,,0,0,405
+0022501184,582,PT10M50.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,84,95,179,v,Podziemski Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,406
+0022501184,583,PT10M39.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,-232,9,0,Made,1,87,95,182,h,Plowden 3PT Jump Shot (13 PTS) (Raynaud 3 AST),Made Shot,Jump Shot,1,3,407
+0022501184,585,PT10M09.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,130,243,28,Missed,1,,,0,v,MISS Podziemski 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,408
+0022501184,585,PT10M09.00S,4,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter BLOCK (1 BLK),,,1,3,409
+0022501184,586,PT10M08.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,410
+0022501184,587,PT09M58.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,125,246,28,Missed,1,,,0,h,MISS Plowden 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022501184,588,PT09M53.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,412
+0022501184,589,PT09M51.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,135,120,18,Missed,1,,,0,h,MISS Cardwell 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,413
+0022501184,590,PT09M49.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,414
+0022501184,591,PT09M48.00S,4,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,Melton S.FOUL (P2.T1) (P.O'Connell),Foul,Shooting,1,0,415
+0022501184,593,PT09M48.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,88,95,183,h,Clifford Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+0022501184,594,PT09M48.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,89,95,184,h,Clifford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+0022501184,595,PT09M35.00S,4,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis 3 Second Violation Turnover (P4.T15),Turnover,3 Second Violation,1,0,418
+0022501184,596,PT09M11.00S,4,1610612758,SAC,1642269,Carter,D. Carter,33,304,31,Made,1,92,95,187,h,Carter 31' 3PT Pullup Jump Shot (24 PTS) (Cardwell 1 AST),Made Shot,Pullup Jump shot,1,3,419
+0022501184,598,PT08M56.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,420
+0022501184,600,PT08M56.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,92,96,188,v,St. Curry Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,1,0,421
+0022501184,602,PT08M56.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,92,97,189,v,St. Curry Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,1,0,422
+0022501184,603,PT08M56.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Santos FOR Podziemski,Substitution,,0,0,423
+0022501184,605,PT08M56.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,92,98,190,v,St. Curry Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,1,0,424
+0022501184,606,PT08M40.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,425
+0022501184,606,PT08M40.00S,4,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos STEAL (2 STL),,,1,0,426
+0022501184,608,PT08M24.00S,4,1610612744,GSW,201143,Horford,A. Horford,36,41,5,Missed,1,,,0,v,MISS Horford 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,427
+0022501184,608,PT08M24.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell BLOCK (1 BLK),,,1,2,428
+0022501184,610,PT08M20.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,429
+0022501184,611,PT08M15.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,430
+0022501184,611,PT08M15.00S,4,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis STEAL (1 STL),,,1,0,431
+0022501184,613,PT08M09.00S,4,1610612744,GSW,201143,Horford,A. Horford,-186,211,28,Missed,1,,,0,v,MISS Horford 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,432
+0022501184,614,PT08M06.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,433
+0022501184,615,PT07M57.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,116,246,27,Missed,1,,,0,h,MISS Plowden 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0022501184,616,PT07M55.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,435
+0022501184,617,PT07M53.00S,4,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,Porzingis S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,1,0,436
+0022501184,619,PT07M53.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,MISS Clifford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,437
+0022501184,620,PT07M53.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,438
+0022501184,621,PT07M53.00S,4,1610612744,GSW,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,v,SUB: Payton II FOR Porzingis,Substitution,,0,0,439
+0022501184,622,PT07M53.00S,4,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,SUB: Podziemski FOR Melton,Substitution,,0,0,440
+0022501184,623,PT07M53.00S,4,1610612744,GSW,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Bassey FOR Horford,Substitution,,0,0,441
+0022501184,627,PT07M53.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,93,98,191,h,Clifford Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,442
+0022501184,628,PT07M33.00S,4,1610612744,GSW,1630611,Santos,G. Santos,-21,73,8,Missed,1,,,0,v,MISS Santos 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,443
+0022501184,628,PT07M33.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell BLOCK (2 BLK),,,1,2,444
+0022501184,630,PT07M30.00S,4,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,445
+0022501184,631,PT07M23.00S,4,1610612758,SAC,1642269,Carter,D. Carter,11,22,2,Made,1,95,98,193,h,Carter 2' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,446
+0022501184,632,PT07M11.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,-18,107,11,Missed,1,,,0,v,MISS Bassey 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,447
+0022501184,633,PT07M07.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,448
+0022501184,634,PT07M01.00S,4,1610612758,SAC,1642269,Carter,D. Carter,-167,213,27,Made,1,98,98,196,h,Carter 27' 3PT Running Pull-Up Jump Shot (29 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,449
+0022501184,635,PT06M48.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,450
+0022501184,636,PT06M48.00S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II T.FOUL (P4.T2) (T.Brothers),Foul,Technical,0,0,451
+0022501184,649,PT06M48.00S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II Ejection:Other,Ejection,Other,0,0,452
+0022501184,637,PT06M48.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Spencer FOR St. Curry,Substitution,,0,0,453
+0022501184,638,PT06M48.00S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Leons FOR Payton II,Substitution,,0,0,454
+0022501184,641,PT06M48.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,99,98,197,h,Clifford Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,1,0,455
+0022501184,642,PT06M42.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud S.FOUL (P2.T3) (P.O'Connell),Foul,Shooting,1,0,456
+0022501184,645,PT06M42.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,99,99,198,v,Podziemski Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,457
+0022501184,646,PT06M42.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,99,100,199,v,Podziemski Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,458
+0022501184,647,PT06M24.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,39,55,7,Made,1,101,100,201,h,Raynaud 7' Jump Bank Shot (13 PTS) (Clifford 3 AST),Made Shot,Jump Bank Shot,1,2,459
+0022501184,650,PT06M16.00S,4,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter P.FOUL (P2.T4) (T.Brothers),Foul,Personal,1,0,460
+0022501184,652,PT06M16.00S,4,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,SUB: Melton FOR Santos,Substitution,,0,0,461
+0022501184,654,PT06M02.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski Traveling Turnover (P2.T16),Turnover,Traveling,1,0,462
+0022501184,655,PT05M41.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,1,0,463
+0022501184,657,PT05M41.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,102,100,202,h,Clifford Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,464
+0022501184,658,PT05M41.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,103,100,203,h,Clifford Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,465
+0022501184,659,PT05M32.00S,4,1610612744,GSW,1629001,Melton,D. Melton,7,290,29,Missed,1,,,0,v,MISS Melton 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,466
+0022501184,660,PT05M28.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,467
+0022501184,661,PT05M16.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,233,47,24,Made,1,106,100,206,h,Raynaud 24' 3PT Jump Shot (16 PTS) (Clifford 4 AST),Made Shot,Jump Shot,1,3,468
+0022501184,663,PT04M56.00S,4,1610612744,GSW,1630311,Spencer,P. Spencer,-28,44,5,Made,1,106,102,208,v,Spencer 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,469
+0022501184,664,PT04M35.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,-58,58,8,Missed,1,,,0,h,MISS Cardwell 8' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,470
+0022501184,665,PT04M34.00S,4,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,471
+0022501184,666,PT04M33.00S,4,1610612758,SAC,1642269,Carter,D. Carter,-205,168,27,Missed,1,,,0,h,MISS Carter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022501184,667,PT04M32.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,473
+0022501184,668,PT04M28.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,1,0,474
+0022501184,670,PT04M28.00S,4,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,106,103,209,v,Leons Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,475
+0022501184,671,PT04M28.00S,4,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,106,104,210,v,Leons Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,476
+0022501184,672,PT04M19.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,-138,231,27,Made,1,109,104,213,h,Plowden 27' 3PT Jump Shot (16 PTS) (Raynaud 4 AST),Made Shot,Jump Shot,1,3,477
+0022501184,674,PT04M05.00S,4,1610612744,GSW,1642502,Leons,M. Leons,34,42,5,Missed,1,,,0,v,MISS Leons 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,478
+0022501184,675,PT04M03.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,479
+0022501184,676,PT04M03.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,-4,53,5,Made,1,109,106,215,v,Bassey 5' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,480
+0022501184,677,PT03M55.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,481
+0022501184,678,PT03M55.00S,4,1610612744,GSW,1629001,Melton,D. Melton,0,0,0,,0,,,0,v,SUB: Santos FOR Melton,Substitution,,0,0,482
+0022501184,680,PT03M42.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,-44,45,6,Missed,1,,,0,h,MISS Cardwell 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,483
+0022501184,681,PT03M41.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,484
+0022501184,682,PT03M41.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,10,11,1,Made,1,111,106,217,h,Plowden 1' Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,485
+0022501184,683,PT03M36.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell S.FOUL (P4.PN) (B.Schwab),Foul,Shooting,1,0,486
+0022501184,685,PT03M36.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,111,107,218,v,Podziemski Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022501184,686,PT03M36.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,111,108,219,v,Podziemski Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0022501184,687,PT03M24.00S,4,1610612758,SAC,1642269,Carter,D. Carter,167,258,31,Missed,1,,,0,h,MISS Carter 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022501184,688,PT03M19.00S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,490
+0022501184,689,PT03M07.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,491
+0022501184,689,PT03M07.00S,4,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,,,0,v,Leons STEAL (1 STL),,,1,0,492
+0022501184,691,PT02M53.00S,4,1610612744,GSW,1630611,Santos,G. Santos,-6,47,5,Made,1,111,110,221,v,Santos 5' Driving Floating Bank Jump Shot (7 PTS) (Bassey 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,493
+0022501184,692,PT02M38.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,83,37,9,Made,1,113,110,223,h,Raynaud 9' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,494
+0022501184,693,PT02M14.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,-13,44,5,Made,1,113,112,225,v,Podziemski 5' Driving Layup (26 PTS) (Spencer 3 AST),Made Shot,Driving Layup Shot,1,2,495
+0022501184,695,PT01M58.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,42,82,9,Made,1,115,112,227,h,Raynaud 9' Driving Floating Jump Shot (20 PTS) (Carter 4 AST),Made Shot,Driving Floating Jump Shot,1,2,496
+0022501184,697,PT01M58.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P3.T4) (B.Schwab),Foul,Shooting,1,0,497
+0022501184,699,PT01M58.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,116,112,228,h,Raynaud Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,498
+0022501184,700,PT01M46.00S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,0,0,0,,0,,,0,h,Raynaud S.FOUL (P3.PN) (B.Schwab),Foul,Shooting,1,0,499
+0022501184,702,PT01M46.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,116,113,229,v,Bassey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,500
+0022501184,703,PT01M46.00S,4,1610612744,GSW,1629646,Bassey,C. Bassey,0,0,0,,0,116,114,230,v,Bassey Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,501
+0022501184,704,PT01M33.00S,4,1610612758,SAC,1642269,Carter,D. Carter,0,0,0,,0,,,0,h,Carter Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,502
+0022501184,704,PT01M33.00S,4,1610612744,GSW,1642502,Leons,M. Leons,0,0,0,,0,,,0,v,Leons STEAL (2 STL),,,1,0,503
+0022501184,706,PT01M28.00S,4,1610612744,GSW,1630611,Santos,G. Santos,12,38,4,Missed,1,,,0,v,MISS Santos 4' Running Layup,Missed Shot,Running Layup Shot,1,2,504
+0022501184,707,PT01M26.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,,,0,h,Plowden REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,505
+0022501184,708,PT01M25.00S,4,1610612744,GSW,1630311,Spencer,P. Spencer,0,0,0,,0,,,0,v,Spencer P.FOUL (P1.PN) (T.Brothers),Foul,Personal,1,0,506
+0022501184,710,PT01M25.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,117,114,231,h,Plowden Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+0022501184,711,PT01M25.00S,4,1610612758,SAC,1631342,Plowden,D. Plowden,0,0,0,,0,118,114,232,h,Plowden Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,508
+0022501184,712,PT01M11.00S,4,1610612744,GSW,1630311,Spencer,P. Spencer,-21,290,29,Missed,1,,,0,v,MISS Spencer 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022501184,713,PT01M06.00S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,510
+0022501184,714,PT00M54.70S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,-1,25,3,Made,1,120,114,234,h,Cardwell 3' Cutting Layup Shot (7 PTS) (Clifford 5 AST),Made Shot,Cutting Layup Shot,1,2,511
+0022501184,716,PT00M49.20S,4,1610612744,GSW,1630311,Spencer,P. Spencer,-208,199,29,Missed,1,,,0,v,MISS Spencer 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,512
+0022501184,717,PT00M46.90S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,513
+0022501184,719,PT00M46.90S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,514
+0022501184,720,PT00M44.80S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,238,-3,24,Made,1,120,117,237,v,Podziemski 24' 3PT Fadeaway Jumper (29 PTS) (Spencer 4 AST),Made Shot,Fadeaway Jump Shot,1,3,515
+0022501184,722,PT00M25.90S,4,1610612744,GSW,1630611,Santos,G. Santos,0,0,0,,0,,,0,v,Santos P.FOUL (P4.PN) (P.O'Connell),Foul,Personal,1,0,516
+0022501184,724,PT00M25.90S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,121,117,238,h,Clifford Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,517
+0022501184,725,PT00M25.90S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,122,117,239,h,Clifford Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,518
+0022501184,726,PT00M18.30S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,-53,47,7,Missed,1,,,0,v,MISS Podziemski 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,519
+0022501184,727,PT00M16.10S,4,1610612758,SAC,1642363,Clifford,N. Clifford,0,0,0,,0,,,0,h,Clifford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,520
+0022501184,728,PT00M09.90S,4,1610612758,SAC,1642875,Raynaud,M. Raynaud,13,21,2,Made,1,124,117,241,h,Raynaud 2' Cutting Dunk Shot (23 PTS) (Clifford 6 AST),Made Shot,Cutting Dunk Shot,1,2,521
+0022501184,730,PT00M04.50S,4,1610612758,SAC,1642928,Cardwell,D. Cardwell,0,0,0,,0,,,0,h,Cardwell S.FOUL (P5.PN) (P.O'Connell),Foul,Shooting,1,0,522
+0022501184,732,PT00M04.50S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,MISS Podziemski Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,523
+0022501184,733,PT00M04.50S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0,524
+0022501184,734,PT00M04.50S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,124,118,242,v,Podziemski Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,525
+0022501184,735,PT00M00.00S,4,0,,0,,,0,0,0,,0,124,118,242,,End of 4th Period (12:37 AM EST),period,end,1,0,526

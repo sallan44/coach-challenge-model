@@ -1,0 +1,520 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022301172,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:15 PM EST),period,start,0,0,1
+0022301172,4,PT12M00.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Jump Ball Vukcevic vs. Green: Tip to Avdija,Jump Ball,,1,0,2
+0022301172,7,PT11M47.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,3
+0022301172,9,PT11M47.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,MISS Vukcevic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,4
+0022301172,10,PT11M47.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,5
+0022301172,11,PT11M47.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,1,0,1,h,Vukcevic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,6
+0022301172,12,PT11M33.00S,1,1610612741,CHI,1641931,Bitim,O. Bitim,17,120,12,Missed,1,,,0,v,MISS Bitim 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,7
+0022301172,13,PT11M31.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022301172,14,PT11M28.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,191,166,25,Made,1,4,0,4,h,Vukcevic 25' 3PT Running Jump Shot (4 PTS) (Avdija 1 AST),Made Shot,Running Jump Shot,1,3,9
+0022301172,16,PT11M17.00S,1,1610612741,CHI,1628470,Craig,T. Craig,-141,246,28,Missed,1,,,0,v,MISS Craig 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+0022301172,17,PT11M14.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022301172,18,PT11M03.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,227,17,0,Missed,1,,,0,h,MISS Kispert 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022301172,19,PT11M01.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022301172,20,PT10M42.00S,1,1610612741,CHI,1641931,Bitim,O. Bitim,42,6,4,Made,1,4,2,6,v,Bitim 4' Driving Layup (2 PTS) (White 1 AST),Made Shot,Driving Layup Shot,1,2,14
+0022301172,22,PT10M37.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-20,1,2,Made,1,6,2,8,h,Vukcevic 2' Driving Layup (6 PTS) (Kispert 1 AST),Made Shot,Driving Layup Shot,1,2,15
+0022301172,24,PT10M37.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,1,0,16
+0022301172,26,PT10M37.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,7,2,9,h,Vukcevic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,17
+0022301172,27,PT10M17.00S,1,1610612741,CHI,1628470,Craig,T. Craig,-4,73,7,Missed,1,,,0,v,MISS Craig 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,18
+0022301172,28,PT10M15.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,19
+0022301172,29,PT10M12.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,20
+0022301172,31,PT10M12.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,8,2,10,h,Vukcevic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+0022301172,32,PT10M12.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,9,2,11,h,Vukcevic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+0022301172,33,PT10M04.00S,1,1610612741,CHI,1629632,White,C. White,39,31,5,Missed,1,,,0,v,MISS White 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+0022301172,33,PT10M04.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic BLOCK (1 BLK),,,1,2,24
+0022301172,35,PT10M00.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022301172,36,PT09M58.00S,1,1610612764,WAS,1631098,Davis,J. Davis,-33,0,3,Made,1,11,2,13,h,Davis 3' Running Layup (2 PTS) (Avdija 2 AST),Made Shot,Running Layup Shot,1,2,26
+0022301172,38,PT09M43.00S,1,1610612741,CHI,1641931,Bitim,O. Bitim,129,258,29,Missed,1,,,0,v,MISS Bitim 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022301172,39,PT09M39.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+0022301172,40,PT09M33.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,234,99,25,Missed,1,,,0,h,MISS Baldwin Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,29
+0022301172,41,PT09M30.00S,1,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022301172,42,PT09M23.00S,1,1610612741,CHI,1629632,White,C. White,-61,15,6,Missed,1,,,0,v,MISS White 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+0022301172,43,PT09M20.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,32
+0022301172,44,PT09M16.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,12,0,1,Made,1,13,2,15,h,Avdija 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,33
+0022301172,45,PT09M02.00S,1,1610612741,CHI,1631207,Terry,D. Terry,230,-5,0,Made,1,13,5,18,v,Terry 3PT Jump Shot (3 PTS) (White 2 AST),Made Shot,Jump Shot,1,3,34
+0022301172,47,PT08M48.00S,1,1610612764,WAS,1631098,Davis,J. Davis,87,243,26,Made,1,16,5,21,h,Davis 26' 3PT Jump Shot (5 PTS) (Kispert 2 AST),Made Shot,Jump Shot,1,3,35
+0022301172,49,PT08M47.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,36
+0022301172,50,PT08M30.00S,1,1610612741,CHI,1629750,Green,J. Green,-246,-11,25,Missed,1,,,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+0022301172,51,PT08M26.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,38
+0022301172,52,PT08M16.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,39
+0022301172,52,PT08M16.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry STEAL (1 STL),,,1,0,40
+0022301172,54,PT08M13.00S,1,1610612741,CHI,1629750,Green,J. Green,12,-5,1,Made,1,16,7,23,v,Green 1' Running Dunk (2 PTS) (Terry 1 AST),Made Shot,Running Dunk Shot,1,2,41
+0022301172,56,PT07M50.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-53,17,6,Missed,1,,,0,h,MISS Avdija 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,42
+0022301172,57,PT07M50.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,1,0,43
+0022301172,59,PT07M34.00S,1,1610612741,CHI,1628470,Craig,T. Craig,1,29,3,Missed,1,,,0,v,MISS Craig 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,44
+0022301172,60,PT07M31.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,45
+0022301172,61,PT07M27.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,125,25,13,Made,1,18,7,25,h,Vukcevic 13' Running Pull-Up Jump Shot (11 PTS) (Baldwin Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,1,2,46
+0022301172,63,PT07M18.00S,1,1610612741,CHI,1631207,Terry,D. Terry,27,7,3,Made,1,18,9,27,v,Terry 3' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,47
+0022301172,64,PT07M18.00S,1,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0,48
+0022301172,66,PT07M18.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,SUB: Gill FOR Vukcevic,Substitution,,0,0,49
+0022301172,67,PT07M18.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Carter FOR White,Substitution,,0,0,50
+0022301172,70,PT07M18.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,18,10,28,v,Terry Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,51
+0022301172,71,PT07M07.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-65,267,27,Made,1,21,10,31,h,Avdija 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,52
+0022301172,72,PT06M46.00S,1,1610612741,CHI,1628975,Carter,J. Carter,59,165,18,Made,1,21,12,33,v,Carter 18' Pullup Jump Shot (2 PTS) (Terry 2 AST),Made Shot,Pullup Jump shot,1,2,53
+0022301172,73,PT06M32.00S,1,1610612764,WAS,1631098,Davis,J. Davis,-237,-22,24,Made,1,24,12,36,h,Davis 24' 3PT Jump Shot (8 PTS) (Gill 1 AST),Made Shot,Jump Shot,1,3,54
+0022301172,75,PT06M13.00S,1,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,55
+0022301172,75,PT06M13.00S,1,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,0,56
+0022301172,77,PT06M06.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,12,19,2,Missed,1,,,0,h,MISS Avdija 2' Running Layup,Missed Shot,Running Layup Shot,1,2,57
+0022301172,77,PT06M06.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry BLOCK (1 BLK),,,1,2,58
+0022301172,78,PT06M06.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022301172,79,PT06M00.00S,1,1610612741,CHI,1629750,Green,J. Green,16,8,2,Made,1,24,14,38,v,Green 2' Running Layup (4 PTS) (Terry 3 AST),Made Shot,Running Layup Shot,1,2,60
+0022301172,81,PT05M47.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,186,225,29,Made,1,27,14,41,h,Baldwin Jr. 29' 3PT Jump Shot (3 PTS) (Avdija 3 AST),Made Shot,Jump Shot,1,3,61
+0022301172,83,PT05M36.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,62
+0022301172,85,PT05M36.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,63
+0022301172,86,PT05M36.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,1,0,64
+0022301172,87,PT05M36.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Butler FOR Avdija,Substitution,,0,0,65
+0022301172,88,PT05M36.00S,1,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,SUB: Sanogo FOR Bitim,Substitution,,0,0,66
+0022301172,89,PT05M36.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: Funk FOR Green,Substitution,,0,0,67
+0022301172,93,PT05M36.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,68
+0022301172,94,PT05M34.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,69
+0022301172,95,PT05M20.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,28,297,30,Made,1,30,14,44,h,Kispert 30' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,1,3,70
+0022301172,97,PT05M19.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,71
+0022301172,101,PT05M11.00S,1,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis P.FOUL (P2.T3) (K.Lane),Foul,Personal,1,0,72
+0022301172,103,PT05M01.00S,1,1610612741,CHI,1628975,Carter,J. Carter,-71,253,26,Made,1,30,17,47,v,Carter 26' 3PT Pullup Jump Shot (5 PTS) (Craig 1 AST),Made Shot,Pullup Jump shot,1,3,73
+0022301172,105,PT04M37.00S,1,1610612764,WAS,1630264,Gill,A. Gill,15,268,27,Missed,1,,,0,h,MISS Gill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022301172,106,PT04M35.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+0022301172,107,PT04M28.00S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,Gill S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,76
+0022301172,109,PT04M28.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,30,18,48,v,Terry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,77
+0022301172,110,PT04M28.00S,1,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,SUB: Champagnie FOR Davis,Substitution,,0,0,78
+0022301172,111,PT04M28.00S,1,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,SUB: Drell FOR Craig,Substitution,,0,0,79
+0022301172,114,PT04M28.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,30,19,49,v,Terry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,80
+0022301172,115,PT04M15.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,-39,253,26,Missed,1,,,0,h,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022301172,116,PT04M13.00S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022301172,117,PT03M59.00S,1,1610612741,CHI,1631207,Terry,D. Terry,115,97,15,Missed,1,,,0,v,MISS Terry 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,83
+0022301172,118,PT03M55.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022301172,119,PT03M45.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-241,-12,24,Missed,1,,,0,h,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022301172,120,PT03M42.00S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022301172,121,PT03M32.00S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,50,75,9,Missed,1,,,0,v,MISS Sanogo 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,87
+0022301172,121,PT03M32.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie BLOCK (1 BLK),,,1,2,88
+0022301172,123,PT03M29.00S,1,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022301172,127,PT03M27.00S,1,1610612764,WAS,1630264,Gill,A. Gill,-18,63,7,Missed,1,,,0,h,MISS Gill 7' Running Layup,Missed Shot,Running Layup Shot,1,2,90
+0022301172,127,PT03M27.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry BLOCK (2 BLK),,,1,2,91
+0022301172,129,PT03M27.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,92
+0022301172,131,PT03M27.00S,1,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: White FOR Terry,Substitution,,0,0,93
+0022301172,133,PT03M25.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,-235,-10,24,Made,1,33,19,52,h,Kispert 24' 3PT Jump Shot (6 PTS) (Butler 2 AST),Made Shot,Jump Shot,0,3,94
+0022301172,135,PT03M09.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,95
+0022301172,135,PT03M09.00S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,Gill STEAL (1 STL),,,1,0,96
+0022301172,181,PT03M06.00S,1,1610612764,WAS,1630264,Gill,A. Gill,-7,53,5,Missed,1,,,0,h,MISS Gill 5' Running Layup,Missed Shot,Running Layup Shot,1,2,97
+0022301172,181,PT03M06.00S,1,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter BLOCK (1 BLK),,,1,2,98
+0022301172,183,PT03M06.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,99
+0022301172,140,PT03M06.00S,1,0,,137,Maxwell,V. Maxwell,0,0,0,,0,33,19,52,,Instant Replay1st Period (7:35 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,100
+0022301172,141,PT03M06.00S,1,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,SUB: Omoruyi FOR Baldwin Jr.,Substitution,,0,0,101
+0022301172,142,PT03M06.00S,1,1610612741,CHI,1641847,Funk,A. Funk,0,0,0,,0,,,0,v,SUB: Green FOR Funk,Substitution,,0,0,102
+0022301172,145,PT02M48.00S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,-45,95,11,Made,1,33,21,54,v,Sanogo 11' Hook Shot (2 PTS) (Carter 1 AST),Made Shot,Hook Shot,1,2,103
+0022301172,147,PT02M32.00S,1,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,224,16,0,Missed,1,,,0,h,MISS Omoruyi 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022301172,148,PT02M27.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022301172,178,PT02M13.00S,1,1610612741,CHI,1629632,White,C. White,0,22,2,Made,1,33,23,56,v,White 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,106
+0022301172,150,PT02M00.00S,1,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,-10,17,2,Made,1,35,23,58,h,Omoruyi 2' Cutting Dunk Shot (2 PTS) (Butler 3 AST),Made Shot,Cutting Dunk Shot,1,2,107
+0022301172,152,PT01M43.00S,1,1610612741,CHI,1630929,Drell,H. Drell,-234,34,24,Made,1,35,26,61,v,Drell 24' 3PT Jump Shot (3 PTS) (Carter 2 AST),Made Shot,Jump Shot,1,3,108
+0022301172,154,PT01M27.00S,1,1610612764,WAS,1630215,Butler,J. Butler,156,260,30,Missed,1,,,0,h,MISS Butler 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022301172,155,PT01M27.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+0022301172,156,PT01M17.00S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,-6,7,1,Missed,1,,,0,v,MISS Sanogo 1' Layup,Missed Shot,Layup Shot,1,2,111
+0022301172,157,PT01M14.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,0,112
+0022301172,159,PT01M14.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Avdija FOR Kispert,Substitution,,0,0,113
+0022301172,161,PT01M08.00S,1,1610612741,CHI,1630929,Drell,H. Drell,-188,200,27,Missed,1,,,0,v,MISS Drell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022301172,162,PT01M08.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022301172,163,PT01M05.00S,1,1610612741,CHI,1629750,Green,J. Green,4,6,1,Made,1,35,28,63,v,Green 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,116
+0022301172,164,PT00M55.30S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-5,69,7,Made,1,37,28,65,h,Avdija 7' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,117
+0022301172,166,PT00M39.00S,1,1610612741,CHI,1629750,Green,J. Green,232,-1,0,Made,1,37,31,68,v,Green 3PT Jump Shot (9 PTS) (White 3 AST),Made Shot,Jump Shot,1,3,118
+0022301172,168,PT00M31.10S,1,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,119
+0022301172,170,PT00M31.10S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,38,31,69,h,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022301172,171,PT00M31.10S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,39,31,70,h,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+0022301172,172,PT00M13.70S,1,1610612741,CHI,1629632,White,C. White,20,13,2,Made,1,39,33,72,v,White 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,122
+0022301172,173,PT00M13.70S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie Violation:Defensive Goaltending (B.Barnaky),Violation,Defensive Goaltending,1,0,123
+0022301172,174,PT00M01.80S,1,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,124
+0022301172,176,PT00M01.80S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,125
+0022301172,177,PT00M01.80S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,126
+0022301172,179,PT00M01.80S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,40,33,73,h,Avdija Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+0022301172,180,PT00M00.00S,1,0,,0,,,0,0,0,,0,40,33,73,,End of 1st Period (7:43 PM EST),period,end,1,0,128
+0022301172,189,PT12M00.00S,2,0,,0,,,0,0,0,,0,40,33,73,,Start of 2nd Period (7:46 PM EST),period,start,0,0,129
+0022301172,190,PT11M51.00S,2,1610612741,CHI,1629750,Green,J. Green,229,11,0,Missed,1,,,0,v,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022301172,191,PT11M46.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,131
+0022301172,192,PT11M38.00S,2,1610612741,CHI,1630929,Drell,H. Drell,42,32,5,Missed,1,,,0,v,MISS Drell 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,132
+0022301172,193,PT11M36.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022301172,194,PT11M36.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,-31,8,3,Missed,1,,,0,v,MISS Sanogo 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,134
+0022301172,195,PT11M35.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,135
+0022301172,196,PT11M35.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,-22,18,3,Missed,1,,,0,v,MISS Sanogo 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,136
+0022301172,197,PT11M32.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,137
+0022301172,198,PT11M19.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,138
+0022301172,198,PT11M19.00S,2,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell STEAL (1 STL),,,1,0,139
+0022301172,200,PT11M15.00S,2,1610612741,CHI,1628975,Carter,J. Carter,-210,130,25,Missed,1,,,0,v,MISS Carter 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,140
+0022301172,201,PT11M14.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,141
+0022301172,266,PT11M12.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,142
+0022301172,266,PT11M12.00S,2,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler STEAL (1 STL),,,1,0,143
+0022301172,202,PT11M08.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-11,10,1,Made,1,42,33,75,h,Champagnie 1' Running Dunk (2 PTS) (Butler 4 AST),Made Shot,Running Dunk Shot,1,2,144
+0022301172,204,PT10M47.00S,2,1610612741,CHI,1629750,Green,J. Green,-23,60,6,Made,1,42,35,77,v,Green 6' Floating Jump Shot (11 PTS) (Carter 3 AST),Made Shot,Floating Jump shot,1,2,145
+0022301172,206,PT10M47.00S,2,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,146
+0022301172,208,PT10M47.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,42,36,78,v,Green Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,147
+0022301172,209,PT10M31.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,5,287,29,Missed,1,,,0,h,MISS Vukcevic 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022301172,210,PT10M29.00S,2,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+0022301172,211,PT10M19.00S,2,1610612741,CHI,1629632,White,C. White,-149,118,19,Made,1,42,38,80,v,White 19' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,150
+0022301172,212,PT10M03.00S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-243,51,25,Missed,1,,,0,h,MISS Baldwin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022301172,213,PT09M57.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,152
+0022301172,214,PT09M57.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,Missed,1,,,0,h,MISS Champagnie Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,153
+0022301172,215,PT09M57.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,154
+0022301172,216,PT09M53.00S,2,1610612741,CHI,1629750,Green,J. Green,229,4,0,Made,1,42,41,83,v,Green 3PT Running Jump Shot (15 PTS) (Carter 4 AST),Made Shot,Running Jump Shot,1,3,155
+0022301172,218,PT09M53.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,156
+0022301172,219,PT09M53.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Terry FOR Carter,Substitution,,0,0,157
+0022301172,221,PT09M37.00S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,158
+0022301172,221,PT09M37.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo STEAL (1 STL),,,1,0,159
+0022301172,223,PT09M29.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,13,-4,1,Made,1,42,43,85,v,Sanogo 1' Cutting Layup Shot (4 PTS) (Terry 4 AST),Made Shot,Cutting Layup Shot,1,2,160
+0022301172,225,PT09M13.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,11,20,2,Made,1,44,43,87,h,Avdija 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,161
+0022301172,226,PT08M55.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,56,39,7,Missed,1,,,0,v,MISS Sanogo 7' Hook Shot,Missed Shot,Hook Shot,1,2,162
+0022301172,227,PT08M52.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022301172,228,PT08M46.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-26,26,4,Missed,1,,,0,h,MISS Champagnie 4' Running Layup,Missed Shot,Running Layup Shot,1,2,164
+0022301172,229,PT08M45.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,165
+0022301172,230,PT08M42.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,166
+0022301172,232,PT08M42.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Carter FOR White,Substitution,,0,0,167
+0022301172,233,PT08M42.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: Craig FOR Green,Substitution,,0,0,168
+0022301172,236,PT08M23.00S,2,1610612764,WAS,1630215,Butler,J. Butler,-233,-4,0,Made,1,47,43,90,h,Butler 3PT Jump Shot (3 PTS) (Vukcevic 1 AST),Made Shot,Jump Shot,1,3,169
+0022301172,265,PT08M03.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,1,0,170
+0022301172,239,PT08M03.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,SUB: Gill FOR Vukcevic,Substitution,,0,0,171
+0022301172,240,PT08M03.00S,2,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,SUB: Bitim FOR Drell,Substitution,,0,0,172
+0022301172,243,PT07M54.00S,2,1610612764,WAS,1630215,Butler,J. Butler,9,17,2,Made,1,49,43,92,h,Butler 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,173
+0022301172,244,PT07M33.00S,2,1610612741,CHI,1631207,Terry,D. Terry,47,20,5,Made,1,49,45,94,v,Terry 5' Driving Layup (10 PTS) (Carter 5 AST),Made Shot,Driving Layup Shot,1,2,174
+0022301172,245,PT07M26.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P2.T1) (M.Kogut),Foul,Personal,1,0,175
+0022301172,247,PT07M26.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Davis FOR Avdija,Substitution,,0,0,176
+0022301172,248,PT07M26.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Kispert FOR Champagnie,Substitution,,0,0,177
+0022301172,249,PT07M26.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,SUB: Green FOR Sanogo,Substitution,,0,0,178
+0022301172,253,PT07M13.00S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,45,38,6,Made,1,51,45,96,h,Baldwin Jr. 6' Driving Layup (5 PTS) (Butler 5 AST),Made Shot,Driving Layup Shot,1,2,179
+0022301172,254,PT06M58.00S,2,1610612741,CHI,1628975,Carter,J. Carter,223,2,0,Missed,1,,,0,v,MISS Carter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022301172,256,PT06M58.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,181
+0022301172,258,PT06M54.00S,2,1610612741,CHI,1629750,Green,J. Green,-47,32,6,Made,1,51,47,98,v,Green 6' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,1,2,182
+0022301172,259,PT06M30.00S,2,1610612764,WAS,1630215,Butler,J. Butler,172,194,26,Missed,1,,,0,h,MISS Butler 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,183
+0022301172,260,PT06M30.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+0022301172,261,PT06M22.00S,2,1610612741,CHI,1628470,Craig,T. Craig,-134,242,28,Made,1,51,50,101,v,Craig 28' 3PT Jump Shot (3 PTS) (Terry 5 AST),Made Shot,Jump Shot,1,3,185
+0022301172,263,PT06M14.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,186
+0022301172,269,PT06M00.00S,2,1610612764,WAS,1630264,Gill,A. Gill,26,57,6,Made,1,53,50,103,h,Gill 6' Cutting Layup Shot (4 PTS) (Butler 6 AST),Made Shot,Cutting Layup Shot,1,2,187
+0022301172,271,PT05M54.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,Gill P.FOUL (P2.T2) (K.Lane),Foul,Personal,1,0,188
+0022301172,273,PT05M40.00S,2,1610612741,CHI,1641931,Bitim,O. Bitim,-16,254,25,Made,1,53,53,106,v,Bitim 25' 3PT Step Back Jump Shot (5 PTS) (Carter 6 AST),Made Shot,Step Back Jump shot,1,3,189
+0022301172,275,PT05M40.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert S.FOUL (P2.T3) (K.Lane),Foul,Shooting,1,0,190
+0022301172,277,PT05M40.00S,2,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Avdija FOR Butler,Substitution,,0,0,191
+0022301172,279,PT05M40.00S,2,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,53,54,107,v,Bitim Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,192
+0022301172,280,PT05M22.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,1,63,6,Missed,1,,,0,h,MISS Avdija 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,193
+0022301172,281,PT05M20.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,194
+0022301172,282,PT05M09.00S,2,1610612741,CHI,1628975,Carter,J. Carter,1,159,16,Missed,1,,,0,v,MISS Carter 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,195
+0022301172,283,PT05M06.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+0022301172,284,PT04M52.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,51,11,5,Missed,1,,,0,h,MISS Kispert 5' Hook Shot,Missed Shot,Hook Shot,1,2,197
+0022301172,285,PT04M48.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,198
+0022301172,286,PT04M40.00S,2,1610612741,CHI,1641931,Bitim,O. Bitim,-16,216,22,Missed,1,,,0,v,MISS Bitim 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,199
+0022301172,287,PT04M37.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,200
+0022301172,288,PT04M32.00S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,224,115,25,Missed,1,,,0,h,MISS Baldwin Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,201
+0022301172,289,PT04M29.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,202
+0022301172,290,PT04M20.00S,2,1610612741,CHI,1629750,Green,J. Green,230,-8,0,Made,1,53,57,110,v,Green 3PT Jump Shot (20 PTS) (Terry 6 AST),Made Shot,Jump Shot,1,3,203
+0022301172,292,PT03M59.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,39,0,4,Made,1,55,57,112,h,Avdija 4' Cutting Layup Shot (12 PTS) (Kispert 3 AST),Made Shot,Cutting Layup Shot,1,2,204
+0022301172,294,PT03M59.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry S.FOUL (P3.T2) (K.Lane),Foul,Shooting,1,0,205
+0022301172,296,PT03M59.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: White FOR Green,Substitution,,0,0,206
+0022301172,298,PT03M59.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,207
+0022301172,299,PT03M59.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,208
+0022301172,300,PT03M43.00S,2,1610612741,CHI,1631207,Terry,D. Terry,-205,172,27,Missed,1,,,0,v,MISS Terry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+0022301172,301,PT03M41.00S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,210
+0022301172,302,PT03M38.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-200,180,27,Made,1,58,57,115,h,Kispert 27' 3PT Running Jump Shot (9 PTS) (Baldwin Jr. 2 AST),Made Shot,Running Jump Shot,1,3,211
+0022301172,304,PT03M12.00S,2,1610612741,CHI,1628975,Carter,J. Carter,176,57,19,Made,1,58,59,117,v,Carter 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,212
+0022301172,305,PT03M00.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-211,166,27,Missed,1,,,0,h,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022301172,306,PT02M59.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,214
+0022301172,307,PT02M59.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry L.B.FOUL (P4.T3) (M.Kogut),Foul,Loose Ball,1,0,215
+0022301172,309,PT02M59.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,SUB: Vukcevic FOR Gill,Substitution,,0,0,216
+0022301172,310,PT02M59.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: Sanogo FOR Terry,Substitution,,0,0,217
+0022301172,313,PT02M53.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,218
+0022301172,313,PT02M53.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig STEAL (1 STL),,,1,0,219
+0022301172,315,PT02M43.00S,2,1610612741,CHI,1629632,White,C. White,123,31,13,Made,1,58,61,119,v,White 13' Fadeaway Bank Shot (8 PTS),Made Shot,Fadeaway Bank shot,1,2,220
+0022301172,316,PT02M19.00S,2,1610612764,WAS,1631098,Davis,J. Davis,219,158,27,Missed,1,,,0,h,MISS Davis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+0022301172,317,PT02M19.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,222
+0022301172,318,PT02M04.00S,2,1610612741,CHI,1641766,Sanogo,A. Sanogo,-28,2,3,Made,1,58,63,121,v,Sanogo 3' Layup (6 PTS) (Carter 7 AST),Made Shot,Layup Shot,1,2,223
+0022301172,320,PT01M50.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-2,281,28,Missed,1,,,0,h,MISS Vukcevic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022301172,321,PT01M49.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,225
+0022301172,348,PT01M48.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,226
+0022301172,348,PT01M48.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White STEAL (1 STL),,,1,0,227
+0022301172,322,PT01M40.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,228
+0022301172,323,PT01M23.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig P.FOUL (P1.T4) (M.Kogut),Foul,Personal,1,0,229
+0022301172,325,PT01M16.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,161,225,28,Missed,1,,,0,h,MISS Avdija 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022301172,326,PT01M14.00S,2,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,231
+0022301172,327,PT01M04.00S,2,1610612741,CHI,1629632,White,C. White,23,12,3,Made,1,58,65,123,v,White 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,232
+0022301172,328,PT00M50.50S,2,1610612764,WAS,1631098,Davis,J. Davis,-7,278,28,Made,1,61,65,126,h,Davis 28' 3PT Jump Shot (11 PTS) (Avdija 4 AST),Made Shot,Jump Shot,1,3,233
+0022301172,330,PT00M30.10S,2,1610612741,CHI,1641931,Bitim,O. Bitim,-244,67,25,Missed,1,,,0,v,MISS Bitim 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,234
+0022301172,331,PT00M30.10S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,235
+0022301172,332,PT00M16.00S,2,1610612741,CHI,1629632,White,C. White,-158,118,20,Missed,1,,,0,v,MISS White 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,236
+0022301172,333,PT00M12.60S,2,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,237
+0022301172,334,PT00M10.60S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,White S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,238
+0022301172,336,PT00M10.60S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,62,65,127,h,Vukcevic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+0022301172,337,PT00M10.60S,2,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,SUB: Omoruyi FOR Davis,Substitution,,0,0,240
+0022301172,338,PT00M10.60S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Butler FOR Kispert,Substitution,,0,0,241
+0022301172,341,PT00M10.60S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,MISS Vukcevic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,242
+0022301172,342,PT00M08.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,243
+0022301172,343,PT00M00.10S,2,1610612741,CHI,1629632,White,C. White,180,97,20,Missed,1,,,0,v,MISS White 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,244
+0022301172,344,PT00M00.10S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,1,0,245
+0022301172,345,PT00M00.00S,2,0,,0,,,0,0,0,,0,62,65,127,,End of 2nd Period (8:10 PM EST),period,end,1,0,246
+0022301172,360,PT12M00.00S,3,0,,0,,,0,0,0,,0,62,65,127,,Start of 3rd Period (8:26 PM EST),period,start,0,0,247
+0022301172,361,PT12M00.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Violation: Delay of game Violation,Violation,Delay Of Game,0,0,248
+0022301172,362,PT11M42.00S,3,1610612741,CHI,1629750,Green,J. Green,235,37,24,Missed,1,,,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0022301172,363,PT11M40.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,250
+0022301172,365,PT11M24.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,184,175,25,Made,1,65,65,130,h,Vukcevic 25' 3PT Jump Shot (15 PTS) (Baldwin Jr. 3 AST),Made Shot,Jump Shot,1,3,251
+0022301172,367,PT11M15.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,252
+0022301172,369,PT10M58.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo P.FOUL (P2.T1) (B.Barnaky),Foul,Personal,1,0,253
+0022301172,371,PT10M46.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,181,207,27,Made,1,68,65,133,h,Baldwin Jr. 27' 3PT Jump Shot (8 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,3,254
+0022301172,373,PT10M31.00S,3,1610612741,CHI,1629750,Green,J. Green,-45,59,7,Missed,1,,,0,v,MISS Green 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,255
+0022301172,374,PT10M28.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,256
+0022301172,375,PT10M27.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-32,45,6,Missed,1,,,0,v,MISS Sanogo 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,257
+0022301172,376,PT10M26.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,258
+0022301172,377,PT10M25.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-33,42,5,Missed,1,,,0,v,MISS Sanogo 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,259
+0022301172,378,PT10M23.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,260
+0022301172,379,PT10M17.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,-4,21,2,Made,1,70,65,135,h,Avdija 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,261
+0022301172,380,PT10M17.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,262
+0022301172,381,PT10M17.00S,3,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,SUB: Bitim FOR Drell,Substitution,,0,0,263
+0022301172,383,PT09M56.00S,3,1610612741,CHI,1629632,White,C. White,168,138,22,Missed,1,,,0,v,MISS White 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,264
+0022301172,384,PT09M54.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,265
+0022301172,440,PT09M54.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,2,30,3,Missed,1,,,0,v,MISS Sanogo 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,266
+0022301172,441,PT09M54.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,267
+0022301172,385,PT09M52.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-5,-6,1,Made,1,70,67,137,v,Sanogo 1' Layup (8 PTS),Made Shot,Layup Shot,1,2,268
+0022301172,386,PT09M52.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,269
+0022301172,388,PT09M52.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,70,68,138,v,Sanogo Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,270
+0022301172,389,PT09M41.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-71,253,26,Missed,1,,,0,h,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022301172,390,PT09M36.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,272
+0022301172,391,PT09M33.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,-241,119,27,Missed,1,,,0,v,MISS Bitim 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,273
+0022301172,392,PT09M31.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,274
+0022301172,393,PT09M26.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,275
+0022301172,393,PT09M26.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,276
+0022301172,395,PT09M20.00S,3,1610612741,CHI,1631207,Terry,D. Terry,4,4,1,Made,1,70,70,140,v,Terry 1' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,277
+0022301172,397,PT09M07.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,278
+0022301172,399,PT09M07.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,71,70,141,h,Avdija Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,279
+0022301172,400,PT09M07.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,SUB: Gill FOR Vukcevic,Substitution,,0,0,280
+0022301172,402,PT09M07.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,72,70,142,h,Avdija Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+0022301172,403,PT08M50.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-4,17,2,Made,1,72,72,144,v,Sanogo 2' Hook Shot (11 PTS) (Terry 7 AST),Made Shot,Hook Shot,1,2,282
+0022301172,405,PT08M42.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P5.T3) (K.Lane),Foul,Personal,1,0,283
+0022301172,407,PT08M42.00S,3,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,SUB: Craig FOR Terry,Substitution,,0,0,284
+0022301172,409,PT08M36.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-102,270,29,Made,1,75,72,147,h,Baldwin Jr. 29' 3PT Jump Shot (11 PTS) (Avdija 5 AST),Made Shot,Jump Shot,1,3,285
+0022301172,411,PT08M20.00S,3,1610612741,CHI,1629632,White,C. White,31,10,3,Missed,1,,,0,v,MISS White 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,286
+0022301172,412,PT08M18.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:7 Def:4),Rebound,Unknown,1,0,287
+0022301172,413,PT08M18.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-31,-1,3,Missed,1,,,0,v,MISS Sanogo 3' Layup,Missed Shot,Layup Shot,1,2,288
+0022301172,414,PT08M18.00S,3,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,289
+0022301172,415,PT08M10.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,18,4,2,Made,1,77,72,149,h,Kispert 2' Running Layup (11 PTS) (Davis 2 AST),Made Shot,Running Layup Shot,1,2,290
+0022301172,417,PT07M58.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,-26,6,3,Made,1,77,74,151,v,Sanogo 3' Cutting Layup Shot (13 PTS) (Craig 2 AST),Made Shot,Cutting Layup Shot,1,2,291
+0022301172,419,PT07M51.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo P.FOUL (P3.T4) (M.Kogut),Foul,Personal,1,0,292
+0022301172,421,PT07M38.00S,3,1610612764,WAS,1631098,Davis,J. Davis,-153,112,19,Missed,1,,,0,h,MISS Davis 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,293
+0022301172,422,PT07M36.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,294
+0022301172,423,PT07M30.00S,3,1610612741,CHI,1629632,White,C. White,55,46,7,Made,1,77,76,153,v,White 7' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,295
+0022301172,424,PT07M30.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0,296
+0022301172,426,PT07M30.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,77,77,154,v,White Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,297
+0022301172,427,PT07M18.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,298
+0022301172,427,PT07M18.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green STEAL (2 STL),,,1,0,299
+0022301172,429,PT07M13.00S,3,1610612741,CHI,1629750,Green,J. Green,69,103,12,Made,1,77,79,156,v,Green 12' Running Jump Shot (22 PTS),Made Shot,Running Jump Shot,1,2,300
+0022301172,430,PT07M00.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,214,162,27,Missed,1,,,0,h,MISS Baldwin Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022301172,431,PT06M58.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,302
+0022301172,432,PT06M44.00S,3,1610612741,CHI,1629632,White,C. White,11,9,1,Made,1,77,81,158,v,White 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,303
+0022301172,433,PT06M44.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,304
+0022301172,500,PT06M44.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Carter FOR White,Substitution,,0,0,305
+0022301172,442,PT06M39.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim P.FOUL (P2.PN) (M.Kogut),Foul,Personal,1,0,306
+0022301172,444,PT06M39.00S,3,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,78,81,159,h,Davis Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+0022301172,445,PT06M39.00S,3,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,308
+0022301172,446,PT06M37.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,309
+0022301172,447,PT06M35.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,119,238,27,Missed,1,,,0,h,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022301172,448,PT06M32.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,311
+0022301172,449,PT06M22.00S,3,1610612741,CHI,1629750,Green,J. Green,-55,269,27,Missed,1,,,0,v,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022301172,450,PT06M19.00S,3,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022301172,451,PT06M07.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,10,275,28,Missed,1,,,0,h,MISS Avdija 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,314
+0022301172,452,PT06M04.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,315
+0022301172,453,PT05M43.00S,3,1610612741,CHI,1629750,Green,J. Green,-13,35,4,Made,1,78,83,161,v,Green 4' Driving Floating Jump Shot (24 PTS) (Carter 8 AST),Made Shot,Driving Floating Jump Shot,1,2,316
+0022301172,455,PT05M23.00S,3,1610612764,WAS,1631098,Davis,J. Davis,170,190,25,Made,1,81,83,164,h,Davis 25' 3PT Jump Shot (15 PTS) (Kispert 4 AST),Made Shot,Jump Shot,1,3,317
+0022301172,457,PT05M02.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,15,42,4,Made,1,81,85,166,v,Sanogo 4' Floating Jump Shot (15 PTS) (Carter 9 AST),Made Shot,Floating Jump shot,1,2,318
+0022301172,459,PT04M43.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,4,15,2,Made,1,83,85,168,h,Baldwin Jr. 2' Driving Finger Roll Layup (13 PTS) (Kispert 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,319
+0022301172,461,PT04M33.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim Offensive Charge Foul (P3) (M.Kogut),Foul,Offensive Charge,1,0,320
+0022301172,463,PT04M33.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,321
+0022301172,464,PT04M33.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Butler FOR Avdija,Substitution,,0,0,322
+0022301172,465,PT04M33.00S,3,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,SUB: Omoruyi FOR Gill,Substitution,,0,0,323
+0022301172,467,PT04M33.00S,3,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,SUB: Drell FOR Bitim,Substitution,,0,0,324
+0022301172,474,PT04M33.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,,,0,v,SUB: Funk FOR Green,Substitution,,0,0,325
+0022301172,475,PT04M17.00S,3,1610612764,WAS,1630215,Butler,J. Butler,23,8,2,Made,1,85,85,170,h,Butler 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,326
+0022301172,476,PT04M06.00S,3,1610612741,CHI,1628470,Craig,T. Craig,-235,119,26,Made,1,85,88,173,v,Craig 26' 3PT Jump Shot (6 PTS) (Carter 10 AST),Made Shot,Jump Shot,1,3,327
+0022301172,478,PT03M49.00S,3,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,,,0,h,Omoruyi OFF.Foul (P1) (M.Kogut),Foul,Offensive,1,0,328
+0022301172,480,PT03M49.00S,3,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,,,0,h,Omoruyi Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,329
+0022301172,481,PT03M32.00S,3,1610612741,CHI,1630929,Drell,H. Drell,-40,17,4,Missed,1,,,0,v,MISS Drell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,330
+0022301172,481,PT03M32.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert BLOCK (1 BLK),,,1,2,331
+0022301172,483,PT03M29.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:8 Def:4),Rebound,Unknown,1,0,332
+0022301172,484,PT03M29.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,15,2,Missed,1,,,0,v,MISS Sanogo 2' Layup,Missed Shot,Layup Shot,1,2,333
+0022301172,484,PT03M29.00S,3,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,,,0,h,Omoruyi BLOCK (1 BLK),,,1,2,334
+0022301172,486,PT03M29.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:9 Def:4),Rebound,Unknown,1,0,335
+0022301172,487,PT03M24.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,16,2,Made,1,85,90,175,v,Sanogo 2' Layup (17 PTS),Made Shot,Layup Shot,1,2,336
+0022301172,488,PT03M20.00S,3,1610612764,WAS,1630215,Butler,J. Butler,-53,0,5,Missed,1,,,0,h,MISS Butler 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+0022301172,488,PT03M20.00S,3,1610612741,CHI,1641847,Funk,A. Funk,0,0,0,,0,,,0,v,Funk BLOCK (1 BLK),,,1,2,338
+0022301172,490,PT03M17.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,339
+0022301172,491,PT03M12.00S,3,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,340
+0022301172,491,PT03M12.00S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler STEAL (2 STL),,,1,0,341
+0022301172,493,PT03M07.00S,3,1610612764,WAS,1631098,Davis,J. Davis,-28,-11,3,Missed,1,,,0,h,MISS Davis 3' Running Layup,Missed Shot,Running Layup Shot,1,2,342
+0022301172,493,PT03M07.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig BLOCK (1 BLK),,,1,2,343
+0022301172,495,PT03M03.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,344
+0022301172,496,PT03M03.00S,3,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,-157,222,27,Made,1,88,90,178,h,Omoruyi 27' 3PT Jump Shot (5 PTS) (Kispert 6 AST),Made Shot,Jump Shot,1,3,345
+0022301172,498,PT02M49.00S,3,1610612741,CHI,1641847,Funk,A. Funk,237,0,24,Missed,1,,,0,v,MISS Funk 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022301172,499,PT02M46.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:4),Rebound,Unknown,1,0,347
+0022301172,502,PT02M42.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,348
+0022301172,502,PT02M42.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. STEAL (1 STL),,,1,0,349
+0022301172,504,PT02M30.00S,3,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,20,5,2,Missed,1,,,0,h,MISS Omoruyi 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,350
+0022301172,505,PT02M27.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,351
+0022301172,506,PT02M20.00S,3,1610612741,CHI,1628975,Carter,J. Carter,-6,268,27,Made,1,88,93,181,v,Carter 27' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,352
+0022301172,507,PT02M04.00S,3,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter P.FOUL (P1.PN) (K.Lane),Foul,Personal,1,0,353
+0022301172,509,PT02M04.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,89,93,182,h,Baldwin Jr. Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+0022301172,510,PT02M04.00S,3,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,SUB: Champagnie FOR Davis,Substitution,,0,0,355
+0022301172,511,PT02M04.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Avdija FOR Kispert,Substitution,,0,0,356
+0022301172,512,PT02M04.00S,3,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,SUB: Green FOR Sanogo,Substitution,,0,0,357
+0022301172,516,PT02M04.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,MISS Baldwin Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,358
+0022301172,517,PT02M02.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,359
+0022301172,518,PT01M51.00S,3,1610612741,CHI,1628470,Craig,T. Craig,-29,43,5,Made,1,89,95,184,v,Craig 5' Driving Layup (8 PTS) (Carter 11 AST),Made Shot,Driving Layup Shot,1,2,360
+0022301172,520,PT01M34.00S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-33,1,3,Made,1,91,95,186,h,Baldwin Jr. 3' Layup (16 PTS) (Avdija 6 AST),Made Shot,Layup Shot,1,2,361
+0022301172,521,PT01M21.00S,3,1610612741,CHI,1641847,Funk,A. Funk,224,105,25,Missed,1,,,0,v,MISS Funk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022301172,522,PT01M18.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,363
+0022301172,523,PT01M02.00S,3,1610612764,WAS,1630215,Butler,J. Butler,18,11,2,Made,1,93,95,188,h,Butler 2' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,364
+0022301172,524,PT00M50.90S,3,1610612741,CHI,1628975,Carter,J. Carter,-60,263,27,Made,1,93,98,191,v,Carter 27' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,3,365
+0022301172,525,PT00M33.70S,3,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,366
+0022301172,527,PT00M33.70S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,367
+0022301172,528,PT00M33.70S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,368
+0022301172,529,PT00M33.70S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,369
+0022301172,530,PT00M31.50S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,370
+0022301172,532,PT00M31.50S,3,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. P.FOUL (P1.T3) (M.Kogut),Foul,Personal,1,0,371
+0022301172,534,PT00M14.50S,3,1610612741,CHI,1628975,Carter,J. Carter,96,116,15,Missed,1,,,0,v,MISS Carter 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,372
+0022301172,535,PT00M10.50S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,373
+0022301172,536,PT00M00.80S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0,374
+0022301172,538,PT00M00.80S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,94,98,192,h,Butler Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+0022301172,539,PT00M00.80S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,95,98,193,h,Butler Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022301172,541,PT00M00.00S,3,0,,0,,,0,0,0,,0,95,98,193,,End of 3rd Period (8:51 PM EST),period,end,1,0,377
+0022301172,548,PT12M00.00S,4,0,,0,,,0,0,0,,0,95,98,193,,Start of 4th Period (8:54 PM EST),period,start,0,0,378
+0022301172,550,PT11M40.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,-2,267,27,Missed,1,,,0,h,MISS Champagnie 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022301172,551,PT11M37.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,380
+0022301172,552,PT11M21.00S,4,1610612741,CHI,1629632,White,C. White,115,138,18,Missed,1,,,0,v,MISS White 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,381
+0022301172,553,PT11M18.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,382
+0022301172,554,PT11M11.00S,4,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,1,-1,0,Made,1,97,98,195,h,Omoruyi Reverse Layup (7 PTS),Made Shot,Reverse Layup Shot,1,2,383
+0022301172,556,PT10M58.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,384
+0022301172,558,PT10M58.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,99,196,v,White Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+0022301172,559,PT10M58.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,100,197,v,White Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+0022301172,560,PT10M41.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,22,2,2,Made,1,99,100,199,h,Avdija 2' Cutting Layup Shot (18 PTS) (Butler 7 AST),Made Shot,Cutting Layup Shot,1,2,387
+0022301172,562,PT10M41.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,388
+0022301172,564,PT10M41.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,100,100,200,h,Avdija Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,389
+0022301172,565,PT10M21.00S,4,1610612741,CHI,1629632,White,C. White,-107,241,26,Missed,1,,,0,v,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301172,566,PT10M18.00S,4,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,391
+0022301172,567,PT10M16.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert S.FOUL (P4.T2) (B.Barnaky),Foul,Shooting,1,0,392
+0022301172,569,PT10M16.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,100,101,201,v,White Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0022301172,570,PT10M16.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,100,102,202,v,White Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022301172,571,PT10M02.00S,4,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,9,27,3,Missed,1,,,0,h,MISS Omoruyi 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,395
+0022301172,571,PT10M02.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell BLOCK (1 BLK),,,1,2,396
+0022301172,573,PT09M59.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:13),Rebound,Unknown,1,0,397
+0022301172,574,PT09M54.00S,4,1610612741,CHI,1628975,Carter,J. Carter,-178,194,26,Made,1,100,105,205,v,Carter 26' 3PT Pullup Jump Shot (16 PTS) (Drell 1 AST),Made Shot,Pullup Jump shot,1,3,398
+0022301172,576,PT09M36.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,69,253,26,Made,1,103,105,208,h,Kispert 26' 3PT Jump Shot (14 PTS) (Avdija 7 AST),Made Shot,Jump Shot,1,3,399
+0022301172,578,PT09M23.00S,4,1610612741,CHI,1628975,Carter,J. Carter,235,64,24,Missed,1,,,0,v,MISS Carter 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,400
+0022301172,579,PT09M20.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,401
+0022301172,580,PT09M13.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,402
+0022301172,580,PT09M13.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell STEAL (2 STL),,,1,0,403
+0022301172,582,PT09M10.00S,4,1610612741,CHI,1630929,Drell,H. Drell,-31,9,3,Made,1,103,107,210,v,Drell 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,404
+0022301172,583,PT08M57.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0,405
+0022301172,585,PT08M57.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,MISS Kispert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,406
+0022301172,586,PT08M57.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,407
+0022301172,587,PT08M57.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,SUB: Bitim FOR Craig,Substitution,,0,0,408
+0022301172,590,PT08M57.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,104,107,211,h,Kispert Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,409
+0022301172,591,PT08M37.00S,4,1610612741,CHI,1629632,White,C. White,-7,271,27,Missed,1,,,0,v,MISS White 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,410
+0022301172,592,PT08M34.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,411
+0022301172,593,PT08M22.00S,4,1610612764,WAS,1630215,Butler,J. Butler,120,-9,12,Made,1,106,107,213,h,Butler 12' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,412
+0022301172,595,PT08M04.00S,4,1610612741,CHI,1628975,Carter,J. Carter,153,96,18,Made,1,106,109,215,v,Carter 18' Pullup Jump Shot (18 PTS) (White 4 AST),Made Shot,Pullup Jump shot,1,2,413
+0022301172,596,PT07M53.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,-235,-14,24,Missed,1,,,0,h,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022301172,597,PT07M49.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,415
+0022301172,598,PT07M45.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,416
+0022301172,599,PT07M45.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Vukcevic FOR Avdija,Substitution,,0,0,417
+0022301172,600,PT07M45.00S,4,1610612764,WAS,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,,,0,h,SUB: Baldwin Jr. FOR Omoruyi,Substitution,,0,0,418
+0022301172,601,PT07M45.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,SUB: Terry FOR Drell,Substitution,,0,0,419
+0022301172,605,PT07M33.00S,4,1610612741,CHI,1628975,Carter,J. Carter,-218,151,27,Missed,1,,,0,v,MISS Carter 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,420
+0022301172,606,PT07M30.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,421
+0022301172,607,PT07M19.00S,4,1610612764,WAS,1630215,Butler,J. Butler,23,64,7,Made,1,108,109,217,h,Butler 7' Floating Jump Shot (15 PTS),Made Shot,Floating Jump shot,1,2,422
+0022301172,608,PT07M03.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0,423
+0022301172,610,PT07M03.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,108,110,218,v,White Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+0022301172,611,PT07M03.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,MISS White Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,425
+0022301172,612,PT06M59.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,426
+0022301172,613,PT06M50.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,210,101,23,Missed,1,,,0,h,MISS Baldwin Jr. 23' Jump Shot,Missed Shot,Jump Shot,1,2,427
+0022301172,614,PT06M47.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:5),Rebound,Unknown,1,0,428
+0022301172,615,PT06M38.00S,4,1610612741,CHI,1641931,Bitim,O. Bitim,-235,21,24,Missed,1,,,0,v,MISS Bitim 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+0022301172,616,PT06M35.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,430
+0022301172,617,PT06M32.00S,4,1610612741,CHI,1641931,Bitim,O. Bitim,-31,19,4,Missed,1,,,0,v,MISS Bitim 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,431
+0022301172,617,PT06M32.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. BLOCK (1 BLK),,,1,2,432
+0022301172,619,PT06M32.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,433
+0022301172,620,PT06M27.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-191,200,28,Made,1,111,110,221,h,Kispert 28' 3PT Running Jump Shot (18 PTS) (Baldwin Jr. 4 AST),Made Shot,Running Jump Shot,1,3,434
+0022301172,622,PT06M12.00S,4,1610612741,CHI,1641931,Bitim,O. Bitim,-228,124,26,Missed,1,,,0,v,MISS Bitim 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022301172,623,PT06M07.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,436
+0022301172,624,PT06M01.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-206,214,30,Missed,1,,,0,h,MISS Vukcevic 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022301172,625,PT06M01.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:6),Rebound,Unknown,1,0,438
+0022301172,626,PT05M59.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,439
+0022301172,627,PT05M59.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Avdija FOR Champagnie,Substitution,,0,0,440
+0022301172,628,PT05M59.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,,,0,v,SUB: Craig FOR White,Substitution,,0,0,441
+0022301172,631,PT05M51.00S,4,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,Bitim Traveling Turnover (P3.T11),Turnover,Traveling,1,0,442
+0022301172,632,PT05M32.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-208,246,32,Missed,1,,,0,h,MISS Kispert 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022301172,633,PT05M28.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:7),Rebound,Unknown,1,0,444
+0022301172,634,PT05M16.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,Terry Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,445
+0022301172,634,PT05M16.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic STEAL (1 STL),,,1,0,446
+0022301172,636,PT05M11.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-27,0,3,Made,1,113,110,223,h,Kispert 3' Running Layup (20 PTS) (Butler 8 AST),Made Shot,Running Layup Shot,1,2,447
+0022301172,638,PT04M55.00S,4,1610612741,CHI,1628975,Carter,J. Carter,170,69,18,Missed,1,,,0,v,MISS Carter 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,448
+0022301172,639,PT04M50.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,449
+0022301172,640,PT04M39.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-33,-4,3,Missed,1,,,0,h,MISS Vukcevic 3' Layup,Missed Shot,Layup Shot,1,2,450
+0022301172,641,PT04M36.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:8),Rebound,Unknown,1,0,451
+0022301172,642,PT04M32.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo Offensive Charge Foul (P4) (K.Lane),Foul,Offensive Charge,1,0,452
+0022301172,644,PT04M32.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,453
+0022301172,645,PT04M32.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,454
+0022301172,649,PT04M18.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo S.FOUL (P5.T3) (M.Kogut),Foul,Shooting,1,0,455
+0022301172,651,PT04M18.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,114,110,224,h,Vukcevic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,456
+0022301172,652,PT04M18.00S,4,1610612741,CHI,1641931,Bitim,O. Bitim,0,0,0,,0,,,0,v,SUB: Drell FOR Bitim,Substitution,,0,0,457
+0022301172,654,PT04M18.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,115,110,225,h,Vukcevic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,458
+0022301172,655,PT04M02.00S,4,1610612741,CHI,1628975,Carter,J. Carter,61,41,7,Made,1,115,112,227,v,Carter 7' Driving Layup (20 PTS) (Craig 3 AST),Made Shot,Driving Layup Shot,1,2,459
+0022301172,656,PT03M43.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic OFF.Foul (P2) (M.Kogut),Foul,Offensive,1,0,460
+0022301172,658,PT03M43.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,461
+0022301172,659,PT03M26.00S,4,1610612741,CHI,1630929,Drell,H. Drell,183,192,27,Made,1,115,115,230,v,Drell 27' 3PT Jump Shot (8 PTS) (Carter 12 AST),Made Shot,Jump Shot,1,3,462
+0022301172,661,PT03M25.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,463
+0022301172,663,PT03M05.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,464
+0022301172,663,PT03M05.00S,4,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter STEAL (1 STL),,,1,0,465
+0022301172,665,PT02M54.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,466
+0022301172,667,PT02M54.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,MISS Sanogo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,467
+0022301172,668,PT02M54.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0,468
+0022301172,669,PT02M54.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,115,116,231,v,Sanogo Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0022301172,670,PT02M40.00S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell P.FOUL (P4.T4) (B.Barnaky),Foul,Personal,1,0,470
+0022301172,672,PT02M31.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-116,262,29,Missed,1,,,0,h,MISS Avdija 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+0022301172,673,PT02M27.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:9),Rebound,Unknown,1,0,472
+0022301172,674,PT02M18.00S,4,1610612741,CHI,1630929,Drell,H. Drell,234,87,25,Missed,1,,,0,v,MISS Drell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022301172,675,PT02M15.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,474
+0022301172,676,PT02M03.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-239,4,24,Missed,1,,,0,h,MISS Vukcevic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022301172,677,PT02M00.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:14),Rebound,Unknown,1,0,476
+0022301172,678,PT01M51.00S,4,1610612741,CHI,1631207,Terry,D. Terry,11,25,3,Made,1,115,118,233,v,Terry 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,477
+0022301172,679,PT01M51.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P3.PN) (K.Lane),Foul,Shooting,1,0,478
+0022301172,681,PT01M51.00S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,479
+0022301172,682,PT01M47.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,480
+0022301172,683,PT01M37.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,11,10,1,Made,1,117,118,235,h,Avdija 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,481
+0022301172,684,PT01M24.00S,4,1610612741,CHI,1628470,Craig,T. Craig,232,96,25,Made,1,117,121,238,v,Craig 25' 3PT Jump Shot (11 PTS) (Terry 8 AST),Made Shot,Jump Shot,1,3,482
+0022301172,686,PT01M12.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-16,12,2,Made,1,119,121,240,h,Vukcevic 2' Driving Layup (19 PTS) (Butler 9 AST),Made Shot,Driving Layup Shot,1,2,483
+0022301172,688,PT01M00.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0,484
+0022301172,690,PT01M00.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,119,122,241,v,Sanogo Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,485
+0022301172,691,PT01M00.00S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,119,123,242,v,Sanogo Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,486
+0022301172,692,PT00M48.80S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic Traveling Turnover (P3.T12),Turnover,Traveling,1,0,487
+0022301172,693,PT00M42.50S,4,1610612741,CHI,1631207,Terry,D. Terry,-1,22,2,Made,1,119,125,244,v,Terry 2' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,2,488
+0022301172,694,PT00M42.50S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,489
+0022301172,695,PT00M38.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,4,17,2,Made,1,121,125,246,h,Avdija 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,490
+0022301172,696,PT00M38.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,491
+0022301172,697,PT00M38.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,SUB: Davis FOR Vukcevic,Substitution,,0,0,492
+0022301172,699,PT00M37.20S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis P.FOUL (P3.PN) (B.Barnaky),Foul,Personal,1,0,493
+0022301172,701,PT00M37.20S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,121,126,247,v,Drell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+0022301172,702,PT00M37.20S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,SUB: Vukcevic FOR Davis,Substitution,,0,0,495
+0022301172,704,PT00M37.20S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,MISS Drell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,496
+0022301172,705,PT00M35.60S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,497
+0022301172,706,PT00M32.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-2,-1,0,Made,1,123,126,249,h,Baldwin Jr. Running Dunk (18 PTS) (Avdija 8 AST),Made Shot,Running Dunk Shot,1,2,498
+0022301172,710,PT00M31.10S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P3.PN) (B.Barnaky),Foul,Personal,1,0,499
+0022301172,712,PT00M31.10S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,123,127,250,v,Terry Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,500
+0022301172,713,PT00M31.10S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,501
+0022301172,714,PT00M29.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,502
+0022301172,715,PT00M23.70S,4,1610612764,WAS,1630557,Kispert,C. Kispert,212,136,25,Made,1,126,127,253,h,Kispert 25' 3PT Jump Shot (23 PTS) (Butler 10 AST),Made Shot,Jump Shot,1,3,503
+0022301172,717,PT00M16.90S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic P.FOUL (P3.PN) (K.Lane),Foul,Personal,1,0,504
+0022301172,719,PT00M16.90S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,MISS Sanogo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,505
+0022301172,720,PT00M16.90S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,1,0,506
+0022301172,721,PT00M16.90S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,126,128,254,v,Sanogo Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,507
+0022301172,722,PT00M06.30S,4,1610612741,CHI,1630929,Drell,H. Drell,0,0,0,,0,,,0,v,Drell P.FOUL (P5.PN) (M.Kogut),Foul,Personal,1,0,508
+0022301172,724,PT00M06.30S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,127,128,255,h,Avdija Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,509
+0022301172,725,PT00M06.30S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,510
+0022301172,726,PT00M04.70S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,Sanogo REBOUND (Off:10 Def:10),Rebound,Unknown,1,0,511
+0022301172,727,PT00M04.70S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic P.FOUL (P4.PN) (B.Barnaky),Foul,Personal,1,0,512
+0022301172,729,PT00M04.70S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,,,0,v,MISS Sanogo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,513
+0022301172,730,PT00M04.70S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,0,514
+0022301172,731,PT00M04.70S,4,1610612741,CHI,1641766,Sanogo,A. Sanogo,0,0,0,,0,127,129,256,v,Sanogo Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,515
+0022301172,732,PT00M04.70S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,516
+0022301172,733,PT00M00.20S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-89,25,9,Missed,1,,,0,h,MISS Kispert 9' Layup,Missed Shot,Layup Shot,1,2,517
+0022301172,734,PT00M00.10S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:0 Def:15),Rebound,Unknown,1,0,518
+0022301172,735,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,129,256,,End of 4th Period (9:35 PM EST),period,end,1,0,519

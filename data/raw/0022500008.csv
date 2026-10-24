@@ -1,0 +1,515 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500008,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:43 PM EST),period,start,1,0,1
+0022500008,4,PT12M00.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Jump Ball Gobert vs. Jokic: Tip to Conley,Jump Ball,,1,0,2
+0022500008,7,PT11M40.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-5,258,26,Missed,1,,,0,h,MISS DiVincenzo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,3
+0022500008,8,PT11M38.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022500008,9,PT11M31.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-1,15,2,Made,1,0,2,2,v,Gordon 2' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,5
+0022500008,10,PT11M31.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,1,0,6
+0022500008,12,PT11M31.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,0,3,3,v,Gordon Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,7
+0022500008,13,PT11M18.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,1,0,8
+0022500008,15,PT11M18.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,1,3,4,h,McDaniels Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,9
+0022500008,16,PT11M18.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,2,3,5,h,McDaniels Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,10
+0022500008,17,PT10M58.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,92,9,Made,1,2,5,7,v,Jokic 9' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,11
+0022500008,18,PT10M45.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,12
+0022500008,18,PT10M45.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic STEAL (1 STL),,,1,0,13
+0022500008,20,PT10M38.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo S.FOUL (P1.T2) (S.Foster),Foul,Shooting,1,0,14
+0022500008,22,PT10M38.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,2,6,8,v,Gordon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,15
+0022500008,23,PT10M38.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,2,7,9,v,Gordon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,16
+0022500008,24,PT10M23.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-5,5,1,Made,1,4,7,11,h,McDaniels 1' Driving Dunk (4 PTS) (DiVincenzo 1 AST),Made Shot,Driving Dunk Shot,1,2,17
+0022500008,26,PT10M08.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-55,115,13,Made,1,4,9,13,v,Murray 13' Driving Floating Jump Shot (2 PTS) (Jokic 1 AST),Made Shot,Driving Floating Jump Shot,1,2,18
+0022500008,28,PT09M43.00S,1,1610612750,MIN,203944,Randle,J. Randle,-235,5,24,Missed,1,,,0,h,MISS Randle 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0022500008,29,PT09M40.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022500008,30,PT09M33.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,21
+0022500008,30,PT09M33.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo STEAL (1 STL),,,1,0,22
+0022500008,32,PT09M28.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,0,23
+0022500008,34,PT09M21.00S,1,1610612750,MIN,203944,Randle,J. Randle,-214,124,25,Missed,1,,,0,h,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+0022500008,35,PT09M18.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+0022500008,36,PT09M13.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo OFF.Foul (P2) (S.Foster),Foul,Offensive,1,0,26
+0022500008,38,PT09M13.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,27
+0022500008,39,PT09M05.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert P.FOUL (P1.T3) (M.Dagher),Foul,Personal,1,0,28
+0022500008,41,PT09M05.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,29
+0022500008,43,PT09M00.00S,1,1610612743,DEN,1631128,Braun,C. Braun,-224,18,0,Made,1,4,12,16,v,Braun 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,1,3,30
+0022500008,45,PT08M42.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,233,15,0,Missed,1,,,0,h,MISS Shannon Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022500008,46,PT08M39.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022500008,47,PT08M32.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-121,109,16,Made,1,4,14,18,v,Gordon 16' Turnaround Fadeaway (7 PTS) (Braun 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,33
+0022500008,49,PT08M15.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon S.FOUL (P1.T3) (M.Dagher),Foul,Shooting,1,0,34
+0022500008,51,PT08M15.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,5,14,19,h,Conley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,35
+0022500008,52,PT08M15.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,6,14,20,h,Conley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,36
+0022500008,53,PT07M56.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,18,49,5,Made,1,6,16,22,v,Jokic 5' Hook Shot (4 PTS),Made Shot,Hook Shot,1,2,37
+0022500008,54,PT07M41.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,32,158,16,Missed,1,,,0,h,MISS McDaniels 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+0022500008,55,PT07M38.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022500008,56,PT07M28.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-6,32,3,Missed,1,,,0,v,MISS Gordon 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,40
+0022500008,56,PT07M28.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley BLOCK (1 BLK),,,1,2,41
+0022500008,61,PT07M26.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,42
+0022500008,58,PT07M26.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Jump Ball Conley vs. Gordon: Tip to Johnson,Jump Ball,,1,0,43
+0022500008,62,PT07M18.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-9,84,8,Made,1,6,18,24,v,Jokic 8' Turnaround Fadeaway (6 PTS) (Braun 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,44
+0022500008,64,PT07M03.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,-1,15,2,Made,1,8,18,26,h,Gobert 2' Alley Oop Dunk (2 PTS) (Conley 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,45
+0022500008,66,PT06M50.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-1,8,1,Missed,1,,,0,v,MISS Murray 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,46
+0022500008,67,PT06M47.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+0022500008,68,PT06M41.00S,1,1610612750,MIN,201144,Conley,M. Conley,6,35,4,Made,1,10,18,28,h,Conley 4' Driving Finger Roll Layup (4 PTS) (Randle 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,48
+0022500008,70,PT06M32.00S,1,1610612743,DEN,1627750,Murray,J. Murray,232,-11,0,Missed,1,,,0,v,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+0022500008,71,PT06M27.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+0022500008,72,PT06M15.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-1,14,1,Made,1,12,18,30,h,McDaniels 1' Driving Layup (6 PTS) (Conley 2 AST),Made Shot,Driving Layup Shot,1,2,51
+0022500008,74,PT06M05.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,-67,262,27,Missed,1,,,0,v,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022500008,75,PT06M05.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+0022500008,76,PT05M56.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,4,14,1,Missed,1,,,0,h,MISS Shannon Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,54
+0022500008,77,PT05M54.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+0022500008,78,PT05M52.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,56
+0022500008,78,PT05M52.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley STEAL (1 STL),,,1,0,57
+0022500008,80,PT05M33.00S,1,1610612750,MIN,201144,Conley,M. Conley,6,26,3,Made,1,14,18,32,h,Conley 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,58
+0022500008,81,PT05M27.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-9,39,4,Missed,1,,,0,v,MISS Gordon 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,59
+0022500008,82,PT05M27.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,60
+0022500008,83,PT05M23.00S,1,1610612743,DEN,1631128,Braun,C. Braun,-142,209,25,Missed,1,,,0,v,MISS Braun 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,61
+0022500008,84,PT05M22.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022500008,85,PT05M22.00S,1,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,63
+0022500008,86,PT05M22.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Reid FOR Randle,Substitution,,0,0,64
+0022500008,87,PT05M22.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Murray,Substitution,,0,0,65
+0022500008,88,PT05M22.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Watson FOR Gordon,Substitution,,0,0,66
+0022500008,92,PT05M22.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Dillingham FOR Conley,Substitution,,0,0,67
+0022500008,94,PT05M05.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,21,252,25,Made,1,17,18,35,h,Shannon Jr. 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,68
+0022500008,95,PT04M39.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,228,17,0,Made,1,17,21,38,v,Johnson 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,1,3,69
+0022500008,98,PT04M24.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,70
+0022500008,98,PT04M24.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun STEAL (1 STL),,,1,0,71
+0022500008,100,PT04M18.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,72
+0022500008,100,PT04M18.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid STEAL (1 STL),,,1,0,73
+0022500008,102,PT04M12.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,-1,8,1,Missed,1,,,0,h,MISS Gobert 1' Running Layup,Missed Shot,Running Layup Shot,1,2,74
+0022500008,103,PT04M11.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,75
+0022500008,104,PT04M05.00S,1,1610612743,DEN,1631128,Braun,C. Braun,2,20,2,Missed,1,,,0,v,MISS Braun 2' Running Layup,Missed Shot,Running Layup Shot,1,2,76
+0022500008,104,PT04M05.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels BLOCK (1 BLK),,,1,2,77
+0022500008,106,PT04M02.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0022500008,107,PT03M51.00S,1,1610612750,MIN,1629675,Reid,N. Reid,4,15,2,Made,1,19,21,40,h,Reid 2' Cutting Finger Roll Layup Shot (2 PTS) (Dillingham 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,79
+0022500008,109,PT03M39.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-5,86,9,Missed,1,,,0,v,MISS Hardaway Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,80
+0022500008,110,PT03M37.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,81
+0022500008,111,PT03M26.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. P.FOUL (P1.T4) (M.Dagher),Foul,Personal,1,0,82
+0022500008,113,PT03M26.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Brown FOR Johnson,Substitution,,0,0,83
+0022500008,115,PT03M16.00S,1,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,84
+0022500008,115,PT03M16.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun STEAL (2 STL),,,1,0,85
+0022500008,117,PT03M11.00S,1,1610612743,DEN,1631212,Watson,P. Watson,7,5,1,Missed,1,,,0,v,MISS Watson 1' Running Layup,Missed Shot,Running Layup Shot,1,2,86
+0022500008,118,PT03M10.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022500008,119,PT03M05.00S,1,1610612750,MIN,1629675,Reid,N. Reid,22,261,26,Missed,1,,,0,h,MISS Reid 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,88
+0022500008,120,PT03M02.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,89
+0022500008,121,PT02M52.00S,1,1610612743,DEN,1631128,Braun,C. Braun,31,258,26,Missed,1,,,0,v,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022500008,122,PT02M51.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,1,0,91
+0022500008,123,PT02M51.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert L.B.FOUL (P2.T4) (M.Dagher),Foul,Loose Ball,1,0,92
+0022500008,125,PT02M51.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,93
+0022500008,126,PT02M51.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Randle FOR Gobert,Substitution,,0,0,94
+0022500008,127,PT02M51.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Murray FOR Braun,Substitution,,0,0,95
+0022500008,130,PT02M39.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,28,18,3,Made,1,19,23,42,v,Jokic 3' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,1,2,96
+0022500008,131,PT02M24.00S,1,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,97
+0022500008,132,PT02M10.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,10,25,3,Made,1,19,25,44,v,Jokic 3' Layup (10 PTS) (Watson 1 AST),Made Shot,Layup Shot,1,2,98
+0022500008,134,PT02M10.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid S.FOUL (P1.PN) (M.Myers),Foul,Shooting,1,0,99
+0022500008,136,PT02M10.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,19,26,45,v,Jokic Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,100
+0022500008,137,PT01M57.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-150,197,25,Made,1,22,26,48,h,McDaniels 25' 3PT Pullup Jump Shot (9 PTS) (Dillingham 2 AST),Made Shot,Pullup Jump shot,1,3,101
+0022500008,139,PT01M41.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-53,91,11,Made,1,22,28,50,v,Murray 11' Driving Floating Jump Shot (4 PTS) (Jokic 3 AST),Made Shot,Driving Floating Jump Shot,1,2,102
+0022500008,142,PT01M25.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,16,78,8,Made,1,24,28,52,h,McDaniels 8' Floating Jump Shot (11 PTS) (Randle 2 AST),Made Shot,Floating Jump shot,1,2,103
+0022500008,144,PT01M08.00S,1,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham S.FOUL (P1.PN) (M.Dagher),Foul,Shooting,1,0,104
+0022500008,146,PT01M08.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,24,29,53,v,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+0022500008,147,PT01M08.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,24,30,54,v,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+0022500008,148,PT01M00.00S,1,1610612750,MIN,1642265,Dillingham,R. Dillingham,17,14,2,Made,1,26,30,56,h,Dillingham 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,107
+0022500008,149,PT00M40.50S,1,1610612743,DEN,1627750,Murray,J. Murray,45,121,13,Made,1,26,32,58,v,Murray 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,108
+0022500008,150,PT00M32.60S,1,1610612750,MIN,203944,Randle,J. Randle,-25,50,6,Made,1,28,32,60,h,Randle 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,109
+0022500008,151,PT00M15.20S,1,1610612743,DEN,1627750,Murray,J. Murray,-138,5,14,Missed,1,,,0,v,MISS Murray 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,110
+0022500008,152,PT00M12.80S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,111
+0022500008,153,PT00M12.80S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,112
+0022500008,155,PT00M12.80S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,28,33,61,v,Jokic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,113
+0022500008,156,PT00M12.80S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Gordon FOR Murray,Substitution,,0,0,114
+0022500008,158,PT00M12.80S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Hardaway Jr.,Substitution,,0,0,115
+0022500008,160,PT00M12.80S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,28,34,62,v,Jokic Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,116
+0022500008,161,PT00M02.10S,1,1610612750,MIN,203944,Randle,J. Randle,2,8,1,Made,1,30,34,64,h,Randle 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,117
+0022500008,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,,,0,v,NUGGETS Heave,Heave,Team Field Goal Attempt,1,0,118
+0022500008,163,PT00M00.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,119
+0022500008,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,34,64,,End of 1st Period (10:10 PM EST),period,end,1,0,120
+0022500008,175,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,34,64,,Start of 2nd Period (10:14 PM EST),period,start,0,0,121
+0022500008,176,PT11M46.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-39,80,9,Missed,1,,,0,v,MISS Hardaway Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022500008,177,PT11M43.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,123
+0022500008,178,PT11M42.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,1,27,3,Missed,1,,,0,v,MISS Valanciunas 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,124
+0022500008,179,PT11M40.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,125
+0022500008,180,PT11M31.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,1,0,126
+0022500008,182,PT11M31.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,31,34,65,h,Reid Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,127
+0022500008,183,PT11M31.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,MISS Reid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,128
+0022500008,184,PT11M29.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,129
+0022500008,185,PT11M14.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-99,21,10,Made,1,31,36,67,v,Hardaway Jr. 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,130
+0022500008,186,PT10M58.00S,2,1610612750,MIN,1630538,Hyland,B. Hyland,-224,13,0,Made,1,34,36,70,h,Hyland 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,131
+0022500008,188,PT10M44.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,153,206,26,Made,1,34,39,73,v,Hardaway Jr. 26' 3PT Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Jump Shot,1,3,132
+0022500008,190,PT10M27.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,23,75,8,Missed,1,,,0,h,MISS DiVincenzo 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,133
+0022500008,191,PT10M25.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,134
+0022500008,192,PT10M19.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,135
+0022500008,192,PT10M19.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham STEAL (1 STL),,,1,0,136
+0022500008,194,PT10M12.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-195,140,24,Missed,1,,,0,h,MISS DiVincenzo 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,137
+0022500008,195,PT10M08.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+0022500008,196,PT09M50.00S,2,1610612743,DEN,1628971,Brown,B. Brown,2,13,1,Made,1,34,41,75,v,Brown 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,139
+0022500008,197,PT09M28.00S,2,1610612750,MIN,1629675,Reid,N. Reid,2,47,5,Made,1,36,41,77,h,Reid 5' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,1,2,140
+0022500008,199,PT09M17.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-103,247,27,Made,1,36,44,80,v,Murray 27' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,141
+0022500008,200,PT09M04.00S,2,1610612750,MIN,203944,Randle,J. Randle,148,209,26,Missed,1,,,0,h,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022500008,201,PT09M01.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,143
+0022500008,202,PT08M53.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,150,211,26,Missed,1,,,0,v,MISS Gordon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,144
+0022500008,203,PT08M51.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+0022500008,204,PT08M46.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,49,258,26,Made,1,39,44,83,h,DiVincenzo 26' 3PT Running Jump Shot (3 PTS) (Hyland 1 AST),Made Shot,Running Jump Shot,1,3,146
+0022500008,206,PT08M33.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-1,16,2,Missed,1,,,0,v,MISS Brown 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,147
+0022500008,207,PT08M33.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,148
+0022500008,208,PT08M30.00S,2,1610612743,DEN,1628971,Brown,B. Brown,6,21,2,Missed,1,,,0,v,MISS Brown 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,149
+0022500008,208,PT08M30.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle BLOCK (1 BLK),,,1,2,150
+0022500008,210,PT08M27.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022500008,211,PT08M25.00S,2,1610612750,MIN,203944,Randle,J. Randle,10,19,2,Made,1,41,44,85,h,Randle 2' Running Dunk (6 PTS) (DiVincenzo 2 AST),Made Shot,Running Dunk Shot,1,2,152
+0022500008,213,PT08M25.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,153
+0022500008,214,PT08M25.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,SUB: Conley FOR Dillingham,Substitution,,0,0,154
+0022500008,215,PT08M25.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Gobert FOR Randle,Substitution,,0,0,155
+0022500008,216,PT08M25.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Johnson FOR Hardaway Jr.,Substitution,,0,0,156
+0022500008,220,PT08M19.00S,2,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,0,157
+0022500008,222,PT08M06.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-28,107,11,Missed,1,,,0,v,MISS Murray 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,158
+0022500008,223,PT08M03.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,159
+0022500008,224,PT07M56.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,1,0,160
+0022500008,225,PT07M43.00S,2,1610612750,MIN,1630538,Hyland,B. Hyland,-223,94,24,Missed,1,,,0,h,MISS Hyland 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022500008,226,PT07M40.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+0022500008,227,PT07M35.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,6,10,1,Missed,1,,,0,v,MISS Johnson 1' Running Layup,Missed Shot,Running Layup Shot,1,2,163
+0022500008,228,PT07M30.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+0022500008,229,PT07M19.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-112,45,12,Missed,1,,,0,h,MISS Reid 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,165
+0022500008,230,PT07M17.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,166
+0022500008,231,PT07M13.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,31,3,Missed,1,,,0,v,MISS Brown 3' Running Layup,Missed Shot,Running Layup Shot,1,2,167
+0022500008,231,PT07M13.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid BLOCK (1 BLK),,,1,2,168
+0022500008,233,PT07M11.00S,2,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022500008,234,PT07M07.00S,2,1610612750,MIN,201144,Conley,M. Conley,225,4,0,Missed,1,,,0,h,MISS Conley 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,170
+0022500008,235,PT07M03.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,171
+0022500008,236,PT07M02.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-4,16,2,Made,1,43,44,87,h,Reid 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,172
+0022500008,237,PT06M41.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert S.FOUL (P3.T2) (S.Foster),Foul,Shooting,1,0,173
+0022500008,239,PT06M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,174
+0022500008,240,PT06M41.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,175
+0022500008,241,PT06M41.00S,2,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,SUB: Randle FOR Hyland,Substitution,,0,0,176
+0022500008,242,PT06M41.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: McDaniels FOR Gobert,Substitution,,0,0,177
+0022500008,243,PT06M41.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Braun FOR Brown,Substitution,,0,0,178
+0022500008,247,PT06M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,43,45,88,v,Valanciunas Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,179
+0022500008,248,PT06M24.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-7,88,9,Made,1,45,45,90,h,Reid 9' Driving Floating Jump Shot (9 PTS) (Randle 3 AST),Made Shot,Driving Floating Jump Shot,1,2,180
+0022500008,250,PT06M03.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,90,56,11,Missed,1,,,0,v,MISS Gordon 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,181
+0022500008,251,PT06M01.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,182
+0022500008,252,PT05M56.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,229,114,26,Made,1,48,45,93,h,DiVincenzo 26' 3PT Running Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Running Jump Shot,1,3,183
+0022500008,254,PT05M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0,184
+0022500008,256,PT05M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,185
+0022500008,257,PT05M41.00S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,186
+0022500008,258,PT05M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Watson FOR Valanciunas,Substitution,,0,0,187
+0022500008,259,PT05M41.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Murray,Substitution,,0,0,188
+0022500008,260,PT05M41.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Jokic FOR Gordon,Substitution,,0,0,189
+0022500008,264,PT05M21.00S,2,1610612750,MIN,203944,Randle,J. Randle,27,43,5,Made,1,50,45,95,h,Randle 5' Driving Floating Bank Jump Shot (8 PTS) (Conley 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,190
+0022500008,266,PT05M06.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,97,251,27,Missed,1,,,0,v,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+0022500008,267,PT05M04.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,192
+0022500008,268,PT04M55.00S,2,1610612750,MIN,201144,Conley,M. Conley,28,82,9,Missed,1,,,0,h,MISS Conley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,193
+0022500008,269,PT04M54.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,194
+0022500008,270,PT04M54.00S,2,1610612750,MIN,203944,Randle,J. Randle,-9,20,2,Made,1,52,45,97,h,Randle 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,195
+0022500008,271,PT04M54.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,1,0,196
+0022500008,273,PT04M54.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,SUB: Shannon Jr. FOR Reid,Substitution,,0,0,197
+0022500008,275,PT04M54.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,53,45,98,h,Randle Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,198
+0022500008,276,PT04M40.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,1,-8,1,Made,1,53,47,100,v,Johnson 1' Cutting Layup Shot (5 PTS) (Jokic 4 AST),Made Shot,Cutting Layup Shot,1,2,199
+0022500008,278,PT04M18.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,152,241,28,Made,1,56,47,103,h,DiVincenzo 28' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,200
+0022500008,279,PT04M00.00S,2,1610612743,DEN,1631128,Braun,C. Braun,-1,6,1,Made,1,56,49,105,v,Braun 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,201
+0022500008,280,PT03M51.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-18,24,3,Made,1,58,49,107,h,McDaniels 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,202
+0022500008,282,PT03M37.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,2,16,2,Made,1,58,51,109,v,Jokic 2' Driving Reverse Layup (15 PTS) (Johnson 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,203
+0022500008,284,PT03M19.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,4,6,1,Made,1,60,51,111,h,McDaniels 1' Driving Finger Roll Layup (15 PTS) (Conley 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,204
+0022500008,286,PT03M19.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,205
+0022500008,287,PT03M19.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,SUB: Murray FOR Watson,Substitution,,0,0,206
+0022500008,288,PT03M19.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Gordon FOR Hardaway Jr.,Substitution,,0,0,207
+0022500008,291,PT03M04.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,-5,17,2,Made,1,60,53,113,v,Gordon 2' Cutting Dunk Shot (9 PTS) (Jokic 5 AST),Made Shot,Cutting Dunk Shot,1,2,208
+0022500008,293,PT02M47.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,-162,187,25,Missed,1,,,0,h,MISS Shannon Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,209
+0022500008,294,PT02M45.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+0022500008,295,PT02M38.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0,211
+0022500008,297,PT02M38.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,212
+0022500008,298,PT02M27.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,228,10,0,Missed,1,,,0,h,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022500008,299,PT02M22.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,214
+0022500008,304,PT02M18.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,-2,83,8,Missed,1,,,0,v,MISS Jokic 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,215
+0022500008,304,PT02M18.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels BLOCK (2 BLK),,,1,2,216
+0022500008,306,PT02M17.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,217
+0022500008,300,PT02M16.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels S.FOUL (P1.T3) (M.Myers),Foul,Shooting,1,0,218
+0022500008,302,PT02M16.00S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,219
+0022500008,356,PT02M16.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,SUB: Reid FOR Shannon Jr.,Substitution,,0,0,220
+0022500008,303,PT02M16.00S,2,0,,300,,,0,0,0,,0,60,53,113,,Instant Replay2nd Period (10:37 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,221
+0022500008,307,PT02M16.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,60,54,114,v,Jokic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+0022500008,308,PT02M16.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,60,55,115,v,Jokic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+0022500008,309,PT01M56.00S,2,1610612750,MIN,203944,Randle,J. Randle,2,83,8,Missed,1,,,0,h,MISS Randle 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,224
+0022500008,310,PT01M56.00S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,225
+0022500008,311,PT01M56.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic L.B.FOUL (P2.T3) (S.Foster),Foul,Loose Ball,1,0,226
+0022500008,313,PT01M51.00S,2,1610612750,MIN,203944,Randle,J. Randle,-60,242,25,Made,1,63,55,118,h,Randle 25' 3PT Jump Shot (14 PTS) (DiVincenzo 3 AST),Made Shot,Jump Shot,1,3,227
+0022500008,315,PT01M36.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,228
+0022500008,315,PT01M36.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle STEAL (1 STL),,,1,0,229
+0022500008,317,PT01M29.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P3.PN) (S.Foster),Foul,Personal,1,0,230
+0022500008,319,PT01M29.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,MISS Randle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+0022500008,320,PT01M29.00S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,232
+0022500008,358,PT01M29.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Johnson,Substitution,,0,0,233
+0022500008,323,PT01M29.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,64,55,119,h,Randle Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+0022500008,324,PT01M18.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-56,74,9,Made,1,64,57,121,v,Murray 9' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,235
+0022500008,325,PT00M57.90S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic S.FOUL (P3.PN) (S.Foster),Foul,Shooting,1,0,236
+0022500008,329,PT00M57.90S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,237
+0022500008,330,PT00M57.90S,2,0,,0,,,0,0,0,,0,64,57,121,,Instant Replay2nd Period (10:44 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,238
+0022500008,331,PT00M57.90S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,239
+0022500008,333,PT00M57.90S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,MISS Reid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,240
+0022500008,334,PT00M57.90S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,241
+0022500008,335,PT00M57.90S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,65,57,122,h,Reid Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0022500008,336,PT00M47.20S,2,1610612743,DEN,1631128,Braun,C. Braun,-23,28,4,Missed,1,,,0,v,MISS Braun 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,243
+0022500008,336,PT00M47.20S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels BLOCK (3 BLK),,,1,2,244
+0022500008,341,PT00M44.80S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,245
+0022500008,338,PT00M44.80S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,Jump Ball McDaniels vs. Braun: Tip to Conley,Jump Ball,,1,0,246
+0022500008,342,PT00M41.40S,2,1610612750,MIN,201144,Conley,M. Conley,2,31,3,Missed,1,,,0,h,MISS Conley 3' Running Layup,Missed Shot,Running Layup Shot,1,2,247
+0022500008,343,PT00M39.60S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,248
+0022500008,344,PT00M27.50S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,42,98,11,Missed,1,,,0,h,MISS McDaniels 11' Jump Shot,Missed Shot,Jump Shot,1,2,249
+0022500008,345,PT00M26.90S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,250
+0022500008,346,PT00M26.90S,2,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,251
+0022500008,347,PT00M03.70S,2,1610612743,DEN,1627750,Murray,J. Murray,1,132,13,Missed,1,,,0,v,MISS Murray 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,252
+0022500008,348,PT00M02.90S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,253
+0022500008,349,PT00M02.90S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,254
+0022500008,350,PT00M02.90S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,SUB: Watson FOR Jokic,Substitution,,0,0,255
+0022500008,351,PT00M02.90S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Brown FOR Murray,Substitution,,0,0,256
+0022500008,354,PT00M00.00S,2,0,,0,,,0,0,0,,0,65,57,122,,Instant Replay2nd Period (10:49 PM EST),Instant Replay,Ruling Stands,0,0,257
+0022500008,355,PT00M00.00S,2,0,,0,,,0,0,0,,0,65,57,122,,End of 2nd Period (10:49 PM EST),period,end,1,0,258
+0022500008,370,PT12M00.00S,3,0,,0,,,0,0,0,,0,65,57,122,,Start of 3rd Period (11:04 PM EST),period,start,0,0,259
+0022500008,371,PT11M38.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-162,145,22,Made,1,65,59,124,v,Murray 22' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,260
+0022500008,372,PT11M23.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-26,168,17,Made,1,67,59,126,h,McDaniels 17' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,261
+0022500008,373,PT10M58.00S,3,1610612743,DEN,1627750,Murray,J. Murray,103,260,28,Made,1,67,62,129,v,Murray 28' 3PT Pullup Jump Shot (16 PTS) (Johnson 2 AST),Made Shot,Pullup Jump shot,1,3,262
+0022500008,375,PT10M43.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-9,25,3,Missed,1,,,0,h,MISS Gobert 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,263
+0022500008,375,PT10M43.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic BLOCK (1 BLK),,,1,2,264
+0022500008,377,PT10M40.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,265
+0022500008,378,PT10M36.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,14,1,Made,1,67,64,131,v,Braun 1' Running Layup (7 PTS) (Gordon 1 AST),Made Shot,Running Layup Shot,1,2,266
+0022500008,380,PT10M24.00S,3,1610612750,MIN,201144,Conley,M. Conley,-104,242,26,Made,1,70,64,134,h,Conley 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,267
+0022500008,381,PT10M05.00S,3,1610612743,DEN,1627750,Murray,J. Murray,56,198,21,Missed,1,,,0,v,MISS Murray 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,268
+0022500008,382,PT10M01.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,269
+0022500008,383,PT09M52.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson FLAGRANT.FOUL.TYPE1 (P4.T1) (M.Dagher),Foul,Flagrant Type 1,1,0,270
+0022500008,385,PT09M52.00S,3,0,,383,Gill,K. Gill,0,0,0,,0,70,64,134,,Instant Replay3rd Period (11:07 PM EST),Instant Replay,Overturn Ruling,0,0,271
+0022500008,386,PT09M52.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Johnson,Substitution,,0,0,272
+0022500008,388,PT09M52.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,71,64,135,h,DiVincenzo Free Throw Flagrant 1 of 3 (10 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,273
+0022500008,389,PT09M52.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,72,64,136,h,DiVincenzo Free Throw Flagrant 2 of 3 (11 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,274
+0022500008,390,PT09M52.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,73,64,137,h,DiVincenzo Free Throw Flagrant 3 of 3 (12 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,0,275
+0022500008,391,PT09M41.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,129,223,26,Missed,1,,,0,h,MISS DiVincenzo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,276
+0022500008,392,PT09M38.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,277
+0022500008,393,PT09M26.00S,3,1610612743,DEN,1627750,Murray,J. Murray,4,257,26,Made,1,73,67,140,v,Murray 26' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,3,278
+0022500008,394,PT09M07.00S,3,1610612750,MIN,203944,Randle,J. Randle,-109,102,15,Missed,1,,,0,h,MISS Randle 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,279
+0022500008,395,PT09M05.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,280
+0022500008,396,PT08M53.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-186,176,26,Missed,1,,,0,v,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,281
+0022500008,397,PT08M49.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,282
+0022500008,398,PT08M41.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-29,28,4,Made,1,75,67,142,h,McDaniels 4' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,283
+0022500008,399,PT08M29.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,4,5,1,Made,1,75,69,144,v,Hardaway Jr. 1' Driving Layup (7 PTS) (Jokic 6 AST),Made Shot,Driving Layup Shot,1,2,284
+0022500008,400,PT08M11.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,1,1,0,Made,1,77,69,146,h,McDaniels Driving Finger Roll Layup (21 PTS) (Gobert 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,285
+0022500008,403,PT07M47.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,20,64,7,Made,1,77,71,148,v,Hardaway Jr. 7' Driving Floating Jump Shot (9 PTS) (Jokic 7 AST),Made Shot,Driving Floating Jump Shot,1,2,286
+0022500008,405,PT07M25.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Nuggets T.Foul (Def. 3 Sec Jokic ) (S.Foster),Foul,Defense 3 Second,1,0,287
+0022500008,406,PT07M25.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,78,71,149,h,Conley Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,288
+0022500008,407,PT07M16.00S,3,1610612750,MIN,203944,Randle,J. Randle,-1,76,8,Missed,1,,,0,h,MISS Randle 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,289
+0022500008,408,PT07M14.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,290
+0022500008,409,PT07M03.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle S.FOUL (P2.T1) (S.Foster),Foul,Shooting,1,0,291
+0022500008,411,PT07M03.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,78,72,150,v,Murray Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+0022500008,412,PT07M03.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Reid FOR Randle,Substitution,,0,0,293
+0022500008,414,PT07M03.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,78,73,151,v,Murray Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022500008,415,PT06M49.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,295
+0022500008,416,PT06M49.00S,3,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,296
+0022500008,417,PT06M49.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Watson FOR Gordon,Substitution,,0,0,297
+0022500008,419,PT06M29.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,232,20,0,Made,1,78,76,154,v,Hardaway Jr. 3PT Jump Shot (12 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,298
+0022500008,422,PT06M09.00S,3,1610612750,MIN,201144,Conley,M. Conley,-10,58,6,Missed,1,,,0,h,MISS Conley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,299
+0022500008,423,PT06M06.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,300
+0022500008,424,PT06M03.00S,3,1610612743,DEN,1627750,Murray,J. Murray,114,229,26,Made,1,78,79,157,v,Murray 26' 3PT Running Pull-Up Jump Shot (24 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,301
+0022500008,425,PT05M53.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun S.FOUL (P1.T2) (M.Myers),Foul,Shooting,1,0,302
+0022500008,427,PT05M53.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,79,79,158,h,McDaniels Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+0022500008,428,PT05M53.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Dillingham FOR Conley,Substitution,,0,0,304
+0022500008,430,PT05M53.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,80,79,159,h,McDaniels Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,305
+0022500008,431,PT05M40.00S,3,1610612743,DEN,1627750,Murray,J. Murray,98,267,28,Missed,1,,,0,v,MISS Murray 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022500008,432,PT05M36.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,307
+0022500008,433,PT05M32.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,308
+0022500008,434,PT05M20.00S,3,1610612743,DEN,1631212,Watson,P. Watson,5,36,4,Missed,1,,,0,v,MISS Watson 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,309
+0022500008,434,PT05M20.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert BLOCK (1 BLK),,,1,2,310
+0022500008,436,PT05M19.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,311
+0022500008,437,PT05M18.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid S.FOUL (P3.T2) (M.Myers),Foul,Shooting,1,0,312
+0022500008,439,PT05M18.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,80,80,160,v,Jokic Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,313
+0022500008,440,PT05M18.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,314
+0022500008,442,PT05M18.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,80,81,161,v,Jokic Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,315
+0022500008,443,PT05M00.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,316
+0022500008,444,PT04M48.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. S.FOUL (P1.T3) (M.Dagher),Foul,Shooting,1,0,317
+0022500008,446,PT04M48.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,80,82,162,v,Hardaway Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,318
+0022500008,447,PT04M48.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,80,83,163,v,Hardaway Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,319
+0022500008,448,PT04M36.00S,3,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,320
+0022500008,448,PT04M36.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic STEAL (2 STL),,,1,0,321
+0022500008,450,PT04M35.00S,3,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,Dillingham Transition Take Foul (P2.T4) (S.Foster),Foul,Transition Take,1,0,322
+0022500008,452,PT04M35.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,80,84,164,v,Murray Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,323
+0022500008,453,PT04M35.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Randle FOR Gobert,Substitution,,0,0,324
+0022500008,454,PT04M35.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Gordon FOR Braun,Substitution,,0,0,325
+0022500008,457,PT04M24.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,229,80,24,Missed,1,,,0,v,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022500008,458,PT04M21.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,327
+0022500008,459,PT04M12.00S,3,1610612750,MIN,203944,Randle,J. Randle,4,-3,1,Made,1,82,84,166,h,Randle 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,328
+0022500008,461,PT04M02.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,329
+0022500008,463,PT04M02.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,82,85,167,v,Murray Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022500008,464,PT04M02.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,82,86,168,v,Murray Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,331
+0022500008,465,PT03M45.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-237,-9,24,Made,1,85,86,171,h,Reid 24' 3PT Jump Shot (13 PTS) (Shannon Jr. 1 AST),Made Shot,Jump Shot,1,3,332
+0022500008,467,PT03M30.00S,3,1610612743,DEN,1627750,Murray,J. Murray,94,257,27,Made,1,85,89,174,v,Murray 27' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,3,333
+0022500008,468,PT03M15.00S,3,1610612750,MIN,1642265,Dillingham,R. Dillingham,-7,153,15,Made,1,87,89,176,h,Dillingham 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,334
+0022500008,469,PT03M01.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,13,256,26,Made,1,87,92,179,v,Hardaway Jr. 26' 3PT Jump Shot (17 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,335
+0022500008,471,PT02M47.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,336
+0022500008,472,PT02M47.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,337
+0022500008,473,PT02M47.00S,3,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,h,SUB: Hyland FOR Dillingham,Substitution,,0,0,338
+0022500008,475,PT02M30.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-92,111,14,Made,1,87,94,181,v,Murray 14' Turnaround Fadeaway (32 PTS),Made Shot,Turnaround Fadeaway shot,1,2,339
+0022500008,476,PT02M11.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-11,18,2,Made,1,89,94,183,h,McDaniels 2' Driving Layup (25 PTS) (Reid 2 AST),Made Shot,Driving Layup Shot,1,2,340
+0022500008,478,PT01M53.00S,3,1610612743,DEN,1627750,Murray,J. Murray,18,271,27,Missed,1,,,0,v,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022500008,479,PT01M50.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,342
+0022500008,480,PT01M48.00S,3,1610612743,DEN,1627750,Murray,J. Murray,9,10,1,Made,1,89,96,185,v,Murray 1' Cutting Layup Shot (34 PTS) (Jokic 8 AST),Made Shot,Cutting Layup Shot,1,2,343
+0022500008,482,PT01M35.00S,3,1610612750,MIN,1629675,Reid,N. Reid,229,8,0,Made,1,92,96,188,h,Reid 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,344
+0022500008,483,PT01M17.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-59,242,25,Made,1,92,99,191,v,Hardaway Jr. 25' 3PT Jump Shot (20 PTS) (Gordon 3 AST),Made Shot,Jump Shot,1,3,345
+0022500008,485,PT01M05.00S,3,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland Discontinue Dribble Turnover (P1.T12),Turnover,Discontinue Dribble,1,0,346
+0022500008,486,PT01M05.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Jokic,Substitution,,0,0,347
+0022500008,488,PT00M53.40S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-1,52,5,Made,1,92,101,193,v,Valanciunas 5' Turnaround Jump Shot (3 PTS) (Murray 3 AST),Made Shot,Turnaround Jump Shot,1,2,348
+0022500008,490,PT00M38.70S,3,1610612750,MIN,1630538,Hyland,B. Hyland,2,20,2,Missed,1,,,0,h,MISS Hyland 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,349
+0022500008,490,PT00M38.70S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,2,350
+0022500008,492,PT00M35.80S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,351
+0022500008,493,PT00M26.90S,3,1610612743,DEN,1627750,Murray,J. Murray,112,155,19,Missed,1,,,0,v,MISS Murray 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+0022500008,494,PT00M24.70S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,1,0,353
+0022500008,495,PT00M24.70S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle L.B.FOUL (P3.PN) (S.Foster),Foul,Loose Ball,1,0,354
+0022500008,497,PT00M24.70S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,92,102,194,v,Valanciunas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022500008,498,PT00M24.70S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Braun FOR Murray,Substitution,,0,0,356
+0022500008,500,PT00M24.70S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,357
+0022500008,501,PT00M24.40S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,358
+0022500008,502,PT00M07.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P2.T3) (M.Myers),Foul,Personal,1,0,359
+0022500008,504,PT00M07.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Hardaway Jr.,Substitution,,0,0,360
+0022500008,505,PT00M07.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Brown FOR Valanciunas,Substitution,,0,0,361
+0022500008,508,PT00M07.00S,3,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,v,Jones AWAY.FROM.PLAY.FOUL (P1.PN) (M.Myers),Foul,Away From Play,1,0,362
+0022500008,510,PT00M07.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,93,102,195,h,Shannon Jr. Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,363
+0022500008,511,PT00M00.70S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,364
+0022500008,513,PT00M00.70S,3,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,MISS Hyland Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,365
+0022500008,514,PT00M00.70S,3,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,366
+0022500008,515,PT00M00.70S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,SUB: Jokic FOR Watson,Substitution,,0,0,367
+0022500008,517,PT00M00.70S,3,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,94,102,196,h,Hyland Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,368
+0022500008,518,PT00M00.40S,3,0,,0,,,0,0,0,,0,,,0,v,NUGGETS Heave,Heave,Team Field Goal Attempt,0,0,369
+0022500008,519,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,370
+0022500008,520,PT00M00.00S,3,0,,0,,,0,0,0,,0,94,102,196,,End of 3rd Period (11:36 PM EST),period,end,1,0,371
+0022500008,529,PT12M00.00S,4,0,,0,,,0,0,0,,0,94,102,196,,Start of 4th Period (11:40 PM EST),period,start,0,0,372
+0022500008,530,PT11M46.00S,4,1610612750,MIN,201144,Conley,M. Conley,85,243,26,Missed,1,,,0,h,MISS Conley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+0022500008,531,PT11M44.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,374
+0022500008,532,PT11M43.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid P.FOUL (P4.T1) (M.Myers),Foul,Personal,1,0,375
+0022500008,534,PT11M33.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,113,240,27,Missed,1,,,0,v,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022500008,535,PT11M32.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,377
+0022500008,537,PT11M32.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Watson FOR Gordon,Substitution,,0,0,378
+0022500008,539,PT11M20.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,11,29,3,Missed,1,,,0,h,MISS Gobert 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,379
+0022500008,540,PT11M18.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,380
+0022500008,541,PT11M17.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,96,102,198,h,Gobert Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,381
+0022500008,542,PT11M08.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,382
+0022500008,542,PT11M08.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. STEAL (1 STL),,,1,0,383
+0022500008,544,PT11M01.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P5.T1) (M.Dagher),Foul,Shooting,1,0,384
+0022500008,546,PT11M01.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,97,102,199,h,Shannon Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+0022500008,547,PT11M01.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,MISS Shannon Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,386
+0022500008,548,PT11M01.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,387
+0022500008,549,PT10M46.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,388
+0022500008,549,PT10M46.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert STEAL (1 STL),,,1,0,389
+0022500008,551,PT10M43.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,-13,38,4,Missed,1,,,0,h,MISS Shannon Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,390
+0022500008,551,PT10M43.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson BLOCK (1 BLK),,,1,2,391
+0022500008,553,PT10M42.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,392
+0022500008,555,PT10M42.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Johnson,Substitution,,0,0,393
+0022500008,558,PT10M29.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic P.FOUL (P4.T2) (S.Foster),Foul,Personal,1,0,394
+0022500008,560,PT10M25.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P3.T3) (S.Foster),Foul,Personal,1,0,395
+0022500008,562,PT10M19.00S,4,1610612750,MIN,1629675,Reid,N. Reid,26,264,27,Missed,1,,,0,h,MISS Reid 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022500008,563,PT10M18.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,397
+0022500008,564,PT10M18.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. L.B.FOUL (P2.T4) (M.Myers),Foul,Loose Ball,1,0,398
+0022500008,566,PT10M06.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,15,43,5,Missed,1,,,0,h,MISS Gobert 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,399
+0022500008,567,PT10M04.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,400
+0022500008,568,PT10M00.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,233,-6,0,Missed,1,,,0,v,MISS Hardaway Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,401
+0022500008,569,PT09M57.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,402
+0022500008,570,PT09M50.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,2,7,1,Made,1,99,102,201,h,Shannon Jr. 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,403
+0022500008,571,PT09M28.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,9,16,2,Made,1,99,104,203,v,Jokic 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,404
+0022500008,572,PT09M15.00S,4,1610612750,MIN,1629675,Reid,N. Reid,7,62,6,Made,1,101,104,205,h,Reid 6' Driving Floating Jump Shot (18 PTS) (DiVincenzo 4 AST),Made Shot,Driving Floating Jump Shot,1,2,405
+0022500008,574,PT09M00.00S,4,1610612743,DEN,1631128,Braun,C. Braun,-4,25,3,Missed,1,,,0,v,MISS Braun 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,406
+0022500008,575,PT08M58.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,407
+0022500008,576,PT08M51.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,100,62,12,Missed,1,,,0,h,MISS DiVincenzo 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,408
+0022500008,577,PT08M48.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,409
+0022500008,578,PT08M41.00S,4,1610612743,DEN,1631128,Braun,C. Braun,-4,27,3,Missed,1,,,0,v,MISS Braun 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,410
+0022500008,579,PT08M38.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,Reid REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,411
+0022500008,580,PT08M27.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,412
+0022500008,580,PT08M27.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson STEAL (1 STL),,,1,0,413
+0022500008,582,PT08M22.00S,4,1610612743,DEN,1631212,Watson,P. Watson,13,-10,2,Made,1,101,106,207,v,Watson 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,414
+0022500008,583,PT08M11.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert OFF.Foul (P4) (M.Dagher),Foul,Offensive,1,0,415
+0022500008,585,PT08M11.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,416
+0022500008,586,PT08M11.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Braun,Substitution,,0,0,417
+0022500008,587,PT08M11.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,SUB: Murray FOR Jokic,Substitution,,0,0,418
+0022500008,590,PT07M57.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-37,68,8,Made,1,101,108,209,v,Murray 8' Driving Floating Jump Shot (36 PTS),Made Shot,Driving Floating Jump Shot,1,2,419
+0022500008,591,PT07M47.00S,4,1610612750,MIN,1629675,Reid,N. Reid,120,237,27,Missed,1,,,0,h,MISS Reid 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,420
+0022500008,592,PT07M45.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,421
+0022500008,593,PT07M33.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-232,-6,0,Made,1,101,111,212,v,Watson 3PT Jump Shot (7 PTS) (Hardaway Jr. 2 AST),Made Shot,Jump Shot,1,3,422
+0022500008,595,PT07M31.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,423
+0022500008,596,PT07M31.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,SUB: McDaniels FOR Shannon Jr.,Substitution,,0,0,424
+0022500008,597,PT07M31.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Hyland FOR Conley,Substitution,,0,0,425
+0022500008,598,PT07M31.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,SUB: Randle FOR Reid,Substitution,,0,0,426
+0022500008,613,PT07M31.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Gordon FOR Brown,Substitution,,0,0,427
+0022500008,602,PT07M10.00S,4,1610612750,MIN,203944,Randle,J. Randle,4,74,7,Missed,1,,,0,h,MISS Randle 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,428
+0022500008,604,PT07M08.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,429
+0022500008,605,PT06M59.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-227,11,0,Made,1,101,114,215,v,Watson 3PT Running Jump Shot (10 PTS) (Hardaway Jr. 3 AST),Made Shot,Running Jump Shot,1,3,430
+0022500008,607,PT06M44.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,223,33,0,Missed,1,,,0,h,MISS Hyland 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0022500008,608,PT06M40.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,432
+0022500008,609,PT06M32.00S,4,1610612743,DEN,1627750,Murray,J. Murray,98,109,15,Missed,1,,,0,v,MISS Murray 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,433
+0022500008,610,PT06M31.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,434
+0022500008,611,PT06M31.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas L.B.FOUL (P3.PN) (M.Dagher),Foul,Loose Ball,1,0,435
+0022500008,615,PT06M31.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,102,114,216,h,Gobert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,436
+0022500008,616,PT06M31.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,103,114,217,h,Gobert Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,437
+0022500008,617,PT06M13.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,21,82,8,Missed,1,,,0,v,MISS Valanciunas 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,438
+0022500008,617,PT06M13.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert BLOCK (2 BLK),,,1,2,439
+0022500008,619,PT06M08.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,440
+0022500008,620,PT06M07.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,441
+0022500008,621,PT05M51.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,70,150,17,Missed,1,,,0,v,MISS Gordon 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,442
+0022500008,622,PT05M47.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,443
+0022500008,623,PT05M44.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-159,211,26,Missed,1,,,0,h,MISS DiVincenzo 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,444
+0022500008,624,PT05M41.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,445
+0022500008,625,PT05M41.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,105,114,219,h,Gobert Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,446
+0022500008,626,PT05M20.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,32,3,Made,1,105,116,221,v,Murray 3' Driving Finger Roll Layup (38 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,447
+0022500008,627,PT05M10.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,448
+0022500008,629,PT05M10.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,106,116,222,h,Randle Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+0022500008,630,PT05M10.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Jokic FOR Valanciunas,Substitution,,0,0,450
+0022500008,632,PT05M10.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,107,116,223,h,Randle Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022500008,633,PT04M57.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,10,26,3,Made,1,107,118,225,v,Jokic 3' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,452
+0022500008,634,PT04M42.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,31,115,12,Missed,1,,,0,h,MISS McDaniels 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,453
+0022500008,635,PT04M42.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,454
+0022500008,636,PT04M42.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle P.FOUL (P4.T2) (M.Myers),Foul,Personal,1,0,455
+0022500008,638,PT04M30.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-7,22,2,Missed,1,,,0,v,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,456
+0022500008,639,PT04M28.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,457
+0022500008,641,PT04M19.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-234,-24,24,Missed,1,,,0,h,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022500008,642,PT04M16.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,459
+0022500008,643,PT04M15.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,1,0,460
+0022500008,644,PT03M56.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,18,63,7,Missed,1,,,0,h,MISS McDaniels 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,461
+0022500008,644,PT03M56.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson BLOCK (2 BLK),,,1,2,462
+0022500008,646,PT03M53.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,463
+0022500008,647,PT03M51.00S,4,1610612743,DEN,1627750,Murray,J. Murray,11,27,3,Made,1,107,120,227,v,Murray 3' Running Layup (40 PTS) (Jokic 9 AST),Made Shot,Running Layup Shot,1,2,464
+0022500008,649,PT03M51.00S,4,0,,1610612750,,,0,0,0,,0,,,0,h,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,465
+0022500008,650,PT03M51.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Reid FOR Gobert,Substitution,,0,0,466
+0022500008,652,PT03M43.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-53,263,27,Missed,1,,,0,h,MISS Reid 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022500008,653,PT03M40.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:4 Def:13),Rebound,Unknown,1,0,468
+0022500008,674,PT03M26.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,11,1,Missed,1,,,0,v,MISS Gordon 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,469
+0022500008,675,PT03M26.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:5 Def:13),Rebound,Unknown,1,0,470
+0022500008,656,PT03M13.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,471
+0022500008,656,PT03M13.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle STEAL (2 STL),,,1,0,472
+0022500008,658,PT03M08.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-83,249,26,Missed,1,,,0,h,MISS McDaniels 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,473
+0022500008,659,PT03M04.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,474
+0022500008,660,PT02M56.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-10,24,3,Missed,1,,,0,v,MISS Murray 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,475
+0022500008,660,PT02M56.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,McDaniels BLOCK (4 BLK),,,1,2,476
+0022500008,662,PT02M51.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:6 Def:13),Rebound,Unknown,1,0,477
+0022500008,663,PT02M50.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,7,16,2,Made,1,107,122,229,v,Jokic 2' Putback Layup (25 PTS),Made Shot,Putback Layup Shot,1,2,478
+0022500008,664,PT02M46.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,1,0,479
+0022500008,666,PT02M46.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,108,122,230,h,Randle Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+0022500008,667,PT02M46.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,481
+0022500008,668,PT02M46.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,h,SUB: Juzang FOR McDaniels,Substitution,,0,0,482
+0022500008,671,PT02M46.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,h,SUB: Miller FOR Reid,Substitution,,0,0,483
+0022500008,673,PT02M46.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,109,122,231,h,Randle Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,484
+0022500008,676,PT02M34.00S,4,1610612743,DEN,1627750,Murray,J. Murray,99,169,20,Made,1,109,124,233,v,Murray 20' Step Back Jump Shot (42 PTS),Made Shot,Step Back Jump shot,1,2,485
+0022500008,677,PT02M27.00S,4,1610612750,MIN,203944,Randle,J. Randle,36,58,7,Made,1,111,124,235,h,Randle 7' Driving Floating Bank Jump Shot (23 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,486
+0022500008,678,PT02M27.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon S.FOUL (P3.PN) (M.Myers),Foul,Shooting,1,0,487
+0022500008,680,PT02M27.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,112,124,236,h,Randle Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0,488
+0022500008,682,PT02M15.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,489
+0022500008,684,PT02M15.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,490
+0022500008,685,PT02M15.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,491
+0022500008,686,PT02M15.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Beringer FOR Randle,Substitution,,0,0,492
+0022500008,688,PT02M15.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,112,125,237,v,Murray Free Throw 2 of 2 (43 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+0022500008,689,PT02M02.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,181,176,25,Missed,1,,,0,h,MISS Hyland 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,494
+0022500008,690,PT01M57.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,495
+0022500008,691,PT01M56.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,-5,263,26,Missed,1,,,0,h,MISS Hyland 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,496
+0022500008,692,PT01M53.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,497
+0022500008,693,PT01M38.00S,4,1610612743,DEN,1631212,Watson,P. Watson,1,8,1,Made,1,112,127,239,v,Watson 1' Cutting Dunk Shot (12 PTS) (Jokic 10 AST),Made Shot,Cutting Dunk Shot,1,2,498
+0022500008,695,PT01M27.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,51,138,15,Missed,1,,,0,h,MISS Shannon Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,499
+0022500008,696,PT01M25.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,500
+0022500008,697,PT01M25.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,501
+0022500008,698,PT01M25.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,SUB: Strawther FOR Watson,Substitution,,0,0,502
+0022500008,699,PT01M25.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Tyson FOR Hardaway Jr.,Substitution,,0,0,503
+0022500008,700,PT01M25.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,SUB: Holmes II FOR Jokic,Substitution,,0,0,504
+0022500008,701,PT01M25.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Pickett FOR Murray,Substitution,,0,0,505
+0022500008,702,PT01M25.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Nnaji FOR Gordon,Substitution,,0,0,506
+0022500008,708,PT01M03.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,47,243,25,Missed,1,,,0,v,MISS Nnaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,507
+0022500008,709,PT01M02.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,h,Shannon Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,508
+0022500008,710,PT00M56.10S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,12,70,7,Made,1,114,127,241,h,Shannon Jr. 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,509
+0022500008,711,PT00M49.90S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,h,Beringer P.FOUL (P1.T4) (S.Foster),Foul,Personal,1,0,510
+0022500008,713,PT00M32.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,511
+0022500008,714,PT00M16.40S,4,1610612750,MIN,1630548,Juzang,J. Juzang,114,29,12,Missed,1,,,0,h,MISS Juzang 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,512
+0022500008,715,PT00M12.70S,4,1610612743,DEN,1641816,Tyson,H. Tyson,0,0,0,,0,,,0,v,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,513
+0022500008,716,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,127,241,,End of 4th Period (12:10 AM EST),period,end,1,0,514

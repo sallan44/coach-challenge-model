@@ -1,0 +1,454 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400889,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:11 PM EST),period,start,0,0,1
+0022400889,4,PT12M00.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Jump Ball Bol vs. Zubac: Tip to Richards,Jump Ball,,1,0,2
+0022400889,7,PT11M42.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol Traveling Turnover (P1.T1),Turnover,Traveling,1,0,3
+0022400889,8,PT11M19.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,4
+0022400889,10,PT11M19.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,0,1,1,v,Harden Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,5
+0022400889,11,PT11M19.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,0,2,2,v,Harden Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,6
+0022400889,12,PT11M04.00S,1,1610612756,PHX,203078,Beal,B. Beal,27,146,15,Missed,1,,,0,h,MISS Beal 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,7
+0022400889,13,PT11M01.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022400889,14,PT10M58.00S,1,1610612756,PHX,201142,Durant,K. Durant,-132,236,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0022400889,15,PT10M56.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022400889,16,PT10M44.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,229,14,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022400889,17,PT10M42.00S,1,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022400889,18,PT10M35.00S,1,1610612756,PHX,1629626,Bol,B. Bol,-32,9,3,Made,1,2,2,4,h,Bol 3' Cutting Dunk Shot (2 PTS) (Booker 1 AST),Made Shot,Cutting Dunk Shot,1,2,13
+0022400889,20,PT10M10.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-205,159,26,Missed,1,,,0,v,MISS Leonard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022400889,21,PT10M07.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022400889,22,PT09M59.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,16
+0022400889,22,PT09M59.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden STEAL (1 STL),,,1,0,17
+0022400889,24,PT09M47.00S,1,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,18
+0022400889,26,PT09M39.00S,1,1610612746,LAC,201935,Harden,J. Harden,63,54,8,Missed,1,,,0,v,MISS Harden 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,19
+0022400889,27,PT09M37.00S,1,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+0022400889,28,PT09M27.00S,1,1610612756,PHX,1626164,Booker,D. Booker,64,115,13,Made,1,4,2,6,h,Booker 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,21
+0022400889,29,PT09M27.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,22
+0022400889,31,PT09M27.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,23
+0022400889,32,PT09M26.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022400889,33,PT09M03.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,-1,0,Made,1,4,4,8,v,Dunn Cutting Layup Shot (2 PTS) (Zubac 1 AST),Made Shot,Cutting Layup Shot,1,2,25
+0022400889,35,PT08M53.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,26
+0022400889,36,PT08M44.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,-231,8,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022400889,37,PT08M42.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+0022400889,38,PT08M30.00S,1,1610612756,PHX,1629626,Bol,B. Bol,119,53,13,Missed,1,,,0,h,MISS Bol 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,29
+0022400889,39,PT08M28.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022400889,40,PT08M18.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol S.FOUL (P2.T3) (N.Green),Foul,Shooting,1,0,31
+0022400889,42,PT08M18.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,4,5,9,v,Zubac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022400889,43,PT08M18.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,MISS Zubac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,33
+0022400889,44,PT08M17.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,Bol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022400889,45,PT08M04.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,35
+0022400889,46,PT07M54.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,171,181,25,Made,1,4,8,12,v,Bogdanović 25' 3PT Jump Shot (3 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,36
+0022400889,48,PT07M42.00S,1,1610612756,PHX,1629626,Bol,B. Bol,-176,199,27,Missed,1,,,0,h,MISS Bol 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+0022400889,49,PT07M40.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022400889,50,PT07M37.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,26,16,3,Missed,1,,,0,v,MISS Bogdanović 3' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,0,2,39
+0022400889,51,PT07M33.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,40
+0022400889,54,PT07M22.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,232,14,0,Made,1,4,11,15,v,Bogdanović 3PT Jump Shot (6 PTS) (Zubac 2 AST),Made Shot,Jump Shot,1,3,41
+0022400889,56,PT07M21.00S,1,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+0022400889,57,PT07M21.00S,1,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,SUB: O'Neale FOR Bol,Substitution,,0,0,43
+0022400889,59,PT06M57.00S,1,1610612756,PHX,1626220,O'Neale,R. O'Neale,-223,175,28,Made,1,7,11,18,h,O'Neale 28' 3PT Jump Shot (3 PTS) (Beal 1 AST),Made Shot,Jump Shot,1,3,44
+0022400889,61,PT06M37.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,10,112,11,Made,1,7,13,20,v,Leonard 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,45
+0022400889,62,PT06M25.00S,1,1610612756,PHX,203078,Beal,B. Beal,-16,164,16,Missed,1,,,0,h,MISS Beal 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,46
+0022400889,63,PT06M22.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+0022400889,64,PT06M15.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,15,17,2,Made,1,7,15,22,v,Zubac 2' Alley Oop Dunk (3 PTS) (Harden 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,48
+0022400889,66,PT05M47.00S,1,1610612756,PHX,201142,Durant,K. Durant,76,93,12,Missed,1,,,0,h,MISS Durant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,49
+0022400889,67,PT05M45.00S,1,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,50
+0022400889,68,PT05M45.00S,1,1610612756,PHX,1630208,Richards,N. Richards,-26,20,3,Made,1,9,15,24,h,Richards 3' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,51
+0022400889,69,PT05M25.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,27,52,6,Missed,1,,,0,v,MISS Zubac 6' Hook Shot,Missed Shot,Hook Shot,1,2,52
+0022400889,69,PT05M25.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal BLOCK (1 BLK),,,1,2,53
+0022400889,71,PT05M23.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,54
+0022400889,72,PT05M22.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac P.FOUL (P2.T2) (N.Green),Foul,Personal,1,0,55
+0022400889,74,PT05M22.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Coffey FOR Bogdanović,Substitution,,0,0,56
+0022400889,76,PT05M22.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,SUB: Eubanks FOR Zubac,Substitution,,0,0,57
+0022400889,78,PT05M02.00S,1,1610612756,PHX,1630208,Richards,N. Richards,14,46,5,Made,1,11,15,26,h,Richards 5' Cutting Layup Shot (4 PTS) (Beal 2 AST),Made Shot,Cutting Layup Shot,1,2,58
+0022400889,80,PT04M42.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,185,174,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022400889,81,PT04M40.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,60
+0022400889,82,PT04M36.00S,1,1610612756,PHX,201142,Durant,K. Durant,-103,238,26,Missed,1,,,0,h,MISS Durant 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,61
+0022400889,83,PT04M34.00S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022400889,84,PT04M23.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-15,49,5,Made,1,11,17,28,v,Leonard 5' Driving Layup (4 PTS) (Harden 2 AST),Made Shot,Driving Layup Shot,1,2,63
+0022400889,86,PT04M08.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard S.FOUL (P1.T3) (B.Forte),Foul,Shooting,1,0,64
+0022400889,88,PT04M08.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,12,17,29,h,Booker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,65
+0022400889,89,PT04M08.00S,1,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,SUB: Plumlee FOR Richards,Substitution,,0,0,66
+0022400889,90,PT04M08.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Allen FOR Beal,Substitution,,0,0,67
+0022400889,94,PT04M08.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Batum FOR Dunn,Substitution,,0,0,68
+0022400889,93,PT04M08.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,13,17,30,h,Booker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,69
+0022400889,96,PT03M54.00S,1,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,70
+0022400889,98,PT03M54.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,13,18,31,v,Leonard Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,71
+0022400889,99,PT03M54.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,13,19,32,v,Leonard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,72
+0022400889,100,PT03M46.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-118,268,29,Missed,1,,,0,h,MISS Booker 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,73
+0022400889,101,PT03M44.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,74
+0022400889,102,PT03M35.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,21,61,6,Missed,1,,,0,v,MISS Leonard 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,75
+0022400889,103,PT03M32.00S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,76
+0022400889,104,PT03M25.00S,1,1610612746,LAC,201587,Batum,N. Batum,-234,-28,24,Missed,1,,,0,v,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022400889,105,PT03M23.00S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022400889,106,PT03M11.00S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,17,28,3,Made,1,15,19,34,h,Plumlee 3' Cutting Dunk Shot (2 PTS) (Durant 1 AST),Made Shot,Cutting Dunk Shot,1,2,79
+0022400889,108,PT03M10.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,80
+0022400889,109,PT03M10.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Jones FOR Booker,Substitution,,0,0,81
+0022400889,110,PT03M10.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Miller FOR Leonard,Substitution,,0,0,82
+0022400889,113,PT02M52.00S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,83
+0022400889,115,PT02M52.00S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,MISS Eubanks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,84
+0022400889,116,PT02M52.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0,85
+0022400889,117,PT02M52.00S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,15,20,35,v,Eubanks Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,86
+0022400889,118,PT02M38.00S,1,1610612756,PHX,1628960,Allen,G. Allen,131,243,28,Made,1,18,20,38,h,Allen 28' 3PT Jump Shot (3 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,1,3,87
+0022400889,121,PT02M15.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,88
+0022400889,121,PT02M15.00S,1,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (1 STL),,,1,0,89
+0022400889,123,PT02M01.00S,1,1610612756,PHX,201142,Durant,K. Durant,-19,85,9,Made,1,20,20,40,h,Durant 9' Pullup Jump Shot (2 PTS) (Plumlee 2 AST),Made Shot,Pullup Jump shot,1,2,90
+0022400889,125,PT02M01.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,91
+0022400889,127,PT02M01.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,21,20,41,h,Durant Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,92
+0022400889,128,PT01M48.00S,1,1610612746,LAC,201935,Harden,J. Harden,216,139,26,Missed,1,,,0,v,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,93
+0022400889,129,PT01M45.00S,1,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0022400889,130,PT01M41.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,12,59,6,Missed,1,,,0,v,MISS Coffey 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,95
+0022400889,131,PT01M40.00S,1,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022400889,132,PT01M31.00S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,13,23,3,Made,1,23,20,43,h,Plumlee 3' Cutting Layup Shot (4 PTS) (Durant 2 AST),Made Shot,Cutting Layup Shot,1,2,97
+0022400889,134,PT01M09.00S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,-17,77,8,Missed,1,,,0,v,MISS Eubanks 8' Hook Shot,Missed Shot,Hook Shot,1,2,98
+0022400889,134,PT01M09.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant BLOCK (1 BLK),,,1,2,99
+0022400889,136,PT01M08.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,100
+0022400889,137,PT01M01.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,101
+0022400889,137,PT01M01.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey STEAL (1 STL),,,1,0,102
+0022400889,139,PT00M57.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,-15,27,3,Made,1,23,22,45,v,Coffey 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,103
+0022400889,140,PT00M37.60S,1,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller P.FOUL (P1.PN) (N.Green),Foul,Personal,1,0,104
+0022400889,142,PT00M37.60S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,24,22,46,h,Durant Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+0022400889,143,PT00M37.60S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,25,22,47,h,Durant Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+0022400889,144,PT00M28.20S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,107
+0022400889,146,PT00M28.20S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,25,23,48,v,Eubanks Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,108
+0022400889,147,PT00M28.20S,1,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,25,24,49,v,Eubanks Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,109
+0022400889,148,PT00M05.50S,1,1610612756,PHX,203486,Plumlee,M. Plumlee,27,7,3,Made,1,27,24,51,h,Plumlee 3' Alley Oop Dunk (6 PTS) (Allen 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,110
+0022400889,150,PT00M05.00S,1,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,111
+0022400889,150,PT00M05.00S,1,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,112
+0022400889,152,PT00M00.40S,1,1610612756,PHX,1626220,O'Neale,R. O'Neale,179,198,27,Made,1,30,24,54,h,O'Neale 27' 3PT Jump Shot (6 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,1,3,113
+0022400889,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,24,54,,End of 1st Period (10:39 PM EST),period,end,1,0,114
+0022400889,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,24,54,,Start of 2nd Period (10:42 PM EST),period,start,0,0,115
+0022400889,162,PT11M45.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,79,143,16,Made,1,30,26,56,v,Coffey 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,116
+0022400889,163,PT11M20.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,-113,29,12,Missed,1,,,0,h,MISS O'Neale 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0022400889,164,PT11M18.00S,2,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022400889,165,PT11M08.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-14,150,15,Made,1,30,28,58,v,Bogdanović 15' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,119
+0022400889,166,PT10M48.00S,2,1610612756,PHX,1626145,Jones,T. Jones,-3,289,29,Missed,1,,,0,h,MISS Jones 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,120
+0022400889,167,PT10M45.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022400889,168,PT10M39.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,-32,149,15,Missed,1,,,0,v,MISS Coffey 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,122
+0022400889,169,PT10M37.00S,2,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+0022400889,170,PT10M28.00S,2,1610612756,PHX,1626145,Jones,T. Jones,-11,268,27,Missed,1,,,0,h,MISS Jones 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,124
+0022400889,171,PT10M26.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+0022400889,172,PT10M10.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-26,17,3,Made,1,30,30,60,v,Zubac 3' Cutting Dunk Shot (5 PTS) (Batum 1 AST),Made Shot,Cutting Dunk Shot,1,2,126
+0022400889,174,PT09M49.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey S.FOUL (P2.T1) (N.Green),Foul,Shooting,1,0,127
+0022400889,176,PT09M49.00S,2,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,31,30,61,h,Jones Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,128
+0022400889,177,PT09M49.00S,2,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,32,30,62,h,Jones Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,129
+0022400889,184,PT09M49.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,SUB: Beal FOR O'Neale,Substitution,,0,0,130
+0022400889,180,PT09M49.00S,2,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,33,30,63,h,Jones Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,131
+0022400889,181,PT09M35.00S,2,1610612746,LAC,1641757,Miller,J. Miller,-26,57,6,Made,1,33,32,65,v,Miller 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,132
+0022400889,182,PT09M25.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-34,280,28,Missed,1,,,0,h,MISS Booker 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+0022400889,183,PT09M23.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0022400889,186,PT09M16.00S,2,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,135
+0022400889,188,PT09M16.00S,2,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,SUB: Leonard FOR Miller,Substitution,,0,0,136
+0022400889,190,PT09M07.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,99,261,28,Missed,1,,,0,v,MISS Coffey 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022400889,191,PT09M05.00S,2,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,138
+0022400889,192,PT08M56.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,139
+0022400889,192,PT08M56.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey STEAL (2 STL),,,1,0,140
+0022400889,194,PT08M51.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,-19,20,3,Made,1,33,34,67,v,Coffey 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,141
+0022400889,195,PT08M43.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,142
+0022400889,196,PT08M43.00S,2,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Bol FOR Jones,Substitution,,0,0,143
+0022400889,197,PT08M43.00S,2,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,SUB: Richards FOR Plumlee,Substitution,,0,0,144
+0022400889,200,PT08M29.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,145
+0022400889,200,PT08M29.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac STEAL (1 STL),,,1,0,146
+0022400889,202,PT08M20.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,14,77,8,Made,1,33,36,69,v,Zubac 8' Floating Jump Shot (7 PTS) (Bogdanović 1 AST),Made Shot,Floating Jump shot,1,2,147
+0022400889,204,PT08M01.00S,2,1610612756,PHX,1628960,Allen,G. Allen,-28,65,7,Made,1,35,36,71,h,Allen 7' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,1,2,148
+0022400889,205,PT07M37.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,212,141,25,Missed,1,,,0,v,MISS Leonard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,149
+0022400889,206,PT07M34.00S,2,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,150
+0022400889,207,PT07M19.00S,2,1610612756,PHX,203078,Beal,B. Beal,-45,70,8,Missed,1,,,0,h,MISS Beal 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,151
+0022400889,208,PT07M17.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,152
+0022400889,209,PT07M09.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,92,243,26,Made,1,35,39,74,v,Leonard 26' 3PT Jump Shot (9 PTS) (Batum 2 AST),Made Shot,Jump Shot,1,3,153
+0022400889,211,PT06M47.00S,2,1610612756,PHX,1626164,Booker,D. Booker,34,164,17,Made,1,37,39,76,h,Booker 17' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,154
+0022400889,212,PT06M27.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,228,10,0,Made,1,37,42,79,v,Bogdanović 3PT Jump Shot (11 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,3,155
+0022400889,214,PT06M09.00S,2,1610612756,PHX,1630208,Richards,N. Richards,-35,-11,4,Made,1,39,42,81,h,Richards 4' Reverse Layup (6 PTS) (Booker 2 AST),Made Shot,Reverse Layup Shot,1,2,156
+0022400889,216,PT05M58.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,105,-2,11,Missed,1,,,0,v,MISS Leonard 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,157
+0022400889,217,PT05M56.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+0022400889,218,PT05M47.00S,2,1610612756,PHX,1629626,Bol,B. Bol,-228,4,0,Missed,1,,,0,h,MISS Bol 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022400889,219,PT05M45.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,160
+0022400889,220,PT05M30.00S,2,1610612746,LAC,201587,Batum,N. Batum,228,13,0,Made,1,39,45,84,v,Batum 3PT Jump Shot (3 PTS) (Leonard 2 AST),Made Shot,Jump Shot,1,3,161
+0022400889,222,PT05M14.00S,2,1610612756,PHX,1629626,Bol,B. Bol,-6,156,16,Missed,1,,,0,h,MISS Bol 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,162
+0022400889,223,PT05M12.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+0022400889,224,PT05M08.00S,2,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,164
+0022400889,226,PT05M08.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,39,46,85,v,Coffey Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,165
+0022400889,227,PT05M08.00S,2,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Durant FOR Allen,Substitution,,0,0,166
+0022400889,228,PT05M08.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,SUB: Harden FOR Batum,Substitution,,0,0,167
+0022400889,231,PT05M08.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,39,47,86,v,Coffey Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,168
+0022400889,232,PT05M01.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey P.FOUL (P3.T2) (B.Forte),Foul,Personal,1,0,169
+0022400889,234,PT05M01.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,SUB: Dunn FOR Coffey,Substitution,,0,0,170
+0022400889,236,PT04M53.00S,2,1610612756,PHX,203078,Beal,B. Beal,-219,153,27,Missed,1,,,0,h,MISS Beal 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022400889,237,PT04M49.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,172
+0022400889,238,PT04M34.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-29,-1,3,Made,1,39,49,88,v,Zubac 3' Cutting Dunk Shot (9 PTS) (Harden 3 AST),Made Shot,Cutting Dunk Shot,1,2,173
+0022400889,240,PT04M22.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-64,254,26,Missed,1,,,0,h,MISS Booker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,174
+0022400889,241,PT04M20.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,175
+0022400889,242,PT04M17.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,1,0,176
+0022400889,244,PT04M17.00S,2,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,,,0,h,SUB: O'Neale FOR Bol,Substitution,,0,0,177
+0022400889,246,PT04M07.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,178
+0022400889,246,PT04M07.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal STEAL (1 STL),,,1,0,179
+0022400889,248,PT03M59.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,-214,182,28,Missed,1,,,0,h,MISS O'Neale 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022400889,249,PT03M56.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,181
+0022400889,250,PT03M54.00S,2,1610612756,PHX,201142,Durant,K. Durant,168,207,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022400889,251,PT03M49.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0,183
+0022400889,253,PT03M42.00S,2,1610612756,PHX,1630208,Richards,N. Richards,16,39,4,Made,1,41,49,90,h,Richards 4' Turnaround Hook Shot (8 PTS) (Durant 3 AST),Made Shot,Turnaround Hook Shot,1,2,184
+0022400889,255,PT03M27.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,13,27,3,Made,1,41,51,92,v,Zubac 3' Alley Oop Dunk (11 PTS) (Harden 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,185
+0022400889,257,PT03M07.00S,2,1610612756,PHX,1630208,Richards,N. Richards,29,159,16,Made,1,43,51,94,h,Richards 16' Pullup Jump Shot (10 PTS) (Booker 3 AST),Made Shot,Pullup Jump shot,1,2,186
+0022400889,259,PT03M01.00S,2,1610612746,LAC,201935,Harden,J. Harden,82,39,9,Made,1,43,53,96,v,Harden 9' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,187
+0022400889,260,PT03M01.00S,2,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards S.FOUL (P2.T4) (N.Green),Foul,Shooting,1,0,188
+0022400889,262,PT03M01.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Jones FOR Beal,Substitution,,0,0,189
+0022400889,264,PT03M01.00S,2,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,43,54,97,v,Harden Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,190
+0022400889,265,PT02M48.00S,2,1610612756,PHX,201142,Durant,K. Durant,-158,98,19,Missed,1,,,0,h,MISS Durant 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,191
+0022400889,266,PT02M46.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,192
+0022400889,267,PT02M29.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-2,55,6,Made,1,43,56,99,v,Leonard 6' Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,1,2,193
+0022400889,268,PT02M15.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,194
+0022400889,268,PT02M15.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,195
+0022400889,270,PT02M11.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,24,50,6,Made,1,43,58,101,v,Bogdanović 6' Running Layup (13 PTS) (Harden 5 AST),Made Shot,Running Layup Shot,1,2,196
+0022400889,272,PT02M10.00S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,197
+0022400889,273,PT02M10.00S,2,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,SUB: Plumlee FOR Richards,Substitution,,0,0,198
+0022400889,275,PT01M50.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,-176,217,28,Made,1,46,58,104,h,O'Neale 28' 3PT Jump Shot (9 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,199
+0022400889,277,PT01M31.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-29,256,26,Missed,1,,,0,v,MISS Leonard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022400889,278,PT01M29.00S,2,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,201
+0022400889,279,PT01M16.00S,2,1610612756,PHX,201142,Durant,K. Durant,-103,190,22,Missed,1,,,0,h,MISS Durant 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,202
+0022400889,280,PT01M14.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,203
+0022400889,281,PT01M03.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,51,13,5,Made,1,46,60,106,v,Zubac 5' Turnaround Hook Shot (13 PTS) (Harden 6 AST),Made Shot,Turnaround Hook Shot,1,2,204
+0022400889,283,PT00M50.80S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,-228,9,0,Missed,1,,,0,h,MISS O'Neale 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022400889,284,PT00M48.70S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,206
+0022400889,285,PT00M35.80S,2,1610612746,LAC,201935,Harden,J. Harden,58,277,28,Made,1,46,63,109,v,Harden 28' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,207
+0022400889,286,PT00M14.20S,2,1610612756,PHX,201142,Durant,K. Durant,17,274,27,Made,1,49,63,112,h,Durant 27' 3PT Jump Shot (8 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,208
+0022400889,288,PT00M01.90S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-6,77,8,Made,1,49,65,114,v,Zubac 8' Floating Jump Shot (15 PTS) (Harden 7 AST),Made Shot,Floating Jump shot,1,2,209
+0022400889,290,PT00M00.70S,2,1610612756,PHX,203486,Plumlee,M. Plumlee,158,578,60,Missed,1,,,0,h,MISS Plumlee 60' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0022400889,291,PT00M00.10S,2,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0,211
+0022400889,292,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,65,114,,End of 2nd Period (11:06 PM EST),period,end,1,0,212
+0022400889,295,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,65,114,,Start of 3rd Period (11:23 PM EST),period,start,0,0,213
+0022400889,296,PT11M48.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,30,35,5,Made,1,49,67,116,v,Zubac 5' Turnaround Hook Shot (17 PTS) (Harden 8 AST),Made Shot,Turnaround Hook Shot,0,2,214
+0022400889,298,PT11M35.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (N.Green),Foul,Personal,1,0,215
+0022400889,300,PT11M24.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,-55,-8,6,Missed,1,,,0,h,MISS O'Neale 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,216
+0022400889,301,PT11M21.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,217
+0022400889,302,PT11M16.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,234,24,24,Missed,1,,,0,v,MISS Leonard 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,218
+0022400889,303,PT11M14.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,219
+0022400889,304,PT10M59.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,36,282,28,Missed,1,,,0,h,MISS O'Neale 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,220
+0022400889,305,PT10M57.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,221
+0022400889,306,PT10M37.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,10,11,1,Made,1,49,69,118,v,Zubac 1' Reverse Dunk (19 PTS) (Dunn 2 AST),Made Shot,Reverse Dunk Shot,1,2,222
+0022400889,308,PT10M20.00S,3,1610612756,PHX,1630208,Richards,N. Richards,22,23,3,Made,1,51,69,120,h,Richards 3' Cutting Dunk Shot (12 PTS) (Booker 4 AST),Made Shot,Cutting Dunk Shot,1,2,223
+0022400889,310,PT10M04.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard OFF.Foul (P2) (J.DeRosa),Foul,Offensive,1,0,224
+0022400889,312,PT10M04.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,225
+0022400889,313,PT09M51.00S,3,1610612756,PHX,1630208,Richards,N. Richards,-30,-3,3,Missed,1,,,0,h,MISS Richards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,226
+0022400889,314,PT09M48.00S,3,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,227
+0022400889,315,PT09M48.00S,3,1610612756,PHX,1630208,Richards,N. Richards,-37,45,6,Missed,1,,,0,h,MISS Richards 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,228
+0022400889,315,PT09M48.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard BLOCK (1 BLK),,,1,2,229
+0022400889,317,PT09M46.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,230
+0022400889,318,PT09M41.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-13,56,6,Made,1,51,71,122,v,Zubac 6' Driving Hook Shot (21 PTS) (Harden 9 AST),Made Shot,Driving Hook Shot,1,2,231
+0022400889,320,PT09M29.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,232
+0022400889,322,PT09M29.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,233
+0022400889,325,PT09M15.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (B.Forte),Foul,Personal,1,0,234
+0022400889,327,PT09M10.00S,3,1610612756,PHX,1626145,Jones,T. Jones,-190,172,26,Made,1,54,71,125,h,Jones 26' 3PT Jump Shot (6 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,1,3,235
+0022400889,329,PT08M53.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,236
+0022400889,331,PT08M53.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,54,72,126,v,Harden Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,1,0,237
+0022400889,332,PT08M53.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,54,73,127,v,Harden Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,1,0,238
+0022400889,333,PT08M53.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,54,74,128,v,Harden Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,1,0,239
+0022400889,334,PT08M32.00S,3,1610612756,PHX,1630208,Richards,N. Richards,23,15,3,Made,1,56,74,130,h,Richards 3' Cutting Layup Shot (14 PTS),Made Shot,Cutting Layup Shot,1,2,240
+0022400889,335,PT08M20.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,1,0,241
+0022400889,337,PT08M14.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-228,73,24,Missed,1,,,0,v,MISS Leonard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0022400889,338,PT08M12.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,243
+0022400889,339,PT08M03.00S,3,1610612756,PHX,1626164,Booker,D. Booker,67,92,11,Made,1,58,74,132,h,Booker 11' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,244
+0022400889,340,PT07M44.00S,3,1610612746,LAC,201935,Harden,J. Harden,25,87,9,Missed,1,,,0,v,MISS Harden 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,245
+0022400889,341,PT07M42.00S,3,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,246
+0022400889,342,PT07M33.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,247
+0022400889,342,PT07M33.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden STEAL (2 STL),,,1,0,248
+0022400889,344,PT07M28.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-15,41,4,Made,1,58,76,134,v,Leonard 4' Running Dunk (13 PTS) (Bogdanović 2 AST),Made Shot,Running Dunk Shot,1,2,249
+0022400889,346,PT07M18.00S,3,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,250
+0022400889,346,PT07M18.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,251
+0022400889,348,PT07M08.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,11,101,10,Made,1,58,78,136,v,Leonard 10' Turnaround Jump Shot (15 PTS) (Bogdanović 3 AST),Made Shot,Turnaround Jump Shot,1,2,252
+0022400889,350,PT07M08.00S,3,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,253
+0022400889,352,PT06M49.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,-190,180,26,Made,1,61,78,139,h,O'Neale 26' 3PT Jump Shot (12 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,254
+0022400889,354,PT06M35.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,25,9,3,Made,1,61,80,141,v,Leonard 3' Cutting Layup Shot (17 PTS) (Harden 10 AST),Made Shot,Cutting Layup Shot,1,2,255
+0022400889,356,PT06M24.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Lost Ball Turnover (P5.T11),Turnover,Lost Ball,1,0,256
+0022400889,356,PT06M24.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard STEAL (1 STL),,,1,0,257
+0022400889,358,PT06M20.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,212,145,26,Missed,1,,,0,v,MISS Bogdanović 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,258
+0022400889,359,PT06M17.00S,3,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,259
+0022400889,360,PT05M56.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović P.FOUL (P2.T4) (N.Green),Foul,Personal,1,0,260
+0022400889,362,PT05M50.00S,3,1610612756,PHX,201142,Durant,K. Durant,-188,40,19,Missed,1,,,0,h,MISS Durant 19' Jump Shot,Missed Shot,Jump Shot,1,2,261
+0022400889,363,PT05M46.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,262
+0022400889,364,PT05M36.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,37,25,4,Made,1,61,82,143,v,Zubac 4' Cutting Layup Shot (23 PTS) (Leonard 3 AST),Made Shot,Cutting Layup Shot,1,2,263
+0022400889,366,PT05M25.00S,3,1610612756,PHX,1626164,Booker,D. Booker,179,67,19,Made,1,63,82,145,h,Booker 19' Pullup Jump Shot (10 PTS) (Jones 4 AST),Made Shot,Pullup Jump shot,1,2,264
+0022400889,368,PT05M25.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.PN) (N.Green),Foul,Shooting,1,0,265
+0022400889,370,PT05M25.00S,3,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,SUB: Plumlee FOR Richards,Substitution,,0,0,266
+0022400889,372,PT05M25.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,64,82,146,h,Booker Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,267
+0022400889,373,PT05M07.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,16,24,3,Made,1,64,84,148,v,Leonard 3' Cutting Dunk Shot (19 PTS) (Zubac 3 AST),Made Shot,Cutting Dunk Shot,1,2,268
+0022400889,375,PT04M56.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-97,-7,10,Missed,1,,,0,h,MISS Booker 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,269
+0022400889,376,PT04M54.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,270
+0022400889,377,PT04M32.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,4,81,8,Made,1,64,86,150,v,Zubac 8' Turnaround Hook Shot (25 PTS),Made Shot,Turnaround Hook Shot,1,2,271
+0022400889,378,PT04M20.00S,3,1610612756,PHX,201142,Durant,K. Durant,38,71,8,Made,1,66,86,152,h,Durant 8' Driving Floating Jump Shot (10 PTS) (O'Neale 2 AST),Made Shot,Driving Floating Jump Shot,1,2,272
+0022400889,380,PT04M12.00S,3,1610612746,LAC,201935,Harden,J. Harden,-183,223,29,Made,1,66,89,155,v,Harden 29' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,273
+0022400889,381,PT03M52.00S,3,1610612756,PHX,1626164,Booker,D. Booker,229,59,24,Made,1,69,89,158,h,Booker 24' 3PT Jump Shot (14 PTS) (Jones 5 AST),Made Shot,Jump Shot,1,3,274
+0022400889,383,PT03M51.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,275
+0022400889,384,PT03M51.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,SUB: Allen FOR Booker,Substitution,,0,0,276
+0022400889,385,PT03M51.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Coffey FOR Leonard,Substitution,,0,0,277
+0022400889,386,PT03M51.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Batum FOR Bogdanović,Substitution,,0,0,278
+0022400889,387,PT03M51.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,SUB: Eubanks FOR Zubac,Substitution,,0,0,279
+0022400889,392,PT03M41.00S,3,1610612746,LAC,1629234,Eubanks,D. Eubanks,30,19,4,Made,1,69,91,160,v,Eubanks 4' Alley Oop Dunk (5 PTS) (Harden 11 AST),Made Shot,Alley Oop Dunk Shot,1,2,280
+0022400889,394,PT03M16.00S,3,1610612756,PHX,203486,Plumlee,M. Plumlee,46,69,8,Missed,1,,,0,h,MISS Plumlee 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,281
+0022400889,395,PT03M14.00S,3,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,282
+0022400889,396,PT02M52.00S,3,1610612746,LAC,1629234,Eubanks,D. Eubanks,12,83,8,Missed,1,,,0,v,MISS Eubanks 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,2,283
+0022400889,397,PT02M50.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,284
+0022400889,398,PT02M39.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,285
+0022400889,400,PT02M39.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,70,91,161,h,Durant Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,1,0,286
+0022400889,401,PT02M39.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,71,91,162,h,Durant Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,1,0,287
+0022400889,402,PT02M39.00S,3,1610612756,PHX,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Gillespie FOR Jones,Substitution,,0,0,288
+0022400889,404,PT02M39.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Miller FOR Dunn,Substitution,,0,0,289
+0022400889,406,PT02M39.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,72,91,163,h,Durant Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,1,0,290
+0022400889,407,PT02M30.00S,3,1610612746,LAC,201935,Harden,J. Harden,-107,88,14,Made,1,72,93,165,v,Harden 14' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,291
+0022400889,408,PT02M07.00S,3,1610612756,PHX,203486,Plumlee,M. Plumlee,24,23,3,Missed,1,,,0,h,MISS Plumlee 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,292
+0022400889,408,PT02M07.00S,3,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks BLOCK (1 BLK),,,1,2,293
+0022400889,410,PT02M04.00S,3,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,294
+0022400889,411,PT02M01.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,41,52,7,Made,1,72,95,167,v,Coffey 7' Running Layup (10 PTS) (Harden 12 AST),Made Shot,Running Layup Shot,1,2,295
+0022400889,413,PT01M43.00S,3,1610612756,PHX,201142,Durant,K. Durant,-188,184,26,Missed,1,,,0,h,MISS Durant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,296
+0022400889,414,PT01M41.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,297
+0022400889,415,PT01M39.00S,3,1610612756,PHX,203486,Plumlee,M. Plumlee,-22,7,2,Made,1,74,95,169,h,Plumlee 2' Reverse Dunk (8 PTS) (O'Neale 3 AST),Made Shot,Reverse Dunk Shot,1,2,298
+0022400889,417,PT01M13.00S,3,1610612746,LAC,201935,Harden,J. Harden,203,161,26,Missed,1,,,0,v,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,299
+0022400889,418,PT01M11.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,300
+0022400889,419,PT01M11.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,301
+0022400889,420,PT00M59.00S,3,1610612756,PHX,201142,Durant,K. Durant,109,81,14,Made,1,76,95,171,h,Durant 14' Pullup Jump Shot (15 PTS) (Gillespie 1 AST),Made Shot,Pullup Jump shot,1,2,302
+0022400889,421,PT00M39.70S,3,1610612756,PHX,1631221,Gillespie,C. Gillespie,0,0,0,,0,,,0,h,Gillespie P.FOUL (P1.T3) (N.Green),Foul,Personal,1,0,303
+0022400889,423,PT00M32.80S,3,1610612746,LAC,201935,Harden,J. Harden,85,257,27,Missed,1,,,0,v,MISS Harden 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,304
+0022400889,424,PT00M28.50S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,305
+0022400889,425,PT00M17.10S,3,1610612746,LAC,201587,Batum,N. Batum,233,4,0,Missed,1,,,0,v,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022400889,426,PT00M14.60S,3,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,307
+0022400889,427,PT00M08.50S,3,1610612756,PHX,201142,Durant,K. Durant,152,213,26,Missed,1,,,0,h,MISS Durant 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,308
+0022400889,428,PT00M06.10S,3,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,309
+0022400889,429,PT00M00.50S,3,1610612746,LAC,201935,Harden,J. Harden,-138,302,33,Missed,1,,,0,v,MISS Harden 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,310
+0022400889,430,PT00M00.10S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,311
+0022400889,431,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,95,171,,End of 3rd Period (11:49 PM EST),period,end,1,0,312
+0022400889,437,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,95,171,,Start of 4th Period (11:53 PM EST),period,start,0,0,313
+0022400889,438,PT11M39.00S,4,1610612756,PHX,201142,Durant,K. Durant,-235,55,24,Made,1,79,95,174,h,Durant 24' 3PT Jump Shot (18 PTS) (Booker 5 AST),Made Shot,Jump Shot,1,3,314
+0022400889,440,PT11M23.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,315
+0022400889,440,PT11M23.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant STEAL (1 STL),,,1,0,316
+0022400889,442,PT11M22.00S,4,1610612756,PHX,201142,Durant,K. Durant,-44,45,6,Made,1,81,95,176,h,Durant 6' Running Dunk (20 PTS),Made Shot,Running Dunk Shot,1,2,317
+0022400889,443,PT11M21.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,318
+0022400889,444,PT11M01.00S,4,1610612746,LAC,201587,Batum,N. Batum,-230,15,0,Missed,1,,,0,v,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022400889,445,PT10M59.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,320
+0022400889,446,PT10M52.00S,4,1610612756,PHX,201142,Durant,K. Durant,-72,259,27,Made,1,84,95,179,h,Durant 27' 3PT Running Pull-Up Jump Shot (23 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,321
+0022400889,447,PT10M34.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,1,0,322
+0022400889,449,PT10M34.00S,4,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,84,96,180,v,Eubanks Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,323
+0022400889,450,PT10M34.00S,4,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,SUB: Bogdanović FOR Miller,Substitution,,0,0,324
+0022400889,452,PT10M34.00S,4,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,84,97,181,v,Eubanks Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+0022400889,453,PT10M24.00S,4,1610612756,PHX,1628960,Allen,G. Allen,-232,-9,0,Made,1,87,97,184,h,Allen 3PT Jump Shot (8 PTS) (Gillespie 2 AST),Made Shot,Jump Shot,1,3,326
+0022400889,455,PT10M09.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,59,90,11,Missed,1,,,0,v,MISS Leonard 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,327
+0022400889,456,PT10M08.00S,4,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,Eubanks REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,328
+0022400889,457,PT10M08.00S,4,1610612746,LAC,1629234,Eubanks,D. Eubanks,-24,7,3,Missed,1,,,0,v,MISS Eubanks 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,329
+0022400889,458,PT10M07.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,330
+0022400889,463,PT09M57.00S,4,0,,460,Ruffin,T. Ruffin,0,0,0,,0,87,97,184,,Instant Replay4th Period (11:59 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,331
+0022400889,460,PT09M57.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,332
+0022400889,462,PT09M57.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,333
+0022400889,470,PT09M57.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,88,97,185,h,Plumlee Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+0022400889,471,PT09M57.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,89,97,186,h,Plumlee Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022400889,465,PT09M57.00S,4,1610612746,LAC,1629234,Eubanks,D. Eubanks,0,0,0,,0,,,0,v,SUB: Zubac FOR Eubanks,Substitution,,0,0,336
+0022400889,466,PT09M57.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,v,SUB: Dunn FOR Batum,Substitution,,0,0,337
+0022400889,472,PT09M33.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,230,22,0,Made,1,89,100,189,v,Coffey 3PT Jump Shot (13 PTS) (Dunn 3 AST),Made Shot,Jump Shot,1,3,338
+0022400889,474,PT09M16.00S,4,1610612756,PHX,201142,Durant,K. Durant,179,183,26,Missed,1,,,0,h,MISS Durant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,339
+0022400889,475,PT09M12.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,340
+0022400889,476,PT08M55.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,341
+0022400889,476,PT08M55.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen STEAL (2 STL),,,1,0,342
+0022400889,478,PT08M49.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,-76,267,28,Made,1,92,100,192,h,Gillespie 28' 3PT Running Jump Shot (3 PTS) (Booker 6 AST),Made Shot,Running Jump Shot,1,3,343
+0022400889,480,PT08M28.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,1,0,344
+0022400889,482,PT08M28.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,SUB: Harden FOR Coffey,Substitution,,0,0,345
+0022400889,484,PT08M18.00S,4,1610612746,LAC,201935,Harden,J. Harden,185,210,28,Missed,1,,,0,v,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022400889,485,PT08M15.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,347
+0022400889,486,PT07M59.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,-48,6,5,Missed,1,,,0,h,MISS Gillespie 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,348
+0022400889,486,PT07M59.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac BLOCK (1 BLK),,,1,2,349
+0022400889,488,PT07M58.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,0,0,0,,0,,,0,h,Gillespie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,350
+0022400889,489,PT07M56.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,229,2,0,Missed,1,,,0,h,MISS Gillespie 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,351
+0022400889,490,PT07M53.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0,352
+0022400889,491,PT07M53.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović L.B.FOUL (P3.T2) (J.DeRosa),Foul,Loose Ball,1,0,353
+0022400889,493,PT07M48.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović S.FOUL (P4.T3) (N.Green),Foul,Shooting,1,0,354
+0022400889,495,PT07M48.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,93,100,193,h,Booker Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022400889,496,PT07M48.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,356
+0022400889,497,PT07M47.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,357
+0022400889,498,PT07M29.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee S.FOUL (P3.T3) (N.Green),Foul,Shooting,1,0,358
+0022400889,500,PT07M29.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,93,101,194,v,Zubac Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+0022400889,501,PT07M29.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,93,102,195,v,Zubac Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+0022400889,502,PT07M16.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,9,60,6,Made,1,95,102,197,h,Gillespie 6' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,361
+0022400889,503,PT07M09.00S,4,1610612746,LAC,201935,Harden,J. Harden,127,238,27,Missed,1,,,0,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022400889,504,PT07M06.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,363
+0022400889,505,PT07M01.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanović S.FOUL (P5.T4) (N.Green),Foul,Shooting,1,0,364
+0022400889,507,PT07M01.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,96,102,198,h,Plumlee Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,365
+0022400889,508,PT07M01.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,97,102,199,h,Plumlee Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,366
+0022400889,509,PT06M45.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,18,114,12,Missed,1,,,0,v,MISS Leonard 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,367
+0022400889,510,PT06M42.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,368
+0022400889,511,PT06M33.00S,4,1610612756,PHX,201142,Durant,K. Durant,232,30,0,Made,1,100,102,202,h,Durant 3PT Jump Shot (26 PTS) (Booker 7 AST),Made Shot,Jump Shot,1,3,369
+0022400889,513,PT06M18.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker P.FOUL (P3.T4) (N.Green),Foul,Personal,1,0,370
+0022400889,515,PT06M09.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,-1,109,11,Made,1,100,104,204,v,Zubac 11' Floating Jump Shot (29 PTS) (Harden 13 AST),Made Shot,Floating Jump shot,1,2,371
+0022400889,517,PT05M46.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac S.FOUL (P3.PN) (N.Green),Foul,Shooting,1,0,372
+0022400889,519,PT05M46.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,101,104,205,h,Plumlee Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022400889,520,PT05M46.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,102,104,206,h,Plumlee Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022400889,521,PT05M33.00S,4,1610612746,LAC,201935,Harden,J. Harden,81,111,14,Made,1,102,106,208,v,Harden 14' Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,2,375
+0022400889,522,PT05M12.00S,4,1610612756,PHX,201142,Durant,K. Durant,-115,104,16,Missed,1,,,0,h,MISS Durant 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,376
+0022400889,523,PT05M09.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,377
+0022400889,524,PT05M02.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,241,16,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022400889,525,PT05M00.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,379
+0022400889,526,PT04M55.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,380
+0022400889,528,PT04M55.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,103,106,209,h,Durant Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+0022400889,529,PT04M55.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,SUB: Richards FOR Plumlee,Substitution,,0,0,382
+0022400889,531,PT04M55.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: O'Neale FOR Allen,Substitution,,0,0,383
+0022400889,533,PT04M55.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,104,106,210,h,Durant Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+0022400889,534,PT04M35.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,-30,9,3,Missed,1,,,0,v,MISS Zubac 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,385
+0022400889,535,PT04M33.00S,4,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,386
+0022400889,536,PT04M18.00S,4,1610612756,PHX,201142,Durant,K. Durant,100,164,19,Made,1,106,106,212,h,Durant 19' Jump Shot (30 PTS),Made Shot,Jump Shot,1,2,387
+0022400889,537,PT04M17.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,388
+0022400889,538,PT04M05.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,27,9,3,Made,1,106,108,214,v,Zubac 3' Driving Reverse Layup (31 PTS) (Harden 14 AST),Made Shot,Driving Reverse Layup Shot,1,2,389
+0022400889,540,PT03M50.00S,4,1610612756,PHX,1630208,Richards,N. Richards,18,20,3,Made,1,108,108,216,h,Richards 3' Cutting Dunk Shot (16 PTS) (Booker 8 AST),Made Shot,Cutting Dunk Shot,0,2,390
+0022400889,542,PT03M27.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,44,207,21,Missed,1,,,0,v,MISS Leonard 21' Jump Shot,Missed Shot,Jump Shot,1,2,391
+0022400889,543,PT03M24.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,392
+0022400889,545,PT03M11.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,228,34,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022400889,546,PT03M07.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,0,0,0,,0,,,0,h,Gillespie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,394
+0022400889,547,PT03M02.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-25,67,7,Made,1,110,108,218,h,Booker 7' Running Layup (17 PTS) (Gillespie 3 AST),Made Shot,Running Layup Shot,1,2,395
+0022400889,549,PT02M38.00S,4,1610612746,LAC,201935,Harden,J. Harden,-97,254,27,Missed,1,,,0,v,MISS Harden 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,396
+0022400889,550,PT02M33.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0,397
+0022400889,552,PT02M33.00S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,398
+0022400889,553,PT02M33.00S,4,0,,551,,,0,0,0,,0,110,108,218,,Instant Replay4th Period (12:19 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,399
+0022400889,554,PT02M33.00S,4,1610612756,PHX,1630208,Richards,N. Richards,0,0,0,,0,,,0,h,SUB: Plumlee FOR Richards,Substitution,,0,0,400
+0022400889,555,PT02M33.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,SUB: Allen FOR O'Neale,Substitution,,0,0,401
+0022400889,556,PT02M33.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Coffey FOR Leonard,Substitution,,0,0,402
+0022400889,560,PT02M17.00S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,21,54,6,Made,1,112,108,220,h,Gillespie 6' Driving Layup (7 PTS) (Allen 2 AST),Made Shot,Driving Layup Shot,1,2,403
+0022400889,562,PT02M10.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,-9,62,6,Made,1,112,110,222,v,Zubac 6' Cutting Layup Shot (33 PTS) (Harden 15 AST),Made Shot,Cutting Layup Shot,1,2,404
+0022400889,564,PT01M47.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden S.FOUL (P1.PN) (B.Forte),Foul,Shooting,1,0,405
+0022400889,566,PT01M47.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,113,110,223,h,Durant Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+0022400889,567,PT01M47.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,114,110,224,h,Durant Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,407
+0022400889,569,PT01M33.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee S.FOUL (P4.PN) (B.Forte),Foul,Shooting,1,0,408
+0022400889,571,PT01M33.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,114,111,225,v,Zubac Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+0022400889,572,PT01M33.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,114,112,226,v,Zubac Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+0022400889,573,PT01M16.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-81,170,19,Missed,1,,,0,h,MISS Booker 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,411
+0022400889,574,PT01M12.00S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,Plumlee REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,412
+0022400889,575,PT01M10.00S,4,1610612756,PHX,201142,Durant,K. Durant,-41,3,4,Made,1,116,112,228,h,Durant 4' Jump Shot (34 PTS) (Plumlee 4 AST),Made Shot,Jump Shot,1,2,413
+0022400889,578,PT00M57.60S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,414
+0022400889,580,PT00M57.60S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,415
+0022400889,581,PT00M57.60S,4,0,,578,,,0,0,0,,0,116,112,228,,Instant Replay4th Period (12:26 AM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,416
+0022400889,582,PT00M57.60S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,116,113,229,v,Harden Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,1,0,417
+0022400889,583,PT00M57.60S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,116,114,230,v,Harden Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,1,0,418
+0022400889,595,PT00M57.60S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Leonard FOR Bogdanović,Substitution,,0,0,419
+0022400889,586,PT00M57.60S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,MISS Harden Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,420
+0022400889,587,PT00M57.50S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,421
+0022400889,588,PT00M36.40S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,218,144,26,Made,1,119,114,233,h,Gillespie 26' 3PT Jump Shot (10 PTS) (Durant 4 AST),Made Shot,Jump Shot,1,3,422
+0022400889,590,PT00M36.40S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,423
+0022400889,591,PT00M36.40S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: O'Neale FOR Allen,Substitution,,0,0,424
+0022400889,592,PT00M36.40S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Bogdanović FOR Dunn,Substitution,,0,0,425
+0022400889,597,PT00M34.80S,4,1610612746,LAC,1627826,Zubac,I. Zubac,31,9,3,Missed,1,,,0,v,MISS Zubac 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,426
+0022400889,597,PT00M34.80S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant BLOCK (2 BLK),,,1,2,427
+0022400889,599,PT00M34.20S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,428
+0022400889,600,PT00M32.90S,4,1610612746,LAC,202695,Leonard,K. Leonard,3,36,4,Made,1,119,116,235,v,Leonard 4' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,1,2,429
+0022400889,601,PT00M13.40S,4,1610612756,PHX,201142,Durant,K. Durant,-22,264,26,Missed,1,,,0,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+0022400889,602,PT00M09.50S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Unknown,0,0,431
+0022400889,604,PT00M09.50S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,SUB: Allen FOR O'Neale,Substitution,,0,0,432
+0022400889,606,PT00M09.50S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,433
+0022400889,607,PT00M09.50S,4,1610612756,PHX,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,h,SUB: O'Neale FOR Plumlee,Substitution,,0,0,434
+0022400889,608,PT00M09.50S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Dunn FOR Bogdanović,Substitution,,0,0,435
+0022400889,611,PT00M05.90S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Personal Take Foul (P5.PN) (J.DeRosa),Foul,Personal Take,1,0,436
+0022400889,613,PT00M05.90S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,437
+0022400889,614,PT00M05.90S,4,0,,1610612756,,,0,0,0,,0,,,0,h,SUNS Rebound,Rebound,Normal Rebound,0,0,438
+0022400889,615,PT00M05.90S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,439
+0022400889,616,PT00M05.80S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,Harden REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,440
+0022400889,617,PT00M03.80S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,,,0,h,Booker Personal Take Foul (P4.PN) (J.DeRosa),Foul,Personal Take,1,0,441
+0022400889,619,PT00M03.80S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,119,117,236,v,Harden Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0022400889,620,PT00M03.80S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,,,0,h,SUB: Richards FOR Allen,Substitution,,0,0,443
+0022400889,621,PT00M03.80S,4,1610612756,PHX,1631221,Gillespie,C. Gillespie,0,0,0,,0,,,0,h,SUB: Plumlee FOR Gillespie,Substitution,,0,0,444
+0022400889,622,PT00M03.80S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,,,0,v,SUB: Bogdanović FOR Coffey,Substitution,,0,0,445
+0022400889,623,PT00M03.80S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Eubanks FOR Dunn,Substitution,,0,0,446
+0022400889,628,PT00M03.80S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,,,0,v,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,447
+0022400889,629,PT00M02.20S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,448
+0022400889,630,PT00M01.70S,4,1610612746,LAC,202695,Leonard,K. Leonard,41,-21,5,Missed,1,,,0,v,MISS Leonard 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,449
+0022400889,631,PT00M00.90S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,v,Zubac REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,450
+0022400889,634,PT00M00.80S,4,1610612746,LAC,1627826,Zubac,I. Zubac,-21,12,2,Missed,1,,,0,v,MISS Zubac 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,451
+0022400889,635,PT00M00.10S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,1,0,452
+0022400889,632,PT00M00.00S,4,0,,0,,,0,0,0,,0,119,117,236,,End of 4th Period (12:37 AM EST),period,end,1,0,453

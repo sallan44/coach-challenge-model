@@ -1,0 +1,478 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400892,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+0022400892,7,PT12M00.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,2
+0022400892,8,PT12M00.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Violation: Delay of game Violation,Violation,Delay Of Game,0,0,3
+0022400892,4,PT12M00.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Jump Ball Williams vs. Reid: Tip to Ball,Jump Ball,,1,0,4
+0022400892,9,PT11M41.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,32,17,4,Made,1,2,0,2,h,Bridges 4' Layup (2 PTS) (Jeffries 1 AST),Made Shot,Layup Shot,1,2,5
+0022400892,11,PT11M20.00S,1,1610612750,MIN,203944,Randle,J. Randle,21,122,12,Made,1,2,2,4,v,Randle 12' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,6
+0022400892,12,PT11M09.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,237,13,24,Made,1,5,2,7,h,Bridges 24' 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,7
+0022400892,14,PT10M56.00S,1,1610612750,MIN,1629675,Reid,N. Reid,89,268,28,Missed,1,,,0,v,MISS Reid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022400892,15,PT10M53.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022400892,16,PT10M47.00S,1,1610612766,CHA,1630163,Ball,L. Ball,212,184,28,Made,1,8,2,10,h,Ball 28' 3PT Running Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Running Jump Shot,1,3,10
+0022400892,18,PT10M31.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,53,260,27,Missed,1,,,0,v,MISS A. Edwards 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,11
+0022400892,19,PT10M23.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+0022400892,20,PT10M23.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,Made,1,8,4,12,v,McDaniels Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,13
+0022400892,21,PT10M16.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-15,150,15,Missed,1,,,0,h,MISS Ball 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,14
+0022400892,22,PT10M13.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022400892,23,PT10M13.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Missed,1,,,0,h,MISS Ball Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,16
+0022400892,24,PT10M12.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022400892,25,PT09M58.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,225,41,0,Made,1,8,7,15,v,McDaniels 3PT Jump Shot (5 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,18
+0022400892,27,PT09M33.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,-16,16,2,Made,1,10,7,17,h,Jeffries 2' Driving Layup (2 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,19
+0022400892,28,PT09M25.00S,1,1610612750,MIN,203944,Randle,J. Randle,-114,233,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0022400892,29,PT09M22.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022400892,34,PT09M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,22
+0022400892,32,PT09M18.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,23
+0022400892,33,PT09M18.00S,1,0,,30,Dumas,R. Dumas,0,0,0,,0,10,7,17,,Instant Replay1st Period (7:14 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,24
+0022400892,35,PT09M06.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,164,206,26,Missed,1,,,0,v,MISS McDaniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0022400892,36,PT09M03.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+0022400892,37,PT08M48.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,27
+0022400892,39,PT08M48.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,11,7,18,h,Bridges Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,28
+0022400892,40,PT08M48.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,MISS Bridges Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,29
+0022400892,41,PT08M45.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022400892,42,PT08M35.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,223,80,24,Missed,1,,,0,v,MISS A. Edwards 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022400892,43,PT08M29.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,32
+0022400892,44,PT08M29.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,Made,1,11,9,20,v,McDaniels Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,33
+0022400892,45,PT08M08.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,58,78,10,Made,1,13,9,22,h,Bridges 10' Driving Floating Jump Shot (8 PTS) (Ball 1 AST),Made Shot,Driving Floating Jump Shot,1,2,34
+0022400892,46,PT07M56.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-58,293,30,Made,1,13,12,25,v,Reid 30' 3PT Jump Shot (3 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,1,3,35
+0022400892,49,PT07M44.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,-10,26,3,Made,1,15,12,27,h,Jeffries 3' Driving Finger Roll Layup (4 PTS) (Smith Jr. 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,36
+0022400892,51,PT07M32.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,87,242,26,Missed,1,,,0,v,MISS A. Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,37
+0022400892,52,PT07M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,38
+0022400892,54,PT07M11.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,89,305,32,Missed,1,,,0,h,MISS Bridges 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,39
+0022400892,55,PT07M07.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+0022400892,56,PT07M07.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,41
+0022400892,57,PT06M54.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,36,4,Missed,1,,,0,h,MISS Williams 4' Dunk,Missed Shot,Dunk Shot,1,2,42
+0022400892,58,PT06M52.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,43
+0022400892,59,PT06M50.00S,1,1610612750,MIN,1629675,Reid,N. Reid,6,15,2,Made,1,15,14,29,v,Reid 2' Running Dunk (5 PTS) (DiVincenzo 1 AST),Made Shot,Running Dunk Shot,1,2,44
+0022400892,61,PT06M50.00S,1,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0022400892,62,PT06M50.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Nurkic FOR Ball,Substitution,,0,0,46
+0022400892,63,PT06M50.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Baugh FOR Williams,Substitution,,0,0,47
+0022400892,66,PT06M38.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,1,8,1,Made,1,17,14,31,h,Bridges 1' Alley Oop Dunk (10 PTS) (Baugh 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,48
+0022400892,68,PT06M19.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-70,163,18,Missed,1,,,0,v,MISS McDaniels 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,49
+0022400892,69,PT06M16.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,50
+0022400892,70,PT06M06.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,6,48,5,Made,1,17,16,33,v,A. Edwards 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,51
+0022400892,71,PT05M59.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,228,24,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022400892,72,PT05M56.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022400892,73,PT05M40.00S,1,1610612750,MIN,203944,Randle,J. Randle,228,27,0,Made,1,17,19,36,v,Randle 3PT Jump Shot (5 PTS) (A. Edwards 1 AST),Made Shot,Jump Shot,1,3,54
+0022400892,75,PT05M25.00S,1,1610612766,CHA,1641878,Baugh,D. Baugh,230,11,0,Missed,1,,,0,h,MISS Baugh 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022400892,76,PT05M23.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,56
+0022400892,77,PT05M04.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-2,16,2,Made,1,17,21,38,v,McDaniels 2' Driving Dunk (9 PTS) (Randle 1 AST),Made Shot,Driving Dunk Shot,1,2,57
+0022400892,79,PT04M46.00S,1,1610612766,CHA,1641878,Baugh,D. Baugh,17,17,2,Made,1,19,21,40,h,Baugh 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,58
+0022400892,80,PT04M35.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,224,23,0,Made,1,19,24,43,v,McDaniels 3PT Jump Shot (12 PTS) (Randle 2 AST),Made Shot,Jump Shot,1,3,59
+0022400892,82,PT04M20.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,130,234,27,Missed,1,,,0,h,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022400892,83,PT04M17.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,61
+0022400892,84,PT04M13.00S,1,1610612750,MIN,203944,Randle,J. Randle,-132,223,26,Missed,1,,,0,v,MISS Randle 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,62
+0022400892,85,PT04M10.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,63
+0022400892,86,PT04M10.00S,1,1610612750,MIN,1629675,Reid,N. Reid,2,25,3,Made,1,19,26,45,v,Reid 3' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,64
+0022400892,87,PT04M10.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,1,0,65
+0022400892,88,PT03M54.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-232,57,24,Made,1,22,26,48,h,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Baugh 2 AST),Made Shot,Jump Shot,1,3,66
+0022400892,90,PT03M40.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,2,269,27,Made,1,22,29,51,v,A. Edwards 27' 3PT Pullup Jump Shot (5 PTS) (Randle 3 AST),Made Shot,Pullup Jump shot,1,3,67
+0022400892,92,PT03M22.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,-5,32,3,Missed,1,,,0,h,MISS Nurkic 3' Layup,Missed Shot,Layup Shot,1,2,68
+0022400892,93,PT03M20.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,69
+0022400892,95,PT03M11.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,SUB: Ball FOR Bridges,Substitution,,0,0,70
+0022400892,96,PT03M11.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,SUB: Salaun FOR Jeffries,Substitution,,0,0,71
+0022400892,97,PT03M11.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Curry FOR Smith Jr.,Substitution,,0,0,72
+0022400892,101,PT03M11.00S,1,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,73
+0022400892,102,PT03M11.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Randle,Substitution,,0,0,74
+0022400892,105,PT03M04.00S,1,1610612750,MIN,1629675,Reid,N. Reid,66,252,26,Made,1,22,32,54,v,Reid 26' 3PT Jump Shot (10 PTS) (A. Edwards 2 AST),Made Shot,Jump Shot,1,3,75
+0022400892,107,PT02M36.00S,1,1610612766,CHA,1641878,Baugh,D. Baugh,119,242,27,Missed,1,,,0,h,MISS Baugh 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022400892,108,PT02M32.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,77
+0022400892,109,PT02M28.00S,1,1610612750,MIN,1629675,Reid,N. Reid,1,13,1,Made,1,22,34,56,v,Reid 1' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,78
+0022400892,110,PT02M15.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,96,240,26,Missed,1,,,0,h,MISS Nurkic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022400892,111,PT02M09.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,80
+0022400892,112,PT01M56.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-85,184,20,Made,1,22,36,58,v,A. Edwards 20' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,81
+0022400892,113,PT01M42.00S,1,1610612766,CHA,1630163,Ball,L. Ball,28,8,3,Made,1,24,36,60,h,Ball 3' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,82
+0022400892,114,PT01M22.00S,1,1610612750,MIN,1629675,Reid,N. Reid,17,15,2,Missed,1,,,0,v,MISS Reid 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+0022400892,115,PT01M20.00S,1,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022400892,116,PT01M09.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,85
+0022400892,116,PT01M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards STEAL (1 STL),,,1,0,86
+0022400892,118,PT01M00.00S,1,1610612750,MIN,1629675,Reid,N. Reid,151,221,27,Missed,1,,,0,v,MISS Reid 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022400892,119,PT00M57.90S,1,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0022400892,120,PT00M54.80S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,0,89
+0022400892,122,PT00M54.80S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Diabaté FOR Nurkic,Substitution,,0,0,90
+0022400892,123,PT00M54.80S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Dillingham FOR McDaniels,Substitution,,0,0,91
+0022400892,126,PT00M51.80S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,247,25,Missed,1,,,0,h,MISS Ball 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,92
+0022400892,127,PT00M49.80S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,93
+0022400892,128,PT00M44.80S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,Made,1,26,36,62,h,Diabaté Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,94
+0022400892,129,PT00M33.50S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,280,28,Made,1,26,39,65,v,A. Edwards 28' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,95
+0022400892,130,PT00M12.90S,1,1610612766,CHA,1630163,Ball,L. Ball,180,214,28,Missed,1,,,0,h,MISS Ball 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,96
+0022400892,131,PT00M09.90S,1,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,97
+0022400892,132,PT00M08.40S,1,1610612766,CHA,1642275,Salaün,T. Salaün,16,13,2,Made,1,28,39,67,h,Salaun 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,98
+0022400892,133,PT00M03.00S,1,1610612766,CHA,1641878,Baugh,D. Baugh,0,0,0,,0,,,0,h,Baugh P.FOUL (P1.T1) (N.Sago),Foul,Personal,1,0,99
+0022400892,135,PT00M00.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,121,301,32,Missed,1,,,0,v,MISS A. Edwards 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,100
+0022400892,136,PT00M00.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,1,0,101
+0022400892,137,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,39,67,,End of 1st Period (7:33 PM EST),period,end,1,0,102
+0022400892,142,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,39,67,,Start of 2nd Period (7:35 PM EST),period,start,0,0,103
+0022400892,143,PT11M50.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,104
+0022400892,145,PT11M50.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,MISS Shannon Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,105
+0022400892,146,PT11M50.00S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,106
+0022400892,147,PT11M50.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,28,40,68,v,Shannon Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,107
+0022400892,148,PT11M33.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-105,288,31,Made,1,31,40,71,h,Ball 31' 3PT Jump Shot (8 PTS) (Diabaté 1 AST),Made Shot,Jump Shot,1,3,108
+0022400892,150,PT11M15.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,62,18,6,Missed,1,,,0,v,MISS Shannon Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,109
+0022400892,150,PT11M15.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté BLOCK (1 BLK),,,1,2,110
+0022400892,152,PT11M11.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0022400892,153,PT11M09.00S,2,1610612750,MIN,203944,Randle,J. Randle,126,225,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022400892,154,PT11M04.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,113
+0022400892,155,PT11M01.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-140,219,26,Missed,1,,,0,h,MISS Ball 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,114
+0022400892,156,PT10M58.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,115
+0022400892,157,PT10M48.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-2,311,31,Missed,1,,,0,h,MISS Smith Jr. 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022400892,158,PT10M46.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0,117
+0022400892,159,PT10M46.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels L.B.FOUL (P1.T1) (D.Collins),Foul,Loose Ball,1,0,118
+0022400892,165,PT10M33.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-140,220,26,Made,1,34,40,74,h,Smith Jr. 26' 3PT Jump Shot (6 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,119
+0022400892,167,PT10M07.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-47,64,8,Made,1,34,42,76,v,McDaniels 8' Driving Floating Jump Shot (14 PTS) (Dillingham 1 AST),Made Shot,Driving Floating Jump Shot,1,2,120
+0022400892,168,PT09M42.00S,2,1610612766,CHA,203552,Curry,S. Curry,239,46,24,Made,1,37,42,79,h,Curry 24' 3PT Jump Shot (3 PTS) (Ball 2 AST),Made Shot,Jump Shot,1,3,121
+0022400892,170,PT09M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P1.T2) (M.Davis),Foul,Personal,1,0,122
+0022400892,173,PT09M29.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,99,246,27,Missed,1,,,0,v,MISS McDaniels 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022400892,174,PT09M26.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022400892,175,PT09M21.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,v,Dillingham P.FOUL (P1.T2) (M.Davis),Foul,Personal,1,0,125
+0022400892,178,PT09M05.00S,2,1610612766,CHA,203552,Curry,S. Curry,-62,29,7,Missed,1,,,0,h,MISS Curry 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+0022400892,178,PT09M05.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,v,Dillingham BLOCK (1 BLK),,,1,2,127
+0022400892,179,PT09M04.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,128
+0022400892,180,PT09M04.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,129
+0022400892,181,PT09M04.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,SUB: Clark FOR Shannon Jr.,Substitution,,0,0,130
+0022400892,182,PT09M04.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR McDaniels,Substitution,,0,0,131
+0022400892,185,PT08M52.00S,2,1610612750,MIN,203944,Randle,J. Randle,-42,20,5,Made,1,37,44,81,v,Randle 5' Cutting Layup Shot (7 PTS) (Dillingham 2 AST),Made Shot,Cutting Layup Shot,1,2,132
+0022400892,187,PT08M34.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,133
+0022400892,189,PT08M26.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball OFF.Foul (P2) (D.Collins),Foul,Offensive,1,0,134
+0022400892,191,PT08M26.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,1,0,135
+0022400892,192,PT08M15.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,136,230,27,Made,1,37,47,84,v,Dillingham 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,136
+0022400892,193,PT08M02.00S,2,1610612766,CHA,203552,Curry,S. Curry,-75,246,26,Made,1,40,47,87,h,Curry 26' 3PT Jump Shot (6 PTS) (Salaun 1 AST),Made Shot,Jump Shot,1,3,137
+0022400892,195,PT07M47.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun S.FOUL (P1.T3) (N.Sago),Foul,Shooting,1,0,138
+0022400892,197,PT07M47.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,40,48,88,v,Randle Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,139
+0022400892,198,PT07M47.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Williams FOR Ball,Substitution,,0,0,140
+0022400892,199,PT07M47.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,SUB: Bridges FOR Diabaté,Substitution,,0,0,141
+0022400892,200,PT07M47.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,SUB: Baugh FOR Salaun,Substitution,,0,0,142
+0022400892,204,PT07M47.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,40,49,89,v,Randle Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,143
+0022400892,205,PT07M34.00S,2,1610612766,CHA,203552,Curry,S. Curry,-237,26,24,Made,1,43,49,92,h,Curry 24' 3PT Jump Shot (9 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,144
+0022400892,207,PT07M18.00S,2,1610612750,MIN,203944,Randle,J. Randle,-17,263,26,Made,1,43,52,95,v,Randle 26' 3PT Jump Shot (12 PTS) (Alexander-Walker 1 AST),Made Shot,Jump Shot,1,3,145
+0022400892,209,PT07M02.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle P.FOUL (P2.T4) (D.Collins),Foul,Personal,1,0,146
+0022400892,211,PT07M02.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,147
+0022400892,213,PT07M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Jeffries FOR Smith Jr.,Substitution,,0,0,148
+0022400892,214,PT07M02.00S,2,1610612750,MIN,1642265,Dillingham,R. Dillingham,0,0,0,,0,,,0,v,SUB: A. Edwards FOR Dillingham,Substitution,,0,0,149
+0022400892,217,PT06M49.00S,2,1610612766,CHA,1641878,Baugh,D. Baugh,45,37,6,Made,1,45,52,97,h,Baugh 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,150
+0022400892,218,PT06M37.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-163,246,30,Missed,1,,,0,v,MISS DiVincenzo 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022400892,219,PT06M34.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,152
+0022400892,220,PT06M26.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,153
+0022400892,220,PT06M26.00S,2,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,Clark STEAL (1 STL),,,1,0,154
+0022400892,222,PT06M10.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,230,28,0,Made,1,45,55,100,v,A. Edwards 3PT Pullup Jump Shot (13 PTS) (Randle 4 AST),Made Shot,Pullup Jump shot,1,3,155
+0022400892,224,PT05M59.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,156
+0022400892,224,PT05M59.00S,2,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,Clark STEAL (2 STL),,,1,0,157
+0022400892,226,PT05M56.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P1.T4) (N.Sago),Foul,Personal,1,0,158
+0022400892,232,PT05M56.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Reid FOR Randle,Substitution,,0,0,159
+0022400892,228,PT05M46.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-173,247,30,Missed,1,,,0,v,MISS Reid 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022400892,229,PT05M39.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,161
+0022400892,230,PT05M32.00S,2,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,162
+0022400892,236,PT05M32.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,46,55,101,h,Bridges Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,163
+0022400892,237,PT05M32.00S,2,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,SUB: Salaun FOR Curry,Substitution,,0,0,164
+0022400892,239,PT05M32.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,47,55,102,h,Bridges Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+0022400892,240,PT05M17.00S,2,1610612750,MIN,1641740,Clark,J. Clark,-146,223,27,Missed,1,,,0,v,MISS Clark 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022400892,241,PT05M13.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,167
+0022400892,242,PT05M01.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,-10,21,2,Missed,1,,,0,h,MISS Bridges 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,168
+0022400892,243,PT04M59.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,169
+0022400892,244,PT04M56.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-81,274,29,Made,1,47,58,105,v,DiVincenzo 29' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,170
+0022400892,245,PT04M40.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards P.FOUL (P1.PN) (M.Davis),Foul,Personal,1,0,171
+0022400892,248,PT04M40.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,48,58,106,h,Salaun Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,172
+0022400892,249,PT04M40.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,49,58,107,h,Salaun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,173
+0022400892,250,PT04M20.00S,2,1610612750,MIN,1641740,Clark,J. Clark,-136,99,17,Missed,1,,,0,v,MISS Clark 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,174
+0022400892,251,PT04M18.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,175
+0022400892,252,PT04M14.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,176
+0022400892,252,PT04M14.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo STEAL (1 STL),,,1,0,177
+0022400892,254,PT04M05.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-13,59,6,Missed,1,,,0,v,MISS Reid 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,178
+0022400892,255,PT04M02.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,179
+0022400892,257,PT03M44.00S,2,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,SUB: McDaniels FOR Clark,Substitution,,0,0,180
+0022400892,259,PT03M44.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Nurkic FOR Williams,Substitution,,0,0,181
+0022400892,260,PT03M44.00S,2,1610612766,CHA,1641878,Baugh,D. Baugh,0,0,0,,0,,,0,h,SUB: Ball FOR Baugh,Substitution,,0,0,182
+0022400892,263,PT03M41.00S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,183
+0022400892,264,PT03M27.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-134,237,27,Made,1,49,61,110,v,A. Edwards 27' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,184
+0022400892,265,PT03M08.00S,2,1610612766,CHA,1630163,Ball,L. Ball,27,69,7,Missed,1,,,0,h,MISS Ball 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,185
+0022400892,266,PT03M05.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,186
+0022400892,267,PT03M04.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,6,25,3,Made,1,51,61,112,h,Bridges 3' Driving Layup (14 PTS) (Salaun 2 AST),Made Shot,Driving Layup Shot,1,2,187
+0022400892,269,PT03M04.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,188
+0022400892,271,PT03M04.00S,2,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Salaun,Substitution,,0,0,189
+0022400892,273,PT03M04.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,52,61,113,h,Bridges Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,190
+0022400892,275,PT02M43.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-118,155,19,Made,1,52,63,115,v,McDaniels 19' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,191
+0022400892,276,PT02M32.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,192
+0022400892,276,PT02M32.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker STEAL (1 STL),,,1,0,193
+0022400892,278,PT02M28.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-1,11,1,Made,1,52,65,117,v,DiVincenzo 1' Running Dunk (5 PTS) (Alexander-Walker 2 AST),Made Shot,Running Dunk Shot,1,2,194
+0022400892,280,PT02M22.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,23,0,2,Made,1,54,65,119,h,Jeffries 2' Layup (6 PTS) (Bridges 3 AST),Made Shot,Layup Shot,1,2,195
+0022400892,282,PT02M07.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,196
+0022400892,282,PT02M07.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic STEAL (1 STL),,,1,0,197
+0022400892,284,PT02M04.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,198
+0022400892,284,PT02M04.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards STEAL (2 STL),,,1,0,199
+0022400892,286,PT02M01.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,7,13,1,Missed,1,,,0,v,MISS A. Edwards 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,200
+0022400892,287,PT01M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+0022400892,288,PT01M47.00S,2,1610612766,CHA,1630163,Ball,L. Ball,32,30,4,Missed,1,,,0,h,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022400892,289,PT01M45.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,203
+0022400892,290,PT01M43.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,-7,30,3,Missed,1,,,0,h,MISS Nurkic 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,204
+0022400892,291,PT01M43.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,205
+0022400892,292,PT01M40.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,Missed,1,,,0,h,MISS Nurkic Putback Layup,Missed Shot,Putback Layup Shot,1,2,206
+0022400892,293,PT01M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,207
+0022400892,294,PT01M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,56,65,121,h,Ball Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,208
+0022400892,295,PT01M40.00S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,209
+0022400892,304,PT01M40.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,SUB: Randle FOR Alexander-Walker,Substitution,,0,0,210
+0022400892,296,PT01M15.00S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,50,92,10,Missed,1,,,0,v,MISS DiVincenzo 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,211
+0022400892,297,PT01M13.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,212
+0022400892,298,PT01M06.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P1.PN) (M.Davis),Foul,Personal,1,0,213
+0022400892,300,PT01M06.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,57,65,122,h,Nurkic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,214
+0022400892,301,PT01M06.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,58,65,123,h,Nurkic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,215
+0022400892,302,PT00M48.10S,2,1610612750,MIN,203944,Randle,J. Randle,102,243,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+0022400892,303,PT00M43.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,217
+0022400892,307,PT00M42.60S,2,0,,306,Colter,S. Colter,0,0,0,,0,58,65,123,,Instant Replay2nd Period (8:05 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,218
+0022400892,308,PT00M42.60S,2,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,219
+0022400892,310,PT00M31.10S,2,1610612766,CHA,1630163,Ball,L. Ball,43,5,4,Missed,1,,,0,h,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,220
+0022400892,311,PT00M28.90S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,221
+0022400892,312,PT00M18.40S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-239,31,24,Missed,1,,,0,v,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022400892,313,PT00M14.90S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,223
+0022400892,314,PT00M00.40S,2,1610612766,CHA,1628970,Bridges,M. Bridges,29,19,3,Missed,1,,,0,h,MISS Bridges 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,224
+0022400892,315,PT00M00.40S,2,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,225
+0022400892,316,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,65,123,,End of 2nd Period (8:07 PM EST),period,end,1,0,226
+0022400892,319,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,65,123,,Start of 3rd Period (8:23 PM EST),period,start,0,0,227
+0022400892,320,PT11M41.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,2,14,1,Made,1,58,67,125,v,McDaniels 1' Dunk (18 PTS) (A. Edwards 3 AST),Made Shot,Dunk Shot,1,2,228
+0022400892,322,PT11M31.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,229
+0022400892,323,PT11M13.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-230,108,25,Missed,1,,,0,v,MISS McDaniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022400892,324,PT11M11.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,231
+0022400892,325,PT11M08.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-229,74,24,Made,1,61,67,128,h,Smith Jr. 24' 3PT Running Jump Shot (9 PTS) (Ball 3 AST),Made Shot,Running Jump Shot,1,3,232
+0022400892,327,PT10M52.00S,3,1610612750,MIN,203944,Randle,J. Randle,2,34,3,Missed,1,,,0,v,MISS Randle 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,233
+0022400892,328,PT10M52.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,234
+0022400892,329,PT10M48.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,Made,1,61,69,130,v,Randle Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,235
+0022400892,330,PT10M40.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-99,248,27,Missed,1,,,0,h,MISS Bridges 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,236
+0022400892,331,PT10M38.00S,3,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,1,0,237
+0022400892,333,PT10M14.00S,3,1610612750,MIN,1629675,Reid,N. Reid,135,248,28,Missed,1,,,0,v,MISS Reid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022400892,334,PT10M09.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,239
+0022400892,335,PT10M06.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo P.FOUL (P2.T1) (D.Collins),Foul,Personal,1,0,240
+0022400892,337,PT09M55.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-4,31,3,Made,1,63,69,132,h,Bridges 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,241
+0022400892,338,PT09M55.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle S.FOUL (P3.T2) (N.Sago),Foul,Shooting,1,0,242
+0022400892,340,PT09M55.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,MISS Bridges Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,243
+0022400892,341,PT09M52.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,244
+0022400892,342,PT09M34.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-22,35,4,Made,1,63,71,134,v,McDaniels 4' Driving Layup (20 PTS) (Randle 5 AST),Made Shot,Driving Layup Shot,1,2,245
+0022400892,344,PT09M23.00S,3,1610612766,CHA,1630163,Ball,L. Ball,33,23,4,Missed,1,,,0,h,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,246
+0022400892,345,PT09M21.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,247
+0022400892,346,PT09M05.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-75,8,8,Made,1,63,73,136,v,McDaniels 8' Turnaround Fadeaway (22 PTS) (A. Edwards 4 AST),Made Shot,Turnaround Fadeaway shot,1,2,248
+0022400892,348,PT08M47.00S,3,1610612766,CHA,1631109,Williams,M. Williams,-17,18,2,Made,1,65,73,138,h,Williams 2' Layup (2 PTS) (Ball 4 AST),Made Shot,Layup Shot,1,2,249
+0022400892,350,PT08M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,250
+0022400892,352,PT08M47.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,251
+0022400892,353,PT08M43.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,252
+0022400892,354,PT08M42.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid S.FOUL (P2.T4) (M.Davis),Foul,Shooting,1,0,253
+0022400892,356,PT08M42.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,66,73,139,h,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,254
+0022400892,357,PT08M42.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,255
+0022400892,358,PT08M39.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,256
+0022400892,359,PT08M32.00S,3,1610612750,MIN,203944,Randle,J. Randle,2,48,5,Made,1,66,75,141,v,Randle 5' Driving Floating Bank Jump Shot (16 PTS) (McDaniels 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,257
+0022400892,360,PT08M32.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,258
+0022400892,363,PT08M32.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,66,76,142,v,Randle Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,259
+0022400892,364,PT08M20.00S,3,1610612766,CHA,1630163,Ball,L. Ball,125,226,26,Missed,1,,,0,h,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,260
+0022400892,365,PT08M14.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,261
+0022400892,366,PT08M05.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-15,263,26,Missed,1,,,0,v,MISS A. Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,262
+0022400892,367,PT08M02.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,263
+0022400892,368,PT07M55.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-33,95,10,Made,1,68,76,144,h,Ball 10' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,264
+0022400892,369,PT07M37.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-50,247,25,Missed,1,,,0,v,MISS A. Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,265
+0022400892,370,PT07M32.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,266
+0022400892,371,PT07M23.00S,3,1610612766,CHA,1631109,Williams,M. Williams,2,6,1,Made,1,70,76,146,h,Williams 1' Dunk (5 PTS) (Jeffries 2 AST),Made Shot,Dunk Shot,1,2,267
+0022400892,373,PT07M09.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,232,31,0,Made,1,70,79,149,v,McDaniels 3PT Pullup Jump Shot (25 PTS) (Randle 6 AST),Made Shot,Pullup Jump shot,1,3,268
+0022400892,375,PT06M52.00S,3,1610612766,CHA,1630163,Ball,L. Ball,54,46,7,Made,1,72,79,151,h,Ball 7' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,269
+0022400892,376,PT06M34.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,12,21,2,Made,1,72,81,153,v,McDaniels 2' Layup (27 PTS) (Randle 7 AST),Made Shot,Layup Shot,1,2,270
+0022400892,378,PT06M26.00S,3,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,271
+0022400892,379,PT06M26.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,SUB: Nurkic FOR Bridges,Substitution,,0,0,272
+0022400892,380,PT06M26.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Salaun FOR Williams,Substitution,,0,0,273
+0022400892,381,PT06M26.00S,3,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Shannon Jr. FOR DiVincenzo,Substitution,,0,0,274
+0022400892,382,PT06M26.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Reid,Substitution,,0,0,275
+0022400892,387,PT06M12.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,-184,175,25,Missed,1,,,0,h,MISS Jeffries 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022400892,388,PT06M10.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,277
+0022400892,389,PT06M00.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-131,221,26,Missed,1,,,0,v,MISS McDaniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022400892,390,PT05M56.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,279
+0022400892,391,PT05M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-38,15,4,Missed,1,,,0,h,MISS Ball 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,280
+0022400892,392,PT05M43.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,281
+0022400892,393,PT05M37.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-67,245,25,Made,1,72,84,156,v,A. Edwards 25' 3PT Jump Shot (19 PTS) (Randle 8 AST),Made Shot,Jump Shot,1,3,282
+0022400892,395,PT05M27.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,283
+0022400892,402,PT05M27.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Baugh FOR Ball,Substitution,,0,0,284
+0022400892,398,PT05M16.00S,3,1610612766,CHA,1641878,Baugh,D. Baugh,-13,23,3,Missed,1,,,0,h,MISS Baugh 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,285
+0022400892,399,PT05M13.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,286
+0022400892,400,PT05M11.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,287
+0022400892,400,PT05M11.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries STEAL (1 STL),,,1,0,288
+0022400892,403,PT05M06.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,289
+0022400892,404,PT04M43.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,290
+0022400892,404,PT04M43.00S,3,1610612766,CHA,1641878,Baugh,D. Baugh,0,0,0,,0,,,0,h,Baugh STEAL (1 STL),,,1,0,291
+0022400892,406,PT04M36.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,292
+0022400892,406,PT04M36.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels STEAL (1 STL),,,1,0,293
+0022400892,408,PT04M25.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-12,20,2,Made,1,72,86,158,v,A. Edwards 2' Driving Reverse Layup (21 PTS),Made Shot,Driving Reverse Layup Shot,1,2,294
+0022400892,409,PT04M11.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,295
+0022400892,409,PT04M11.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels STEAL (2 STL),,,1,0,296
+0022400892,412,PT04M11.00S,3,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,297
+0022400892,413,PT04M11.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,SUB: Diabaté FOR Jeffries,Substitution,,0,0,298
+0022400892,414,PT04M11.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,299
+0022400892,415,PT04M11.00S,3,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Curry FOR Nurkic,Substitution,,0,0,300
+0022400892,416,PT04M11.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Reid FOR McDaniels,Substitution,,0,0,301
+0022400892,417,PT04M11.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Clark FOR Randle,Substitution,,0,0,302
+0022400892,423,PT03M51.00S,3,1610612750,MIN,1641740,Clark,J. Clark,-232,13,0,Made,1,72,89,161,v,Clark 3PT Jump Shot (3 PTS) (Alexander-Walker 3 AST),Made Shot,Jump Shot,1,3,303
+0022400892,425,PT03M33.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-11,49,5,Missed,1,,,0,h,MISS Bridges 5' Layup,Missed Shot,Layup Shot,1,2,304
+0022400892,425,PT03M33.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards BLOCK (1 BLK),,,1,2,305
+0022400892,427,PT03M29.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,A. Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,306
+0022400892,428,PT03M17.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,228,51,0,Made,1,72,92,164,v,Shannon Jr. 3PT Jump Shot (4 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,307
+0022400892,430,PT02M56.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-228,26,0,Missed,1,,,0,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+0022400892,431,PT02M54.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,309
+0022400892,432,PT02M45.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,-6,36,4,Made,1,74,92,166,h,Diabaté 4' Hook Shot (4 PTS) (Curry 2 AST),Made Shot,Hook Shot,1,2,310
+0022400892,435,PT02M21.00S,3,1610612750,MIN,1629675,Reid,N. Reid,154,267,31,Missed,1,,,0,v,MISS Reid 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022400892,436,PT02M18.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,312
+0022400892,437,PT02M13.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,313
+0022400892,438,PT02M13.00S,3,1610612766,CHA,1641878,Baugh,D. Baugh,0,0,0,,0,,,0,h,SUB: Ball FOR Baugh,Substitution,,0,0,314
+0022400892,440,PT02M03.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,315
+0022400892,442,PT02M03.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,75,92,167,h,Diabaté Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,316
+0022400892,443,PT02M03.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,76,92,168,h,Diabaté Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+0022400892,444,PT01M47.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-237,-7,24,Missed,1,,,0,v,MISS Alexander-Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022400892,445,PT01M45.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,319
+0022400892,446,PT01M39.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,131,256,29,Missed,1,,,0,h,MISS Salaun 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022400892,447,PT01M36.00S,3,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,321
+0022400892,448,PT01M28.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-66,268,28,Missed,1,,,0,v,MISS A. Edwards 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,322
+0022400892,449,PT01M27.00S,3,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,1,0,323
+0022400892,450,PT01M27.00S,3,1610612766,CHA,1642275,Salaün,T. Salaün,0,0,0,,0,,,0,h,Salaun L.B.FOUL (P2.T2) (N.Sago),Foul,Loose Ball,1,0,324
+0022400892,452,PT01M13.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,96,29,10,Missed,1,,,0,v,MISS Shannon Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,325
+0022400892,453,PT01M11.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,326
+0022400892,454,PT01M07.00S,3,1610612766,CHA,203552,Curry,S. Curry,224,13,0,Made,1,79,92,171,h,Curry 3PT Running Jump Shot (12 PTS) (Ball 5 AST),Made Shot,Running Jump Shot,1,3,327
+0022400892,456,PT00M55.90S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-225,26,0,Made,1,79,95,174,v,Alexander-Walker 3PT Jump Shot (3 PTS) (A. Edwards 5 AST),Made Shot,Jump Shot,1,3,328
+0022400892,458,PT00M41.20S,3,1610612766,CHA,1628970,Bridges,M. Bridges,16,26,3,Made,1,81,95,176,h,Bridges 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,329
+0022400892,459,PT00M29.80S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,330
+0022400892,461,PT00M29.80S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,81,96,177,v,A. Edwards Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+0022400892,462,PT00M29.80S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,81,97,178,v,A. Edwards Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0022400892,463,PT00M07.70S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-154,221,27,Missed,1,,,0,h,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022400892,464,PT00M05.50S,3,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,0,334
+0022400892,466,PT00M00.00S,3,1610612766,CHA,203552,Curry,S. Curry,39,159,16,Made,1,83,97,180,h,Curry 16' Floating Jump Shot (14 PTS) (Salaun 3 AST),Made Shot,Floating Jump shot,1,2,335
+0022400892,468,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,97,180,,End of 3rd Period (8:48 PM EST),period,end,1,0,336
+0022400892,469,PT00M00.00S,3,0,,466,,,0,0,0,,0,83,97,180,,Instant Replay3rd Period (8:48 PM EST),Instant Replay,Support Ruling,0,0,337
+0022400892,476,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,97,180,,Start of 4th Period (8:50 PM EST),period,start,0,0,338
+0022400892,478,PT11M48.00S,4,1610612766,CHA,1630163,Ball,L. Ball,82,243,26,Missed,1,,,0,h,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,339
+0022400892,479,PT11M45.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,340
+0022400892,480,PT11M43.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,-21,32,4,Missed,1,,,0,h,MISS Bridges 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,341
+0022400892,481,PT11M40.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,342
+0022400892,482,PT11M36.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,343
+0022400892,483,PT11M21.00S,4,1610612766,CHA,1630163,Ball,L. Ball,112,270,29,Missed,1,,,0,h,MISS Ball 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,344
+0022400892,484,PT11M18.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,345
+0022400892,485,PT11M12.00S,4,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P2.T1) (N.Sago),Foul,Shooting,1,0,346
+0022400892,487,PT11M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,84,97,181,h,Ball Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+0022400892,488,PT11M12.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,SUB: Jeffries FOR Bridges,Substitution,,0,0,348
+0022400892,489,PT11M12.00S,4,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,SUB: Randle FOR Clark,Substitution,,0,0,349
+0022400892,492,PT11M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,85,97,182,h,Ball Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022400892,493,PT10M52.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-232,43,24,Made,1,85,100,185,v,DiVincenzo 24' 3PT Step Back Jump Shot (8 PTS) (Randle 9 AST),Made Shot,Step Back Jump shot,1,3,351
+0022400892,495,PT10M40.00S,4,1610612766,CHA,203552,Curry,S. Curry,-232,113,26,Missed,1,,,0,h,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,352
+0022400892,496,PT10M38.00S,4,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,353
+0022400892,497,PT10M29.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,-28,46,5,Missed,1,,,0,h,MISS Diabaté 5' Hook Shot,Missed Shot,Hook Shot,1,2,354
+0022400892,498,PT10M26.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,355
+0022400892,499,PT10M09.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-77,90,12,Made,1,85,102,187,v,McDaniels 12' Turnaround Fadeaway (29 PTS),Made Shot,Turnaround Fadeaway shot,1,2,356
+0022400892,500,PT09M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-77,256,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,357
+0022400892,501,PT09M56.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,358
+0022400892,502,PT09M54.00S,4,1610612766,CHA,203552,Curry,S. Curry,40,257,26,Missed,1,,,0,h,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022400892,503,PT09M54.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,360
+0022400892,505,PT09M37.00S,4,1610612750,MIN,203944,Randle,J. Randle,17,72,7,Made,1,85,104,189,v,Randle 7' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,361
+0022400892,506,PT09M37.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,Diabaté S.FOUL (P2.T1) (D.Collins),Foul,Shooting,1,0,362
+0022400892,508,PT09M37.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,MISS Randle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,363
+0022400892,509,PT09M32.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,364
+0022400892,510,PT09M30.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-39,288,29,Made,1,85,107,192,v,DiVincenzo 29' 3PT Pullup Jump Shot (11 PTS) (McDaniels 3 AST),Made Shot,Pullup Jump shot,1,3,365
+0022400892,512,PT09M28.00S,4,0,,1610612766,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,366
+0022400892,513,PT09M28.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,,,0,h,SUB: Williams FOR Diabaté,Substitution,,0,0,367
+0022400892,515,PT09M16.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-174,295,34,Made,1,88,107,195,h,Ball 34' 3PT Jump Shot (19 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,368
+0022400892,517,PT08M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.T2) (N.Sago),Foul,Shooting,1,0,369
+0022400892,519,PT08M59.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,MISS Reid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,370
+0022400892,520,PT08M59.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,371
+0022400892,521,PT08M59.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,88,108,196,v,Reid Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,372
+0022400892,522,PT08M43.00S,4,1610612766,CHA,1629610,Jeffries,D. Jeffries,29,23,4,Missed,1,,,0,h,MISS Jeffries 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,373
+0022400892,523,PT08M38.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,374
+0022400892,524,PT08M38.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,Made,1,90,108,198,h,Williams Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,375
+0022400892,525,PT08M26.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-64,63,9,Missed,1,,,0,v,MISS McDaniels 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,376
+0022400892,526,PT08M24.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,377
+0022400892,527,PT08M21.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,378
+0022400892,527,PT08M21.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker STEAL (2 STL),,,1,0,379
+0022400892,529,PT08M15.00S,4,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,380
+0022400892,531,PT08M09.00S,4,1610612750,MIN,203944,Randle,J. Randle,172,198,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022400892,532,PT08M05.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,382
+0022400892,533,PT07M56.00S,4,1610612766,CHA,1631109,Williams,M. Williams,-25,28,4,Missed,1,,,0,h,MISS Williams 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,383
+0022400892,535,PT07M53.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,384
+0022400892,536,PT07M52.00S,4,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,Jeffries S.FOUL (P2.T4) (D.Collins),Foul,Shooting,1,0,385
+0022400892,538,PT07M52.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,90,109,199,v,Randle Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,386
+0022400892,539,PT07M52.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,90,110,200,v,Randle Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+0022400892,540,PT07M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-230,78,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022400892,541,PT07M34.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,389
+0022400892,542,PT07M29.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P4.PN) (N.Sago),Foul,Shooting,1,0,390
+0022400892,544,PT07M29.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,90,111,201,v,Randle Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022400892,545,PT07M29.00S,4,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,,,0,h,SUB: Bridges FOR Jeffries,Substitution,,0,0,392
+0022400892,547,PT07M29.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,90,112,202,v,Randle Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+0022400892,548,PT07M11.00S,4,1610612766,CHA,203552,Curry,S. Curry,56,265,27,Missed,1,,,0,h,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022400892,549,PT07M11.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,395
+0022400892,550,PT07M11.00S,4,1610612766,CHA,1631109,Williams,M. Williams,-2,6,1,Made,1,92,112,204,h,Williams 1' Putback Dunk (9 PTS),Made Shot,Putback Dunk Shot,1,2,396
+0022400892,551,PT07M11.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid S.FOUL (P3.T2) (N.Sago),Foul,Shooting,1,0,397
+0022400892,553,PT07M11.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,SUB: A. Edwards FOR Reid,Substitution,,0,0,398
+0022400892,555,PT07M11.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,93,112,205,h,Williams Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,399
+0022400892,556,PT06M59.00S,4,1610612750,MIN,203944,Randle,J. Randle,-91,138,17,Missed,1,,,0,v,MISS Randle 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,400
+0022400892,557,PT06M55.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,401
+0022400892,558,PT06M51.00S,4,1610612750,MIN,203944,Randle,J. Randle,-16,31,3,Missed,1,,,0,v,MISS Randle 3' Layup,Missed Shot,Layup Shot,1,2,402
+0022400892,558,PT06M51.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,2,403
+0022400892,560,PT06M48.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,404
+0022400892,561,PT06M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-17,96,10,Made,1,95,112,207,h,Smith Jr. 10' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,405
+0022400892,562,PT06M21.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,147,156,21,Missed,1,,,0,v,MISS A. Edwards 21' Jump Shot,Missed Shot,Jump Shot,1,2,406
+0022400892,563,PT06M18.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,407
+0022400892,564,PT06M17.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,45,257,26,Missed,1,,,0,v,MISS Alexander-Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0022400892,565,PT06M14.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,409
+0022400892,567,PT06M06.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,-9,15,2,Made,1,97,112,209,h,Bridges 2' Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,1,2,410
+0022400892,568,PT06M06.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,411
+0022400892,569,PT06M06.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Clark FOR DiVincenzo,Substitution,,0,0,412
+0022400892,571,PT05M46.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,159,208,26,Missed,1,,,0,v,MISS Alexander-Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022400892,572,PT05M43.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,414
+0022400892,573,PT05M36.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-145,246,29,Missed,1,,,0,h,MISS Ball 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,415
+0022400892,574,PT05M34.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,416
+0022400892,575,PT05M27.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,417
+0022400892,577,PT05M27.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,MISS A. Edwards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,418
+0022400892,578,PT05M27.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,419
+0022400892,579,PT05M27.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,MISS A. Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,420
+0022400892,580,PT05M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+0022400892,581,PT05M14.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-218,136,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022400892,582,PT05M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,423
+0022400892,583,PT05M11.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,27,3,Missed,1,,,0,h,MISS Smith Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,424
+0022400892,584,PT05M07.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,425
+0022400892,585,PT04M52.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,25,126,13,Missed,1,,,0,v,MISS A. Edwards 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,426
+0022400892,586,PT04M49.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,427
+0022400892,587,PT04M45.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-11,44,5,Missed,1,,,0,h,MISS Ball 5' Running Layup,Missed Shot,Running Layup Shot,1,2,428
+0022400892,587,PT04M45.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,Alexander-Walker BLOCK (1 BLK),,,1,2,429
+0022400892,589,PT04M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,430
+0022400892,590,PT04M30.00S,4,1610612750,MIN,203944,Randle,J. Randle,16,21,3,Missed,1,,,0,v,MISS Randle 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022400892,591,PT04M24.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,432
+0022400892,592,PT04M24.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,Made,1,97,114,211,v,Randle Putback Layup (25 PTS),Made Shot,Putback Layup Shot,1,2,433
+0022400892,593,PT04M17.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,131,223,26,Missed,1,,,0,h,MISS Bridges 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,434
+0022400892,594,PT04M14.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,435
+0022400892,595,PT04M02.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,436
+0022400892,597,PT04M02.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,97,115,212,v,A. Edwards Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+0022400892,598,PT04M02.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,MISS A. Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,438
+0022400892,599,PT04M00.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,439
+0022400892,600,PT03M34.00S,4,1610612766,CHA,1630163,Ball,L. Ball,44,41,6,Made,1,99,115,214,h,Ball 6' Driving Bank Hook Shot (21 PTS) (Bridges 4 AST),Made Shot,Driving Bank Hook Shot,1,2,440
+0022400892,602,PT03M17.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-230,22,0,Missed,1,,,0,v,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022400892,603,PT03M15.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,442
+0022400892,604,PT03M11.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,-23,15,3,Made,1,101,115,216,h,Bridges 3' Running Reverse Layup (23 PTS) (Ball 6 AST),Made Shot,Running Reverse Layup Shot,1,2,443
+0022400892,606,PT02M55.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-32,6,3,Missed,1,,,0,v,MISS Alexander-Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,444
+0022400892,607,PT02M53.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,445
+0022400892,608,PT02M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,11,7,1,Made,1,103,115,218,h,Ball 1' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,446
+0022400892,609,PT02M21.00S,4,1610612750,MIN,203944,Randle,J. Randle,-27,11,3,Missed,1,,,0,v,MISS Randle 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,447
+0022400892,610,PT02M19.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,448
+0022400892,611,PT02M14.00S,4,1610612766,CHA,1631109,Williams,M. Williams,-5,11,1,Made,1,105,115,220,h,Williams 1' Running Dunk (12 PTS) (Smith Jr. 3 AST),Made Shot,Running Dunk Shot,1,2,449
+0022400892,613,PT02M14.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,450
+0022400892,614,PT02M14.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR Alexander-Walker,Substitution,,0,0,451
+0022400892,615,PT02M14.00S,4,1610612750,MIN,1641740,Clark,J. Clark,0,0,0,,0,,,0,v,SUB: Reid FOR Clark,Substitution,,0,0,452
+0022400892,618,PT01M52.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-15,10,2,Missed,1,,,0,v,MISS A. Edwards 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,453
+0022400892,619,PT01M50.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,454
+0022400892,621,PT01M44.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,227,34,0,Missed,1,,,0,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022400892,622,PT01M41.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,456
+0022400892,623,PT01M37.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P5.PN) (D.Collins),Foul,Shooting,1,0,457
+0022400892,625,PT01M37.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,105,116,221,v,A. Edwards Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022400892,626,PT01M37.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,105,117,222,v,A. Edwards Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+0022400892,627,PT01M31.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-10,31,3,Missed,1,,,0,h,MISS Ball 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,460
+0022400892,628,PT01M28.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,461
+0022400892,629,PT01M25.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,172,189,26,Made,1,105,120,225,v,A. Edwards 26' 3PT Running Pull-Up Jump Shot (29 PTS) (McDaniels 4 AST),Made Shot,Running Pull-Up Jump Shot,1,3,462
+0022400892,631,PT01M18.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-18,52,6,Made,1,107,120,227,h,Ball 6' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,463
+0022400892,632,PT01M02.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,-123,245,27,Made,1,107,123,230,v,DiVincenzo 27' 3PT Jump Shot (14 PTS) (A. Edwards 6 AST),Made Shot,Jump Shot,1,3,464
+0022400892,634,PT00M55.50S,4,1610612766,CHA,1630163,Ball,L. Ball,9,257,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022400892,635,PT00M53.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,466
+0022400892,636,PT00M48.40S,4,1610612766,CHA,1630163,Ball,L. Ball,-71,279,29,Made,1,110,123,233,h,Ball 29' 3PT Jump Shot (28 PTS) (Bridges 5 AST),Made Shot,Jump Shot,1,3,467
+0022400892,638,PT00M43.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P6.PN) (D.Collins),Foul,Personal,1,0,468
+0022400892,640,PT00M43.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Baugh FOR Ball,Substitution,,0,0,469
+0022400892,642,PT00M43.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,110,124,234,v,DiVincenzo Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,470
+0022400892,643,PT00M43.00S,4,1610612750,MIN,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,110,125,235,v,DiVincenzo Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+0022400892,644,PT00M30.90S,4,1610612766,CHA,203552,Curry,S. Curry,134,212,25,Missed,1,,,0,h,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022400892,645,PT00M24.10S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,473
+0022400892,646,PT00M05.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,474
+0022400892,647,PT00M00.00S,4,1610612766,CHA,203552,Curry,S. Curry,-234,26,24,Missed,1,,,0,h,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022400892,648,PT00M00.00S,4,1610612766,CHA,1641878,Baugh,D. Baugh,0,0,0,,0,,,0,h,Baugh REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,476
+0022400892,649,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,125,235,,End of 4th Period (9:21 PM EST),period,end,1,0,477

@@ -1,0 +1,460 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300305,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:41 PM EST),period,start,0,0,1
+0022300305,4,PT12M00.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Jump Ball Porzingis vs. Allen: Tip to Garland,Jump Ball,,1,0,2
+0022300305,7,PT11M43.00S,1,1610612739,CLE,1629622,Strus,M. Strus,141,250,29,Made,1,0,3,3,v,Strus 29' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,3,3
+0022300305,9,PT11M33.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-43,15,5,Made,1,2,3,5,h,Brown 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,4
+0022300305,10,PT11M23.00S,1,1610612739,CLE,1629622,Strus,M. Strus,88,251,27,Missed,1,,,0,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0022300305,11,PT11M21.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,6
+0022300305,13,PT11M12.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,7
+0022300305,13,PT11M12.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,8
+0022300305,15,PT11M08.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-4,11,1,Made,1,2,5,7,v,Mitchell 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,9
+0022300305,16,PT10M47.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-66,111,13,Missed,1,,,0,h,MISS Porzingis 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,10
+0022300305,17,PT10M45.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300305,19,PT10M34.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,107,241,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,12
+0022300305,20,PT10M32.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300305,21,PT10M20.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,235,84,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022300305,22,PT10M19.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022300305,23,PT10M12.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-104,52,12,Made,1,2,7,9,v,Garland 12' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,16
+0022300305,24,PT10M00.00S,1,1610612738,BOS,1627759,Brown,J. Brown,21,8,2,Made,1,4,7,11,h,Brown 2' Layup (4 PTS),Made Shot,Layup Shot,1,2,17
+0022300305,25,PT09M53.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-27,22,3,Missed,1,,,0,v,MISS Strus 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,18
+0022300305,25,PT09M53.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis BLOCK (1 BLK),,,1,2,19
+0022300305,27,PT09M52.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,20
+0022300305,29,PT09M50.00S,1,1610612739,CLE,1629636,Garland,D. Garland,12,27,3,Made,1,4,9,13,v,Garland 3' Cutting Layup Shot (4 PTS) (Mitchell 1 AST),Made Shot,Cutting Layup Shot,1,2,21
+0022300305,31,PT09M40.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,22
+0022300305,33,PT09M37.00S,1,1610612738,BOS,1628401,White,D. White,228,74,24,Missed,1,,,0,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+0022300305,34,PT09M35.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022300305,35,PT09M28.00S,1,1610612739,CLE,1628386,Allen,J. Allen,22,29,4,Missed,1,,,0,v,MISS Allen 4' Layup,Missed Shot,Layup Shot,1,2,25
+0022300305,35,PT09M28.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown BLOCK (1 BLK),,,1,2,26
+0022300305,37,PT09M27.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,27
+0022300305,39,PT09M23.00S,1,1610612739,CLE,1629622,Strus,M. Strus,7,24,3,Made,1,4,11,15,v,Strus 3' Layup (5 PTS) (Allen 2 AST),Made Shot,Layup Shot,1,2,28
+0022300305,41,PT09M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,29
+0022300305,42,PT09M14.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,30
+0022300305,43,PT09M03.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-25,36,4,Missed,1,,,0,v,MISS Allen 4' Layup,Missed Shot,Layup Shot,1,2,31
+0022300305,43,PT09M03.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White BLOCK (1 BLK),,,1,2,32
+0022300305,45,PT09M02.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022300305,46,PT08M59.00S,1,1610612738,BOS,1628401,White,D. White,45,6,5,Missed,1,,,0,h,MISS White 5' Running Layup,Missed Shot,Running Layup Shot,1,2,34
+0022300305,47,PT08M58.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022300305,48,PT08M51.00S,1,1610612739,CLE,1629731,Wade,D. Wade,-237,35,24,Made,1,4,14,18,v,Wade 24' 3PT Running Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Running Jump Shot,1,3,36
+0022300305,50,PT08M41.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,156,29,16,Missed,1,,,0,h,MISS Tatum 16' Jump Shot,Missed Shot,Jump Shot,1,2,37
+0022300305,51,PT08M39.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,38
+0022300305,52,PT08M28.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-34,13,4,Missed,1,,,0,v,MISS Garland 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+0022300305,53,PT08M27.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0022300305,54,PT08M23.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,96,241,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,41
+0022300305,55,PT08M21.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+0022300305,56,PT08M10.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-4,19,2,Missed,1,,,0,v,MISS Allen 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,43
+0022300305,57,PT08M08.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,44
+0022300305,58,PT08M03.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,132,214,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,45
+0022300305,59,PT08M02.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0022300305,60,PT07M54.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0,47
+0022300305,62,PT07M54.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,4,15,19,v,Mitchell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,48
+0022300305,63,PT07M54.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,4,16,20,v,Mitchell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,49
+0022300305,64,PT07M39.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0,50
+0022300305,64,PT07M39.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (1 STL),,,1,0,51
+0022300305,66,PT07M34.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,27,19,3,Made,1,4,18,22,v,Mitchell 3' Running Layup (6 PTS) (Garland 1 AST),Made Shot,Running Layup Shot,1,2,52
+0022300305,67,PT07M19.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,-126,236,27,Missed,1,,,0,h,MISS Holiday 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,53
+0022300305,68,PT07M18.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022300305,70,PT07M04.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,91,242,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022300305,70,PT07M04.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White BLOCK (2 BLK),,,1,3,56
+0022300305,71,PT07M02.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022300305,72,PT06M53.00S,1,1610612738,BOS,1627759,Brown,J. Brown,6,5,1,Made,1,6,18,24,h,Brown 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,58
+0022300305,73,PT06M33.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-1,24,2,Made,1,6,20,26,v,Allen 2' Driving Dunk (2 PTS) (Strus 1 AST),Made Shot,Driving Dunk Shot,1,2,59
+0022300305,75,PT06M26.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,1,0,60
+0022300305,77,PT06M26.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,7,20,27,h,Brown Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+0022300305,78,PT06M26.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Hauser FOR Tatum,Substitution,,0,0,62
+0022300305,79,PT06M26.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Horford FOR Holiday,Substitution,,0,0,63
+0022300305,80,PT06M26.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: LeVert FOR Garland,Substitution,,0,0,64
+0022300305,84,PT06M26.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,8,20,28,h,Brown Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,65
+0022300305,85,PT06M10.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,2,15,2,Made,1,8,22,30,v,Mitchell 2' Cutting Dunk Shot (8 PTS) (Allen 3 AST),Made Shot,Cutting Dunk Shot,1,2,66
+0022300305,87,PT05M49.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,1,0,67
+0022300305,89,PT05M49.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,9,22,31,h,Porzingis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,68
+0022300305,90,PT05M49.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,10,22,32,h,Porzingis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,69
+0022300305,91,PT05M34.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,70
+0022300305,91,PT05M34.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis STEAL (1 STL),,,1,0,71
+0022300305,93,PT05M26.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-168,252,30,Missed,1,,,0,h,MISS Porzingis 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022300305,94,PT05M25.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,73
+0022300305,96,PT05M25.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,SUB: Okoro FOR Wade,Substitution,,0,0,74
+0022300305,98,PT05M15.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-82,253,27,Made,1,10,25,35,v,Mitchell 27' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,75
+0022300305,99,PT05M03.00S,1,1610612738,BOS,1627759,Brown,J. Brown,85,259,27,Missed,1,,,0,h,MISS Brown 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,76
+0022300305,100,PT05M01.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300305,101,PT04M57.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-112,247,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,78
+0022300305,102,PT04M55.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300305,103,PT04M36.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-40,163,17,Missed,1,,,0,h,MISS Porzingis 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,80
+0022300305,104,PT04M34.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+0022300305,105,PT04M26.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,42,261,26,Missed,1,,,0,v,MISS LeVert 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,82
+0022300305,106,PT04M24.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+0022300305,107,PT04M10.00S,1,1610612738,BOS,1627759,Brown,J. Brown,38,15,4,Missed,1,,,0,h,MISS Brown 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,84
+0022300305,108,PT04M09.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,85
+0022300305,109,PT04M03.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,86
+0022300305,110,PT04M03.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,SUB: Pritchard FOR Porzingis,Substitution,,0,0,87
+0022300305,111,PT04M03.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Niang FOR Strus,Substitution,,0,0,88
+0022300305,114,PT03M46.00S,1,1610612738,BOS,1627759,Brown,J. Brown,26,1,3,Made,1,12,25,37,h,Brown 3' Driving Layup (10 PTS) (White 1 AST),Made Shot,Driving Layup Shot,1,2,89
+0022300305,117,PT03M32.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,27,150,15,Made,1,12,27,39,v,LeVert 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,90
+0022300305,118,PT03M19.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-136,253,29,Missed,1,,,0,h,MISS Pritchard 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+0022300305,119,PT03M17.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,92
+0022300305,120,PT03M12.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,93
+0022300305,120,PT03M12.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard STEAL (1 STL),,,1,0,94
+0022300305,122,PT03M10.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+0022300305,123,PT03M10.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Tatum FOR Brown,Substitution,,0,0,96
+0022300305,124,PT03M10.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Thompson FOR Allen,Substitution,,0,0,97
+0022300305,125,PT03M10.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Garland FOR Mitchell,Substitution,,0,0,98
+0022300305,129,PT03M00.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-102,247,27,Missed,1,,,0,v,MISS Garland 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,99
+0022300305,130,PT02M59.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,100
+0022300305,131,PT02M50.00S,1,1610612738,BOS,201143,Horford,A. Horford,228,106,25,Missed,1,,,0,h,MISS Horford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300305,132,PT02M48.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+0022300305,133,PT02M38.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-238,26,24,Missed,1,,,0,v,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022300305,134,PT02M36.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300305,135,PT02M23.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-9,11,1,Made,1,14,27,41,h,Tatum 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,105
+0022300305,136,PT02M05.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,26,1,3,Made,1,14,29,43,v,LeVert 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,106
+0022300305,137,PT01M45.00S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,-119,238,27,Made,1,17,29,46,h,Pritchard 27' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,3,107
+0022300305,139,PT01M23.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-21,13,2,Made,1,17,31,48,v,Garland 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,108
+0022300305,140,PT01M11.00S,1,1610612738,BOS,201143,Horford,A. Horford,-80,148,17,Made,1,19,31,50,h,Horford 17' Jump Shot (2 PTS) (White 2 AST),Made Shot,Jump Shot,1,2,109
+0022300305,142,PT00M47.40S,1,1610612739,CLE,1627747,LeVert,C. LeVert,71,72,10,Missed,1,,,0,v,MISS LeVert 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,110
+0022300305,143,PT00M46.70S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,111
+0022300305,144,PT00M46.70S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser L.B.FOUL (P1.T2) (C.Kirkland),Foul,Loose Ball,1,0,112
+0022300305,146,PT00M46.70S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,113
+0022300305,147,PT00M46.70S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Holiday FOR White,Substitution,,0,0,114
+0022300305,149,PT00M36.10S,1,1610612739,CLE,1629636,Garland,D. Garland,-48,219,22,Missed,1,,,0,v,MISS Garland 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,115
+0022300305,150,PT00M34.10S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+0022300305,151,PT00M20.90S,1,1610612738,BOS,1628369,Tatum,J. Tatum,44,7,4,Made,1,21,31,52,h,Tatum 4' Driving Layup (4 PTS) (Pritchard 1 AST),Made Shot,Driving Layup Shot,1,2,117
+0022300305,153,PT00M01.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,72,122,14,Missed,1,,,0,v,MISS Okoro 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,118
+0022300305,154,PT00M00.20S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,119
+0022300305,155,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,31,52,,End of 1st Period (8:04 PM EST),period,end,1,0,120
+0022300305,158,PT12M00.00S,2,0,,0,,,0,0,0,,0,21,31,52,,Start of 2nd Period (8:07 PM EST),period,start,0,0,121
+0022300305,159,PT11M38.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,122
+0022300305,161,PT11M38.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,22,31,53,h,Tatum Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,123
+0022300305,162,PT11M38.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,23,31,54,h,Tatum Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,124
+0022300305,163,PT11M25.00S,2,1610612739,CLE,1627777,Niang,G. Niang,164,194,25,Made,1,23,34,57,v,Niang 25' 3PT Jump Shot (3 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,125
+0022300305,165,PT11M03.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-161,225,28,Made,1,26,34,60,h,Holiday 28' 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,1,3,126
+0022300305,167,PT10M54.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,127
+0022300305,169,PT10M47.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,229,92,25,Made,1,26,37,63,v,Okoro 25' 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,1,3,128
+0022300305,171,PT10M24.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-232,34,0,Made,1,29,37,66,h,Pritchard 3PT Jump Shot (6 PTS) (Horford 1 AST),Made Shot,Jump Shot,1,3,129
+0022300305,173,PT10M04.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,130
+0022300305,173,PT10M04.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford STEAL (1 STL),,,1,0,131
+0022300305,175,PT09M56.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,1,0,132
+0022300305,177,PT09M56.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,30,37,67,h,Tatum Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022300305,178,PT09M56.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Kornet FOR Horford,Substitution,,0,0,134
+0022300305,180,PT09M56.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,31,37,68,h,Tatum Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,135
+0022300305,181,PT09M45.00S,2,1610612739,CLE,1629636,Garland,D. Garland,98,158,19,Missed,1,,,0,v,MISS Garland 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,136
+0022300305,182,PT09M44.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+0022300305,183,PT09M34.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,138
+0022300305,183,PT09M34.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro STEAL (1 STL),,,1,0,139
+0022300305,185,PT09M31.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,-6,27,3,Missed,1,,,0,v,MISS Okoro 3' Running Layup,Missed Shot,Running Layup Shot,1,2,140
+0022300305,185,PT09M31.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard BLOCK (1 BLK),,,1,2,141
+0022300305,187,PT09M30.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,142
+0022300305,189,PT09M24.00S,2,1610612739,CLE,1629622,Strus,M. Strus,126,216,25,Missed,1,,,0,v,MISS Strus 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,143
+0022300305,190,PT09M22.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,144
+0022300305,191,PT09M16.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,145
+0022300305,191,PT09M16.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard STEAL (2 STL),,,1,0,146
+0022300305,193,PT09M13.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,1,6,1,Made,1,33,37,70,h,Tatum 1' Running Dunk (10 PTS) (Pritchard 2 AST),Made Shot,Running Dunk Shot,1,2,147
+0022300305,195,PT09M13.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,148
+0022300305,196,PT09M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,149
+0022300305,197,PT09M13.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Mitchell FOR Okoro,Substitution,,0,0,150
+0022300305,200,PT09M01.00S,2,1610612739,CLE,1629636,Garland,D. Garland,37,8,4,Made,1,33,39,72,v,Garland 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,151
+0022300305,201,PT08M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,103,236,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300305,202,PT08M45.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,153
+0022300305,203,PT08M33.00S,2,1610612739,CLE,1629636,Garland,D. Garland,16,62,6,Missed,1,,,0,v,MISS Garland 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,154
+0022300305,204,PT08M32.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,155
+0022300305,205,PT08M26.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,156
+0022300305,205,PT08M26.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,157
+0022300305,207,PT08M22.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,28,-1,3,Missed,1,,,0,h,MISS Hauser 3' Running Layup,Missed Shot,Running Layup Shot,1,2,158
+0022300305,207,PT08M22.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen BLOCK (1 BLK),,,1,2,159
+0022300305,209,PT08M21.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,160
+0022300305,220,PT08M08.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-53,48,7,Missed,1,,,0,v,MISS Mitchell 7' Driving Layup,Missed Shot,Driving Layup Shot,0,2,161
+0022300305,220,PT08M08.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum BLOCK (1 BLK),,,0,2,162
+0022300305,222,PT08M07.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,163
+0022300305,211,PT08M07.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Brown FOR Pritchard,Substitution,,0,0,164
+0022300305,212,PT08M07.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: White FOR Hauser,Substitution,,0,0,165
+0022300305,215,PT07M52.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,92,246,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,166
+0022300305,216,PT07M51.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,167
+0022300305,217,PT07M51.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,Missed,1,,,0,h,MISS Kornet Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,168
+0022300305,218,PT07M47.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,169
+0022300305,219,PT07M46.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,21,28,4,Made,1,35,39,74,h,Kornet 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,170
+0022300305,224,PT07M30.00S,2,1610612739,CLE,1629622,Strus,M. Strus,107,268,29,Made,1,35,42,77,v,Strus 29' 3PT Jump Shot (8 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,171
+0022300305,226,PT07M13.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,172
+0022300305,226,PT07M13.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (2 STL),,,1,0,173
+0022300305,228,PT07M03.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,75,158,17,Made,1,35,44,79,v,Mitchell 17' Jump Shot (13 PTS),Made Shot,Jump Shot,1,2,174
+0022300305,229,PT06M47.00S,2,1610612738,BOS,1628401,White,D. White,225,-1,0,Made,1,38,44,82,h,White 3PT Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,175
+0022300305,231,PT06M31.00S,2,1610612739,CLE,1628386,Allen,J. Allen,66,115,13,Made,1,38,46,84,v,Allen 13' Hook Shot (4 PTS) (Garland 4 AST),Made Shot,Hook Shot,1,2,176
+0022300305,233,PT06M11.00S,2,1610612738,BOS,1628401,White,D. White,174,193,26,Made,1,41,46,87,h,White 26' 3PT Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,3,177
+0022300305,235,PT05M50.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,178
+0022300305,235,PT05M50.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,1,0,179
+0022300305,237,PT05M44.00S,2,1610612738,BOS,1628401,White,D. White,234,49,24,Made,1,44,46,90,h,White 24' 3PT Running Jump Shot (9 PTS) (Brown 1 AST),Made Shot,Running Jump Shot,1,3,180
+0022300305,239,PT05M25.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-136,231,27,Made,1,44,49,93,v,Mitchell 27' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,181
+0022300305,240,PT05M23.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,182
+0022300305,241,PT05M23.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porzingis FOR Holiday,Substitution,,0,0,183
+0022300305,242,PT05M23.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Horford FOR Kornet,Substitution,,0,0,184
+0022300305,243,PT05M23.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: LeVert FOR Garland,Substitution,,0,0,185
+0022300305,244,PT05M23.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Wade FOR Niang,Substitution,,0,0,186
+0022300305,249,PT05M14.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-1,8,1,Made,1,46,49,95,h,Brown 1' Cutting Dunk Shot (12 PTS) (Porzingis 1 AST),Made Shot,Cutting Dunk Shot,1,2,187
+0022300305,251,PT04M53.00S,2,1610612739,CLE,1629622,Strus,M. Strus,97,290,31,Made,1,46,52,98,v,Strus 31' 3PT Jump Shot (11 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,188
+0022300305,253,PT04M41.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-152,244,29,Missed,1,,,0,h,MISS Brown 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022300305,254,PT04M40.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+0022300305,255,PT04M38.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,191
+0022300305,255,PT04M38.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White STEAL (1 STL),,,1,0,192
+0022300305,257,PT04M35.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,193
+0022300305,259,PT04M35.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,47,52,99,h,White Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,194
+0022300305,260,PT04M35.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,48,52,100,h,White Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+0022300305,261,PT04M18.00S,2,1610612739,CLE,1629622,Strus,M. Strus,135,230,27,Missed,1,,,0,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+0022300305,262,PT04M17.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,197
+0022300305,263,PT04M11.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,21,2,2,Made,1,50,52,102,h,Tatum 2' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,198
+0022300305,264,PT03M58.00S,2,1610612739,CLE,1629731,Wade,D. Wade,-91,241,26,Missed,1,,,0,v,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022300305,265,PT03M57.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,200
+0022300305,266,PT03M52.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P2.T4) (M.Kogut),Foul,Shooting,1,0,201
+0022300305,268,PT03M52.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,51,52,103,h,Brown Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,202
+0022300305,269,PT03M52.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,52,52,104,h,Brown Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,203
+0022300305,270,PT03M34.00S,2,1610612739,CLE,1629731,Wade,D. Wade,-45,271,27,Made,1,52,55,107,v,Wade 27' 3PT Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,204
+0022300305,272,PT03M21.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Traveling Turnover (P1.T7),Turnover,Traveling,1,0,205
+0022300305,273,PT03M21.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: Garland FOR Strus,Substitution,,0,0,206
+0022300305,275,PT03M11.00S,2,1610612739,CLE,1629731,Wade,D. Wade,234,52,24,Missed,1,,,0,v,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300305,276,PT03M09.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,208
+0022300305,277,PT03M03.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,1,0,209
+0022300305,279,PT03M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,53,55,108,h,Tatum Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,210
+0022300305,280,PT03M03.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Holiday FOR White,Substitution,,0,0,211
+0022300305,282,PT03M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,54,55,109,h,Tatum Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0022300305,283,PT02M52.00S,2,1610612739,CLE,1628386,Allen,J. Allen,52,55,8,Made,1,54,57,111,v,Allen 8' Hook Shot (6 PTS) (Garland 5 AST),Made Shot,Hook Shot,1,2,213
+0022300305,285,PT02M34.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,105,248,27,Missed,1,,,0,h,MISS Porzingis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,214
+0022300305,286,PT02M33.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,215
+0022300305,287,PT02M33.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade L.B.FOUL (P3.PN) (M.Kogut),Foul,Loose Ball,1,0,216
+0022300305,289,PT02M33.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,55,57,112,h,Tatum Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,217
+0022300305,290,PT02M33.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: White FOR Horford,Substitution,,0,0,218
+0022300305,291,PT02M33.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Niang FOR LeVert,Substitution,,0,0,219
+0022300305,292,PT02M33.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,SUB: Strus FOR Wade,Substitution,,0,0,220
+0022300305,296,PT02M33.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,57,113,h,Tatum Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,221
+0022300305,297,PT02M18.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,222
+0022300305,298,PT02M18.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell T.FOUL (P2.PN) (M.Kogut),Foul,Technical,1,0,223
+0022300305,299,PT02M18.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,57,57,114,h,Tatum Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,0,224
+0022300305,300,PT02M05.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,225
+0022300305,301,PT01M58.00S,2,1610612739,CLE,1629636,Garland,D. Garland,70,115,13,Missed,1,,,0,v,MISS Garland 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,226
+0022300305,302,PT01M57.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+0022300305,303,PT01M51.00S,2,1610612738,BOS,1628401,White,D. White,157,221,27,Missed,1,,,0,h,MISS White 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,228
+0022300305,304,PT01M50.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,229
+0022300305,305,PT01M39.00S,2,1610612738,BOS,1627759,Brown,J. Brown,1,10,1,Made,1,59,57,116,h,Brown 1' Cutting Layup Shot (16 PTS) (Holiday 2 AST),Made Shot,Cutting Layup Shot,1,2,230
+0022300305,307,PT01M26.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,83,157,18,Missed,1,,,0,v,MISS Mitchell 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,231
+0022300305,308,PT01M24.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,232
+0022300305,309,PT01M17.00S,2,1610612738,BOS,1627759,Brown,J. Brown,7,15,2,Missed,1,,,0,h,MISS Brown 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,233
+0022300305,310,PT01M16.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,234
+0022300305,311,PT01M11.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T2) (R.Acosta),Foul,Personal,1,0,235
+0022300305,313,PT01M11.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Horford FOR Brown,Substitution,,0,0,236
+0022300305,315,PT01M03.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-142,231,27,Made,1,59,60,119,v,Garland 27' 3PT Jump Shot (11 PTS) (Strus 2 AST),Made Shot,Jump Shot,1,3,237
+0022300305,316,PT00M43.90S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-69,285,29,Missed,1,,,0,h,MISS Tatum 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,238
+0022300305,317,PT00M42.90S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,239
+0022300305,319,PT00M35.20S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-94,89,13,Missed,1,,,0,h,MISS Porzingis 13' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,240
+0022300305,320,PT00M33.20S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,241
+0022300305,321,PT00M17.30S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-147,218,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0022300305,322,PT00M15.90S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,243
+0022300305,323,PT00M01.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,127,73,15,Missed,1,,,0,h,MISS Porzingis 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,244
+0022300305,324,PT00M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,245
+0022300305,325,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,60,119,,End of 2nd Period (8:34 PM EST),period,end,1,0,246
+0022300305,330,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,60,119,,Start of 3rd Period (8:49 PM EST),period,start,0,0,247
+0022300305,331,PT11M47.00S,3,1610612738,BOS,1627759,Brown,J. Brown,29,23,4,Made,1,61,60,121,h,Brown 4' Driving Layup (18 PTS) (Porzingis 2 AST),Made Shot,Driving Layup Shot,1,2,248
+0022300305,333,PT11M21.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,249
+0022300305,333,PT11M21.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (3 STL),,,1,0,250
+0022300305,335,PT11M14.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-184,189,26,Made,1,64,60,124,h,Brown 26' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,3,251
+0022300305,336,PT11M00.00S,3,1610612739,CLE,1629731,Wade,D. Wade,-138,236,27,Missed,1,,,0,v,MISS Wade 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300305,337,PT10M59.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,253
+0022300305,338,PT10M57.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,1,0,254
+0022300305,340,PT10M57.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,64,61,125,v,Allen Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+0022300305,341,PT10M57.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,256
+0022300305,342,PT10M57.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,257
+0022300305,343,PT10M36.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-43,66,8,Made,1,66,61,127,h,Porzingis 8' Turnaround Bank Shot (4 PTS) (Tatum 4 AST),Made Shot,Turnaround Bank shot,1,2,258
+0022300305,345,PT10M15.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-123,236,27,Made,1,66,64,130,v,Mitchell 27' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,259
+0022300305,346,PT10M06.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,260
+0022300305,346,PT10M06.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland STEAL (1 STL),,,1,0,261
+0022300305,348,PT09M59.00S,3,1610612739,CLE,1629636,Garland,D. Garland,39,28,5,Missed,1,,,0,v,MISS Garland 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,262
+0022300305,349,PT09M57.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,0,263
+0022300305,351,PT09M54.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Offensive Charge Foul (P1) (R.Acosta),Foul,Offensive Charge,1,0,264
+0022300305,353,PT09M54.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,265
+0022300305,354,PT09M38.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,65,36,7,Missed,1,,,0,h,MISS Holiday 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,266
+0022300305,354,PT09M38.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade BLOCK (1 BLK),,,1,2,267
+0022300305,355,PT09M37.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,268
+0022300305,356,PT09M33.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,40,42,6,Made,1,68,64,132,h,Holiday 6' Driving Hook Shot (5 PTS),Made Shot,Driving Hook Shot,1,2,269
+0022300305,357,PT09M19.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,99,247,27,Made,1,68,67,135,v,Mitchell 27' 3PT Jump Shot (22 PTS) (Wade 1 AST),Made Shot,Jump Shot,1,3,270
+0022300305,359,PT09M07.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-234,32,24,Missed,1,,,0,h,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022300305,360,PT09M05.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,272
+0022300305,361,PT08M55.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-136,258,29,Made,1,68,70,138,v,Mitchell 29' 3PT Pullup Jump Shot (25 PTS) (Garland 6 AST),Made Shot,Pullup Jump shot,1,3,273
+0022300305,363,PT08M39.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum OFF.Foul (P2) (C.Kirkland),Foul,Offensive,1,0,274
+0022300305,365,PT08M39.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0,275
+0022300305,367,PT08M26.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,23,5,2,Made,1,68,72,140,v,Mitchell 2' Cutting Layup Shot (27 PTS) (Allen 4 AST),Made Shot,Cutting Layup Shot,1,2,276
+0022300305,369,PT08M26.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,277
+0022300305,370,PT08M19.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,278
+0022300305,371,PT08M00.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-89,265,28,Missed,1,,,0,v,MISS Mitchell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,279
+0022300305,372,PT07M58.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,280
+0022300305,373,PT07M48.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,281
+0022300305,373,PT07M48.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (3 STL),,,1,0,282
+0022300305,375,PT07M41.00S,3,1610612739,CLE,1629622,Strus,M. Strus,76,265,28,Missed,1,,,0,v,MISS Strus 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022300305,375,PT07M41.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum BLOCK (2 BLK),,,1,3,284
+0022300305,376,PT07M39.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,285
+0022300305,379,PT07M30.00S,3,1610612739,CLE,1628386,Allen,J. Allen,5,149,15,Made,1,68,74,142,v,Allen 15' Jump Shot (9 PTS) (Strus 3 AST),Made Shot,Jump Shot,1,2,286
+0022300305,381,PT07M04.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,38,4,Made,1,70,74,144,h,Porzingis 4' Cutting Layup Shot (6 PTS) (Brown 2 AST),Made Shot,Cutting Layup Shot,1,2,287
+0022300305,383,PT07M04.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0,288
+0022300305,385,PT07M04.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,71,74,145,h,Porzingis Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,289
+0022300305,388,PT06M48.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,1,0,290
+0022300305,390,PT06M48.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,71,75,146,v,Wade Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0022300305,391,PT06M48.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,71,76,147,v,Wade Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,292
+0022300305,392,PT06M38.00S,3,1610612738,BOS,1628401,White,D. White,-100,261,28,Made,1,74,76,150,h,White 28' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,293
+0022300305,393,PT06M24.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-124,257,29,Made,1,74,79,153,v,Garland 29' 3PT Jump Shot (14 PTS) (Wade 2 AST),Made Shot,Jump Shot,1,3,294
+0022300305,395,PT06M07.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,26,10,3,Missed,1,,,0,h,MISS Tatum 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,295
+0022300305,396,PT06M06.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,296
+0022300305,397,PT06M06.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,Missed,1,,,0,h,MISS Porzingis Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,297
+0022300305,398,PT06M05.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,298
+0022300305,484,PT06M05.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-4,9,1,Missed,1,,,0,h,MISS Porzingis 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,299
+0022300305,485,PT06M04.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,300
+0022300305,399,PT05M58.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-173,211,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,301
+0022300305,400,PT05M54.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,302
+0022300305,401,PT05M52.00S,3,1610612739,CLE,1629622,Strus,M. Strus,191,170,26,Made,1,74,82,156,v,Strus 26' 3PT Jump Shot (14 PTS) (Wade 3 AST),Made Shot,Jump Shot,1,3,303
+0022300305,403,PT05M35.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,-164,216,27,Made,1,77,82,159,h,Holiday 27' 3PT Jump Shot (8 PTS) (Porzingis 3 AST),Made Shot,Jump Shot,1,3,304
+0022300305,405,PT05M11.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-26,25,4,Missed,1,,,0,v,MISS Strus 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,305
+0022300305,405,PT05M11.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis BLOCK (2 BLK),,,1,2,306
+0022300305,407,PT05M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,307
+0022300305,409,PT05M10.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Hauser FOR White,Substitution,,0,0,308
+0022300305,410,PT05M10.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Horford FOR Brown,Substitution,,0,0,309
+0022300305,411,PT05M10.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Okoro FOR Garland,Substitution,,0,0,310
+0022300305,415,PT04M56.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,47,256,26,Made,1,80,82,162,h,Porzingis 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,311
+0022300305,416,PT04M38.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-27,274,28,Missed,1,,,0,v,MISS Strus 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,312
+0022300305,417,PT04M37.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,313
+0022300305,418,PT04M26.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,9,21,2,Missed,1,,,0,h,MISS Tatum 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,314
+0022300305,418,PT04M26.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen BLOCK (2 BLK),,,1,2,315
+0022300305,419,PT04M24.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,316
+0022300305,420,PT04M19.00S,3,1610612739,CLE,1629622,Strus,M. Strus,9,17,2,Missed,1,,,0,v,MISS Strus 2' Running Layup,Missed Shot,Running Layup Shot,1,2,317
+0022300305,420,PT04M19.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,1,2,318
+0022300305,421,PT04M19.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,0,319
+0022300305,423,PT04M19.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,SUB: Niang FOR Wade,Substitution,,0,0,320
+0022300305,425,PT04M05.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,321
+0022300305,426,PT03M59.00S,3,1610612738,BOS,201143,Horford,A. Horford,194,171,26,Missed,1,,,0,h,MISS Horford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300305,427,PT03M57.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,323
+0022300305,428,PT03M53.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,-235,48,24,Made,1,83,82,165,h,Holiday 24' 3PT Step Back Jump Shot (11 PTS) (Hauser 1 AST),Made Shot,Step Back Jump shot,1,3,324
+0022300305,431,PT03M30.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,27,258,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,325
+0022300305,432,PT03M28.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,326
+0022300305,433,PT03M06.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,1,273,27,Missed,1,,,0,h,MISS Porzingis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+0022300305,434,PT03M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,328
+0022300305,435,PT03M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,329
+0022300305,436,PT03M05.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,330
+0022300305,438,PT03M05.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,SUB: LeVert FOR Strus,Substitution,,0,0,331
+0022300305,439,PT03M05.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Garland FOR Mitchell,Substitution,,0,0,332
+0022300305,442,PT03M05.00S,3,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: White FOR Holiday,Substitution,,0,0,333
+0022300305,444,PT02M51.00S,3,1610612739,CLE,1629636,Garland,D. Garland,21,130,13,Made,1,83,84,167,v,Garland 13' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,334
+0022300305,445,PT02M37.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-228,71,24,Made,1,86,84,170,h,Tatum 24' 3PT Jump Shot (20 PTS) (White 3 AST),Made Shot,Jump Shot,1,3,335
+0022300305,447,PT02M26.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White P.FOUL (P2.T3) (M.Kogut),Foul,Personal,1,0,336
+0022300305,449,PT02M15.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-121,185,22,Made,1,86,86,172,v,Garland 22' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2,337
+0022300305,450,PT02M01.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,32,288,29,Made,1,89,86,175,h,Porzingis 29' 3PT Jump Shot (13 PTS) (White 4 AST),Made Shot,Jump Shot,1,3,338
+0022300305,452,PT01M44.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-135,178,22,Made,1,89,88,177,v,Garland 22' Pullup Jump Shot (20 PTS) (Allen 5 AST),Made Shot,Pullup Jump shot,1,2,339
+0022300305,454,PT01M25.00S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,40,68,8,Made,1,91,88,179,h,Porzingis 8' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,1,2,340
+0022300305,455,PT01M00.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,121,232,26,Missed,1,,,0,v,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022300305,456,PT00M58.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,342
+0022300305,457,PT00M48.40S,3,1610612738,BOS,1630573,Hauser,S. Hauser,125,232,26,Made,1,94,88,182,h,Hauser 26' 3PT Jump Shot (3 PTS) (Tatum 5 AST),Made Shot,Jump Shot,1,3,343
+0022300305,459,PT00M34.80S,3,1610612739,CLE,1629636,Garland,D. Garland,78,243,26,Made,1,94,91,185,v,Garland 26' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,3,344
+0022300305,460,PT00M29.30S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen P.FOUL (P3.T2) (M.Kogut),Foul,Personal,1,0,345
+0022300305,462,PT00M19.50S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-145,227,27,Missed,1,,,0,h,MISS Porzingis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300305,463,PT00M17.90S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+0022300305,464,PT00M02.60S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White S.FOUL (P3.T4) (M.Kogut),Foul,Shooting,1,0,348
+0022300305,466,PT00M02.60S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,94,92,186,v,Allen Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+0022300305,467,PT00M02.60S,3,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,SUB: Pritchard FOR Porzingis,Substitution,,0,0,350
+0022300305,468,PT00M02.60S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Wade FOR Garland,Substitution,,0,0,351
+0022300305,471,PT00M02.60S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,352
+0022300305,472,PT00M02.60S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,353
+0022300305,473,PT00M00.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,143,445,47,Missed,1,,,0,h,MISS Pritchard 47' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300305,474,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,355
+0022300305,475,PT00M00.00S,3,0,,0,,,0,0,0,,0,94,92,186,,End of 3rd Period (9:14 PM EST),period,end,1,0,356
+0022300305,486,PT12M00.00S,4,0,,0,,,0,0,0,,0,94,92,186,,Start of 4th Period (9:17 PM EST),period,start,0,0,357
+0022300305,487,PT11M42.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,145,221,26,Made,1,94,95,189,v,LeVert 26' 3PT Jump Shot (7 PTS) (Okoro 1 AST),Made Shot,Jump Shot,1,3,358
+0022300305,489,PT11M19.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,169,218,28,Missed,1,,,0,h,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300305,490,PT11M18.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,360
+0022300305,491,PT11M09.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,-43,15,5,Made,1,94,97,191,v,LeVert 5' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,361
+0022300305,492,PT10M56.00S,4,1610612738,BOS,1627759,Brown,J. Brown,70,145,16,Missed,1,,,0,h,MISS Brown 16' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,362
+0022300305,493,PT10M55.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,363
+0022300305,494,PT10M55.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,Missed,1,,,0,h,MISS Kornet Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,364
+0022300305,495,PT10M54.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,365
+0022300305,496,PT10M53.00S,4,1610612738,BOS,1627759,Brown,J. Brown,20,54,6,Made,1,96,97,193,h,Brown 6' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,366
+0022300305,497,PT10M25.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,83,147,17,Made,1,96,99,195,v,LeVert 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,367
+0022300305,498,PT10M07.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,105,258,28,Made,1,99,99,198,h,Hauser 28' 3PT Jump Shot (6 PTS) (Pritchard 3 AST),Made Shot,Jump Shot,1,3,368
+0022300305,500,PT09M50.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,232,55,24,Missed,1,,,0,v,MISS Okoro 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022300305,501,PT09M49.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022300305,502,PT09M33.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,119,247,27,Missed,1,,,0,h,MISS Pritchard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,371
+0022300305,503,PT09M31.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,372
+0022300305,504,PT09M30.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-152,224,27,Missed,1,,,0,h,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022300305,505,PT09M29.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,374
+0022300305,506,PT09M14.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-10,15,2,Missed,1,,,0,v,MISS Garland 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,375
+0022300305,507,PT09M12.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,376
+0022300305,508,PT09M06.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0,377
+0022300305,510,PT09M06.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,100,99,199,h,Kornet Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,378
+0022300305,511,PT09M06.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Holiday FOR Horford,Substitution,,0,0,379
+0022300305,512,PT09M06.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Strus FOR Okoro,Substitution,,0,0,380
+0022300305,515,PT09M06.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,101,99,200,h,Kornet Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+0022300305,516,PT08M54.00S,4,1610612739,CLE,1629636,Garland,D. Garland,2,8,1,Missed,1,,,0,v,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+0022300305,517,PT08M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,383
+0022300305,518,PT08M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,101,101,202,v,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,384
+0022300305,519,PT08M38.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,97,263,28,Made,1,104,101,205,h,Hauser 28' 3PT Jump Shot (9 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,3,385
+0022300305,521,PT08M14.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-136,217,26,Missed,1,,,0,v,MISS Garland 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,386
+0022300305,522,PT08M12.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,387
+0022300305,523,PT08M10.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland L.B.FOUL (P1.T2) (C.Kirkland),Foul,Loose Ball,1,0,388
+0022300305,525,PT08M10.00S,4,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Horford FOR Kornet,Substitution,,0,0,389
+0022300305,526,PT08M10.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Mitchell FOR Garland,Substitution,,0,0,390
+0022300305,529,PT08M10.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: White FOR Pritchard,Substitution,,0,0,391
+0022300305,531,PT07M55.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Jump Ball Brown vs. Thompson: Tip to Holiday,Jump Ball,,0,0,392
+0022300305,534,PT07M50.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,393
+0022300305,535,PT07M50.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Tatum FOR Hauser,Substitution,,0,0,394
+0022300305,537,PT07M40.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,-44,142,15,Missed,1,,,0,v,MISS LeVert 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,395
+0022300305,538,PT07M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,396
+0022300305,539,PT07M37.00S,4,1610612739,CLE,1629622,Strus,M. Strus,110,232,26,Made,1,104,104,208,v,Strus 26' 3PT Jump Shot (17 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,397
+0022300305,541,PT07M14.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,125,90,15,Made,1,106,104,210,h,Tatum 15' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,2,398
+0022300305,542,PT07M02.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-152,249,29,Missed,1,,,0,v,MISS Strus 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022300305,543,PT07M00.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,400
+0022300305,544,PT06M51.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-23,264,27,Missed,1,,,0,h,MISS Tatum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,401
+0022300305,545,PT06M49.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,402
+0022300305,546,PT06M46.00S,4,1610612738,BOS,1628401,White,D. White,127,235,27,Missed,1,,,0,h,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300305,547,PT06M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,404
+0022300305,548,PT06M33.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,200,148,25,Missed,1,,,0,v,MISS LeVert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022300305,549,PT06M31.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,406
+0022300305,551,PT06M27.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,407
+0022300305,552,PT06M27.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Porzingis FOR Horford,Substitution,,0,0,408
+0022300305,553,PT06M27.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Wade FOR Thompson,Substitution,,0,0,409
+0022300305,554,PT06M27.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Allen FOR Niang,Substitution,,0,0,410
+0022300305,558,PT06M20.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-43,63,8,Missed,1,,,0,h,MISS Porzingis 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,411
+0022300305,559,PT06M19.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,412
+0022300305,560,PT06M05.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-43,176,18,Made,1,106,106,212,v,Mitchell 18' Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,1,2,413
+0022300305,561,PT05M50.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P3.T3) (C.Kirkland),Foul,Personal,1,0,414
+0022300305,563,PT05M42.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P4.T4) (R.Acosta),Foul,Shooting,1,0,415
+0022300305,565,PT05M42.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,107,106,213,h,Porzingis Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+0022300305,566,PT05M42.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,108,106,214,h,Porzingis Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+0022300305,567,PT05M21.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum P.FOUL (P3.T1) (M.Kogut),Foul,Personal,1,0,418
+0022300305,569,PT05M21.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Garland FOR LeVert,Substitution,,0,0,419
+0022300305,571,PT05M17.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,7,107,11,Missed,1,,,0,v,MISS Mitchell 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,420
+0022300305,572,PT05M15.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,421
+0022300305,573,PT05M06.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus P.FOUL (P3.PN) (M.Kogut),Foul,Personal,1,0,422
+0022300305,575,PT05M06.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,109,106,215,h,Porzingis Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+0022300305,576,PT05M06.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,110,106,216,h,Porzingis Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+0022300305,577,PT04M47.00S,4,1610612739,CLE,1629731,Wade,D. Wade,96,242,26,Missed,1,,,0,v,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022300305,578,PT04M45.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,426
+0022300305,579,PT04M28.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,70,252,26,Made,1,113,106,219,h,Tatum 26' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,427
+0022300305,580,PT04M26.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,428
+0022300305,582,PT04M03.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,83,244,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,429
+0022300305,583,PT03M59.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,430
+0022300305,584,PT03M45.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus P.FOUL (P4.PN) (M.Kogut),Foul,Personal,1,0,431
+0022300305,586,PT03M45.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,114,106,220,h,Porzingis Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+0022300305,587,PT03M45.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,SUB: LeVert FOR Wade,Substitution,,0,0,433
+0022300305,589,PT03M45.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,115,106,221,h,Porzingis Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022300305,590,PT03M31.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P1.T2) (M.Kogut),Foul,Personal,1,0,435
+0022300305,592,PT03M25.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-45,113,12,Made,1,115,108,223,v,Allen 12' Floating Jump Shot (12 PTS) (Garland 7 AST),Made Shot,Floating Jump shot,1,2,436
+0022300305,594,PT02M57.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,39,42,6,Missed,1,,,0,h,MISS Tatum 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,437
+0022300305,594,PT02M57.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert BLOCK (1 BLK),,,1,2,438
+0022300305,595,PT02M55.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,439
+0022300305,597,PT02M51.00S,4,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P3.T3) (R.Acosta),Foul,Personal,1,0,440
+0022300305,599,PT02M45.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,38,16,4,Missed,1,,,0,v,MISS LeVert 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,441
+0022300305,600,PT02M43.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,442
+0022300305,602,PT02M32.00S,4,1610612738,BOS,1628401,White,D. White,-238,32,24,Made,1,118,108,226,h,White 24' 3PT Jump Shot (17 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,3,443
+0022300305,604,PT02M07.00S,4,1610612739,CLE,1629636,Garland,D. Garland,129,233,27,Made,1,118,111,229,v,Garland 27' 3PT Jump Shot (26 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,3,444
+0022300305,606,PT01M38.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-136,42,14,Made,1,120,111,231,h,Brown 14' Turnaround Fadeaway (25 PTS),Made Shot,Turnaround Fadeaway shot,1,2,445
+0022300305,607,PT01M19.00S,4,1610612739,CLE,1628386,Allen,J. Allen,62,18,6,Made,1,120,113,233,v,Allen 6' Cutting Layup Shot (14 PTS) (LeVert 3 AST),Made Shot,Cutting Layup Shot,1,2,446
+0022300305,609,PT01M19.00S,4,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,,,0,h,Porzingis S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,1,0,447
+0022300305,611,PT01M19.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,448
+0022300305,612,PT01M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,449
+0022300305,614,PT01M00.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-175,218,28,Missed,1,,,0,h,MISS Tatum 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,450
+0022300305,615,PT00M58.40S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,451
+0022300305,616,PT00M52.40S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,452
+0022300305,616,PT00M52.40S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,0,453
+0022300305,618,PT00M38.50S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-33,19,4,Missed,1,,,0,h,MISS Tatum 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,454
+0022300305,619,PT00M37.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,455
+0022300305,620,PT00M33.50S,4,1610612739,CLE,1629636,Garland,D. Garland,80,258,27,Missed,1,,,0,v,MISS Garland 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,456
+0022300305,621,PT00M31.80S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,457
+0022300305,622,PT00M07.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,458
+0022300305,623,PT00M00.00S,4,0,,0,,,0,0,0,,0,120,113,233,,End of 4th Period (9:44 PM EST),period,end,1,0,459

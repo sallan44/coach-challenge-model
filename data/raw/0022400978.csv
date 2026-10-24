@@ -1,0 +1,513 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400978,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:11 PM EST),period,start,0,0,1
+0022400978,4,PT12M00.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Jump Ball Claxton vs. Okongwu: Tip to Martin,Jump Ball,,1,0,2
+0022400978,7,PT11M45.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022400978,7,PT11M45.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels STEAL (1 STL),,,1,0,4
+0022400978,9,PT11M44.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,5
+0022400978,11,PT11M44.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,6
+0022400978,12,PT11M44.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,7
+0022400978,13,PT11M44.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,MISS Daniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,8
+0022400978,14,PT11M41.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022400978,15,PT11M29.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-26,17,3,Made,1,2,0,2,h,Claxton 3' Cutting Layup Shot (2 PTS) (C. Johnson 1 AST),Made Shot,Cutting Layup Shot,1,2,10
+0022400978,17,PT11M11.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-195,150,25,Made,1,2,3,5,v,Risacher 25' 3PT Jump Shot (3 PTS) (Young 1 AST),Made Shot,Jump Shot,1,3,11
+0022400978,19,PT10M53.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,23,256,26,Made,1,5,3,8,h,K. Johnson 26' 3PT Jump Shot (3 PTS) (Claxton 1 AST),Made Shot,Jump Shot,1,3,12
+0022400978,21,PT10M28.00S,1,1610612737,ATL,1629027,Young,T. Young,-170,-22,17,Missed,1,,,0,v,MISS Young 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,13
+0022400978,22,PT10M26.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022400978,23,PT10M20.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-163,214,27,Made,1,8,3,11,h,Wilson 27' 3PT Running Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Running Jump Shot,1,3,15
+0022400978,25,PT10M10.00S,1,1610612737,ATL,1629027,Young,T. Young,38,14,4,Made,1,8,5,13,v,Young 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,16
+0022400978,26,PT09M52.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,-22,11,2,Missed,1,,,0,h,MISS K. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,17
+0022400978,26,PT09M52.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (1 BLK),,,1,2,18
+0022400978,28,PT09M49.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022400978,29,PT09M45.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,20
+0022400978,29,PT09M45.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton STEAL (1 STL),,,1,0,21
+0022400978,31,PT09M37.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,159,223,27,Made,1,11,5,16,h,C. Johnson 27' 3PT Jump Shot (3 PTS) (K. Johnson 1 AST),Made Shot,Jump Shot,1,3,22
+0022400978,33,PT09M26.00S,1,1610612737,ATL,1629027,Young,T. Young,-31,4,3,Made,1,11,7,18,v,Young 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,23
+0022400978,34,PT09M03.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,2,57,6,Made,1,13,7,20,h,Wilson 6' Driving Floating Jump Shot (5 PTS) (Claxton 2 AST),Made Shot,Driving Floating Jump Shot,1,2,24
+0022400978,35,PT09M03.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,25
+0022400978,38,PT09M03.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,14,7,21,h,Wilson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,26
+0022400978,39,PT08M56.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,27
+0022400978,40,PT08M46.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0,28
+0022400978,40,PT08M46.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels STEAL (2 STL),,,1,0,29
+0022400978,42,PT08M42.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-12,3,1,Made,1,14,9,23,v,Risacher 1' Running Layup (5 PTS) (Daniels 1 AST),Made Shot,Running Layup Shot,1,2,30
+0022400978,44,PT08M24.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,31
+0022400978,44,PT08M24.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels STEAL (3 STL),,,1,0,32
+0022400978,46,PT08M19.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,105,250,27,Missed,1,,,0,v,MISS Risacher 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,33
+0022400978,47,PT08M19.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,34
+0022400978,49,PT08M04.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-17,275,28,Missed,1,,,0,h,MISS C. Johnson 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,35
+0022400978,50,PT08M01.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,36
+0022400978,51,PT07M57.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,-233,37,24,Missed,1,,,0,h,MISS K. Johnson 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,37
+0022400978,52,PT07M53.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022400978,53,PT07M48.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,1,0,39
+0022400978,55,PT07M48.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,14,10,24,v,Okongwu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,40
+0022400978,56,PT07M48.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,14,11,25,v,Okongwu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+0022400978,57,PT07M25.00S,1,1610612751,BKN,1631213,Martin,T. Martin,59,10,6,Missed,1,,,0,h,MISS Martin 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,42
+0022400978,57,PT07M25.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (2 BLK),,,1,2,43
+0022400978,58,PT07M23.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,44
+0022400978,59,PT07M13.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,9,10,1,Made,1,14,13,27,v,Gueye 1' Cutting Dunk Shot (2 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,1,2,45
+0022400978,61,PT07M12.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022400978,63,PT07M12.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Watford FOR K. Johnson,Substitution,,0,0,47
+0022400978,65,PT07M00.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,222,64,0,Made,1,17,13,30,h,C. Johnson 3PT Jump Shot (6 PTS) (Wilson 1 AST),Made Shot,Jump Shot,1,3,48
+0022400978,67,PT06M46.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-222,-10,0,Missed,1,,,0,v,MISS Risacher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+0022400978,68,PT06M43.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,50
+0022400978,69,PT06M41.00S,1,1610612737,ATL,1629027,Young,T. Young,-223,-8,0,Made,1,17,16,33,v,Young 3PT Jump Shot (7 PTS) (Gueye 1 AST),Made Shot,Jump Shot,1,3,51
+0022400978,71,PT06M16.00S,1,1610612751,BKN,1631213,Martin,T. Martin,-214,158,27,Missed,1,,,0,h,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022400978,72,PT06M15.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,53
+0022400978,73,PT06M15.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,0,54
+0022400978,74,PT06M15.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Krejci FOR Young,Substitution,,0,0,55
+0022400978,76,PT06M06.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-207,152,26,Missed,1,,,0,v,MISS Gueye 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022400978,77,PT06M04.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,57
+0022400978,79,PT05M40.00S,1,1610612751,BKN,1631213,Martin,T. Martin,26,126,13,Made,1,19,16,35,h,Martin 13' Pullup Jump Shot (2 PTS) (Wilson 2 AST),Made Shot,Pullup Jump shot,1,2,58
+0022400978,81,PT05M28.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-36,75,8,Made,1,19,18,37,v,Okongwu 8' Turnaround Hook Shot (4 PTS) (Daniels 2 AST),Made Shot,Turnaround Hook Shot,1,2,59
+0022400978,83,PT05M09.00S,1,1610612751,BKN,1631213,Martin,T. Martin,207,158,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022400978,84,PT05M06.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,61
+0022400978,85,PT04M59.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,-47,98,11,Missed,1,,,0,v,MISS Daniels 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,62
+0022400978,86,PT04M56.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,63
+0022400978,87,PT04M45.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-21,22,3,Made,1,21,18,39,h,Watford 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,64
+0022400978,107,PT04M38.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,65
+0022400978,89,PT04M38.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Lewis FOR C. Johnson,Substitution,,0,0,66
+0022400978,90,PT04M38.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Sharpe FOR Claxton,Substitution,,0,0,67
+0022400978,91,PT04M38.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,SUB: Mann FOR Risacher,Substitution,,0,0,68
+0022400978,92,PT04M38.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,SUB: Niang FOR Okongwu,Substitution,,0,0,69
+0022400978,93,PT04M38.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Barlow FOR Gueye,Substitution,,0,0,70
+0022400978,99,PT04M19.00S,1,1610612751,BKN,1630570,Watford,T. Watford,170,211,27,Made,1,24,18,42,h,Watford 27' 3PT Jump Shot (5 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,1,3,71
+0022400978,101,PT04M10.00S,1,1610612737,ATL,1629611,Mann,T. Mann,34,31,5,Made,1,24,20,44,v,Mann 5' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,72
+0022400978,102,PT03M53.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-20,37,4,Made,1,26,20,46,h,Wilson 4' Turnaround Bank Shot (8 PTS),Made Shot,Turnaround Bank shot,1,2,73
+0022400978,103,PT03M38.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,74
+0022400978,105,PT03M38.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,75
+0022400978,106,PT03M38.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,76
+0022400978,108,PT03M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: C. Johnson FOR Wilson,Substitution,,0,0,77
+0022400978,113,PT03M38.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,SUB: Beekman FOR Martin,Substitution,,0,0,78
+0022400978,112,PT03M38.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,26,21,47,v,Daniels Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+0022400978,114,PT03M18.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-228,23,0,Missed,1,,,0,h,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022400978,115,PT03M15.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,81
+0022400978,117,PT03M15.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,82
+0022400978,119,PT03M15.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,SUB: Young FOR Daniels,Substitution,,0,0,83
+0022400978,122,PT02M59.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,-18,266,27,Missed,1,,,0,v,MISS Krejci 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022400978,123,PT02M59.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,85
+0022400978,125,PT02M40.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,34,25,4,Missed,1,,,0,h,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,86
+0022400978,126,PT02M37.00S,1,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022400978,127,PT02M35.00S,1,1610612737,ATL,1629611,Mann,T. Mann,13,63,6,Made,1,26,23,49,v,Mann 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,88
+0022400978,128,PT02M35.00S,1,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,Beekman S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,1,0,89
+0022400978,130,PT02M35.00S,1,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,26,24,50,v,Mann Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,90
+0022400978,131,PT02M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-11,27,3,Made,1,28,24,52,h,Sharpe 3' Cutting Layup Shot (2 PTS) (Watford 1 AST),Made Shot,Cutting Layup Shot,1,2,91
+0022400978,133,PT02M06.00S,1,1610612737,ATL,1627777,Niang,G. Niang,-32,30,4,Missed,1,,,0,v,MISS Niang 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,92
+0022400978,134,PT02M06.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,93
+0022400978,136,PT01M56.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,94
+0022400978,137,PT01M56.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: K. Johnson FOR C. Johnson,Substitution,,0,0,95
+0022400978,139,PT01M39.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,1,0,96
+0022400978,141,PT01M39.00S,1,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,28,25,53,v,Niang Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,97
+0022400978,142,PT01M39.00S,1,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,28,26,54,v,Niang Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+0022400978,144,PT01M17.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,-32,12,3,Missed,1,,,0,h,MISS K. Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,99
+0022400978,144,PT01M17.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow BLOCK (1 BLK),,,1,2,100
+0022400978,146,PT01M15.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,101
+0022400978,147,PT01M15.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,1,0,102
+0022400978,149,PT01M15.00S,1,0,,147,Rose,J. Rose,0,0,0,,0,28,26,54,,Instant Replay1st Period (6:35 PM EST),Instant Replay,Support Ruling,0,0,103
+0022400978,150,PT01M07.00S,1,1610612751,BKN,1641736,Beekman,R. Beekman,-222,136,26,Made,1,31,26,57,h,Beekman 26' 3PT Jump Shot (3 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,1,3,104
+0022400978,153,PT00M56.90S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,105
+0022400978,155,PT00M56.90S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,106
+0022400978,156,PT00M56.90S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,107
+0022400978,157,PT00M56.90S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,31,27,58,v,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,108
+0022400978,158,PT00M38.50S,1,1610612751,BKN,1641721,Lewis,M. Lewis,34,13,4,Made,1,33,27,60,h,Lewis 4' Driving Layup (2 PTS) (K. Johnson 2 AST),Made Shot,Driving Layup Shot,1,2,109
+0022400978,160,PT00M24.10S,1,1610612737,ATL,1629611,Mann,T. Mann,-36,64,7,Missed,1,,,0,v,MISS Mann 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,110
+0022400978,161,PT00M21.30S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022400978,162,PT00M02.50S,1,1610612751,BKN,1630570,Watford,T. Watford,28,79,8,Missed,1,,,0,h,MISS Watford 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,112
+0022400978,163,PT00M02.50S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,113
+0022400978,165,PT00M00.00S,1,1610612737,ATL,1629027,Young,T. Young,-159,318,36,Missed,1,,,0,v,MISS Young 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,114
+0022400978,166,PT00M00.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,115
+0022400978,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,27,60,,End of 1st Period (6:40 PM EST),period,end,1,0,116
+0022400978,176,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,27,60,,Start of 2nd Period (6:43 PM EST),period,start,0,0,117
+0022400978,177,PT11M45.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,121,224,25,Missed,1,,,0,v,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022400978,178,PT11M41.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022400978,179,PT11M25.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,120
+0022400978,179,PT11M25.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young STEAL (1 STL),,,1,0,121
+0022400978,181,PT11M18.00S,2,1610612737,ATL,1629611,Mann,T. Mann,-224,19,0,Missed,1,,,0,v,MISS Mann 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,122
+0022400978,182,PT11M15.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,123
+0022400978,183,PT11M12.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,124
+0022400978,185,PT11M12.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,34,27,61,h,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+0022400978,186,PT11M12.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,126
+0022400978,187,PT11M10.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022400978,188,PT11M06.00S,2,1610612737,ATL,1629611,Mann,T. Mann,11,1,1,Made,1,34,29,63,v,Mann 1' Running Reverse Dunk Shot (7 PTS) (Young 3 AST),Made Shot,Running Reverse Dunk Shot,1,2,128
+0022400978,190,PT10M59.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-7,37,4,Made,1,36,29,65,h,C. Johnson 4' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,129
+0022400978,191,PT10M59.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,130
+0022400978,193,PT10M59.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,37,29,66,h,C. Johnson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,131
+0022400978,194,PT10M43.00S,2,1610612737,ATL,1629027,Young,T. Young,20,95,10,Made,1,37,31,68,v,Young 10' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,132
+0022400978,195,PT10M33.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,133
+0022400978,197,PT10M33.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,38,31,69,h,Watford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,134
+0022400978,198,PT10M33.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,39,31,70,h,Watford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,135
+0022400978,199,PT10M16.00S,2,1610612737,ATL,1629611,Mann,T. Mann,-40,55,7,Missed,1,,,0,v,MISS Mann 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,136
+0022400978,199,PT10M16.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,2,137
+0022400978,201,PT10M10.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,138
+0022400978,202,PT10M10.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,Made,1,39,33,72,v,Risacher Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,139
+0022400978,203,PT09M53.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,147,127,19,Made,1,41,33,74,h,C. Johnson 19' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,140
+0022400978,204,PT09M41.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher Offensive Charge Foul (P3) (J.Goble),Foul,Offensive Charge,1,0,141
+0022400978,206,PT09M41.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,Risacher Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,142
+0022400978,207,PT09M41.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,SUB: Krejci FOR Risacher,Substitution,,0,0,143
+0022400978,209,PT09M24.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,1,0,144
+0022400978,211,PT09M24.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,42,33,75,h,C. Johnson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,145
+0022400978,212,PT09M24.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Okongwu FOR Barlow,Substitution,,0,0,146
+0022400978,214,PT09M24.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,43,33,76,h,C. Johnson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,147
+0022400978,215,PT09M12.00S,2,1610612737,ATL,1629027,Young,T. Young,37,24,4,Missed,1,,,0,v,MISS Young 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,148
+0022400978,215,PT09M12.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (2 BLK),,,1,2,149
+0022400978,217,PT09M09.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,150
+0022400978,218,PT09M07.00S,2,1610612751,BKN,1641721,Lewis,M. Lewis,26,4,3,Made,1,45,33,78,h,Lewis 3' Running Layup (4 PTS) (C. Johnson 2 AST),Made Shot,Running Layup Shot,1,2,151
+0022400978,219,PT09M06.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,152
+0022400978,221,PT09M06.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Niang FOR Gueye,Substitution,,0,0,153
+0022400978,223,PT08M54.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,154
+0022400978,225,PT08M43.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-11,17,2,Missed,1,,,0,h,MISS Watford 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,155
+0022400978,225,PT08M43.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu BLOCK (1 BLK),,,1,2,156
+0022400978,227,PT08M41.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,157
+0022400978,228,PT08M37.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-176,174,25,Made,1,45,36,81,v,Niang 25' 3PT Running Jump Shot (5 PTS) (Krejci 1 AST),Made Shot,Running Jump Shot,1,3,158
+0022400978,230,PT08M30.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-42,16,4,Missed,1,,,0,h,MISS C. Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+0022400978,230,PT08M30.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci BLOCK (1 BLK),,,1,2,160
+0022400978,232,PT08M30.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,161
+0022400978,234,PT08M30.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Wilson FOR C. Johnson,Substitution,,0,0,162
+0022400978,235,PT08M30.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: K. Johnson FOR Watford,Substitution,,0,0,163
+0022400978,236,PT08M30.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,SUB: Beekman FOR Martin,Substitution,,0,0,164
+0022400978,240,PT08M30.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,165
+0022400978,241,PT08M21.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,234,39,24,Missed,1,,,0,h,MISS K. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022400978,242,PT08M19.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,167
+0022400978,243,PT08M07.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,20,57,6,Missed,1,,,0,v,MISS Okongwu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,168
+0022400978,244,PT08M06.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,169
+0022400978,245,PT08M04.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,SUB: Claxton FOR Sharpe,Substitution,,0,0,170
+0022400978,246,PT08M04.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Daniels FOR Young,Substitution,,0,0,171
+0022400978,249,PT08M01.00S,2,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Jump Ball Lewis vs. Mann: Tip to Lewis,Jump Ball,,0,0,172
+0022400978,252,PT08M01.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,173
+0022400978,252,PT08M01.00S,2,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Lewis STEAL (1 STL),,,1,0,174
+0022400978,254,PT07M55.00S,2,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Lewis Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,175
+0022400978,254,PT07M55.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci STEAL (1 STL),,,1,0,176
+0022400978,256,PT07M33.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-223,56,0,Missed,1,,,0,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+0022400978,257,PT07M30.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,178
+0022400978,259,PT07M23.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,1,0,179
+0022400978,261,PT07M23.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,45,37,82,v,Mann Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,180
+0022400978,262,PT07M23.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,45,38,83,v,Mann Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+0022400978,263,PT07M11.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,225,43,0,Made,1,48,38,86,h,Wilson 3PT Jump Shot (11 PTS) (Beekman 1 AST),Made Shot,Jump Shot,1,3,182
+0022400978,265,PT06M50.00S,2,1610612737,ATL,1627777,Niang,G. Niang,22,53,6,Missed,1,,,0,v,MISS Niang 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,183
+0022400978,266,PT06M44.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,184
+0022400978,267,PT06M42.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,44,8,4,Missed,1,,,0,v,MISS Okongwu 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,185
+0022400978,268,PT06M41.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022400978,269,PT06M40.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang P.FOUL (P1.PN) (M.Kallio),Foul,Personal,1,0,187
+0022400978,271,PT06M40.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,188
+0022400978,272,PT06M40.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,189
+0022400978,273,PT06M40.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,SUB: Young FOR Krejci,Substitution,,0,0,190
+0022400978,275,PT06M40.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,191
+0022400978,276,PT06M37.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,192
+0022400978,277,PT06M26.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-143,230,27,Missed,1,,,0,v,MISS Niang 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022400978,278,PT06M23.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,194
+0022400978,279,PT06M10.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-84,278,29,Missed,1,,,0,h,MISS Wilson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022400978,280,PT06M08.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,196
+0022400978,281,PT05M59.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-1,251,25,Made,1,48,41,89,v,Okongwu 25' 3PT Jump Shot (7 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,197
+0022400978,283,PT05M39.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,12,39,4,Missed,1,,,0,h,MISS Claxton 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,198
+0022400978,284,PT05M36.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,199
+0022400978,285,PT05M31.00S,2,1610612737,ATL,1627777,Niang,G. Niang,-223,11,0,Missed,1,,,0,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022400978,286,PT05M27.00S,2,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,Beekman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+0022400978,287,PT05M18.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,1,0,202
+0022400978,289,PT05M18.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,49,41,90,h,K. Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0022400978,290,PT05M18.00S,2,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,SUB: C. Johnson FOR Lewis,Substitution,,0,0,204
+0022400978,292,PT05M18.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,50,41,91,h,K. Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+0022400978,293,PT05M15.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,0,206
+0022400978,295,PT04M58.00S,2,1610612737,ATL,1627777,Niang,G. Niang,38,17,4,Made,1,50,43,93,v,Niang 4' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,1,2,207
+0022400978,296,PT04M36.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,32,8,3,Missed,1,,,0,h,MISS Wilson 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,208
+0022400978,297,PT04M36.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,209
+0022400978,299,PT04M36.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Krejci FOR Mann,Substitution,,0,0,210
+0022400978,301,PT04M22.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,-176,171,25,Missed,1,,,0,v,MISS Krejci 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022400978,302,PT04M20.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,212
+0022400978,331,PT04M20.00S,2,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,213
+0022400978,304,PT04M20.00S,2,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,SUB: Martin FOR Beekman,Substitution,,0,0,214
+0022400978,306,PT04M00.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,-28,15,3,Missed,1,,,0,h,MISS K. Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,215
+0022400978,307,PT03M58.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,216
+0022400978,308,PT03M51.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,217
+0022400978,310,PT03M51.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,50,44,94,v,Young Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,1,0,218
+0022400978,311,PT03M51.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,50,45,95,v,Young Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,1,0,219
+0022400978,312,PT03M51.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,50,46,96,v,Young Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,1,0,220
+0022400978,313,PT03M38.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,1,0,221
+0022400978,315,PT03M38.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,51,46,97,h,C. Johnson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+0022400978,316,PT03M38.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Watford FOR K. Johnson,Substitution,,0,0,223
+0022400978,318,PT03M38.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,52,46,98,h,C. Johnson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+0022400978,319,PT03M24.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,-228,-8,0,Made,1,52,49,101,v,Krejci 3PT Jump Shot (3 PTS) (Daniels 3 AST),Made Shot,Jump Shot,1,3,225
+0022400978,321,PT03M13.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,226
+0022400978,323,PT03M13.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,53,49,102,h,Watford Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,227
+0022400978,324,PT03M13.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,54,49,103,h,Watford Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,228
+0022400978,325,PT02M58.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,-37,15,4,Made,1,54,51,105,v,Daniels 4' Cutting Layup Shot (3 PTS) (Young 4 AST),Made Shot,Cutting Layup Shot,1,2,229
+0022400978,327,PT02M41.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,230
+0022400978,327,PT02M41.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels STEAL (4 STL),,,1,0,231
+0022400978,329,PT02M39.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,-4,9,1,Made,1,54,53,107,v,Daniels 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,232
+0022400978,330,PT02M39.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,233
+0022400978,360,PT02M29.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson OFF.Foul (P1) (G.Petraitis),Foul,Offensive,1,0,234
+0022400978,361,PT02M29.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,235
+0022400978,336,PT02M29.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,236
+0022400978,337,PT02M29.00S,2,0,,334,,,0,0,0,,0,54,53,107,,Instant Replay2nd Period (7:11 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,237
+0022400978,338,PT02M16.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-27,30,4,Made,1,54,55,109,v,Okongwu 4' Turnaround Hook Shot (9 PTS) (Young 5 AST),Made Shot,Turnaround Hook Shot,1,2,238
+0022400978,339,PT01M51.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,239
+0022400978,339,PT01M51.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu STEAL (1 STL),,,1,0,240
+0022400978,341,PT01M45.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,-53,251,26,Missed,1,,,0,v,MISS Krejci 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022400978,342,PT01M40.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,242
+0022400978,343,PT01M28.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,225,81,24,Missed,1,,,0,h,MISS C. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022400978,344,PT01M26.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,244
+0022400978,346,PT01M23.00S,2,1610612737,ATL,1627777,Niang,G. Niang,169,198,26,Made,1,54,58,112,v,Niang 26' 3PT Running Jump Shot (10 PTS) (Krejci 2 AST),Made Shot,Running Jump Shot,1,3,245
+0022400978,348,PT00M58.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,246
+0022400978,348,PT00M58.60S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu STEAL (2 STL),,,1,0,247
+0022400978,353,PT00M55.20S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,1,0,248
+0022400978,355,PT00M55.20S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,MISS Okongwu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,249
+0022400978,356,PT00M55.20S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,250
+0022400978,357,PT00M55.20S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,54,59,113,v,Okongwu Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+0022400978,358,PT00M32.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,17,2,Made,1,56,59,115,h,Watford 2' Driving Floating Jump Shot (11 PTS) (Wilson 3 AST),Made Shot,Driving Floating Jump Shot,1,2,252
+0022400978,364,PT00M26.20S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,233,16,0,Missed,1,,,0,v,MISS Okongwu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022400978,365,PT00M23.20S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,254
+0022400978,366,PT00M10.40S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,255
+0022400978,366,PT00M10.40S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young STEAL (2 STL),,,1,0,256
+0022400978,368,PT00M06.50S,2,1610612737,ATL,1629027,Young,T. Young,-224,127,26,Made,1,56,62,118,v,Young 26' 3PT Running Pull-Up Jump Shot (16 PTS) (Daniels 4 AST),Made Shot,Running Pull-Up Jump Shot,1,3,257
+0022400978,370,PT00M00.20S,2,1610612751,BKN,1629661,Johnson,C. Johnson,44,42,6,Missed,1,,,0,h,MISS C. Johnson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,258
+0022400978,370,PT00M00.20S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu BLOCK (2 BLK),,,1,2,259
+0022400978,372,PT00M00.20S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,260
+0022400978,373,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,62,118,,End of 2nd Period (7:18 PM EST),period,end,1,0,261
+0022400978,380,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,62,118,,Start of 3rd Period (7:33 PM EST),period,start,0,0,262
+0022400978,381,PT11M45.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,263
+0022400978,382,PT11M31.00S,3,1610612751,BKN,1631213,Martin,T. Martin,-60,260,27,Made,1,59,62,121,h,Martin 27' 3PT Jump Shot (6 PTS) (Wilson 4 AST),Made Shot,Jump Shot,1,3,264
+0022400978,384,PT11M15.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-195,153,25,Made,1,59,65,124,v,Risacher 25' 3PT Jump Shot (10 PTS) (Daniels 5 AST),Made Shot,Jump Shot,1,3,265
+0022400978,386,PT11M02.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,266
+0022400978,386,PT11M02.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu STEAL (3 STL),,,1,0,267
+0022400978,388,PT11M00.00S,3,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T1) (J.Goble),Foul,Shooting,1,0,268
+0022400978,390,PT11M00.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,59,66,125,v,Okongwu Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,269
+0022400978,391,PT11M00.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,59,67,126,v,Okongwu Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,270
+0022400978,392,PT10M46.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,40,51,6,Missed,1,,,0,h,MISS C. Johnson 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,271
+0022400978,393,PT10M45.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,272
+0022400978,394,PT10M43.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-2,10,1,Made,1,59,69,128,v,Risacher 1' Running Alley Oop Dunk Shot (12 PTS) (Daniels 6 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,273
+0022400978,396,PT10M31.00S,3,1610612751,BKN,1631213,Martin,T. Martin,-203,126,24,Made,1,62,69,131,h,Martin 24' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,274
+0022400978,397,PT10M20.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-38,4,4,Missed,1,,,0,v,MISS Okongwu 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,275
+0022400978,398,PT10M15.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,276
+0022400978,399,PT10M07.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,23,103,11,Missed,1,,,0,h,MISS C. Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,277
+0022400978,400,PT10M06.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,278
+0022400978,401,PT10M01.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-20,8,2,Made,1,62,71,133,v,Risacher 2' Running Layup (14 PTS) (Young 6 AST),Made Shot,Running Layup Shot,1,2,279
+0022400978,403,PT09M41.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-223,2,0,Missed,1,,,0,h,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+0022400978,404,PT09M40.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,281
+0022400978,405,PT09M26.00S,3,1610612737,ATL,1629027,Young,T. Young,102,180,21,Missed,1,,,0,v,MISS Young 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,282
+0022400978,406,PT09M25.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,283
+0022400978,407,PT09M25.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson L.B.FOUL (P2.T2) (G.Petraitis),Foul,Loose Ball,1,0,284
+0022400978,409,PT09M25.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson T.FOUL (P2.T2) (G.Petraitis),Foul,Technical,0,0,285
+0022400978,410,PT09M25.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,62,72,134,v,Young Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,0,286
+0022400978,411,PT09M25.00S,3,0,,384,Cheaney,C. Cheaney,0,0,0,,0,62,72,134,,Instant Replay3rd Period (7:38 PM EST),Instant Replay,Replay Center,0,0,287
+0022400978,412,PT09M13.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,194,174,26,Missed,1,,,0,v,MISS Risacher 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,288
+0022400978,413,PT09M13.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,289
+0022400978,414,PT09M13.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye L.B.FOUL (P2.T1) (G.Petraitis),Foul,Loose Ball,1,0,290
+0022400978,416,PT08M54.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,38,38,5,Made,1,64,72,136,h,Wilson 5' Driving Layup (13 PTS) (C. Johnson 3 AST),Made Shot,Driving Layup Shot,1,2,291
+0022400978,417,PT08M48.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels Traveling Turnover (P3.T9),Turnover,Traveling,1,0,292
+0022400978,419,PT08M23.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,23,1,2,Made,1,66,72,138,h,K. Johnson 2' Cutting Layup Shot (7 PTS) (C. Johnson 4 AST),Made Shot,Cutting Layup Shot,1,2,293
+0022400978,421,PT08M12.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-11,258,26,Made,1,66,75,141,v,Daniels 26' 3PT Jump Shot (8 PTS) (Young 7 AST),Made Shot,Jump Shot,1,3,294
+0022400978,423,PT07M49.00S,3,1610612751,BKN,1631213,Martin,T. Martin,-21,27,3,Missed,1,,,0,h,MISS Martin 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,295
+0022400978,423,PT07M49.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (3 BLK),,,1,2,296
+0022400978,425,PT07M48.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,297
+0022400978,427,PT07M46.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-72,255,26,Missed,1,,,0,h,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022400978,428,PT07M42.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,299
+0022400978,429,PT07M35.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,34,8,3,Missed,1,,,0,h,MISS K. Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,300
+0022400978,430,PT07M33.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,301
+0022400978,431,PT07M25.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,232,39,24,Missed,1,,,0,v,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0022400978,432,PT07M21.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,303
+0022400978,433,PT07M17.00S,3,1610612751,BKN,1631213,Martin,T. Martin,11,30,3,Made,1,68,75,143,h,Martin 3' Running Finger Roll Layup (11 PTS) (K. Johnson 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,304
+0022400978,434,PT07M06.00S,3,1610612737,ATL,1629027,Young,T. Young,-20,50,5,Missed,1,,,0,v,MISS Young 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,305
+0022400978,435,PT07M05.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+0022400978,436,PT07M05.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-9,8,1,Made,1,68,77,145,v,Daniels 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,307
+0022400978,437,PT07M05.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Violation:Defensive Goaltending (G.Petraitis),Violation,Defensive Goaltending,1,0,308
+0022400978,439,PT06M46.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-12,-2,1,Missed,1,,,0,h,MISS Claxton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,309
+0022400978,440,PT06M42.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,310
+0022400978,441,PT06M42.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,Made,1,70,77,147,h,K. Johnson Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,1,2,311
+0022400978,442,PT06M34.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,228,44,0,Missed,1,,,0,v,MISS Risacher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022400978,443,PT06M31.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,313
+0022400978,444,PT06M25.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,314
+0022400978,445,PT06M25.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Watford FOR K. Johnson,Substitution,,0,0,315
+0022400978,446,PT06M25.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Krejci FOR Young,Substitution,,0,0,316
+0022400978,447,PT06M25.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Niang FOR Gueye,Substitution,,0,0,317
+0022400978,451,PT06M22.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci P.FOUL (P3.T2) (G.Petraitis),Foul,Personal,1,0,318
+0022400978,453,PT06M08.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-156,4,16,Missed,1,,,0,h,MISS C. Johnson 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,319
+0022400978,454,PT06M04.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,320
+0022400978,455,PT05M42.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-31,36,5,Made,1,70,79,149,v,Risacher 5' Turnaround Hook Shot (16 PTS),Made Shot,Turnaround Hook Shot,1,2,321
+0022400978,456,PT05M29.00S,3,1610612751,BKN,1631213,Martin,T. Martin,-148,224,27,Made,1,73,79,152,h,Martin 27' 3PT Step Back Jump Shot (14 PTS) (Watford 2 AST),Made Shot,Step Back Jump shot,1,3,322
+0022400978,458,PT05M17.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,2,78,8,Made,1,73,81,154,v,Okongwu 8' Floating Jump Shot (14 PTS) (Daniels 7 AST),Made Shot,Floating Jump shot,1,2,323
+0022400978,460,PT05M01.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-36,15,4,Made,1,75,81,156,h,Claxton 4' Driving Layup (4 PTS) (Watford 3 AST),Made Shot,Driving Layup Shot,1,2,324
+0022400978,461,PT04M53.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-18,12,2,Made,1,75,83,158,v,Daniels 2' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,325
+0022400978,462,PT04M44.00S,3,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P3.T3) (J.Goble),Foul,Shooting,1,0,326
+0022400978,464,PT04M44.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,76,83,159,h,C. Johnson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,327
+0022400978,465,PT04M44.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Sharpe FOR Wilson,Substitution,,0,0,328
+0022400978,466,PT04M44.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Lewis FOR Claxton,Substitution,,0,0,329
+0022400978,467,PT04M44.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,SUB: Barlow FOR Risacher,Substitution,,0,0,330
+0022400978,468,PT04M44.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,SUB: Mann FOR Okongwu,Substitution,,0,0,331
+0022400978,473,PT04M44.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,77,83,160,h,C. Johnson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0022400978,474,PT04M28.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,43,23,5,Missed,1,,,0,v,MISS Daniels 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,333
+0022400978,475,PT04M26.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,334
+0022400978,476,PT04M21.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,335
+0022400978,476,PT04M21.00S,3,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang STEAL (1 STL),,,1,0,336
+0022400978,478,PT04M21.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels T.FOUL (P0.T3) (J.Goble),Foul,Technical,1,0,337
+0022400978,479,PT04M21.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,78,83,161,h,C. Johnson Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,1,0,338
+0022400978,480,PT04M21.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Violation: Delay of game Violation,Violation,Delay Of Game,0,0,339
+0022400978,481,PT04M21.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Beekman FOR C. Johnson,Substitution,,0,0,340
+0022400978,495,PT04M21.00S,3,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,SUB: K. Johnson FOR Martin,Substitution,,0,0,341
+0022400978,483,PT04M08.00S,3,1610612737,ATL,1627777,Niang,G. Niang,208,149,26,Missed,1,,,0,v,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022400978,484,PT04M03.00S,3,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Lewis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,343
+0022400978,485,PT03M49.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,13,75,8,Missed,1,,,0,h,MISS Sharpe 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,344
+0022400978,486,PT03M46.00S,3,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,Beekman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,345
+0022400978,487,PT03M35.00S,3,1610612751,BKN,1641721,Lewis,M. Lewis,12,255,26,Missed,1,,,0,h,MISS Lewis 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,346
+0022400978,488,PT03M32.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,347
+0022400978,489,PT03M25.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,98,244,26,Made,1,78,86,164,v,Krejci 26' 3PT Jump Shot (6 PTS) (Barlow 1 AST),Made Shot,Jump Shot,1,3,348
+0022400978,491,PT02M59.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,-40,21,5,Missed,1,,,0,h,MISS K. Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,349
+0022400978,491,PT02M59.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow BLOCK (2 BLK),,,1,2,350
+0022400978,493,PT02M57.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,351
+0022400978,497,PT02M55.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,352
+0022400978,499,PT02M55.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,SUB: Young FOR Daniels,Substitution,,0,0,353
+0022400978,501,PT02M52.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,354
+0022400978,501,PT02M52.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson STEAL (1 STL),,,1,0,355
+0022400978,503,PT02M46.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,-214,130,25,Missed,1,,,0,h,MISS K. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,356
+0022400978,504,PT02M43.00S,3,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,Beekman REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,357
+0022400978,505,PT02M40.00S,3,1610612751,BKN,1641721,Lewis,M. Lewis,230,58,24,Made,1,81,86,167,h,Lewis 24' 3PT Pullup Jump Shot (7 PTS) (Watford 4 AST),Made Shot,Pullup Jump shot,1,3,358
+0022400978,506,PT02M28.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,22,33,4,Missed,1,,,0,v,MISS Barlow 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,359
+0022400978,506,PT02M28.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,360
+0022400978,509,PT02M24.00S,3,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,361
+0022400978,510,PT02M23.00S,3,1610612737,ATL,1627777,Niang,G. Niang,-110,31,11,Missed,1,,,0,v,MISS Niang 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,362
+0022400978,511,PT02M23.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,363
+0022400978,513,PT02M13.00S,3,1610612737,ATL,1629027,Young,T. Young,103,236,26,Missed,1,,,0,v,MISS Young 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,364
+0022400978,514,PT02M13.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,365
+0022400978,515,PT01M58.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,147,221,27,Missed,1,,,0,h,MISS K. Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022400978,516,PT01M56.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,367
+0022400978,518,PT01M45.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,-228,29,0,Made,1,84,86,170,h,K. Johnson 3PT Jump Shot (12 PTS) (Watford 5 AST),Made Shot,Jump Shot,1,3,368
+0022400978,520,PT01M36.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,0,369
+0022400978,522,PT01M26.00S,3,1610612737,ATL,1629027,Young,T. Young,25,71,8,Made,1,84,88,172,v,Young 8' Driving Floating Jump Shot (19 PTS) (Barlow 2 AST),Made Shot,Driving Floating Jump Shot,1,2,370
+0022400978,524,PT01M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,17,30,3,Missed,1,,,0,h,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,371
+0022400978,524,PT01M11.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow BLOCK (3 BLK),,,1,2,372
+0022400978,525,PT01M07.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,373
+0022400978,528,PT01M03.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,374
+0022400978,528,PT01M03.00S,3,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Lewis STEAL (2 STL),,,1,0,375
+0022400978,530,PT01M01.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-6,-7,1,Made,1,86,88,174,h,Watford 1' Running Dunk (13 PTS) (Lewis 1 AST),Made Shot,Running Dunk Shot,1,2,376
+0022400978,532,PT00M50.00S,3,1610612737,ATL,1629611,Mann,T. Mann,11,22,2,Made,1,86,90,176,v,Mann 2' Driving Finger Roll Layup (11 PTS) (Niang 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,377
+0022400978,535,PT00M32.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,-4,56,6,Made,1,88,90,178,h,K. Johnson 6' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1,2,378
+0022400978,536,PT00M27.40S,3,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,Lewis P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,1,0,379
+0022400978,538,PT00M27.40S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,88,91,179,v,Young Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022400978,539,PT00M27.40S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,88,92,180,v,Young Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+0022400978,540,PT00M04.60S,3,1610612751,BKN,1630553,Johnson,K. Johnson,-235,-3,24,Made,1,91,92,183,h,K. Johnson 24' 3PT Jump Shot (17 PTS) (Lewis 2 AST),Made Shot,Jump Shot,1,3,382
+0022400978,542,PT00M00.00S,3,1610612737,ATL,1629611,Mann,T. Mann,21,146,15,Missed,1,,,0,v,MISS Mann 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,383
+0022400978,543,PT00M00.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,384
+0022400978,544,PT00M00.00S,3,0,,0,,,0,0,0,,0,91,92,183,,End of 3rd Period (8:00 PM EST),period,end,1,0,385
+0022400978,549,PT12M00.00S,4,0,,0,,,0,0,0,,0,91,92,183,,Start of 4th Period (8:03 PM EST),period,start,0,0,386
+0022400978,550,PT11M34.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,-21,41,5,Made,1,93,92,185,h,Sharpe 5' Hook Shot (4 PTS) (C. Johnson 5 AST),Made Shot,Hook Shot,1,2,387
+0022400978,552,PT11M21.00S,4,1610612737,ATL,1629027,Young,T. Young,5,41,4,Missed,1,,,0,v,MISS Young 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,388
+0022400978,553,PT11M20.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,389
+0022400978,554,PT11M12.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,148,219,26,Missed,1,,,0,h,MISS C. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022400978,555,PT11M11.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,391
+0022400978,557,PT11M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Wilson FOR Watford,Substitution,,0,0,392
+0022400978,559,PT11M11.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,SUB: Risacher FOR Krejci,Substitution,,0,0,393
+0022400978,561,PT10M59.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,152,78,17,Missed,1,,,0,h,MISS Sharpe 17' Jump Shot,Missed Shot,Jump Shot,1,2,394
+0022400978,562,PT10M56.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,395
+0022400978,563,PT10M53.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-54,17,6,Missed,1,,,0,h,MISS Wilson 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,396
+0022400978,564,PT10M51.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,397
+0022400978,565,PT10M49.00S,4,1610612737,ATL,1627777,Niang,G. Niang,185,180,26,Missed,1,,,0,v,MISS Niang 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,398
+0022400978,566,PT10M44.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,399
+0022400978,568,PT10M27.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,33,11,3,Made,1,95,92,187,h,C. Johnson 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,400
+0022400978,569,PT10M14.00S,4,1610612737,ATL,1629611,Mann,T. Mann,-31,110,11,Made,1,95,94,189,v,Mann 11' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,401
+0022400978,570,PT09M49.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,-21,6,2,Made,1,97,94,191,h,Sharpe 2' Cutting Layup Shot (6 PTS) (Martin 2 AST),Made Shot,Cutting Layup Shot,1,2,402
+0022400978,572,PT09M32.00S,4,1610612737,ATL,1627777,Niang,G. Niang,-48,34,6,Made,1,97,96,193,v,Niang 6' Turnaround Hook Shot (12 PTS) (Young 8 AST),Made Shot,Turnaround Hook Shot,1,2,403
+0022400978,574,PT09M06.00S,4,1610612751,BKN,1631213,Martin,T. Martin,-12,31,3,Made,1,99,96,195,h,Martin 3' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,404
+0022400978,575,PT08M56.00S,4,1610612737,ATL,1629027,Young,T. Young,-23,10,3,Made,1,99,98,197,v,Young 3' Driving Reverse Layup (23 PTS),Made Shot,Driving Reverse Layup Shot,1,2,405
+0022400978,576,PT08M31.00S,4,1610612751,BKN,1631213,Martin,T. Martin,185,221,29,Missed,1,,,0,h,MISS Martin 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,406
+0022400978,577,PT08M28.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,407
+0022400978,578,PT08M27.00S,4,1610612751,BKN,1641721,Lewis,M. Lewis,-208,142,25,Made,1,102,98,200,h,Lewis 25' 3PT Jump Shot (10 PTS) (Wilson 5 AST),Made Shot,Jump Shot,1,3,408
+0022400978,580,PT08M25.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,409
+0022400978,581,PT08M25.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Daniels FOR Barlow,Substitution,,0,0,410
+0022400978,582,PT08M25.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Gueye FOR Young,Substitution,,0,0,411
+0022400978,583,PT08M25.00S,4,1610612737,ATL,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Okongwu FOR Niang,Substitution,,0,0,412
+0022400978,587,PT08M10.00S,4,1610612737,ATL,1629611,Mann,T. Mann,-136,39,14,Missed,1,,,0,v,MISS Mann 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,413
+0022400978,588,PT08M07.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,414
+0022400978,589,PT07M49.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,12,8,1,Made,1,104,98,202,h,Sharpe 1' Alley Oop Dunk (8 PTS) (C. Johnson 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,415
+0022400978,591,PT07M39.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-233,18,0,Missed,1,,,0,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022400978,592,PT07M36.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,417
+0022400978,593,PT07M21.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,1,0,418
+0022400978,595,PT07M21.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,105,98,203,h,C. Johnson Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,419
+0022400978,596,PT07M21.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,SUB: Beekman FOR Martin,Substitution,,0,0,420
+0022400978,597,PT07M21.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,SUB: K. Johnson FOR Sharpe,Substitution,,0,0,421
+0022400978,598,PT07M21.00S,4,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,SUB: Claxton FOR Lewis,Substitution,,0,0,422
+0022400978,599,PT07M21.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Young FOR Gueye,Substitution,,0,0,423
+0022400978,604,PT07M21.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,106,98,204,h,C. Johnson Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+0022400978,605,PT07M06.00S,4,1610612737,ATL,1629027,Young,T. Young,-65,75,10,Missed,1,,,0,v,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,425
+0022400978,606,PT07M03.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,426
+0022400978,607,PT06M56.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-160,180,24,Made,1,109,98,207,h,K. Johnson 24' 3PT Jump Shot (20 PTS) (Wilson 6 AST),Made Shot,Jump Shot,1,3,427
+0022400978,609,PT06M47.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,29,12,3,Made,1,109,100,209,v,Okongwu 3' Cutting Layup Shot (16 PTS) (Young 9 AST),Made Shot,Cutting Layup Shot,1,2,428
+0022400978,611,PT06M47.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,1,0,429
+0022400978,613,PT06M47.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Lewis FOR C. Johnson,Substitution,,0,0,430
+0022400978,615,PT06M47.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,109,101,210,v,Okongwu Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,431
+0022400978,616,PT06M22.00S,4,1610612751,BKN,1641736,Beekman,R. Beekman,-92,146,17,Made,1,111,101,212,h,Beekman 17' Driving Floating Jump Shot (5 PTS) (K. Johnson 4 AST),Made Shot,Driving Floating Jump Shot,1,2,432
+0022400978,618,PT06M12.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,2,8,1,Made,1,111,103,214,v,Daniels 1' Cutting Layup Shot (14 PTS) (Young 10 AST),Made Shot,Cutting Layup Shot,1,2,433
+0022400978,620,PT05M58.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-17,71,7,Missed,1,,,0,h,MISS Wilson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,434
+0022400978,621,PT05M57.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,435
+0022400978,622,PT05M55.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-47,43,6,Missed,1,,,0,h,MISS Wilson 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,436
+0022400978,622,PT05M55.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu BLOCK (3 BLK),,,1,2,437
+0022400978,624,PT05M53.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,438
+0022400978,625,PT05M46.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,-213,151,26,Missed,1,,,0,v,MISS Risacher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022400978,626,PT05M43.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,440
+0022400978,627,PT05M39.00S,4,1610612751,BKN,1641721,Lewis,M. Lewis,232,55,24,Missed,1,,,0,h,MISS Lewis 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,441
+0022400978,630,PT05M39.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,442
+0022400978,628,PT05M33.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,v,SUB: Krejci FOR Risacher,Substitution,,0,0,443
+0022400978,639,PT05M28.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,444
+0022400978,639,PT05M28.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton STEAL (2 STL),,,1,0,445
+0022400978,631,PT05M28.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Jump Ball Claxton vs. Okongwu: Tip to Wilson,Jump Ball,,0,0,446
+0022400978,636,PT05M15.00S,4,1610612751,BKN,1641721,Lewis,M. Lewis,55,197,20,Missed,1,,,0,h,MISS Lewis 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,447
+0022400978,637,PT05M13.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,448
+0022400978,638,PT05M07.00S,4,1610612737,ATL,1629027,Young,T. Young,127,241,27,Made,1,111,106,217,v,Young 27' 3PT Step Back Jump Shot (26 PTS),Made Shot,Step Back Jump shot,1,3,449
+0022400978,641,PT05M07.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,450
+0022400978,642,PT05M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Watford FOR Wilson,Substitution,,0,0,451
+0022400978,643,PT05M07.00S,4,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,h,SUB: C. Johnson FOR Lewis,Substitution,,0,0,452
+0022400978,646,PT04M48.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,210,146,26,Missed,1,,,0,h,MISS K. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0022400978,647,PT04M46.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,454
+0022400978,648,PT04M39.00S,4,1610612737,ATL,1629611,Mann,T. Mann,229,25,0,Missed,1,,,0,v,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022400978,649,PT04M36.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,456
+0022400978,654,PT04M29.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson OFF.Foul (P4) (G.Petraitis),Foul,Offensive,1,0,457
+0022400978,655,PT04M29.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,458
+0022400978,652,PT04M29.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,459
+0022400978,653,PT04M29.00S,4,0,,650,,,0,0,0,,0,111,106,217,,Instant Replay4th Period (8:20 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,460
+0022400978,657,PT04M29.00S,4,1610612751,BKN,1641736,Beekman,R. Beekman,0,0,0,,0,,,0,h,SUB: Martin FOR Beekman,Substitution,,0,0,461
+0022400978,660,PT04M16.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,0,462
+0022400978,663,PT04M07.00S,4,1610612737,ATL,1629611,Mann,T. Mann,-158,227,28,Missed,1,,,0,v,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463
+0022400978,664,PT04M05.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,464
+0022400978,665,PT04M05.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,Made,1,111,108,219,v,Okongwu Tip Dunk Shot (19 PTS),Made Shot,Tip Dunk Shot,1,2,465
+0022400978,666,PT03M42.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,-2,267,27,Made,1,114,108,222,h,C. Johnson 27' 3PT Jump Shot (25 PTS) (K. Johnson 5 AST),Made Shot,Jump Shot,1,3,466
+0022400978,668,PT03M27.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,26,16,3,Made,1,114,110,224,v,Krejci 3' Driving Finger Roll Layup (8 PTS) (Young 11 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,467
+0022400978,670,PT03M07.00S,4,1610612751,BKN,1631213,Martin,T. Martin,162,204,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+0022400978,671,PT03M05.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,469
+0022400978,672,PT02M59.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0,470
+0022400978,672,PT02M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,471
+0022400978,674,PT02M55.00S,4,1610612751,BKN,1631213,Martin,T. Martin,42,19,5,Missed,1,,,0,h,MISS Martin 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,472
+0022400978,675,PT02M51.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,473
+0022400978,676,PT02M51.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,Missed,1,,,0,h,MISS K. Johnson Putback Layup,Missed Shot,Putback Layup Shot,1,2,474
+0022400978,676,PT02M51.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels BLOCK (1 BLK),,,1,2,475
+0022400978,677,PT02M51.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,476
+0022400978,682,PT02M51.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,6,37,4,Missed,1,,,0,h,MISS Claxton 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,477
+0022400978,683,PT02M51.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,478
+0022400978,678,PT02M51.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,479
+0022400978,680,PT02M51.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,480
+0022400978,681,PT02M51.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,1,0,481
+0022400978,684,PT02M51.00S,4,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Niang FOR Mann,Substitution,,0,0,482
+0022400978,686,PT02M51.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,115,110,225,h,Claxton Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022400978,692,PT02M29.00S,4,1610612737,ATL,1629027,Young,T. Young,51,31,6,Made,1,115,112,227,v,Young 6' Driving Floating Jump Shot (28 PTS) (Okongwu 1 AST),Made Shot,Driving Floating Jump Shot,1,2,484
+0022400978,694,PT02M18.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,7,289,29,Made,1,118,112,230,h,C. Johnson 29' 3PT Jump Shot (28 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,3,485
+0022400978,696,PT02M08.00S,4,1610612737,ATL,1627777,Niang,G. Niang,-205,169,27,Missed,1,,,0,v,MISS Niang 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,486
+0022400978,697,PT02M03.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,487
+0022400978,698,PT02M03.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,Missed,1,,,0,v,MISS Daniels Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,488
+0022400978,699,PT02M03.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,489
+0022400978,700,PT01M42.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,12,14,2,Missed,1,,,0,h,MISS K. Johnson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,490
+0022400978,701,PT01M42.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,491
+0022400978,702,PT01M42.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Made,1,120,112,232,h,Claxton Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,1,2,492
+0022400978,703,PT01M24.00S,4,1610612737,ATL,1627777,Niang,G. Niang,104,239,26,Missed,1,,,0,v,MISS Niang 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,493
+0022400978,704,PT01M20.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,C. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,494
+0022400978,705,PT01M07.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-5,10,1,Made,1,122,112,234,h,K. Johnson 1' Cutting Layup Shot (22 PTS) (C. Johnson 7 AST),Made Shot,Cutting Layup Shot,1,2,495
+0022400978,707,PT00M59.30S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,-21,15,3,Made,1,122,114,236,v,Okongwu 3' Cutting Layup Shot (21 PTS) (Young 12 AST),Made Shot,Cutting Layup Shot,1,2,496
+0022400978,709,PT00M52.50S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,v,Okongwu P.FOUL (P3.T3) (J.Goble),Foul,Personal,1,0,497
+0022400978,711,PT00M38.80S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,498
+0022400978,711,PT00M38.80S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci STEAL (2 STL),,,1,0,499
+0022400978,713,PT00M32.20S,4,1610612737,ATL,1630700,Daniels,D. Daniels,110,241,26,Missed,1,,,0,v,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,500
+0022400978,713,PT00M32.20S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton BLOCK (1 BLK),,,1,3,501
+0022400978,715,PT00M31.40S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,502
+0022400978,716,PT00M23.40S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Turnover: 8 Second Violation (T#17),Turnover,8 Second Violation,1,0,503
+0022400978,717,PT00M23.40S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,504
+0022400978,718,PT00M17.60S,4,1610612737,ATL,1629027,Young,T. Young,-26,28,4,Missed,1,,,0,v,MISS Young 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,505
+0022400978,719,PT00M16.40S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,v,Daniels REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,506
+0022400978,725,PT00M16.40S,4,1610612737,ATL,1630700,Daniels,D. Daniels,20,7,2,Missed,1,,,0,v,MISS Daniels 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,507
+0022400978,725,PT00M16.40S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,K. Johnson BLOCK (1 BLK),,,0,2,508
+0022400978,727,PT00M13.90S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,0,509
+0022400978,721,PT00M10.30S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P6.T14),Turnover,Bad Pass,1,0,510
+0022400978,721,PT00M10.30S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,511
+0022400978,723,PT00M00.00S,4,0,,0,,,0,0,0,,0,122,114,236,,End of 4th Period (8:33 PM EST),period,end,1,0,512

@@ -1,0 +1,579 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022301140,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+0022301140,4,PT12M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Jump Ball Wembanyama vs. Reed: Tip to Champagnie,Jump Ball,,1,0,2
+0022301140,7,PT11M45.00S,1,1610612759,SAS,1630200,Jones,T. Jones,7,112,11,Missed,1,,,0,h,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,3
+0022301140,8,PT11M43.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301140,9,PT11M35.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,64,248,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,5
+0022301140,10,PT11M33.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022301140,11,PT11M27.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-11,70,7,Missed,1,,,0,h,MISS Champagnie 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,7
+0022301140,12,PT11M24.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022301140,13,PT11M13.00S,1,1610612755,PHI,1630194,Reed,P. Reed,-22,21,3,Missed,1,,,0,v,MISS Reed 3' Layup,Missed Shot,Layup Shot,1,2,9
+0022301140,13,PT11M13.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (1 BLK),,,1,2,10
+0022301140,15,PT11M13.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,11
+0022301140,17,PT11M08.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,233,25,0,Missed,1,,,0,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022301140,18,PT11M05.00S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022301140,19,PT10M57.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,14
+0022301140,21,PT10M57.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,1,0,1,h,Wembanyama Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,15
+0022301140,22,PT10M57.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,2,0,2,h,Wembanyama Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,16
+0022301140,23,PT10M35.00S,1,1610612755,PHI,1630194,Reed,P. Reed,-21,36,4,Missed,1,,,0,v,MISS Reed 4' Layup,Missed Shot,Layup Shot,1,2,17
+0022301140,24,PT10M31.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,18
+0022301140,25,PT10M31.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,Missed,1,,,0,v,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,19
+0022301140,26,PT10M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022301140,27,PT10M31.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,21
+0022301140,28,PT10M18.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-13,17,2,Made,1,2,2,4,v,Oubre Jr. 2' Driving Finger Roll Layup (2 PTS) (Reed 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,22
+0022301140,29,PT10M06.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,222,134,26,Made,1,5,2,7,h,Champagnie 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,23
+0022301140,32,PT09M56.00S,1,1610612755,PHI,1626166,Payne,C. Payne,-157,205,26,Missed,1,,,0,v,MISS Payne 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,24
+0022301140,33,PT09M52.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022301140,34,PT09M40.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,26
+0022301140,34,PT09M40.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum STEAL (1 STL),,,1,0,27
+0022301140,36,PT09M35.00S,1,1610612755,PHI,1626166,Payne,C. Payne,170,222,28,Made,1,5,5,10,v,Payne 28' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,28
+0022301140,37,PT09M18.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,229,57,24,Made,1,8,5,13,h,Johnson 24' 3PT Jump Shot (3 PTS) (Champagnie 1 AST),Made Shot,Jump Shot,1,3,29
+0022301140,39,PT09M06.00S,1,1610612755,PHI,1630194,Reed,P. Reed,9,27,3,Made,1,8,7,15,v,Reed 3' Layup (2 PTS) (Oubre Jr. 1 AST),Made Shot,Layup Shot,1,2,30
+0022301140,41,PT08M52.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-27,33,4,Missed,1,,,0,h,MISS Wembanyama 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,31
+0022301140,42,PT08M50.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,32
+0022301140,43,PT08M47.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,33
+0022301140,45,PT08M47.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,8,8,16,v,Maxey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,34
+0022301140,46,PT08M47.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,8,9,17,v,Maxey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+0022301140,47,PT08M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,127,64,14,Made,1,10,9,19,h,Wembanyama 14' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,36
+0022301140,48,PT08M15.00S,1,1610612755,PHI,201587,Batum,N. Batum,-225,78,24,Missed,1,,,0,v,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+0022301140,49,PT08M13.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,38
+0022301140,50,PT08M06.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,4,336,34,Missed,1,,,0,h,MISS Wembanyama 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022301140,51,PT08M01.00S,1,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+0022301140,52,PT07M44.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-228,61,24,Made,1,10,12,22,v,Oubre Jr. 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,41
+0022301140,53,PT07M28.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,42
+0022301140,53,PT07M28.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey STEAL (1 STL),,,1,0,43
+0022301140,55,PT07M24.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-25,10,3,Made,1,10,14,24,v,Maxey 3' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,44
+0022301140,56,PT07M23.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0022301140,57,PT07M04.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,46
+0022301140,57,PT07M04.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. STEAL (1 STL),,,1,0,47
+0022301140,59,PT06M59.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,16,19,2,Made,1,10,16,26,v,Oubre Jr. 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,48
+0022301140,60,PT06M47.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed P.FOUL (P2.T2) (K.Lane),Foul,Personal,1,0,49
+0022301140,62,PT06M47.00S,1,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,SUB: Bamba FOR Reed,Substitution,,0,0,50
+0022301140,65,PT06M35.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-11,26,3,Made,1,12,16,28,h,Wembanyama 3' Driving Dunk (6 PTS) (Jones 2 AST),Made Shot,Driving Dunk Shot,1,2,51
+0022301140,67,PT06M22.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-28,11,3,Made,1,12,18,30,v,Oubre Jr. 3' Cutting Dunk Shot (9 PTS) (Payne 1 AST),Made Shot,Cutting Dunk Shot,1,2,52
+0022301140,69,PT06M01.00S,1,1610612759,SAS,1631103,Branham,M. Branham,75,138,16,Missed,1,,,0,h,MISS Branham 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,53
+0022301140,70,PT05M59.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022301140,71,PT05M53.00S,1,1610612755,PHI,1626166,Payne,C. Payne,78,152,17,Missed,1,,,0,v,MISS Payne 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,55
+0022301140,72,PT05M49.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,56
+0022301140,73,PT05M37.00S,1,1610612759,SAS,1630200,Jones,T. Jones,-13,29,3,Made,1,14,18,32,h,Jones 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,57
+0022301140,74,PT05M22.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,-145,216,26,Made,1,14,21,35,v,Bamba 26' 3PT Jump Shot (3 PTS) (Payne 2 AST),Made Shot,Jump Shot,1,3,58
+0022301140,76,PT05M10.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,1,0,59
+0022301140,78,PT05M10.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,60
+0022301140,79,PT05M10.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,61
+0022301140,80,PT05M10.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Wesley FOR Johnson,Substitution,,0,0,62
+0022301140,81,PT05M10.00S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR Branham,Substitution,,0,0,63
+0022301140,82,PT05M10.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Hield FOR Maxey,Substitution,,0,0,64
+0022301140,86,PT05M10.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,15,21,36,h,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,65
+0022301140,87,PT04M47.00S,1,1610612755,PHI,1626166,Payne,C. Payne,-17,22,3,Missed,1,,,0,v,MISS Payne 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,66
+0022301140,88,PT04M45.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,67
+0022301140,89,PT04M31.00S,1,1610612759,SAS,1630200,Jones,T. Jones,89,137,16,Missed,1,,,0,h,MISS Jones 16' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,68
+0022301140,90,PT04M29.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,69
+0022301140,91,PT04M29.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Missed,1,,,0,h,MISS Wembanyama Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,70
+0022301140,92,PT04M27.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,71
+0022301140,93,PT04M25.00S,1,1610612759,SAS,1630200,Jones,T. Jones,229,69,24,Missed,1,,,0,h,MISS Jones 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,72
+0022301140,94,PT04M21.00S,1,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022301140,95,PT04M14.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-65,263,27,Made,1,15,24,39,v,Oubre Jr. 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,74
+0022301140,96,PT03M52.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,127,231,26,Missed,1,,,0,h,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022301140,97,PT03M47.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,76
+0022301140,112,PT03M41.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,122,34,13,Missed,1,,,0,v,MISS Oubre Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,77
+0022301140,112,PT03M41.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (2 BLK),,,1,2,78
+0022301140,114,PT03M40.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,79
+0022301140,99,PT03M30.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Graham FOR Wembanyama,Substitution,,0,0,80
+0022301140,100,PT03M30.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Collins FOR Jones,Substitution,,0,0,81
+0022301140,101,PT03M30.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,SUB: Martin FOR Batum,Substitution,,0,0,82
+0022301140,105,PT03M27.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,-152,211,26,Missed,1,,,0,v,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022301140,106,PT03M24.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,84
+0022301140,107,PT03M22.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,-23,37,4,Missed,1,,,0,h,MISS Collins 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,85
+0022301140,107,PT03M22.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba BLOCK (1 BLK),,,1,2,86
+0022301140,109,PT03M21.00S,1,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0022301140,110,PT03M20.00S,1,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,Made,1,17,24,41,h,Wesley Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,88
+0022301140,111,PT03M11.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,89
+0022301140,115,PT03M11.00S,1,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,SUB: Maxey FOR Payne,Substitution,,0,0,90
+0022301140,117,PT03M00.00S,1,1610612755,PHI,1630231,Martin,K. Martin,-69,10,7,Made,1,17,26,43,v,Martin 7' Floating Jump Shot (2 PTS) (Oubre Jr. 2 AST),Made Shot,Floating Jump shot,1,2,91
+0022301140,119,PT02M33.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,2,68,7,Made,1,19,26,45,h,Collins 7' Floating Jump Shot (2 PTS) (Graham 1 AST),Made Shot,Floating Jump shot,1,2,92
+0022301140,121,PT02M17.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,-53,140,15,Missed,1,,,0,v,MISS Bamba 15' Jump Shot,Missed Shot,Jump Shot,1,2,93
+0022301140,122,PT02M14.00S,1,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022301140,124,PT02M05.00S,1,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,1,0,95
+0022301140,126,PT02M05.00S,1,0,,124,Divac,V. Divac,0,0,0,,0,19,26,45,,Instant Replay1st Period (7:31 PM EST),Instant Replay,Support Ruling,0,0,96
+0022301140,127,PT02M05.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,MISS Champagnie Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,97
+0022301140,128,PT02M05.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,98
+0022301140,129,PT02M05.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,20,26,46,h,Champagnie Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,99
+0022301140,131,PT02M05.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Dowtin Jr. FOR Oubre Jr.,Substitution,,0,0,100
+0022301140,133,PT02M05.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,21,26,47,h,Champagnie Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,101
+0022301140,134,PT01M52.00S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,235,29,24,Missed,1,,,0,v,MISS Dowtin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022301140,135,PT01M49.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,103
+0022301140,136,PT01M30.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,34,26,4,Missed,1,,,0,h,MISS Collins 4' Layup,Missed Shot,Layup Shot,1,2,104
+0022301140,136,PT01M30.00S,1,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba BLOCK (2 BLK),,,1,2,105
+0022301140,138,PT01M27.00S,1,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022301140,139,PT01M20.00S,1,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,107
+0022301140,139,PT01M20.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie STEAL (1 STL),,,1,0,108
+0022301140,141,PT01M16.00S,1,1610612759,SAS,1628984,Graham,D. Graham,-100,256,27,Made,1,24,26,50,h,Graham 27' 3PT Running Jump Shot (3 PTS) (Champagnie 2 AST),Made Shot,Running Jump Shot,1,3,109
+0022301140,146,PT00M54.50S,1,1610612755,PHI,1627741,Hield,B. Hield,195,194,28,Made,1,24,29,53,v,Hield 28' 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,3,110
+0022301140,148,PT00M43.50S,1,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,-124,242,27,Missed,1,,,0,h,MISS Mamukelashvili 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022301140,149,PT00M40.20S,1,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,Dowtin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022301140,150,PT00M34.70S,1,1610612755,PHI,1630178,Maxey,T. Maxey,42,75,9,Made,1,24,31,55,v,Maxey 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,113
+0022301140,151,PT00M13.60S,1,1610612759,SAS,1628984,Graham,D. Graham,6,267,27,Missed,1,,,0,h,MISS Graham 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,114
+0022301140,152,PT00M09.90S,1,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022301140,153,PT00M01.60S,1,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,1,0,116
+0022301140,155,PT00M01.60S,1,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Batum FOR Martin,Substitution,,0,0,117
+0022301140,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,31,55,,End of 1st Period (7:37 PM EST),period,end,1,0,118
+0022301140,164,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,31,55,,Start of 2nd Period (7:40 PM EST),period,start,0,0,119
+0022301140,166,PT11M38.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,31,269,27,Missed,1,,,0,v,MISS Maxey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,120
+0022301140,167,PT11M33.00S,2,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022301140,168,PT11M33.00S,2,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,122
+0022301140,168,PT11M33.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield STEAL (1 STL),,,1,0,123
+0022301140,170,PT11M33.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,124
+0022301140,179,PT11M33.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,125
+0022301140,173,PT11M33.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,24,32,56,v,Hield Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,126
+0022301140,174,PT11M33.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,24,33,57,v,Hield Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+0022301140,175,PT11M18.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,-18,34,4,Made,1,26,33,59,h,Collins 4' Driving Finger Roll Layup (4 PTS) (Graham 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,128
+0022301140,177,PT11M18.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,129
+0022301140,180,PT11M18.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,27,33,60,h,Collins Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,130
+0022301140,181,PT11M03.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,26,3,Missed,1,,,0,v,MISS Bamba 3' Hook Shot,Missed Shot,Hook Shot,1,2,131
+0022301140,182,PT11M01.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,132
+0022301140,230,PT11M01.00S,2,1610612755,PHI,1627741,Hield,B. Hield,-14,3,1,Missed,1,,,0,v,MISS Hield 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,133
+0022301140,231,PT10M59.00S,2,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+0022301140,320,PT10M59.00S,2,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,1,0,135
+0022301140,184,PT10M55.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-23,0,2,Made,1,27,35,62,v,Maxey 2' Cutting Layup Shot (8 PTS) (Hield 1 AST),Made Shot,Cutting Layup Shot,1,2,136
+0022301140,186,PT10M43.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,137
+0022301140,186,PT10M43.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey STEAL (2 STL),,,1,0,138
+0022301140,188,PT10M38.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,7,16,2,Made,1,27,37,64,v,Maxey 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,139
+0022301140,189,PT10M23.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,140
+0022301140,191,PT10M23.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,28,37,65,h,Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+0022301140,192,PT10M23.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,SUB: Jones FOR Wesley,Substitution,,0,0,142
+0022301140,193,PT10M23.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,SUB: Reed FOR Bamba,Substitution,,0,0,143
+0022301140,196,PT10M23.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,29,37,66,h,Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+0022301140,197,PT10M11.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,91,252,27,Made,1,29,40,69,v,Maxey 27' 3PT Pullup Jump Shot (13 PTS) (Hield 2 AST),Made Shot,Pullup Jump shot,1,3,145
+0022301140,199,PT10M00.00S,2,1610612759,SAS,1628984,Graham,D. Graham,-164,216,27,Missed,1,,,0,h,MISS Graham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+0022301140,200,PT09M57.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,Dowtin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+0022301140,201,PT09M45.00S,2,1610612755,PHI,1630194,Reed,P. Reed,-33,124,13,Made,1,29,42,71,v,Reed 13' Jump Shot (4 PTS) (Dowtin Jr. 1 AST),Made Shot,Jump Shot,1,2,148
+0022301140,203,PT09M32.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins OFF.Foul (P2) (J.Schroeder),Foul,Offensive,1,0,149
+0022301140,205,PT09M32.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,150
+0022301140,206,PT09M32.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins T.FOUL (P2.T1) (B.Barnaky),Foul,Technical,1,0,151
+0022301140,207,PT09M32.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,29,43,72,v,Maxey Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,152
+0022301140,208,PT09M21.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.T2) (K.Lane),Foul,Personal,1,0,153
+0022301140,210,PT09M15.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,121,19,12,Missed,1,,,0,v,MISS Maxey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,154
+0022301140,211,PT09M12.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,155
+0022301140,213,PT08M59.00S,2,1610612759,SAS,1631103,Branham,M. Branham,17,34,4,Missed,1,,,0,h,MISS Branham 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,156
+0022301140,214,PT08M59.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,157
+0022301140,215,PT08M59.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey P.FOUL (P1.T3) (K.Lane),Foul,Personal,1,0,158
+0022301140,217,PT08M50.00S,2,1610612759,SAS,1631103,Branham,M. Branham,230,22,0,Made,1,32,43,75,h,Branham 3PT Jump Shot (3 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,159
+0022301140,219,PT08M36.00S,2,1610612755,PHI,1627741,Hield,B. Hield,-10,32,3,Made,1,32,45,77,v,Hield 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,160
+0022301140,220,PT08M25.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-1,27,3,Made,1,34,45,79,h,Johnson 3' Driving Floating Jump Shot (7 PTS) (Collins 1 AST),Made Shot,Driving Floating Jump Shot,1,2,161
+0022301140,222,PT08M11.00S,2,1610612755,PHI,1630194,Reed,P. Reed,233,20,0,Missed,1,,,0,v,MISS Reed 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022301140,223,PT08M05.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,163
+0022301140,224,PT08M00.00S,2,1610612759,SAS,1628984,Graham,D. Graham,23,22,3,Missed,1,,,0,h,MISS Graham 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,164
+0022301140,225,PT07M54.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,165
+0022301140,226,PT07M54.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,Made,1,36,45,81,h,Collins Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,166
+0022301140,227,PT07M35.00S,2,1610612755,PHI,1630194,Reed,P. Reed,40,24,5,Made,1,36,47,83,v,Reed 5' Turnaround Bank Hook Shot (6 PTS) (Maxey 2 AST),Made Shot,Turnaround Bank Hook Shot,1,2,167
+0022301140,229,PT07M33.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,168
+0022301140,232,PT07M33.00S,2,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Graham,Substitution,,0,0,169
+0022301140,233,PT07M33.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR Collins,Substitution,,0,0,170
+0022301140,234,PT07M33.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Maxey,Substitution,,0,0,171
+0022301140,235,PT07M33.00S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Payne FOR Martin,Substitution,,0,0,172
+0022301140,236,PT07M33.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,SUB: Batum FOR Dowtin Jr.,Substitution,,0,0,173
+0022301140,242,PT07M22.00S,2,1610612759,SAS,1631103,Branham,M. Branham,16,16,2,Missed,1,,,0,h,MISS Branham 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,174
+0022301140,243,PT07M17.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,175
+0022301140,244,PT07M17.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,38,47,85,h,Wembanyama Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,176
+0022301140,246,PT07M11.00S,2,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,177
+0022301140,247,PT06M58.00S,2,1610612759,SAS,1631103,Branham,M. Branham,-197,180,27,Made,1,41,47,88,h,Branham 27' 3PT Jump Shot (6 PTS) (Mamukelashvili 1 AST),Made Shot,Jump Shot,1,3,178
+0022301140,249,PT06M43.00S,2,1610612755,PHI,1627741,Hield,B. Hield,-97,243,26,Missed,1,,,0,v,MISS Hield 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,179
+0022301140,250,PT06M41.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,180
+0022301140,251,PT06M32.00S,2,1610612759,SAS,1631103,Branham,M. Branham,225,36,0,Made,1,44,47,91,h,Branham 3PT Jump Shot (9 PTS) (Jones 4 AST),Made Shot,Jump Shot,1,3,181
+0022301140,253,PT06M14.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,28,24,4,Missed,1,,,0,v,MISS Oubre Jr. 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,182
+0022301140,253,PT06M14.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson BLOCK (1 BLK),,,1,2,183
+0022301140,255,PT06M10.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+0022301140,256,PT06M09.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,185
+0022301140,257,PT05M54.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-87,48,10,Made,1,44,49,93,v,Oubre Jr. 10' Pullup Jump Shot (14 PTS) (Hield 3 AST),Made Shot,Pullup Jump shot,1,2,186
+0022301140,258,PT05M37.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,147,207,25,Missed,1,,,0,h,MISS Wembanyama 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,187
+0022301140,259,PT05M34.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,188
+0022301140,260,PT05M29.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed S.FOUL (P3.T4) (J.Schroeder),Foul,Shooting,1,0,189
+0022301140,262,PT05M29.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,45,49,94,h,Mamukelashvili Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,190
+0022301140,263,PT05M29.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Champagnie FOR Johnson,Substitution,,0,0,191
+0022301140,264,PT05M29.00S,2,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Maxey FOR Hield,Substitution,,0,0,192
+0022301140,267,PT05M29.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,46,49,95,h,Mamukelashvili Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,193
+0022301140,268,PT05M15.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,15,10,2,Missed,1,,,0,v,MISS Oubre Jr. 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,194
+0022301140,269,PT05M13.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,195
+0022301140,270,PT05M09.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-7,28,3,Made,1,48,49,97,h,Wembanyama 3' Running Dunk (10 PTS) (Mamukelashvili 2 AST),Made Shot,Running Dunk Shot,1,2,196
+0022301140,272,PT04M56.00S,2,1610612755,PHI,1626166,Payne,C. Payne,-28,9,3,Missed,1,,,0,v,MISS Payne 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,197
+0022301140,273,PT04M56.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,198
+0022301140,274,PT04M51.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,185,186,26,Made,1,51,49,100,h,Champagnie 26' 3PT Running Jump Shot (8 PTS) (Jones 5 AST),Made Shot,Running Jump Shot,1,3,199
+0022301140,276,PT04M50.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,200
+0022301140,277,PT04M50.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Graham FOR Champagnie,Substitution,,0,0,201
+0022301140,278,PT04M50.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,SUB: Bamba FOR Reed,Substitution,,0,0,202
+0022301140,281,PT04M33.00S,2,1610612755,PHI,1626166,Payne,C. Payne,170,200,26,Missed,1,,,0,v,MISS Payne 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022301140,282,PT04M29.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,204
+0022301140,283,PT04M18.00S,2,1610612759,SAS,1630200,Jones,T. Jones,9,23,2,Made,1,53,49,102,h,Jones 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,205
+0022301140,284,PT04M18.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba Violation:Defensive Goaltending (J.Schroeder),Violation,Defensive Goaltending,1,0,206
+0022301140,285,PT04M06.00S,2,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,207
+0022301140,286,PT03M54.00S,2,1610612759,SAS,1628984,Graham,D. Graham,196,167,26,Missed,1,,,0,h,MISS Graham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022301140,287,PT03M51.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+0022301140,288,PT03M34.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,-54,260,27,Missed,1,,,0,v,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0022301140,289,PT03M31.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,211
+0022301140,290,PT03M26.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-197,181,27,Made,1,56,49,105,h,Wembanyama 27' 3PT Running Jump Shot (13 PTS) (Jones 6 AST),Made Shot,Running Jump Shot,1,3,212
+0022301140,292,PT03M06.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-7,53,5,Made,1,56,51,107,v,Oubre Jr. 5' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,213
+0022301140,293,PT02M56.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,2,89,9,Missed,1,,,0,h,MISS Mamukelashvili 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,214
+0022301140,294,PT02M54.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,215
+0022301140,295,PT02M50.00S,2,1610612755,PHI,201587,Batum,N. Batum,-112,241,27,Missed,1,,,0,v,MISS Batum 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,216
+0022301140,296,PT02M47.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,217
+0022301140,297,PT02M40.00S,2,1610612759,SAS,1630200,Jones,T. Jones,12,20,2,Made,1,58,51,109,h,Jones 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,218
+0022301140,298,PT02M29.00S,2,1610612755,PHI,1626166,Payne,C. Payne,-10,273,27,Missed,1,,,0,v,MISS Payne 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,219
+0022301140,299,PT02M25.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,220
+0022301140,300,PT02M23.00S,2,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,Payne S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,221
+0022301140,302,PT02M23.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,MISS Branham Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,222
+0022301140,303,PT02M23.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,223
+0022301140,304,PT02M23.00S,2,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,SUB: Dowtin Jr. FOR Payne,Substitution,,0,0,224
+0022301140,305,PT02M23.00S,2,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,SUB: Martin FOR Bamba,Substitution,,0,0,225
+0022301140,308,PT02M23.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,59,51,110,h,Branham Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,226
+0022301140,309,PT02M07.00S,2,1610612755,PHI,1630231,Martin,K. Martin,-28,16,3,Missed,1,,,0,v,MISS Martin 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,227
+0022301140,309,PT02M07.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (3 BLK),,,1,2,228
+0022301140,311,PT02M07.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,229
+0022301140,313,PT02M07.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,230
+0022301140,314,PT01M57.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-217,121,25,Missed,1,,,0,v,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022301140,315,PT01M53.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,232
+0022301140,316,PT01M48.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,233
+0022301140,316,PT01M48.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum STEAL (2 STL),,,1,0,234
+0022301140,318,PT01M43.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-229,27,0,Missed,1,,,0,v,MISS Maxey 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,235
+0022301140,319,PT01M39.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,236
+0022301140,321,PT01M16.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,237
+0022301140,324,PT01M16.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,60,51,111,h,Wembanyama Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,238
+0022301140,325,PT01M16.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,MISS Wembanyama Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,239
+0022301140,326,PT01M13.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,240
+0022301140,327,PT00M59.10S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,109,11,Missed,1,,,0,v,MISS Oubre Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,241
+0022301140,328,PT00M57.60S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,242
+0022301140,329,PT00M52.70S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,243
+0022301140,331,PT00M52.70S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,61,51,112,h,Mamukelashvili Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,244
+0022301140,332,PT00M52.70S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,SUB: Hield FOR Dowtin Jr.,Substitution,,0,0,245
+0022301140,334,PT00M52.70S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,62,51,113,h,Mamukelashvili Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+0022301140,335,PT00M35.40S,2,1610612755,PHI,201587,Batum,N. Batum,225,9,0,Missed,1,,,0,v,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0022301140,336,PT00M33.10S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,248
+0022301140,337,PT00M25.90S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-2,25,3,Made,1,64,51,115,h,Wembanyama 3' Alley Oop Dunk (16 PTS) (Graham 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,249
+0022301140,339,PT00M01.80S,2,1610612755,PHI,1627741,Hield,B. Hield,-225,53,0,Made,1,64,54,118,v,Hield 3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,250
+0022301140,341,PT00M00.00S,2,0,,0,,,0,0,0,,0,64,54,118,,End of 2nd Period (8:10 PM EST),period,end,1,0,251
+0022301140,350,PT12M00.00S,3,0,,0,,,0,0,0,,0,64,54,118,,Start of 3rd Period (8:25 PM EST),period,start,0,0,252
+0022301140,351,PT11M48.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed Offensive Charge Foul (P4) (B.Barnaky),Foul,Offensive Charge,1,0,253
+0022301140,353,PT11M48.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,254
+0022301140,354,PT11M29.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,125,229,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022301140,355,PT11M26.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,256
+0022301140,356,PT11M15.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,15,26,3,Made,1,64,56,120,v,Maxey 3' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,257
+0022301140,357,PT11M15.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Violation:Defensive Goaltending (B.Barnaky),Violation,Defensive Goaltending,1,0,258
+0022301140,358,PT11M01.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-17,5,2,Missed,1,,,0,h,MISS Wembanyama 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,259
+0022301140,359,PT10M59.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,260
+0022301140,360,PT10M54.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,261
+0022301140,360,PT10M54.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,262
+0022301140,362,PT10M48.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-213,131,25,Made,1,67,56,123,h,Wembanyama 25' 3PT Running Jump Shot (19 PTS) (Jones 7 AST),Made Shot,Running Jump Shot,1,3,263
+0022301140,364,PT10M25.00S,3,1610612755,PHI,1630194,Reed,P. Reed,-141,28,14,Missed,1,,,0,v,MISS Reed 14' Jump Shot,Missed Shot,Jump Shot,1,2,264
+0022301140,364,PT10M25.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (4 BLK),,,1,2,265
+0022301140,366,PT10M20.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,266
+0022301140,367,PT10M17.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Backcourt Turnover (P4.T11),Turnover,Backcourt Turnover,1,0,267
+0022301140,368,PT10M07.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,119,231,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,268
+0022301140,369,PT10M00.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,269
+0022301140,370,PT10M00.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,Made,1,67,58,125,v,Reed Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,1,2,270
+0022301140,371,PT09M44.00S,3,1610612759,SAS,1631103,Branham,M. Branham,-72,264,27,Missed,1,,,0,h,MISS Branham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022301140,372,PT09M42.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,272
+0022301140,373,PT09M37.00S,3,1610612755,PHI,1630194,Reed,P. Reed,-72,248,26,Made,1,67,61,128,v,Reed 26' 3PT Running Jump Shot (11 PTS) (Payne 3 AST),Made Shot,Running Jump Shot,1,3,273
+0022301140,375,PT09M23.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,274
+0022301140,376,PT09M16.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,275
+0022301140,377,PT09M01.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,76ers T.Foul (Def. 3 Sec Oubre Jr. ) (B.Barnaky),Foul,Defense 3 Second,1,0,276
+0022301140,378,PT09M01.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,68,61,129,h,Wembanyama Free Throw Technical (20 PTS),Free Throw,Free Throw Technical,1,0,277
+0022301140,379,PT08M50.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-218,125,25,Missed,1,,,0,h,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022301140,380,PT08M47.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,279
+0022301140,381,PT08M45.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,5,17,2,Made,1,70,61,131,h,Champagnie 2' Dunk (10 PTS) (Johnson 1 AST),Made Shot,Dunk Shot,1,2,280
+0022301140,383,PT08M25.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,20,7,2,Missed,1,,,0,v,MISS Maxey 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,281
+0022301140,384,PT08M23.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,282
+0022301140,385,PT08M11.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-17,20,3,Made,1,70,63,133,v,Maxey 3' Driving Reverse Layup (18 PTS) (Reed 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,283
+0022301140,386,PT07M57.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-29,4,3,Missed,1,,,0,h,MISS Champagnie 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+0022301140,386,PT07M57.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed BLOCK (1 BLK),,,1,2,285
+0022301140,388,PT07M54.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,286
+0022301140,389,PT07M47.00S,3,1610612755,PHI,1626166,Payne,C. Payne,45,264,27,Missed,1,,,0,v,MISS Payne 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,287
+0022301140,390,PT07M44.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,288
+0022301140,391,PT07M34.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-31,9,3,Missed,1,,,0,h,MISS Johnson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,289
+0022301140,392,PT07M30.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,290
+0022301140,393,PT07M30.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,Made,1,72,63,135,h,Branham Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2,291
+0022301140,394,PT07M18.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,225,53,0,Missed,1,,,0,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+0022301140,395,PT07M15.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,293
+0022301140,396,PT07M11.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,2,20,2,Missed,1,,,0,h,MISS Johnson 2' Running Layup,Missed Shot,Running Layup Shot,1,2,294
+0022301140,397,PT07M09.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,295
+0022301140,398,PT07M03.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,23,96,10,Made,1,72,65,137,v,Maxey 10' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,296
+0022301140,399,PT07M00.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,297
+0022301140,401,PT07M00.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,SUB: Wesley FOR Branham,Substitution,,0,0,298
+0022301140,402,PT07M00.00S,3,1610612755,PHI,1626166,Payne,C. Payne,0,0,0,,0,,,0,v,SUB: Hield FOR Payne,Substitution,,0,0,299
+0022301140,405,PT06M46.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-80,253,27,Missed,1,,,0,h,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+0022301140,406,PT06M43.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,301
+0022301140,407,PT06M37.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,44,18,5,Missed,1,,,0,v,MISS Maxey 5' Running Layup,Missed Shot,Running Layup Shot,1,2,302
+0022301140,408,PT06M35.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,303
+0022301140,409,PT06M31.00S,3,1610612755,PHI,1627741,Hield,B. Hield,232,31,0,Missed,1,,,0,v,MISS Hield 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+0022301140,410,PT06M29.00S,3,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,305
+0022301140,411,PT06M23.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,137,239,28,Missed,1,,,0,h,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022301140,412,PT06M21.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,307
+0022301140,414,PT06M09.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,308
+0022301140,416,PT06M09.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,72,66,138,v,Maxey Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+0022301140,417,PT06M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR Johnson,Substitution,,0,0,310
+0022301140,419,PT06M09.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,72,67,139,v,Maxey Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,311
+0022301140,420,PT05M53.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Violation:Kicked Ball (B.Barnaky),Violation,Kicked Ball,0,0,312
+0022301140,421,PT05M48.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Traveling Turnover (P5.T13),Turnover,Traveling,1,0,313
+0022301140,422,PT05M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,16,23,3,Made,1,72,69,141,v,Maxey 3' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,314
+0022301140,424,PT05M12.00S,3,1610612759,SAS,1630200,Jones,T. Jones,7,65,7,Made,1,74,69,143,h,Jones 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,315
+0022301140,425,PT05M01.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,168,201,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,316
+0022301140,426,PT05M00.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,317
+0022301140,428,PT04M43.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-9,90,9,Made,1,76,69,145,h,Champagnie 9' Floating Jump Shot (12 PTS) (Wembanyama 1 AST),Made Shot,Floating Jump shot,1,2,318
+0022301140,430,PT04M27.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,5,23,2,Made,1,76,71,147,v,Maxey 2' Driving Finger Roll Layup (26 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,319
+0022301140,431,PT04M27.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Violation:Defensive Goaltending (J.Schroeder),Violation,Defensive Goaltending,1,0,320
+0022301140,432,PT04M04.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,48,260,26,Missed,1,,,0,h,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022301140,433,PT04M01.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,322
+0022301140,434,PT03M43.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-53,153,16,Missed,1,,,0,v,MISS Maxey 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,323
+0022301140,435,PT03M41.00S,3,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,324
+0022301140,436,PT03M39.00S,3,1610612759,SAS,1631104,Wesley,B. Wesley,7,4,1,Made,1,78,71,149,h,Wesley 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,325
+0022301140,437,PT03M28.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,326
+0022301140,438,PT03M28.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Graham FOR Wembanyama,Substitution,,0,0,327
+0022301140,439,PT03M28.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Collins FOR Jones,Substitution,,0,0,328
+0022301140,440,PT03M28.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,SUB: Dowtin Jr. FOR Oubre Jr.,Substitution,,0,0,329
+0022301140,441,PT03M28.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,SUB: Martin FOR Batum,Substitution,,0,0,330
+0022301140,442,PT03M28.00S,3,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,SUB: Bamba FOR Reed,Substitution,,0,0,331
+0022301140,448,PT03M13.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,22,13,3,Missed,1,,,0,v,MISS Maxey 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,332
+0022301140,448,PT03M13.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins BLOCK (1 BLK),,,1,2,333
+0022301140,449,PT03M11.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,334
+0022301140,450,PT03M11.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0,335
+0022301140,452,PT02M53.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,13,27,3,Missed,1,,,0,h,MISS Collins 3' Hook Shot,Missed Shot,Hook Shot,1,2,336
+0022301140,453,PT02M52.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,337
+0022301140,454,PT02M52.00S,3,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,338
+0022301140,456,PT02M52.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,79,71,150,h,Collins Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+0022301140,457,PT02M52.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,80,71,151,h,Collins Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,340
+0022301140,458,PT02M43.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Jump Ball Champagnie vs. Hield: Tip to Collins,Jump Ball,,0,0,341
+0022301140,461,PT02M43.00S,3,1610612755,PHI,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,342
+0022301140,461,PT02M43.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie STEAL (2 STL),,,1,0,343
+0022301140,463,PT02M27.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,25,27,4,Missed,1,,,0,h,MISS Collins 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,344
+0022301140,465,PT02M27.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,345
+0022301140,467,PT02M08.00S,3,1610612755,PHI,1628964,Bamba,M. Bamba,-6,54,5,Missed,1,,,0,v,MISS Bamba 5' Hook Shot,Missed Shot,Hook Shot,1,2,346
+0022301140,468,PT02M04.00S,3,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,347
+0022301140,469,PT01M54.00S,3,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,2,36,4,Missed,1,,,0,h,MISS Mamukelashvili 4' Hook Shot,Missed Shot,Hook Shot,1,2,348
+0022301140,470,PT01M50.00S,3,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,349
+0022301140,471,PT01M50.00S,3,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,Missed,1,,,0,h,MISS Mamukelashvili Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,350
+0022301140,472,PT01M49.00S,3,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,351
+0022301140,473,PT01M46.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-9,28,3,Missed,1,,,0,v,MISS Maxey 3' Running Layup,Missed Shot,Running Layup Shot,1,2,352
+0022301140,474,PT01M46.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,353
+0022301140,476,PT01M24.00S,3,1610612759,SAS,1631104,Wesley,B. Wesley,211,145,26,Missed,1,,,0,h,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022301140,477,PT01M21.00S,3,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,355
+0022301140,478,PT01M01.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,6,20,2,Made,1,80,73,153,v,Maxey 2' Driving Finger Roll Layup (28 PTS) (Bamba 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,356
+0022301140,489,PT00M44.30S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,357
+0022301140,489,PT00M44.30S,3,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,Dowtin Jr. STEAL (1 STL),,,1,0,358
+0022301140,482,PT00M30.20S,3,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,40,28,5,Missed,1,,,0,v,MISS Dowtin Jr. 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,359
+0022301140,483,PT00M29.30S,3,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,360
+0022301140,484,PT00M29.30S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins P.FOUL (P3.T2) (J.Schroeder),Foul,Personal,1,0,361
+0022301140,486,PT00M29.30S,3,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,362
+0022301140,488,PT00M29.30S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,363
+0022301140,491,PT00M18.50S,3,1610612755,PHI,1627741,Hield,B. Hield,-164,216,27,Missed,1,,,0,v,MISS Hield 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+0022301140,492,PT00M14.20S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,365
+0022301140,493,PT00M03.40S,3,1610612759,SAS,1628984,Graham,D. Graham,-130,224,26,Missed,1,,,0,h,MISS Graham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,366
+0022301140,494,PT00M01.20S,3,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,367
+0022301140,495,PT00M00.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,157,516,54,Missed,1,,,0,v,MISS Maxey 54' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+0022301140,496,PT00M00.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,369
+0022301140,497,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,73,153,,End of 3rd Period (8:52 PM EST),period,end,1,0,370
+0022301140,508,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,73,153,,Start of 4th Period (8:55 PM EST),period,start,0,0,371
+0022301140,509,PT11M48.00S,4,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,Bamba P.FOUL (P4.T1) (K.Lane),Foul,Personal,1,0,372
+0022301140,511,PT11M40.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,152,230,28,Made,1,83,73,156,h,Wembanyama 28' 3PT Pullup Jump Shot (23 PTS) (Jones 8 AST),Made Shot,Pullup Jump shot,1,3,373
+0022301140,513,PT11M26.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,374
+0022301140,515,PT11M26.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,375
+0022301140,516,PT11M26.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,0,376
+0022301140,517,PT11M26.00S,4,1610612755,PHI,1628964,Bamba,M. Bamba,0,0,0,,0,,,0,v,SUB: Reed FOR Bamba,Substitution,,0,0,377
+0022301140,519,PT11M26.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,MISS Oubre Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,378
+0022301140,520,PT11M23.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,379
+0022301140,521,PT11M09.00S,4,1610612759,SAS,1630200,Jones,T. Jones,13,51,5,Missed,1,,,0,h,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,380
+0022301140,522,PT11M06.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,381
+0022301140,523,PT11M04.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson P.FOUL (P3.T2) (J.Schroeder),Foul,Personal,1,0,382
+0022301140,525,PT11M04.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,,,0,v,SUB: Batum FOR Dowtin Jr.,Substitution,,0,0,383
+0022301140,528,PT10M56.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,82,33,9,Missed,1,,,0,v,MISS Oubre Jr. 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,384
+0022301140,529,PT10M53.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,385
+0022301140,530,PT10M47.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P6.T15),Turnover,Bad Pass,1,0,386
+0022301140,530,PT10M47.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,387
+0022301140,532,PT10M43.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-20,16,3,Made,1,83,75,158,v,Oubre Jr. 3' Running Layup (18 PTS) (Maxey 3 AST),Made Shot,Running Layup Shot,1,2,388
+0022301140,534,PT10M25.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,238,63,25,Made,1,86,75,161,h,Wembanyama 25' 3PT Jump Shot (26 PTS) (Graham 4 AST),Made Shot,Jump Shot,1,3,389
+0022301140,536,PT10M10.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,7,10,1,Made,1,86,77,163,v,Oubre Jr. 1' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,390
+0022301140,537,PT09M53.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-232,45,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0022301140,538,PT09M48.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,392
+0022301140,539,PT09M34.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,75,69,10,Made,1,86,79,165,v,Maxey 10' Floating Jump Shot (30 PTS) (Reed 3 AST),Made Shot,Floating Jump shot,1,2,393
+0022301140,540,PT09M15.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-230,-11,0,Made,1,89,79,168,h,Wembanyama 3PT Pullup Jump Shot (29 PTS) (Branham 1 AST),Made Shot,Pullup Jump shot,1,3,394
+0022301140,542,PT09M03.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-7,26,3,Made,1,89,81,170,v,Maxey 3' Driving Finger Roll Layup (32 PTS) (Reed 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,395
+0022301140,544,PT08M49.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-4,13,1,Made,1,91,81,172,h,Jones 1' Reverse Layup (11 PTS) (Wembanyama 2 AST),Made Shot,Reverse Layup Shot,1,2,396
+0022301140,546,PT08M42.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,397
+0022301140,546,PT08M42.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,1,0,398
+0022301140,548,PT08M36.00S,4,1610612759,SAS,1631103,Branham,M. Branham,88,235,25,Missed,1,,,0,h,MISS Branham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022301140,549,PT08M31.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,400
+0022301140,550,PT08M28.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,211,147,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+0022301140,551,PT08M24.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,402
+0022301140,552,PT08M13.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,31,62,7,Made,1,91,83,174,v,Council IV 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,403
+0022301140,553,PT08M13.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,404
+0022301140,555,PT08M13.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Wesley FOR Wembanyama,Substitution,,0,0,405
+0022301140,556,PT08M13.00S,4,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Collins FOR Graham,Substitution,,0,0,406
+0022301140,559,PT07M50.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,407
+0022301140,559,PT07M50.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed STEAL (1 STL),,,1,0,408
+0022301140,561,PT07M46.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,1,20,2,Made,1,91,85,176,v,Council IV 2' Running Layup (4 PTS) (Maxey 4 AST),Made Shot,Running Layup Shot,1,2,409
+0022301140,563,PT07M30.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Step Out of Bounds Turnover (P3.T17),Turnover,Step Out of Bounds Turnover,1,0,410
+0022301140,564,PT07M30.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,411
+0022301140,565,PT07M30.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR Johnson,Substitution,,0,0,412
+0022301140,567,PT07M16.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley P.FOUL (P2.T3) (J.Schroeder),Foul,Personal,1,0,413
+0022301140,569,PT07M08.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-12,41,4,Made,1,91,87,178,v,Oubre Jr. 4' Driving Layup (22 PTS) (Reed 5 AST),Made Shot,Driving Layup Shot,1,2,414
+0022301140,570,PT06M47.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P4.T18),Turnover,Bad Pass,1,0,415
+0022301140,570,PT06M47.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (2 STL),,,1,0,416
+0022301140,572,PT06M41.00S,4,1610612755,PHI,1630194,Reed,P. Reed,-21,23,3,Missed,1,,,0,v,MISS Reed 3' Running Layup,Missed Shot,Running Layup Shot,1,2,417
+0022301140,572,PT06M41.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,Collins BLOCK (2 BLK),,,1,2,418
+0022301140,574,PT06M37.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,Wesley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,419
+0022301140,575,PT06M31.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,-56,41,7,Made,1,93,87,180,h,Wesley 7' Driving Floating Bank Jump Shot (6 PTS) (Mamukelashvili 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,420
+0022301140,577,PT06M06.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-6,65,7,Made,1,93,89,182,v,Council IV 7' Floating Jump Shot (6 PTS) (Batum 1 AST),Made Shot,Floating Jump shot,1,2,421
+0022301140,579,PT05M40.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-22,15,3,Made,1,95,89,184,h,Jones 3' Reverse Layup (13 PTS) (Collins 2 AST),Made Shot,Reverse Layup Shot,1,2,422
+0022301140,581,PT05M16.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,16,28,3,Made,1,95,91,186,v,Oubre Jr. 3' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,423
+0022301140,582,PT05M03.00S,4,1610612759,SAS,1631103,Branham,M. Branham,-58,113,13,Missed,1,,,0,h,MISS Branham 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,424
+0022301140,583,PT04M59.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,425
+0022301140,584,PT04M56.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,22,39,4,Missed,1,,,0,v,MISS Maxey 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,426
+0022301140,584,PT04M56.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham BLOCK (1 BLK),,,1,2,427
+0022301140,586,PT04M56.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,1,0,428
+0022301140,588,PT04M56.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Branham,Substitution,,0,0,429
+0022301140,589,PT04M56.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,h,SUB: Champagnie FOR Collins,Substitution,,0,0,430
+0022301140,590,PT04M56.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Graham FOR Jones,Substitution,,0,0,431
+0022301140,594,PT04M48.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-7,214,21,Missed,1,,,0,v,MISS Maxey 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,432
+0022301140,595,PT04M45.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,433
+0022301140,596,PT04M36.00S,4,1610612759,SAS,1628984,Graham,D. Graham,-62,245,25,Missed,1,,,0,h,MISS Graham 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,434
+0022301140,597,PT04M32.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,435
+0022301140,598,PT04M26.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-36,26,4,Missed,1,,,0,v,MISS Council IV 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+0022301140,600,PT04M23.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,437
+0022301140,601,PT04M18.00S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,-217,127,25,Missed,1,,,0,h,MISS Mamukelashvili 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022301140,602,PT04M15.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,439
+0022301140,603,PT04M07.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,21,20,3,Made,1,95,93,188,v,Maxey 3' Driving Finger Roll Layup (34 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,440
+0022301140,604,PT04M07.00S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,441
+0022301140,606,PT04M07.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,h,SUB: Jones FOR Wesley,Substitution,,0,0,442
+0022301140,608,PT04M07.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,95,94,189,v,Maxey Free Throw 1 of 1 (35 PTS),Free Throw,Free Throw 1 of 1,1,0,443
+0022301140,609,PT03M45.00S,4,1610612759,SAS,1628984,Graham,D. Graham,-174,120,21,Made,1,97,94,191,h,Graham 21' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,444
+0022301140,610,PT03M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,445
+0022301140,612,PT03M45.00S,4,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,98,94,192,h,Graham Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,446
+0022301140,614,PT03M30.00S,4,1610612755,PHI,201587,Batum,N. Batum,143,221,26,Made,1,98,97,195,v,Batum 26' 3PT Jump Shot (3 PTS) (Maxey 5 AST),Made Shot,Jump Shot,1,3,447
+0022301140,616,PT03M03.00S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,-26,6,3,Made,1,100,97,197,h,Mamukelashvili 3' Cutting Layup Shot (6 PTS) (Wembanyama 3 AST),Made Shot,Cutting Layup Shot,1,2,448
+0022301140,618,PT02M47.00S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,1,0,449
+0022301140,620,PT02M47.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,98,198,v,Maxey Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,450
+0022301140,621,PT02M47.00S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,SUB: Branham FOR Mamukelashvili,Substitution,,0,0,451
+0022301140,623,PT02M47.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,99,199,v,Maxey Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,452
+0022301140,624,PT02M31.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed S.FOUL (P5.T3) (J.Schroeder),Foul,Shooting,1,0,453
+0022301140,626,PT02M31.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,101,99,200,h,Wembanyama Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,454
+0022301140,627,PT02M31.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,102,99,201,h,Wembanyama Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022301140,628,PT02M16.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,23,44,5,Missed,1,,,0,v,MISS Maxey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,456
+0022301140,628,PT02M16.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (5 BLK),,,1,2,457
+0022301140,630,PT02M13.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,458
+0022301140,631,PT02M12.00S,4,1610612759,SAS,1631103,Branham,M. Branham,-4,26,3,Made,1,104,99,203,h,Branham 3' Running Dunk (14 PTS) (Jones 9 AST),Made Shot,Running Dunk Shot,1,2,459
+0022301140,633,PT02M11.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,460
+0022301140,634,PT01M59.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-25,60,7,Missed,1,,,0,v,MISS Oubre Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,461
+0022301140,634,PT01M59.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (6 BLK),,,1,2,462
+0022301140,636,PT01M54.00S,4,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,463
+0022301140,637,PT01M40.00S,4,1610612759,SAS,1631103,Branham,M. Branham,-7,-11,1,Made,1,106,99,205,h,Branham 1' Cutting Layup Shot (16 PTS) (Wembanyama 4 AST),Made Shot,Cutting Layup Shot,1,2,464
+0022301140,639,PT01M32.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,39,228,23,Made,1,106,101,207,v,Maxey 23' Pullup Jump Shot (39 PTS),Made Shot,Pullup Jump shot,1,2,465
+0022301140,640,PT01M15.00S,4,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham Step Out of Bounds Turnover (P3.T19),Turnover,Step Out of Bounds Turnover,1,0,466
+0022301140,641,PT01M08.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P2.PN) (K.Lane),Foul,Shooting,1,0,467
+0022301140,644,PT01M08.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,106,102,208,v,Maxey Free Throw 1 of 2 (40 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0022301140,645,PT01M08.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,106,103,209,v,Maxey Free Throw 2 of 2 (41 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0022301140,646,PT00M54.10S,4,1610612759,SAS,1630200,Jones,T. Jones,17,22,3,Made,1,108,103,211,h,Jones 3' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,470
+0022301140,647,PT00M45.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,192,164,25,Made,1,108,106,214,v,Maxey 25' 3PT Step Back Jump Shot (44 PTS),Made Shot,Step Back Jump shot,1,3,471
+0022301140,648,PT00M24.70S,4,1610612759,SAS,1628984,Graham,D. Graham,-211,126,25,Missed,1,,,0,h,MISS Graham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022301140,649,PT00M20.60S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,473
+0022301140,650,PT00M09.70S,4,1610612755,PHI,201587,Batum,N. Batum,-175,188,26,Made,1,108,109,217,v,Batum 26' 3PT Jump Shot (6 PTS) (Maxey 6 AST),Made Shot,Jump Shot,1,3,474
+0022301140,652,PT00M09.30S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,475
+0022301140,653,PT00M08.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,Reed P.FOUL (P6.T4) (K.Lane),Foul,Personal,1,0,476
+0022301140,655,PT00M08.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,,,0,v,SUB: Martin FOR Reed,Substitution,,0,0,477
+0022301140,657,PT00M08.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,478
+0022301140,658,PT00M02.80S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-234,56,24,Made,1,111,109,220,h,Champagnie 24' 3PT Jump Shot (15 PTS) (Wembanyama 5 AST),Made Shot,Jump Shot,1,3,479
+0022301140,660,PT00M02.70S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,480
+0022301140,661,PT00M02.70S,4,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,SUB: Wesley FOR Graham,Substitution,,0,0,481
+0022301140,662,PT00M02.70S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Hield FOR Martin,Substitution,,0,0,482
+0022301140,665,PT00M00.90S,4,1610612755,PHI,1630178,Maxey,T. Maxey,17,25,3,Made,1,111,111,222,v,Maxey 3' Cutting Finger Roll Layup Shot (46 PTS) (Batum 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,483
+0022301140,667,PT00M00.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P7.T20),Turnover,Bad Pass,1,0,484
+0022301140,667,PT00M00.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum STEAL (3 STL),,,1,0,485
+0022301140,669,PT00M00.00S,4,1610612755,PHI,201587,Batum,N. Batum,180,212,28,Missed,1,,,0,v,MISS Batum 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,486
+0022301140,670,PT00M00.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,487
+0022301140,671,PT00M00.00S,4,0,,0,,,0,0,0,,0,111,111,222,,End of 4th Period (9:30 PM EST),period,end,1,0,488
+0022301140,676,PT05M00.00S,5,0,,0,,,0,0,0,,0,111,111,222,,Start of 1st OT (9:34 PM EST),period,start,0,0,489
+0022301140,678,PT05M00.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Jump Ball Wembanyama vs. Martin: Tip to Oubre Jr.,Jump Ball,,1,0,490
+0022301140,681,PT04M57.00S,5,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-7,31,3,Made,1,111,113,224,v,Oubre Jr. 3' Dunk (26 PTS),Made Shot,Dunk Shot,1,2,491
+0022301140,683,PT04M46.00S,5,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum P.FOUL (P2.T1) (K.Lane),Foul,Personal,1,0,492
+0022301140,685,PT04M39.00S,5,1610612759,SAS,1630200,Jones,T. Jones,15,6,2,Made,1,113,113,226,h,Jones 2' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,493
+0022301140,686,PT04M21.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,48,259,26,Missed,1,,,0,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,494
+0022301140,687,PT04M19.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,495
+0022301140,688,PT04M13.00S,5,1610612759,SAS,1630200,Jones,T. Jones,-17,4,2,Missed,1,,,0,h,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,496
+0022301140,689,PT04M09.00S,5,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,497
+0022301140,690,PT04M05.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,-26,16,3,Made,1,113,115,228,v,Maxey 3' Cutting Finger Roll Layup Shot (48 PTS) (Council IV 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,498
+0022301140,692,PT03M36.00S,5,1610612759,SAS,1630200,Jones,T. Jones,-15,16,2,Missed,1,,,0,h,MISS Jones 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,499
+0022301140,693,PT03M33.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,500
+0022301140,694,PT03M13.00S,5,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-55,263,27,Missed,1,,,0,v,MISS Oubre Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,501
+0022301140,695,PT03M09.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,502
+0022301140,696,PT03M01.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-9,27,3,Made,1,115,115,230,h,Wembanyama 3' Cutting Dunk Shot (33 PTS) (Graham 5 AST),Made Shot,Cutting Dunk Shot,1,2,503
+0022301140,698,PT02M38.00S,5,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,504
+0022301140,698,PT02M38.00S,5,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (2 STL),,,1,0,505
+0022301140,700,PT02M30.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-105,255,28,Missed,1,,,0,h,MISS Wembanyama 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,506
+0022301140,701,PT02M29.00S,5,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,507
+0022301140,703,PT02M11.00S,5,1610612755,PHI,1630231,Martin,K. Martin,53,47,7,Made,1,115,117,232,v,Martin 7' Hook Shot (4 PTS) (Oubre Jr. 3 AST),Made Shot,Hook Shot,1,2,508
+0022301140,705,PT01M50.00S,5,1610612759,SAS,1631103,Branham,M. Branham,-164,218,27,Made,1,118,117,235,h,Branham 27' 3PT Jump Shot (19 PTS) (Graham 6 AST),Made Shot,Jump Shot,1,3,509
+0022301140,707,PT01M33.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,18,17,2,Made,1,118,119,237,v,Maxey 2' Driving Finger Roll Layup (50 PTS) (Oubre Jr. 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,510
+0022301140,709,PT01M10.00S,5,1610612759,SAS,1628984,Graham,D. Graham,238,99,26,Made,1,121,119,240,h,Graham 26' 3PT Pullup Jump Shot (9 PTS) (Wembanyama 6 AST),Made Shot,Pullup Jump shot,1,3,511
+0022301140,711,PT00M55.50S,5,1610612755,PHI,1630178,Maxey,T. Maxey,-31,151,15,Missed,1,,,0,v,MISS Maxey 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,512
+0022301140,712,PT00M52.00S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,513
+0022301140,713,PT00M37.30S,5,1610612759,SAS,1630577,Champagnie,J. Champagnie,-207,135,25,Missed,1,,,0,h,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,514
+0022301140,714,PT00M32.60S,5,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,515
+0022301140,715,PT00M31.70S,5,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P5.T21),Turnover,Bad Pass,1,0,516
+0022301140,715,PT00M31.70S,5,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (3 STL),,,1,0,517
+0022301140,717,PT00M24.40S,5,1610612755,PHI,1630231,Martin,K. Martin,-7,12,1,Made,1,121,121,242,v,Martin 1' Cutting Dunk Shot (6 PTS) (Council IV 2 AST),Made Shot,Cutting Dunk Shot,1,2,518
+0022301140,719,PT00M01.80S,5,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-129,10,13,Missed,1,,,0,h,MISS Wembanyama 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,519
+0022301140,720,PT00M00.80S,5,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,520
+0022301140,721,PT00M00.80S,5,0,,719,Childress,R. Childress,0,0,0,,0,121,121,242,,Instant Replay1st OT (9:41 PM EST),Instant Replay,Overturn Ruling,0,0,521
+0022301140,722,PT00M00.80S,5,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.8 Short 0),Timeout,Regular,0,0,522
+0022301140,723,PT00M00.00S,5,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,227,-3,0,Missed,1,,,0,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,523
+0022301140,724,PT00M00.00S,5,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,0,524
+0022301140,725,PT00M00.00S,5,0,,0,,,0,0,0,,0,121,121,242,,End of 1st OT (9:43 PM EST),period,end,1,0,525
+0022301140,726,PT05M00.00S,6,0,,0,,,0,0,0,,0,121,121,242,,Start of 2nd OT (9:46 PM EST),period,start,0,0,526
+0022301140,728,PT05M00.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Jump Ball Wembanyama vs. Martin: Tip to Champagnie,Jump Ball,,0,0,527
+0022301140,742,PT04M43.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Lost Ball Turnover (P8.T22),Turnover,Lost Ball,1,0,528
+0022301140,731,PT04M42.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama L.B.FOUL (P1.T1) (K.Lane),Foul,Loose Ball,1,0,529
+0022301140,734,PT04M32.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,61,123,14,Missed,1,,,0,v,MISS Maxey 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,530
+0022301140,735,PT04M28.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,531
+0022301140,736,PT04M20.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,-34,104,11,Missed,1,,,0,v,MISS Maxey 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,532
+0022301140,737,PT04M18.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:14),Rebound,Unknown,1,0,533
+0022301140,738,PT04M16.00S,6,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,1,0,534
+0022301140,740,PT04M16.00S,6,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,122,121,243,h,Champagnie Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,535
+0022301140,741,PT04M16.00S,6,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,123,121,244,h,Champagnie Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,536
+0022301140,743,PT04M03.00S,6,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.T2) (J.Schroeder),Foul,Shooting,1,0,537
+0022301140,745,PT04M03.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,123,122,245,v,Maxey Free Throw 1 of 2 (51 PTS),Free Throw,Free Throw 1 of 2,1,0,538
+0022301140,746,PT04M03.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,123,123,246,v,Maxey Free Throw 2 of 2 (52 PTS),Free Throw,Free Throw 2 of 2,1,0,539
+0022301140,747,PT03M47.00S,6,1610612759,SAS,1630577,Champagnie,J. Champagnie,232,6,0,Missed,1,,,0,h,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,540
+0022301140,748,PT03M44.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,541
+0022301140,749,PT03M42.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey OFF.Foul (P2) (B.Barnaky),Foul,Offensive,1,0,542
+0022301140,752,PT03M42.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,543
+0022301140,769,PT03M42.00S,6,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Coach Challenge (Full 7 Short 0),Timeout,Coach Challenge,0,0,544
+0022301140,751,PT03M42.00S,6,0,,749,,,0,0,0,,0,123,123,246,,Instant Replay2nd OT (9:49 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,545
+0022301140,753,PT03M36.00S,6,1610612759,SAS,1628984,Graham,D. Graham,-208,152,26,Missed,1,,,0,h,MISS Graham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,546
+0022301140,754,PT03M33.00S,6,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,547
+0022301140,755,PT03M32.00S,6,1610612759,SAS,1631103,Branham,M. Branham,80,258,27,Made,1,126,123,249,h,Branham 27' 3PT Jump Shot (22 PTS) (Champagnie 3 AST),Made Shot,Jump Shot,1,3,548
+0022301140,757,PT03M04.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,6,21,2,Made,1,126,125,251,v,Council IV 2' Reverse Layup (8 PTS) (Maxey 7 AST),Made Shot,Reverse Layup Shot,1,2,549
+0022301140,759,PT03M04.00S,6,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,1,0,550
+0022301140,761,PT03M04.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,126,252,v,Council IV Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,551
+0022301140,762,PT02M46.00S,6,1610612759,SAS,1631103,Branham,M. Branham,61,253,26,Missed,1,,,0,h,MISS Branham 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,552
+0022301140,763,PT02M43.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,553
+0022301140,765,PT02M25.00S,6,1610612755,PHI,1630178,Maxey,T. Maxey,21,15,3,Missed,1,,,0,v,MISS Maxey 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,554
+0022301140,765,PT02M25.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (7 BLK),,,1,2,555
+0022301140,770,PT02M25.00S,6,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,556
+0022301140,767,PT02M25.00S,6,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,557
+0022301140,768,PT02M25.00S,6,0,,766,Wingate,D. Wingate,0,0,0,,0,126,126,252,,Instant Replay2nd OT (9:55 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,558
+0022301140,772,PT02M10.00S,6,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham Lost Ball Turnover (P1.T23),Turnover,Lost Ball,1,0,559
+0022301140,772,PT02M10.00S,6,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,,,0,v,Oubre Jr. STEAL (2 STL),,,1,0,560
+0022301140,774,PT01M56.00S,6,1610612759,SAS,1628984,Graham,D. Graham,0,0,0,,0,,,0,h,Graham P.FOUL (P1.PN) (K.Lane),Foul,Personal,1,0,561
+0022301140,776,PT01M56.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,127,253,v,Council IV Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,562
+0022301140,777,PT01M56.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,128,254,v,Council IV Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,563
+0022301140,778,PT01M35.00S,6,1610612759,SAS,1630200,Jones,T. Jones,12,19,2,Missed,1,,,0,h,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,564
+0022301140,779,PT01M32.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,565
+0022301140,780,PT01M24.00S,6,1610612755,PHI,201587,Batum,N. Batum,229,22,0,Made,1,126,131,257,v,Batum 3PT Jump Shot (9 PTS) (Council IV 3 AST),Made Shot,Jump Shot,1,3,566
+0022301140,782,PT01M11.00S,6,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,h,Branham Bad Pass Turnover (P2.T24),Turnover,Bad Pass,1,0,567
+0022301140,782,PT01M11.00S,6,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,568
+0022301140,784,PT01M09.00S,6,1610612755,PHI,1630231,Martin,K. Martin,17,27,3,Made,1,126,133,259,v,Martin 3' Running Alley Oop Dunk Shot (8 PTS) (Oubre Jr. 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,569
+0022301140,786,PT01M09.00S,6,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 9 Short 0),Timeout,Regular,0,0,570
+0022301140,787,PT00M59.80S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Bad Pass Turnover (P9.T25),Turnover,Bad Pass,1,0,571
+0022301140,787,PT00M59.80S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (4 STL),,,1,0,572
+0022301140,789,PT00M38.20S,6,1610612755,PHI,1630178,Maxey,T. Maxey,-42,169,17,Missed,1,,,0,v,MISS Maxey 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,573
+0022301140,790,PT00M36.00S,6,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:3 Def:15),Rebound,Unknown,1,0,574
+0022301140,791,PT00M30.70S,6,1610612759,SAS,1630200,Jones,T. Jones,-224,0,0,Missed,1,,,0,h,MISS Jones 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,575
+0022301140,792,PT00M28.30S,6,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,,,0,v,Batum REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,576
+0022301140,793,PT00M07.00S,6,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,577
+0022301140,794,PT00M00.00S,6,0,,0,,,0,0,0,,0,126,133,259,,End of 2nd OT (10:03 PM EST),period,end,1,0,578

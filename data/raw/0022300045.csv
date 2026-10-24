@@ -1,0 +1,456 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300045,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:54 PM EST),period,start,0,0,1
+0022300045,4,PT12M00.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Jump Ball Robinson vs. Adebayo: Tip to Lowry,Jump Ball,,1,0,2
+0022300045,7,PT11M39.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,114,40,12,Missed,1,,,0,v,MISS Butler 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,3
+0022300045,8,PT11M37.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300045,9,PT11M19.00S,1,1610612752,NYK,203944,Randle,J. Randle,22,252,25,Made,1,3,0,3,h,Randle 25' 3PT Jump Shot (3 PTS) (Barrett 1 AST),Made Shot,Jump Shot,1,3,5
+0022300045,11,PT11M01.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0,6
+0022300045,13,PT11M01.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,MISS Adebayo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,7
+0022300045,14,PT11M01.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,8
+0022300045,15,PT11M01.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,3,1,4,v,Adebayo Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,9
+0022300045,16,PT10M38.00S,1,1610612752,NYK,203944,Randle,J. Randle,7,249,25,Missed,1,,,0,h,MISS Randle 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,10
+0022300045,17,PT10M37.00S,1,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,0,0,11
+0022300045,18,PT10M37.00S,1,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,12
+0022300045,19,PT10M27.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,75,246,26,Missed,1,,,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+0022300045,20,PT10M25.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+0022300045,21,PT10M16.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,1,-6,1,Made,1,5,1,6,h,Robinson 1' Alley Oop Layup (2 PTS) (Randle 1 AST),Made Shot,Alley Oop Layup shot,1,2,15
+0022300045,23,PT10M08.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-100,234,25,Missed,1,,,0,v,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022300045,24,PT10M06.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300045,25,PT09M53.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0,18
+0022300045,27,PT09M53.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,6,1,7,h,Randle Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,19
+0022300045,28,PT09M53.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,7,1,8,h,Randle Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,20
+0022300045,29,PT09M29.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,91,153,18,Missed,1,,,0,v,MISS Adebayo 18' Jump Shot,Missed Shot,Jump Shot,1,2,21
+0022300045,30,PT09M27.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300045,31,PT09M13.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-116,253,28,Made,1,10,1,11,h,Brunson 28' 3PT Jump Shot (3 PTS) (Grimes 1 AST),Made Shot,Jump Shot,1,3,23
+0022300045,33,PT08M56.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-4,3,1,Made,1,10,3,13,v,Adebayo 1' Cutting Dunk Shot (3 PTS) (Butler 1 AST),Made Shot,Cutting Dunk Shot,1,2,24
+0022300045,35,PT08M52.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,25
+0022300045,37,PT08M38.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,26
+0022300045,38,PT08M24.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,-229,-17,0,Made,1,10,6,16,v,Richardson 3PT Jump Shot (3 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,1,3,27
+0022300045,40,PT08M07.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,-2,8,1,Made,1,12,6,18,h,Barrett 1' Driving Layup (2 PTS) (Randle 2 AST),Made Shot,Driving Layup Shot,1,2,28
+0022300045,42,PT07M56.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,29
+0022300045,42,PT07M56.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson STEAL (1 STL),,,1,0,30
+0022300045,44,PT07M44.00S,1,1610612752,NYK,1629656,Grimes,Q. Grimes,-100,253,27,Missed,1,,,0,h,MISS Grimes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022300045,45,PT07M42.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022300045,46,PT07M28.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson S.FOUL (P2.T2) (T.Washington),Foul,Shooting,1,0,33
+0022300045,48,PT07M28.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,12,7,19,v,Adebayo Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+0022300045,49,PT07M28.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,SUB: Hartenstein FOR Robinson,Substitution,,0,0,35
+0022300045,51,PT07M28.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,12,8,20,v,Adebayo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,36
+0022300045,52,PT07M13.00S,1,1610612752,NYK,203944,Randle,J. Randle,-38,90,10,Missed,1,,,0,h,MISS Randle 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,37
+0022300045,53,PT07M11.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022300045,54,PT07M00.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,102,101,14,Made,1,12,10,22,v,Adebayo 14' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,2,39
+0022300045,55,PT06M40.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,25,249,25,Missed,1,,,0,h,MISS Brunson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022300045,56,PT06M38.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022300045,57,PT06M32.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,2,8,1,Made,1,12,12,24,v,Richardson 1' Driving Layup (5 PTS) (Butler 2 AST),Made Shot,Driving Layup Shot,1,2,42
+0022300045,59,PT06M15.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,233,11,0,Missed,1,,,0,h,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022300045,60,PT06M13.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,44
+0022300045,61,PT06M03.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-4,6,1,Made,1,12,14,26,v,Adebayo 1' Cutting Layup Shot (9 PTS) (Richardson 1 AST),Made Shot,Cutting Layup Shot,1,2,45
+0022300045,63,PT05M51.00S,1,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022300045,64,PT05M51.00S,1,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,SUB: Hart FOR Barrett,Substitution,,0,0,47
+0022300045,65,PT05M51.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Love FOR Adebayo,Substitution,,0,0,48
+0022300045,66,PT05M51.00S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Richardson,Substitution,,0,0,49
+0022300045,70,PT05M39.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,50
+0022300045,70,PT05M39.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (1 STL),,,1,0,51
+0022300045,72,PT05M33.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein S.FOUL (P1.T3) (T.Washington),Foul,Shooting,1,0,52
+0022300045,74,PT05M33.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,12,15,27,v,Love Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,53
+0022300045,75,PT05M33.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,12,16,28,v,Love Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,54
+0022300045,77,PT05M09.00S,1,1610612752,NYK,203944,Randle,J. Randle,12,-3,1,Made,1,14,16,30,h,Randle 1' Driving Layup (7 PTS) (Hart 1 AST),Made Shot,Driving Layup Shot,1,2,55
+0022300045,79,PT05M04.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler OFF.Foul (P1) (B.Barnaky),Foul,Offensive,1,0,56
+0022300045,81,PT05M04.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,57
+0022300045,82,PT05M04.00S,1,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,SUB: Quickley FOR Grimes,Substitution,,0,0,58
+0022300045,84,PT04M47.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,2,7,1,Made,1,16,16,32,h,Brunson 1' Driving Layup (5 PTS) (Quickley 1 AST),Made Shot,Driving Layup Shot,1,2,59
+0022300045,86,PT04M35.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,7,15,2,Made,1,16,18,34,v,Butler 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,60
+0022300045,89,PT04M13.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,61
+0022300045,89,PT04M13.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,0,62
+0022300045,91,PT03M58.00S,1,1610612748,MIA,201567,Love,K. Love,-7,251,25,Made,1,16,21,37,v,Love 25' 3PT Jump Shot (5 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Shot,1,3,63
+0022300045,93,PT03M39.00S,1,1610612752,NYK,203944,Randle,J. Randle,-2,7,1,Made,1,18,21,39,h,Randle 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,64
+0022300045,94,PT03M26.00S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,65
+0022300045,94,PT03M26.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein STEAL (1 STL),,,1,0,66
+0022300045,96,PT03M21.00S,1,1610612752,NYK,1630193,Quickley,I. Quickley,2,63,6,Made,1,20,21,41,h,Quickley 6' Floating Jump Shot (2 PTS) (Randle 3 AST),Made Shot,Floating Jump shot,1,2,67
+0022300045,98,PT03M05.00S,1,1610612748,MIA,201567,Love,K. Love,-48,243,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022300045,99,PT03M03.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300045,100,PT02M54.00S,1,1610612752,NYK,1628404,Hart,J. Hart,229,-3,0,Made,1,23,21,44,h,Hart 3PT Jump Shot (3 PTS) (Randle 4 AST),Made Shot,Jump Shot,1,3,70
+0022300045,102,PT02M52.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,71
+0022300045,103,PT02M52.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Brunson,Substitution,,0,0,72
+0022300045,104,PT02M52.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Martin FOR Lowry,Substitution,,0,0,73
+0022300045,107,PT02M34.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,-102,229,25,Missed,1,,,0,v,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022300045,108,PT02M32.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022300045,109,PT02M22.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,136,211,25,Missed,1,,,0,h,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022300045,110,PT02M21.00S,1,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,1,0,77
+0022300045,112,PT02M21.00S,1,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Adebayo FOR Highsmith,Substitution,,0,0,78
+0022300045,114,PT02M09.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Out of Bounds - Bad Pass Turnover Turnover (P3.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,79
+0022300045,115,PT01M56.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,161,199,26,Made,1,23,24,47,v,Butler 26' 3PT Jump Shot (5 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,1,3,80
+0022300045,117,PT01M42.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-6,2,1,Missed,1,,,0,h,MISS Hartenstein 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,81
+0022300045,118,PT01M40.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300045,119,PT01M27.00S,1,1610612748,MIA,201567,Love,K. Love,-1,4,0,Made,1,23,26,49,v,Love Layup (7 PTS),Made Shot,Layup Shot,1,2,83
+0022300045,120,PT01M09.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T3) (T.Washington),Foul,Personal,1,0,84
+0022300045,122,PT01M09.00S,1,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,SUB: Richardson FOR Butler,Substitution,,0,0,85
+0022300045,124,PT00M58.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-40,10,4,Missed,1,,,0,h,MISS DiVincenzo 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,86
+0022300045,125,PT00M56.20S,1,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300045,126,PT00M47.50S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,88
+0022300045,127,PT00M37.70S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,88,75,12,Missed,1,,,0,v,MISS Jaquez Jr. 12' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,89
+0022300045,128,PT00M35.10S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,90
+0022300045,129,PT00M22.40S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Bad Pass Turnover (P4.T6),Turnover,Bad Pass,1,0,91
+0022300045,129,PT00M22.40S,1,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson STEAL (1 STL),,,1,0,92
+0022300045,131,PT00M21.30S,1,1610612748,MIA,1626196,Richardson,J. Richardson,7,14,2,Made,1,23,28,51,v,Richardson 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,93
+0022300045,132,PT00M06.70S,1,1610612752,NYK,1630193,Quickley,I. Quickley,-75,120,14,Made,1,25,28,53,h,Quickley 14' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,94
+0022300045,133,PT00M00.70S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,156,203,26,Missed,1,,,0,v,MISS Adebayo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,95
+0022300045,134,PT00M00.10S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,96
+0022300045,135,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,28,53,,End of 1st Period (8:21 PM EST),period,end,1,0,97
+0022300045,140,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,28,53,,Start of 2nd Period (8:25 PM EST),period,start,0,0,98
+0022300045,141,PT11M38.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,1,117,12,Made,1,27,28,55,h,Quickley 12' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,0,2,99
+0022300045,142,PT11M20.00S,2,1610612748,MIA,1631306,Swider,C. Swider,-78,240,25,Missed,1,,,0,v,MISS Swider 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300045,143,PT11M18.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,101
+0022300045,144,PT11M08.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,-4,2,0,Made,1,29,28,57,h,Barrett Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,2,102
+0022300045,145,PT10M56.00S,2,1610612748,MIA,1628997,Martin,C. Martin,-224,0,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022300045,146,PT10M54.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300045,147,PT10M41.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,-33,84,9,Missed,1,,,0,h,MISS Quickley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,105
+0022300045,148,PT10M40.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,106
+0022300045,149,PT10M34.00S,2,1610612748,MIA,1628997,Martin,C. Martin,-11,17,2,Made,1,29,30,59,v,Martin 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,107
+0022300045,150,PT10M16.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,114,220,25,Missed,1,,,0,h,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300045,151,PT10M14.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,109
+0022300045,152,PT10M07.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-1,9,1,Missed,1,,,0,v,MISS Jaquez Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,110
+0022300045,153,PT10M05.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022300045,154,PT09M58.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,-28,68,7,Missed,1,,,0,h,MISS Barrett 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,112
+0022300045,155,PT09M56.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,113
+0022300045,156,PT09M54.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-4,6,1,Made,1,31,30,61,h,Hartenstein 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,114
+0022300045,157,PT09M45.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-1,6,1,Missed,1,,,0,v,MISS Jaquez Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,115
+0022300045,158,PT09M43.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,116
+0022300045,159,PT09M29.00S,2,1610612752,NYK,1628404,Hart,J. Hart,2,6,1,Made,1,33,30,63,h,Hart 1' Cutting Layup Shot (5 PTS) (Hartenstein 1 AST),Made Shot,Cutting Layup Shot,1,2,117
+0022300045,161,PT09M15.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,118
+0022300045,163,PT09M06.00S,2,1610612748,MIA,1628997,Martin,C. Martin,-4,246,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300045,164,PT09M04.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,120
+0022300045,165,PT08M59.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-18,10,2,Missed,1,,,0,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,121
+0022300045,166,PT08M57.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,122
+0022300045,167,PT08M49.00S,2,1610612748,MIA,1631306,Swider,C. Swider,0,193,19,Missed,1,,,0,v,MISS Swider 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+0022300045,168,PT08M47.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,124
+0022300045,169,PT08M47.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,33,32,65,v,Adebayo Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,125
+0022300045,170,PT08M33.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-4,53,5,Missed,1,,,0,h,MISS Hartenstein 5' Hook Shot,Missed Shot,Hook Shot,1,2,126
+0022300045,171,PT08M31.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,127
+0022300045,172,PT08M24.00S,2,1610612748,MIA,1631306,Swider,C. Swider,25,260,26,Missed,1,,,0,v,MISS Swider 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300045,173,PT08M22.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,129
+0022300045,174,PT08M10.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,130
+0022300045,176,PT08M10.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,MISS DiVincenzo Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,131
+0022300045,177,PT08M10.00S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,132
+0022300045,178,PT08M10.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,34,32,66,h,DiVincenzo Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,1,0,133
+0022300045,179,PT08M10.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,35,32,67,h,DiVincenzo Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,1,0,134
+0022300045,180,PT07M56.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,KNICKS T.Foul (Def. 3 Sec Quickley ) (T.Washington),Foul,Defense 3 Second,1,0,135
+0022300045,181,PT07M56.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,35,33,68,v,Richardson Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,1,0,136
+0022300045,182,PT07M56.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,SUB: Brunson FOR Barrett,Substitution,,0,0,137
+0022300045,184,PT07M52.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-206,143,25,Missed,1,,,0,v,MISS Jaquez Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300045,185,PT07M50.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,139
+0022300045,186,PT07M45.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-43,59,7,Missed,1,,,0,v,MISS Richardson 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,140
+0022300045,187,PT07M44.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0022300045,188,PT07M33.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,-17,62,6,Missed,1,,,0,h,MISS Quickley 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,142
+0022300045,189,PT07M31.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,143
+0022300045,190,PT07M19.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,141,63,15,Made,1,35,35,70,v,Adebayo 15' Jump Shot (13 PTS) (Swider 1 AST),Made Shot,Jump Shot,1,2,144
+0022300045,192,PT07M13.00S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,145
+0022300045,193,PT07M13.00S,2,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Randle FOR Quickley,Substitution,,0,0,146
+0022300045,194,PT07M13.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,SUB: Robinson FOR Hartenstein,Substitution,,0,0,147
+0022300045,197,PT06M58.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,148
+0022300045,197,PT06M58.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,149
+0022300045,199,PT06M36.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-5,17,2,Made,1,35,37,72,v,Jaquez Jr. 2' Layup (2 PTS) (Swider 2 AST),Made Shot,Layup Shot,1,2,150
+0022300045,201,PT06M11.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,151
+0022300045,201,PT06M11.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (1 STL),,,1,0,152
+0022300045,203,PT06M07.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-233,14,0,Missed,1,,,0,v,MISS Richardson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300045,204,PT06M05.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+0022300045,205,PT05M52.00S,2,1610612752,NYK,203944,Randle,J. Randle,-18,-1,2,Made,1,37,37,74,h,Randle 2' Hook Shot (11 PTS),Made Shot,Hook Shot,1,2,155
+0022300045,206,PT05M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo OFF.Foul (P1) (B.Barnaky),Foul,Offensive,1,0,156
+0022300045,208,PT05M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,157
+0022300045,209,PT05M39.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Grimes FOR DiVincenzo,Substitution,,0,0,158
+0022300045,210,PT05M39.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Butler FOR Richardson,Substitution,,0,0,159
+0022300045,211,PT05M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Lowry FOR Adebayo,Substitution,,0,0,160
+0022300045,212,PT05M39.00S,2,1610612748,MIA,1631306,Swider,C. Swider,0,0,0,,0,,,0,v,SUB: Love FOR Swider,Substitution,,0,0,161
+0022300045,217,PT05M26.00S,2,1610612752,NYK,1628404,Hart,J. Hart,227,-6,0,Missed,1,,,0,h,MISS Hart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300045,218,PT05M24.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,163
+0022300045,220,PT05M07.00S,2,1610612748,MIA,201567,Love,K. Love,-134,205,24,Missed,1,,,0,v,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300045,221,PT05M05.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,165
+0022300045,222,PT05M05.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,6,22,2,Made,1,37,39,76,v,Jaquez Jr. 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,166
+0022300045,223,PT04M49.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-12,-4,1,Made,1,39,39,78,h,Brunson 1' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,2,167
+0022300045,224,PT04M43.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,-1,13,1,Made,1,39,41,80,v,Butler 1' Alley Oop Layup (7 PTS) (Jaquez Jr. 2 AST),Made Shot,Alley Oop Layup shot,1,2,168
+0022300045,226,PT04M43.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,169
+0022300045,228,PT04M43.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Barrett FOR Hart,Substitution,,0,0,170
+0022300045,230,PT04M43.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,39,42,81,v,Butler Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,171
+0022300045,231,PT04M29.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,172
+0022300045,231,PT04M29.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,1,0,173
+0022300045,233,PT04M22.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,-227,13,0,Made,1,39,45,84,v,Butler 3PT Jump Shot (11 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,174
+0022300045,235,PT04M03.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,1,-5,1,Made,1,41,45,86,h,Robinson 1' Dunk (4 PTS) (Grimes 2 AST),Made Shot,Dunk Shot,1,2,175
+0022300045,237,PT03M46.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-34,19,4,Made,1,41,47,88,v,Jaquez Jr. 4' Turnaround Jump Shot (6 PTS) (Love 1 AST),Made Shot,Turnaround Jump Shot,1,2,176
+0022300045,239,PT03M27.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-12,59,6,Made,1,43,47,90,h,Brunson 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,177
+0022300045,240,PT03M15.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,12,34,4,Missed,1,,,0,v,MISS Butler 4' Layup,Missed Shot,Layup Shot,1,2,178
+0022300045,241,PT03M13.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+0022300045,242,PT03M07.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,230,7,0,Missed,1,,,0,h,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022300045,243,PT03M05.00S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+0022300045,244,PT02M57.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,182
+0022300045,245,PT02M51.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,257,26,Made,1,43,50,93,v,Lowry 26' 3PT Pullup Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Pullup Jump shot,1,3,183
+0022300045,247,PT02M31.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,4,184,18,Made,1,45,50,95,h,Brunson 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,184
+0022300045,248,PT02M31.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,0,185
+0022300045,252,PT02M31.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Richardson FOR Martin,Substitution,,0,0,186
+0022300045,253,PT02M31.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,46,50,96,h,Brunson Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,187
+0022300045,254,PT02M14.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,-138,214,25,Missed,1,,,0,v,MISS Richardson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,188
+0022300045,255,PT02M12.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,189
+0022300045,256,PT02M08.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-158,194,25,Missed,1,,,0,h,MISS Brunson 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,190
+0022300045,257,PT02M06.00S,2,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+0022300045,258,PT01M52.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-56,26,6,Missed,1,,,0,v,MISS Jaquez Jr. 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,192
+0022300045,259,PT01M50.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,193
+0022300045,260,PT01M47.00S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,1,0,194
+0022300045,262,PT01M47.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,47,50,97,h,Barrett Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,195
+0022300045,263,PT01M47.00S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Adebayo FOR Love,Substitution,,0,0,196
+0022300045,265,PT01M47.00S,2,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,48,50,98,h,Barrett Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,197
+0022300045,266,PT01M34.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-83,124,15,Missed,1,,,0,v,MISS Adebayo 15' Jump Shot,Missed Shot,Jump Shot,1,2,198
+0022300045,267,PT01M32.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,199
+0022300045,268,PT01M25.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Traveling Turnover (P6.T10),Turnover,Traveling,1,0,200
+0022300045,269,PT01M09.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,-154,197,25,Missed,1,,,0,v,MISS Lowry 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,201
+0022300045,270,PT01M07.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,202
+0022300045,271,PT00M57.20S,2,1610612752,NYK,203944,Randle,J. Randle,-11,69,7,Missed,1,,,0,h,MISS Randle 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,203
+0022300045,272,PT00M56.30S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,204
+0022300045,294,PT00M56.30S,2,1610612752,NYK,1629011,Robinson,M. Robinson,9,6,1,Missed,1,,,0,h,MISS Robinson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,205
+0022300045,295,PT00M54.30S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,1,0,206
+0022300045,273,PT00M54.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo L.B.FOUL (P2.PN) (J.Tiven),Foul,Loose Ball,1,0,207
+0022300045,275,PT00M54.30S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,208
+0022300045,276,PT00M54.30S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,209
+0022300045,278,PT00M54.30S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Highsmith FOR Adebayo,Substitution,,0,0,210
+0022300045,281,PT00M54.30S,2,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Love FOR Richardson,Substitution,,0,0,211
+0022300045,282,PT00M54.30S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,212
+0022300045,283,PT00M52.70S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,213
+0022300045,284,PT00M32.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,48,42,6,Missed,1,,,0,v,MISS Jaquez Jr. 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,214
+0022300045,285,PT00M30.20S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,215
+0022300045,286,PT00M25.60S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-176,182,25,Missed,1,,,0,v,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+0022300045,287,PT00M23.00S,2,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,217
+0022300045,288,PT00M10.90S,2,1610612748,MIA,201567,Love,K. Love,-197,155,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300045,289,PT00M08.70S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,219
+0022300045,290,PT00M00.80S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-230,23,0,Made,1,51,50,101,h,Grimes 3PT Jump Shot (3 PTS) (Randle 5 AST),Made Shot,Jump Shot,1,3,220
+0022300045,292,PT00M00.00S,2,0,,290,,,0,0,0,,0,51,50,101,,Instant Replay2nd Period (8:51 PM EST),Instant Replay,Support Ruling,0,0,221
+0022300045,293,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,50,101,,End of 2nd Period (8:51 PM EST),period,end,1,0,222
+0022300045,300,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,50,101,,Start of 3rd Period (9:07 PM EST),period,start,0,0,223
+0022300045,301,PT11M43.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,85,194,21,Missed,1,,,0,h,MISS Brunson 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,224
+0022300045,302,PT11M41.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,225
+0022300045,303,PT11M29.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-6,99,10,Made,1,51,52,103,v,Adebayo 10' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,1,2,226
+0022300045,304,PT11M07.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,227
+0022300045,304,PT11M07.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson STEAL (2 STL),,,1,0,228
+0022300045,306,PT11M04.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,1,0,229
+0022300045,308,PT11M04.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,51,53,104,v,Highsmith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+0022300045,309,PT11M04.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,51,54,105,v,Highsmith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,231
+0022300045,310,PT10M54.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,232
+0022300045,310,PT10M54.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo STEAL (2 STL),,,1,0,233
+0022300045,312,PT10M48.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,-126,222,26,Made,1,51,57,108,v,Lowry 26' 3PT Jump Shot (6 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,1,3,234
+0022300045,314,PT10M47.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,235
+0022300045,315,PT10M30.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,33,151,15,Missed,1,,,0,h,MISS Barrett 15' Jump Shot,Missed Shot,Jump Shot,1,2,236
+0022300045,316,PT10M28.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,237
+0022300045,317,PT10M19.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,85,233,25,Made,1,51,60,111,v,Butler 25' 3PT Jump Shot (14 PTS) (Richardson 2 AST),Made Shot,Jump Shot,1,3,238
+0022300045,319,PT09M56.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,230,20,0,Missed,1,,,0,h,MISS Grimes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+0022300045,320,PT09M54.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,240
+0022300045,322,PT09M37.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-167,196,26,Missed,1,,,0,v,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022300045,323,PT09M35.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,242
+0022300045,324,PT09M24.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,,,0,v,Butler Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,243
+0022300045,325,PT09M13.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson P.FOUL (P3.T1) (T.Washington),Foul,Personal,1,0,244
+0022300045,327,PT09M02.00S,3,1610612752,NYK,203944,Randle,J. Randle,-7,53,5,Missed,1,,,0,h,MISS Randle 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,245
+0022300045,328,PT09M01.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,246
+0022300045,330,PT08M47.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,1,0,247
+0022300045,332,PT08M47.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,51,61,112,v,Butler Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,248
+0022300045,333,PT08M47.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,51,62,113,v,Butler Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+0022300045,334,PT08M39.00S,3,1610612752,NYK,203944,Randle,J. Randle,104,232,25,Missed,1,,,0,h,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+0022300045,335,PT08M37.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,251
+0022300045,336,PT08M25.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-235,68,24,Made,1,51,65,116,v,Highsmith 24' 3PT Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Jump Shot,1,3,252
+0022300045,338,PT08M02.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,253
+0022300045,338,PT08M02.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (2 STL),,,1,0,254
+0022300045,340,PT07M58.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,1,5,1,Made,1,51,67,118,v,Lowry 1' Running Layup (8 PTS) (Adebayo 2 AST),Made Shot,Running Layup Shot,1,2,255
+0022300045,342,PT07M58.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,256
+0022300045,343,PT07M40.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,-16,15,2,Missed,1,,,0,h,MISS Grimes 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,257
+0022300045,344,PT07M39.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,258
+0022300045,409,PT07M38.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,6,4,1,Missed,1,,,0,h,MISS Robinson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,259
+0022300045,410,PT07M37.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,260
+0022300045,345,PT07M33.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson S.FOUL (P1.T3) (T.Washington),Foul,Shooting,1,0,261
+0022300045,347,PT07M33.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,51,68,119,v,Richardson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,262
+0022300045,348,PT07M33.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,51,69,120,v,Richardson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+0022300045,349,PT07M15.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,-6,50,5,Missed,1,,,0,h,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,264
+0022300045,350,PT07M14.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,265
+0022300045,351,PT07M13.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry S.FOUL (P1.T2) (T.Washington),Foul,Shooting,1,0,266
+0022300045,353,PT07M13.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,267
+0022300045,354,PT07M13.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,268
+0022300045,355,PT07M13.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,52,69,121,h,Robinson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,269
+0022300045,356,PT07M02.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,270
+0022300045,356,PT07M02.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,Robinson STEAL (2 STL),,,1,0,271
+0022300045,358,PT06M45.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,1,34,3,Made,1,54,69,123,h,Brunson 3' Driving Floating Jump Shot (14 PTS) (Randle 6 AST),Made Shot,Driving Floating Jump Shot,1,2,272
+0022300045,360,PT06M28.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,273
+0022300045,360,PT06M28.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,Grimes STEAL (1 STL),,,1,0,274
+0022300045,362,PT06M20.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,2,11,1,Made,1,56,69,125,h,Barrett 1' Driving Layup (8 PTS) (Brunson 1 AST),Made Shot,Driving Layup Shot,1,2,275
+0022300045,364,PT06M20.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,276
+0022300045,365,PT05M58.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,-114,126,17,Made,1,56,71,127,v,Lowry 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,277
+0022300045,366,PT05M43.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,-45,9,5,Made,1,58,71,129,h,Barrett 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,278
+0022300045,367,PT05M31.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,-22,2,2,Missed,1,,,0,v,MISS Richardson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,279
+0022300045,368,PT05M29.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,280
+0022300045,369,PT05M29.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,58,73,131,v,Adebayo Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,2,281
+0022300045,370,PT05M13.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,67,126,14,Made,1,60,73,133,h,Brunson 14' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,2,282
+0022300045,371,PT05M01.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett P.FOUL (P1.T4) (T.Washington),Foul,Personal,1,0,283
+0022300045,373,PT05M01.00S,3,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Richardson,Substitution,,0,0,284
+0022300045,374,PT05M01.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Love FOR Adebayo,Substitution,,0,0,285
+0022300045,377,PT04M54.00S,3,1610612748,MIA,201567,Love,K. Love,-140,218,26,Missed,1,,,0,v,MISS Love 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+0022300045,378,PT04M52.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,287
+0022300045,379,PT04M52.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,Made,1,60,75,135,v,Jaquez Jr. Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,288
+0022300045,381,PT04M38.00S,3,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,SUB: Hart FOR Barrett,Substitution,,0,0,289
+0022300045,383,PT04M34.00S,3,1610612752,NYK,203944,Randle,J. Randle,39,30,5,Missed,1,,,0,h,MISS Randle 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,290
+0022300045,384,PT04M33.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,291
+0022300045,385,PT04M28.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-235,-5,24,Made,1,60,78,138,v,Jaquez Jr. 24' 3PT Jump Shot (11 PTS) (Highsmith 3 AST),Made Shot,Jump Shot,1,3,292
+0022300045,387,PT04M16.00S,3,1610612752,NYK,203944,Randle,J. Randle,-6,-6,1,Made,1,62,78,140,h,Randle 1' Driving Layup (13 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,1,2,293
+0022300045,389,PT04M07.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-10,7,1,Made,1,62,80,142,v,Jaquez Jr. 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,294
+0022300045,390,PT03M57.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,22,22,3,Missed,1,,,0,h,MISS Brunson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,295
+0022300045,391,PT03M57.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,296
+0022300045,393,PT03M57.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,h,SUB: Quickley FOR Grimes,Substitution,,0,0,297
+0022300045,395,PT03M40.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,29,110,11,Made,1,62,82,144,v,Butler 11' Turnaround Bank Shot (18 PTS),Made Shot,Turnaround Bank shot,1,2,298
+0022300045,396,PT03M40.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,0,299
+0022300045,398,PT03M40.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,300
+0022300045,400,PT03M40.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,SUB: Hartenstein FOR Robinson,Substitution,,0,0,301
+0022300045,399,PT03M40.00S,3,0,,396,,,0,0,0,,0,62,82,144,,Instant Replay3rd Period (9:30 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,302
+0022300045,402,PT03M40.00S,3,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,62,83,145,v,Butler Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,303
+0022300045,403,PT03M29.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,304
+0022300045,403,PT03M29.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. STEAL (1 STL),,,1,0,305
+0022300045,405,PT03M27.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,-20,-10,2,Missed,1,,,0,v,MISS Highsmith 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,306
+0022300045,405,PT03M27.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein BLOCK (1 BLK),,,1,2,307
+0022300045,407,PT03M26.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,308
+0022300045,408,PT03M19.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,124,229,26,Made,1,65,83,148,h,Quickley 26' 3PT Running Pull-Up Jump Shot (9 PTS) (Hart 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,309
+0022300045,412,PT03M04.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,-22,41,5,Missed,1,,,0,v,MISS Lowry 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,310
+0022300045,413,PT03M03.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,311
+0022300045,414,PT03M03.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,Missed,1,,,0,v,MISS Lowry Putback Layup,Missed Shot,Putback Layup Shot,1,2,312
+0022300045,415,PT03M02.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022300045,416,PT02M54.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,145,203,25,Missed,1,,,0,h,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,314
+0022300045,417,PT02M52.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+0022300045,418,PT02M47.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley P.FOUL (P1.PN) (B.Barnaky),Foul,Personal,1,0,316
+0022300045,420,PT02M47.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,65,84,149,v,Jaquez Jr. Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,317
+0022300045,421,PT02M47.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,65,85,150,v,Jaquez Jr. Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,318
+0022300045,422,PT02M25.00S,3,1610612752,NYK,1628404,Hart,J. Hart,10,17,2,Made,1,67,85,152,h,Hart 2' Driving Layup (7 PTS) (Quickley 2 AST),Made Shot,Driving Layup Shot,1,2,319
+0022300045,424,PT02M25.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,1,0,320
+0022300045,426,PT02M25.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,68,85,153,h,Hart Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,321
+0022300045,427,PT02M04.00S,3,1610612748,MIA,201567,Love,K. Love,228,-11,0,Missed,1,,,0,v,MISS Love 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300045,428,PT02M02.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,323
+0022300045,429,PT01M40.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-25,92,10,Missed,1,,,0,h,MISS Brunson 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,324
+0022300045,430,PT01M38.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,325
+0022300045,431,PT01M34.00S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,326
+0022300045,431,PT01M34.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart STEAL (1 STL),,,1,0,327
+0022300045,433,PT01M27.00S,3,1610612752,NYK,203944,Randle,J. Randle,135,214,25,Missed,1,,,0,h,MISS Randle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,328
+0022300045,434,PT01M26.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,329
+0022300045,435,PT01M24.00S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,330
+0022300045,436,PT01M24.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Brunson,Substitution,,0,0,331
+0022300045,437,PT01M24.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Martin FOR Lowry,Substitution,,0,0,332
+0022300045,440,PT01M09.00S,3,1610612752,NYK,1630193,Quickley,I. Quickley,71,248,26,Made,1,71,85,156,h,Quickley 26' 3PT Step Back Jump Shot (12 PTS) (Randle 7 AST),Made Shot,Step Back Jump shot,1,3,333
+0022300045,442,PT00M57.70S,3,1610612748,MIA,202710,Butler III,J. Butler III,11,-8,1,Made,1,71,87,158,v,Butler 1' Cutting Layup Shot (21 PTS) (Jaquez Jr. 3 AST),Made Shot,Cutting Layup Shot,1,2,334
+0022300045,444,PT00M37.10S,3,1610612752,NYK,1630193,Quickley,I. Quickley,114,225,25,Missed,1,,,0,h,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022300045,445,PT00M34.30S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,336
+0022300045,446,PT00M34.30S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,25,16,3,Missed,1,,,0,h,MISS DiVincenzo 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,337
+0022300045,447,PT00M31.20S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,338
+0022300045,448,PT00M22.80S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,200,153,25,Missed,1,,,0,v,MISS Jaquez Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300045,449,PT00M20.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,340
+0022300045,451,PT00M04.90S,3,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Adebayo FOR Love,Substitution,,0,0,341
+0022300045,453,PT00M00.10S,3,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,342
+0022300045,454,PT00M00.00S,3,0,,0,,,0,0,0,,0,71,87,158,,End of 3rd Period (9:38 PM EST),period,end,1,0,343
+0022300045,461,PT12M00.00S,4,0,,0,,,0,0,0,,0,71,87,158,,Start of 4th Period (9:42 PM EST),period,start,0,0,344
+0022300045,462,PT11M35.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-103,211,23,Made,1,71,89,160,v,Richardson 23' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,345
+0022300045,463,PT11M13.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett Traveling Turnover (P2.T16),Turnover,Traveling,1,0,346
+0022300045,464,PT10M58.00S,4,1610612748,MIA,1628997,Martin,C. Martin,180,176,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0022300045,465,PT10M56.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,348
+0022300045,466,PT10M52.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett Out of Bounds - Bad Pass Turnover Turnover (P3.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,349
+0022300045,467,PT10M43.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,225,5,0,Missed,1,,,0,v,MISS Jaquez Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300045,468,PT10M41.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,351
+0022300045,469,PT10M33.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,16,186,19,Missed,1,,,0,v,MISS Adebayo 19' Jump Shot,Missed Shot,Jump Shot,1,2,352
+0022300045,470,PT10M31.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,353
+0022300045,471,PT10M21.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,132,24,13,Missed,1,,,0,h,MISS Quickley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,354
+0022300045,472,PT10M19.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,355
+0022300045,473,PT10M09.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,21,-6,2,Missed,1,,,0,v,MISS Richardson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,356
+0022300045,474,PT10M07.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,357
+0022300045,475,PT10M02.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,112,232,26,Made,1,74,89,163,h,Quickley 26' 3PT Jump Shot (15 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,1,3,358
+0022300045,477,PT09M44.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,100,231,25,Missed,1,,,0,v,MISS Jaquez Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300045,478,PT09M42.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,360
+0022300045,479,PT09M33.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,145,239,28,Made,1,77,89,166,h,DiVincenzo 28' 3PT Jump Shot (5 PTS) (Hart 3 AST),Made Shot,Jump Shot,1,3,361
+0022300045,481,PT09M33.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,362
+0022300045,482,PT09M33.00S,4,0,,462,Reid,J. Reid,0,0,0,,0,77,89,166,,Instant Replay4th Period (9:45 PM EST),Instant Replay,Replay Center,0,0,363
+0022300045,483,PT09M17.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,364
+0022300045,483,PT09M17.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo STEAL (1 STL),,,1,0,365
+0022300045,485,PT09M16.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,DiVincenzo Step Out of Bounds Turnover (P3.T18),Turnover,Step Out of Bounds Turnover,1,0,366
+0022300045,486,PT09M16.00S,4,1610612748,MIA,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Highsmith FOR Love,Substitution,,0,0,367
+0022300045,488,PT08M59.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-89,173,19,Missed,1,,,0,v,MISS Adebayo 19' Jump Shot,Missed Shot,Jump Shot,1,2,368
+0022300045,489,PT08M57.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,369
+0022300045,490,PT08M43.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,18,136,14,Made,1,79,89,168,h,Quickley 14' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,370
+0022300045,491,PT08M25.00S,4,1610612748,MIA,1628997,Martin,C. Martin,116,48,13,Missed,1,,,0,v,MISS Martin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,371
+0022300045,492,PT08M23.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,1,0,372
+0022300045,493,PT08M23.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. L.B.FOUL (P2.T1) (B.Barnaky),Foul,Loose Ball,1,0,373
+0022300045,495,PT08M12.00S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P3.T2) (B.Barnaky),Foul,Personal,1,0,374
+0022300045,499,PT08M12.00S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Butler FOR Highsmith,Substitution,,0,0,375
+0022300045,500,PT08M00.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,225,47,0,Missed,1,,,0,h,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022300045,501,PT07M59.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,377
+0022300045,503,PT07M59.00S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Lowry FOR Martin,Substitution,,0,0,378
+0022300045,505,PT07M37.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,6,269,27,Missed,1,,,0,v,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022300045,505,PT07M37.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley BLOCK (1 BLK),,,1,3,380
+0022300045,507,PT07M35.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,381
+0022300045,508,PT07M23.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley Lost Ball Turnover (P2.T19),Turnover,Lost Ball,1,0,382
+0022300045,508,PT07M23.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (2 STL),,,1,0,383
+0022300045,510,PT07M03.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,384
+0022300045,510,PT07M03.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein STEAL (2 STL),,,1,0,385
+0022300045,512,PT06M58.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,-235,0,24,Made,1,82,89,171,h,Barrett 24' 3PT Jump Shot (13 PTS) (Hart 4 AST),Made Shot,Jump Shot,1,3,386
+0022300045,515,PT06M33.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,387
+0022300045,517,PT06M33.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,82,90,172,v,Butler Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,388
+0022300045,518,PT06M33.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,h,SUB: Brunson FOR DiVincenzo,Substitution,,0,0,389
+0022300045,520,PT06M33.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,0,0,0,,0,82,91,173,v,Butler Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,390
+0022300045,521,PT06M13.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,50,95,11,Missed,1,,,0,h,MISS Quickley 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,391
+0022300045,522,PT06M11.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,392
+0022300045,523,PT06M05.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-13,-4,1,Made,1,82,93,175,v,Adebayo 1' Cutting Dunk Shot (19 PTS) (Jaquez Jr. 4 AST),Made Shot,Cutting Dunk Shot,1,2,393
+0022300045,525,PT05M42.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,-58,250,26,Missed,1,,,0,h,MISS Quickley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,394
+0022300045,526,PT05M40.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,395
+0022300045,527,PT05M40.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,Made,1,84,93,177,h,Hart Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,396
+0022300045,528,PT05M20.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-143,28,15,Missed,1,,,0,v,MISS Butler 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,397
+0022300045,529,PT05M18.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,398
+0022300045,530,PT05M12.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,230,46,0,Made,1,87,93,180,h,Quickley 3PT Jump Shot (20 PTS) (Brunson 3 AST),Made Shot,Jump Shot,1,3,399
+0022300045,532,PT04M54.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-1,55,6,Missed,1,,,0,v,MISS Adebayo 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,400
+0022300045,533,PT04M52.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,401
+0022300045,534,PT04M35.00S,4,1610612752,NYK,1628404,Hart,J. Hart,156,194,25,Missed,1,,,0,h,MISS Hart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022300045,535,PT04M33.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,403
+0022300045,536,PT04M10.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-234,5,0,Missed,1,,,0,v,MISS Jaquez Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022300045,537,PT04M08.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,405
+0022300045,538,PT04M01.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,-71,59,9,Missed,1,,,0,h,MISS Quickley 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,406
+0022300045,539,PT03M59.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,407
+0022300045,540,PT03M50.00S,4,1610612748,MIA,1626196,Richardson,J. Richardson,-188,159,25,Made,1,87,96,183,v,Richardson 25' 3PT Jump Shot (15 PTS) (Lowry 2 AST),Made Shot,Jump Shot,1,3,408
+0022300045,542,PT03M50.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,409
+0022300045,543,PT03M50.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Randle FOR Hart,Substitution,,0,0,410
+0022300045,545,PT03M31.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,71,52,9,Made,1,89,96,185,h,Barrett 9' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,411
+0022300045,546,PT03M04.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-118,12,12,Missed,1,,,0,v,MISS Adebayo 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,412
+0022300045,547,PT03M02.00S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,413
+0022300045,548,PT02M56.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-21,1,2,Made,1,91,96,187,h,Brunson 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,414
+0022300045,549,PT02M56.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,1,0,415
+0022300045,551,PT02M56.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,MISS Brunson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,416
+0022300045,552,PT02M54.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,417
+0022300045,553,PT02M42.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,1,0,418
+0022300045,555,PT02M35.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-230,18,0,Missed,1,,,0,v,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022300045,556,PT02M33.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,0,0,420
+0022300045,557,PT02M33.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry L.B.FOUL (P2.T4) (J.Tiven),Foul,Loose Ball,1,0,421
+0022300045,559,PT02M20.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,59,95,11,Made,1,93,96,189,h,Brunson 11' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,422
+0022300045,560,PT02M20.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P3.PN) (T.Washington),Foul,Shooting,1,0,423
+0022300045,562,PT02M20.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,94,96,190,h,Brunson Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,424
+0022300045,563,PT02M05.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,1,121,12,Missed,1,,,0,v,MISS Butler 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,425
+0022300045,564,PT02M03.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,,,0,h,Barrett REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,426
+0022300045,565,PT01M59.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,-1,6,1,Made,1,96,96,192,h,Barrett 1' Running Layup (17 PTS),Made Shot,Running Layup Shot,1,2,427
+0022300045,566,PT01M59.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P4.PN) (J.Tiven),Foul,Shooting,1,0,428
+0022300045,568,PT01M59.00S,4,1610612752,NYK,1629628,Barrett,R. Barrett,0,0,0,,0,97,96,193,h,Barrett Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,429
+0022300045,569,PT01M46.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-100,8,10,Missed,1,,,0,v,MISS Jaquez Jr. 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,430
+0022300045,570,PT01M44.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,431
+0022300045,571,PT01M24.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-99,173,20,Made,1,99,96,195,h,Brunson 20' Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,2,432
+0022300045,572,PT01M24.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,433
+0022300045,573,PT01M15.00S,4,1610612748,MIA,202710,Butler III,J. Butler III,-132,7,13,Missed,1,,,0,v,MISS Butler 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,434
+0022300045,574,PT01M13.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,435
+0022300045,575,PT00M52.40S,4,1610612752,NYK,1629628,Barrett,R. Barrett,164,193,25,Missed,1,,,0,h,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+0022300045,576,PT00M50.20S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,437
+0022300045,577,PT00M46.30S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,4,0,Missed,1,,,0,v,MISS Adebayo Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,438
+0022300045,578,PT00M44.50S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,439
+0022300045,579,PT00M23.70S,4,1610612752,NYK,1628973,Brunson,J. Brunson,110,271,29,Missed,1,,,0,h,MISS Brunson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300045,580,PT00M21.80S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,441
+0022300045,582,PT00M15.10S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,Hartenstein S.FOUL (P3.T3) (T.Washington),Foul,Shooting,1,0,442
+0022300045,584,PT00M15.10S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,99,97,196,v,Adebayo Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,443
+0022300045,585,PT00M15.10S,4,1610612752,NYK,1630193,Quickley,I. Quickley,0,0,0,,0,,,0,h,SUB: Robinson FOR Quickley,Substitution,,0,0,444
+0022300045,587,PT00M15.10S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,99,98,197,v,Adebayo Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+0022300045,588,PT00M15.10S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,446
+0022300045,589,PT00M15.10S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Hartenstein,Substitution,,0,0,447
+0022300045,590,PT00M15.10S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,h,SUB: Quickley FOR Robinson,Substitution,,0,0,448
+0022300045,593,PT00M11.30S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry P.FOUL (P3.PN) (J.Tiven),Foul,Personal,1,0,449
+0022300045,595,PT00M11.30S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,100,98,198,h,Brunson Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,450
+0022300045,596,PT00M11.30S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,h,MISS Brunson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,451
+0022300045,597,PT00M09.60S,4,1610612748,MIA,1626196,Richardson,J. Richardson,0,0,0,,0,,,0,v,Richardson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,452
+0022300045,598,PT00M00.20S,4,1610612748,MIA,202710,Butler III,J. Butler III,205,152,26,Missed,1,,,0,v,MISS Butler 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,453
+0022300045,599,PT00M00.20S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,454
+0022300045,600,PT00M00.00S,4,0,,0,,,0,0,0,,0,100,98,198,,End of 4th Period (10:12 PM EST),period,end,1,0,455

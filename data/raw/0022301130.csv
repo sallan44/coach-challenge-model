@@ -1,0 +1,479 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022301130,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,1,0,1
+0022301130,3,PT12M00.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Violation:Jump Ball (D.Collins),Violation,Jump Ball,0,0,2
+0022301130,4,PT11M44.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-221,-10,0,Made,1,0,3,3,v,Murray 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,3
+0022301130,6,PT11M17.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,42,252,26,Made,1,3,3,6,h,Jokic 26' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,4
+0022301130,8,PT11M02.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,5
+0022301130,8,PT11M02.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (1 STL),,,1,0,6
+0022301130,10,PT10M58.00S,1,1610612743,DEN,1627750,Murray,J. Murray,201,137,24,Missed,1,,,0,h,MISS Murray 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,7
+0022301130,11,PT10M55.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022301130,12,PT10M47.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-75,253,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0022301130,13,PT10M46.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301130,14,PT10M36.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-4,191,19,Made,1,5,3,8,h,Caldwell-Pope 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,11
+0022301130,15,PT10M18.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,176,192,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022301130,16,PT10M15.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,13
+0022301130,17,PT10M10.00S,1,1610612737,ATL,203991,Capela,C. Capela,-5,-1,1,Missed,1,,,0,v,MISS Capela 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,14
+0022301130,18,PT10M10.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,15
+0022301130,19,PT10M02.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,4,13,1,Missed,1,,,0,h,MISS Jokic 1' Running Layup,Missed Shot,Running Layup Shot,1,2,16
+0022301130,19,PT10M02.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic BLOCK (1 BLK),,,1,2,17
+0022301130,21,PT09M58.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,18
+0022301130,22,PT09M57.00S,1,1610612743,DEN,1631128,Braun,C. Braun,7,23,2,Missed,1,,,0,h,MISS Braun 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,19
+0022301130,23,PT09M57.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022301130,24,PT09M49.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,25,19,3,Made,1,5,5,10,v,Johnson 3' Driving Layup (2 PTS) (Murray 1 AST),Made Shot,Driving Layup Shot,1,2,21
+0022301130,26,PT09M34.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,0,22
+0022301130,29,PT09M24.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,136,209,25,Made,1,8,5,13,h,Porter Jr. 25' 3PT Jump Shot (3 PTS) (Murray 1 AST),Made Shot,Jump Shot,1,3,23
+0022301130,31,PT09M11.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-206,163,26,Made,1,8,8,16,v,Hunter 26' 3PT Jump Shot (3 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,24
+0022301130,33,PT08M57.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,25
+0022301130,33,PT08M57.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,26
+0022301130,35,PT08M56.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,27
+0022301130,35,PT08M56.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. STEAL (1 STL),,,1,0,28
+0022301130,37,PT08M56.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,29
+0022301130,39,PT08M56.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,9,8,17,h,Porter Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,30
+0022301130,40,PT08M56.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,10,8,18,h,Porter Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,31
+0022301130,41,PT08M42.00S,1,1610612737,ATL,203991,Capela,C. Capela,18,5,2,Made,1,10,10,20,v,Capela 2' Cutting Layup Shot (2 PTS) (Murray 3 AST),Made Shot,Cutting Layup Shot,1,2,32
+0022301130,43,PT08M30.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,11,246,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022301130,44,PT08M26.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+0022301130,45,PT08M15.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-7,94,9,Missed,1,,,0,v,MISS Murray 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,35
+0022301130,46,PT08M15.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,36
+0022301130,47,PT08M08.00S,1,1610612743,DEN,1631128,Braun,C. Braun,7,5,1,Made,1,12,10,22,h,Braun 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,37
+0022301130,48,PT07M47.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,-114,25,12,Made,1,12,12,24,v,Johnson 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,38
+0022301130,49,PT07M34.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-31,258,26,Made,1,15,12,27,h,Murray 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Jump Shot,1,3,39
+0022301130,51,PT07M20.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,40
+0022301130,53,PT07M20.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,15,13,28,v,Capela Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,41
+0022301130,54,PT07M20.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,15,14,29,v,Capela Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,42
+0022301130,55,PT07M00.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,28,3,Missed,1,,,0,h,MISS Murray 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,43
+0022301130,56,PT06M57.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,44
+0022301130,57,PT06M51.00S,1,1610612737,ATL,1627749,Murray,D. Murray,31,8,3,Missed,1,,,0,v,MISS Murray 3' Running Layup,Missed Shot,Running Layup Shot,1,2,45
+0022301130,58,PT06M49.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0022301130,59,PT06M45.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,53,27,6,Made,1,17,14,31,h,Jokic 6' Running Layup (5 PTS) (Caldwell-Pope 1 AST),Made Shot,Running Layup Shot,1,2,47
+0022301130,61,PT06M28.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-9,67,7,Made,1,17,16,33,v,Hunter 7' Driving Floating Jump Shot (5 PTS) (Capela 1 AST),Made Shot,Driving Floating Jump Shot,1,2,48
+0022301130,62,PT06M28.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P1.T2) (D.Collins),Foul,Shooting,1,0,49
+0022301130,65,PT06M28.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0022301130,66,PT06M28.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Krejci FOR Bogdanovic,Substitution,,0,0,51
+0022301130,67,PT06M28.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Fernando FOR Capela,Substitution,,0,0,52
+0022301130,68,PT06M28.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Mathews FOR Johnson,Substitution,,0,0,53
+0022301130,72,PT06M28.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,17,17,34,v,Hunter Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,54
+0022301130,73,PT06M14.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-132,168,21,Made,1,19,17,36,h,Porter Jr. 21' Step Back Jump Shot (7 PTS) (Jokic 2 AST),Made Shot,Step Back Jump shot,1,2,55
+0022301130,75,PT05M59.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,37,262,26,Missed,1,,,0,v,MISS Hunter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022301130,76,PT05M54.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,57
+0022301130,77,PT05M42.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-27,262,26,Made,1,22,17,39,h,Caldwell-Pope 26' 3PT Pullup Jump Shot (5 PTS) (Murray 2 AST),Made Shot,Pullup Jump shot,1,3,58
+0022301130,79,PT05M42.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,59
+0022301130,81,PT05M42.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,23,17,40,h,Murray Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,60
+0022301130,82,PT05M24.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,-25,-15,3,Missed,1,,,0,v,MISS Fernando 3' Layup,Missed Shot,Layup Shot,1,2,61
+0022301130,83,PT05M22.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022301130,84,PT05M01.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-228,17,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,63
+0022301130,85,PT05M00.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,0,64
+0022301130,86,PT05M00.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,65
+0022301130,87,PT04M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-116,215,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022301130,88,PT04M41.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,67
+0022301130,89,PT04M38.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,68
+0022301130,89,PT04M38.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,69
+0022301130,91,PT04M28.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-164,173,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022301130,92,PT04M24.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301130,93,PT04M18.00S,1,1610612743,DEN,1627750,Murray,J. Murray,7,11,1,Made,1,25,17,42,h,Murray 1' Finger Roll Layup (6 PTS),Made Shot,Finger Roll Layup Shot,1,2,72
+0022301130,94,PT03M59.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,73
+0022301130,94,PT03M59.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic STEAL (1 STL),,,1,0,74
+0022301130,96,PT03M55.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,1,0,75
+0022301130,98,PT03M55.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,26,17,43,h,Jokic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+0022301130,99,PT03M55.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Jackson FOR Porter Jr.,Substitution,,0,0,77
+0022301130,100,PT03M55.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Watson FOR Murray,Substitution,,0,0,78
+0022301130,103,PT03M55.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,27,17,44,h,Jokic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+0022301130,104,PT03M41.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,234,27,24,Missed,1,,,0,v,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022301130,105,PT03M38.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022301130,106,PT03M25.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-32,28,4,Missed,1,,,0,h,MISS Jokic 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,82
+0022301130,107,PT03M23.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022301130,108,PT03M18.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,84
+0022301130,109,PT03M10.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,85
+0022301130,109,PT03M10.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter STEAL (1 STL),,,1,0,86
+0022301130,111,PT03M05.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,87
+0022301130,113,PT03M05.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,27,18,45,v,Murray Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+0022301130,114,PT03M05.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Holiday FOR Caldwell-Pope,Substitution,,0,0,89
+0022301130,115,PT03M05.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Hunter,Substitution,,0,0,90
+0022301130,116,PT03M05.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,91
+0022301130,120,PT03M05.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,92
+0022301130,121,PT03M03.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022301130,122,PT02M47.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,0,94
+0022301130,124,PT02M47.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,95
+0022301130,125,PT02M47.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,SUB: Bufkin FOR Murray,Substitution,,0,0,96
+0022301130,127,PT02M47.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,28,18,46,h,Jokic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,97
+0022301130,128,PT02M47.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,29,18,47,h,Jokic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+0022301130,129,PT02M29.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,75,245,26,Made,1,29,21,50,v,Johnson 26' 3PT Jump Shot (7 PTS) (Krejci 1 AST),Made Shot,Jump Shot,1,3,99
+0022301130,131,PT02M08.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,100
+0022301130,132,PT01M47.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-224,-1,0,Missed,1,,,0,v,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022301130,133,PT01M45.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,0,102
+0022301130,135,PT01M45.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Braun,Substitution,,0,0,103
+0022301130,137,PT01M27.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,225,-5,0,Missed,1,,,0,h,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022301130,138,PT01M24.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022301130,139,PT01M18.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,106
+0022301130,139,PT01M18.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson STEAL (1 STL),,,1,0,107
+0022301130,141,PT01M13.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-6,25,3,Missed,1,,,0,h,MISS Jokic 3' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,108
+0022301130,142,PT01M10.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022301130,143,PT01M04.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,11,3,1,Missed,1,,,0,v,MISS Fernando 1' Running Layup,Missed Shot,Running Layup Shot,1,2,110
+0022301130,144,PT01M03.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,111
+0022301130,145,PT01M03.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,Missed,1,,,0,v,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,112
+0022301130,146,PT01M03.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,113
+0022301130,148,PT00M51.80S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-110,246,27,Missed,1,,,0,v,MISS Bogdanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022301130,149,PT00M49.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,115
+0022301130,150,PT00M47.10S,1,1610612743,DEN,203200,Holiday,J. Holiday,9,21,2,Made,1,31,21,52,h,Holiday 2' Running Layup (2 PTS) (Jokic 3 AST),Made Shot,Running Layup Shot,1,2,116
+0022301130,152,PT00M37.90S,1,1610612737,ATL,1628981,Fernando,B. Fernando,2,-4,0,Made,1,31,23,54,v,Fernando Dunk (2 PTS) (Bufkin 1 AST),Made Shot,Dunk Shot,1,2,117
+0022301130,154,PT00M33.60S,1,1610612743,DEN,203999,Jokić,N. Jokić,-38,244,25,Missed,1,,,0,h,MISS Jokic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,118
+0022301130,155,PT00M30.90S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,119
+0022301130,156,PT00M17.70S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. P.FOUL (P2.T4) (S.Twardoski),Foul,Personal,1,0,120
+0022301130,158,PT00M17.70S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. T.FOUL (P2.T4) (D.Collins),Foul,Technical,1,0,121
+0022301130,159,PT00M17.70S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,31,24,55,v,Bogdanovic Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,122
+0022301130,160,PT00M17.70S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Porter Jr.,Substitution,,0,0,123
+0022301130,162,PT00M07.80S,1,1610612737,ATL,1628981,Fernando,B. Fernando,21,63,7,Made,1,31,26,57,v,Fernando 7' Floating Jump Shot (4 PTS) (Bogdanovic 1 AST),Made Shot,Floating Jump shot,1,2,124
+0022301130,164,PT00M01.80S,1,1610612743,DEN,202704,Jackson,R. Jackson,31,-9,3,Missed,1,,,0,h,MISS Jackson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+0022301130,165,PT00M01.80S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,126
+0022301130,166,PT00M01.80S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,Made,1,33,26,59,h,Watson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,127
+0022301130,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,26,59,,End of 1st Period (9:38 PM EST),period,end,1,0,128
+0022301130,174,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,26,59,,Start of 2nd Period (9:41 PM EST),period,start,0,0,129
+0022301130,175,PT11M47.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,2,58,6,Missed,1,,,0,h,MISS Jackson 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,130
+0022301130,177,PT11M44.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022301130,178,PT11M43.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,10,49,5,Made,1,35,26,61,h,Jackson 5' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,132
+0022301130,179,PT11M29.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P4.T6),Turnover,Bad Pass,1,0,133
+0022301130,179,PT11M29.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,134
+0022301130,184,PT11M09.00S,2,1610612743,DEN,1631212,Watson,P. Watson,16,25,3,Missed,1,,,0,h,MISS Watson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,135
+0022301130,185,PT11M07.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,136
+0022301130,186,PT11M01.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,10,27,3,Missed,1,,,0,v,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,137
+0022301130,187,PT10M59.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,138
+0022301130,188,PT10M52.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,-4,259,26,Missed,1,,,0,h,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022301130,189,PT10M49.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301130,190,PT10M41.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,0,141
+0022301130,192,PT10M33.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,-9,19,2,Missed,1,,,0,v,MISS Fernando 2' Layup,Missed Shot,Layup Shot,1,2,142
+0022301130,194,PT10M28.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,143
+0022301130,195,PT10M28.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando Lane Violation Turnover (P1.T7),Turnover,Lane Violation,1,0,144
+0022301130,196,PT10M11.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,65,257,27,Made,1,38,26,64,h,Holiday 27' 3PT Jump Shot (5 PTS) (Strawther 1 AST),Made Shot,Jump Shot,1,3,145
+0022301130,198,PT09M50.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,230,8,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022301130,199,PT09M47.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0022301130,200,PT09M42.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,0,148
+0022301130,202,PT09M42.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,149
+0022301130,203,PT09M42.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,150
+0022301130,204,PT09M42.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Capela FOR Bufkin,Substitution,,0,0,151
+0022301130,205,PT09M42.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Murray FOR Fernando,Substitution,,0,0,152
+0022301130,208,PT09M42.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,39,26,65,h,Watson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,153
+0022301130,209,PT09M25.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,154
+0022301130,211,PT09M25.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,155
+0022301130,212,PT09M25.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,156
+0022301130,213,PT09M25.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,157
+0022301130,214,PT09M23.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,158
+0022301130,215,PT09M11.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,7,0,1,Made,1,41,26,67,h,Jackson 1' Driving Finger Roll Layup (4 PTS) (Holiday 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,159
+0022301130,217,PT08M58.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-212,134,25,Made,1,41,29,70,v,Bogdanovic 25' 3PT Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,3,160
+0022301130,218,PT08M43.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,134,204,24,Made,1,44,29,73,h,Jackson 24' 3PT Step Back Jump Shot (7 PTS) (Holiday 2 AST),Made Shot,Step Back Jump shot,1,3,161
+0022301130,220,PT08M27.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,1,0,162
+0022301130,223,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,30,74,v,Mathews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,163
+0022301130,224,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,31,75,v,Mathews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,164
+0022301130,225,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,32,76,v,Mathews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,165
+0022301130,226,PT08M18.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,1,0,166
+0022301130,228,PT08M18.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Krejci FOR Johnson,Substitution,,0,0,167
+0022301130,229,PT08M18.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Hunter FOR Bogdanovic,Substitution,,0,0,168
+0022301130,232,PT08M15.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther OFF.Foul (P2) (P.Fraher),Foul,Offensive,1,0,169
+0022301130,234,PT08M15.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,170
+0022301130,235,PT08M03.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,1,0,171
+0022301130,238,PT08M03.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,44,33,77,v,Hunter Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,172
+0022301130,240,PT08M03.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,MISS Hunter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,173
+0022301130,241,PT08M01.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,174
+0022301130,242,PT07M50.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,-9,-3,1,Made,1,46,33,79,h,Nnaji 1' Cutting Dunk Shot (2 PTS) (Holiday 3 AST),Made Shot,Cutting Dunk Shot,1,2,175
+0022301130,244,PT07M38.00S,2,1610612737,ATL,1627749,Murray,D. Murray,17,25,3,Missed,1,,,0,v,MISS Murray 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,176
+0022301130,244,PT07M38.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (1 BLK),,,1,2,177
+0022301130,246,PT07M36.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+0022301130,247,PT07M32.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,-180,184,26,Made,1,49,33,82,h,Strawther 26' 3PT Running Jump Shot (3 PTS) (Holiday 4 AST),Made Shot,Running Jump Shot,1,3,179
+0022301130,249,PT07M32.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,180
+0022301130,250,PT07M19.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,238,55,24,Made,1,49,36,85,v,Krejci 24' 3PT Jump Shot (3 PTS) (Murray 4 AST),Made Shot,Jump Shot,1,3,181
+0022301130,252,PT06M59.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,-186,167,25,Made,1,52,36,88,h,Jackson 25' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,182
+0022301130,253,PT06M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-214,127,25,Made,1,52,39,91,v,Mathews 25' 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,183
+0022301130,255,PT06M40.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,184
+0022301130,256,PT06M40.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,SUB: Murray FOR Strawther,Substitution,,0,0,185
+0022301130,257,PT06M40.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,SUB: Jokic FOR Jackson,Substitution,,0,0,186
+0022301130,259,PT06M40.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,187
+0022301130,260,PT06M40.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Nnaji,Substitution,,0,0,188
+0022301130,266,PT06M31.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,0,189
+0022301130,267,PT06M22.00S,2,1610612743,DEN,1627750,Murray,J. Murray,103,101,14,Made,1,54,39,93,h,Murray 14' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,190
+0022301130,268,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-210,121,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,191
+0022301130,269,PT06M06.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,192
+0022301130,270,PT05M51.00S,2,1610612743,DEN,1631212,Watson,P. Watson,9,7,1,Made,1,56,39,95,h,Watson 1' Layup (5 PTS) (Murray 3 AST),Made Shot,Layup Shot,1,2,193
+0022301130,272,PT05M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,245,51,25,Made,1,56,42,98,v,Mathews 25' 3PT Pullup Jump Shot (9 PTS) (Murray 6 AST),Made Shot,Pullup Jump shot,1,3,194
+0022301130,276,PT05M35.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,195
+0022301130,277,PT05M35.00S,2,0,,274,,,0,0,0,,0,56,42,98,,Instant Replay2nd Period (10:03 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,196
+0022301130,280,PT05M35.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,SUB: Braun FOR Watson,Substitution,,0,0,197
+0022301130,281,PT05M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,198
+0022301130,282,PT05M35.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,SUB: Johnson FOR Krejci,Substitution,,0,0,199
+0022301130,286,PT05M20.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-11,12,2,Missed,1,,,0,h,MISS Murray 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,200
+0022301130,287,PT05M19.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,201
+0022301130,288,PT05M13.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,49,95,11,Made,1,56,44,100,v,Hunter 11' Pullup Jump Shot (9 PTS) (Johnson 2 AST),Made Shot,Pullup Jump shot,1,2,202
+0022301130,291,PT04M53.00S,2,1610612743,DEN,1627750,Murray,J. Murray,202,154,25,Missed,1,,,0,h,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022301130,292,PT04M51.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,204
+0022301130,293,PT04M41.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,83,27,9,Made,1,56,46,102,v,Bogdanovic 9' Driving Floating Jump Shot (6 PTS) (Johnson 3 AST),Made Shot,Driving Floating Jump Shot,1,2,205
+0022301130,295,PT04M24.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,206
+0022301130,297,PT04M14.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-228,25,0,Made,1,59,46,105,h,Caldwell-Pope 3PT Jump Shot (8 PTS) (Jokic 4 AST),Made Shot,Jump Shot,1,3,207
+0022301130,299,PT03M47.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,-124,0,12,Missed,1,,,0,v,MISS Johnson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+0022301130,300,PT03M44.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,209
+0022301130,301,PT03M39.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-234,65,24,Missed,1,,,0,h,MISS Caldwell-Pope 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,210
+0022301130,302,PT03M37.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,211
+0022301130,303,PT03M23.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P3.PN) (D.Collins),Foul,Shooting,1,0,212
+0022301130,305,PT03M23.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,59,47,106,v,Bogdanovic Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+0022301130,306,PT03M23.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Watson FOR Porter Jr.,Substitution,,0,0,214
+0022301130,308,PT03M23.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,59,48,107,v,Bogdanovic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,215
+0022301130,309,PT03M06.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope OFF.Foul (P1) (P.Fraher),Foul,Offensive,1,0,216
+0022301130,311,PT03M06.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,217
+0022301130,312,PT03M00.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,Braun S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,218
+0022301130,314,PT03M00.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,59,49,108,v,Capela Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+0022301130,315,PT03M00.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,59,50,109,v,Capela Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,220
+0022301130,316,PT02M47.00S,2,1610612743,DEN,1631212,Watson,P. Watson,-6,6,1,Made,1,61,50,111,h,Watson 1' Reverse Layup (7 PTS) (Murray 4 AST),Made Shot,Reverse Layup Shot,1,2,221
+0022301130,318,PT02M32.00S,2,1610612737,ATL,1627749,Murray,D. Murray,213,132,25,Made,1,61,53,114,v,Murray 25' 3PT Jump Shot (7 PTS) (Hunter 1 AST),Made Shot,Jump Shot,1,3,222
+0022301130,320,PT02M23.00S,2,1610612743,DEN,1627750,Murray,J. Murray,86,242,26,Made,1,64,53,117,h,Murray 26' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,223
+0022301130,321,PT02M13.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0,224
+0022301130,322,PT02M02.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,10,136,14,Missed,1,,,0,h,MISS Jokic 14' Jump Shot,Missed Shot,Jump Shot,1,2,225
+0022301130,323,PT02M00.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,226
+0022301130,324,PT01M54.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-50,234,24,Missed,1,,,0,v,MISS Bogdanovic 24' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,227
+0022301130,325,PT01M49.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,228
+0022301130,326,PT01M44.00S,2,1610612743,DEN,1627750,Murray,J. Murray,16,-5,2,Missed,1,,,0,h,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+0022301130,327,PT01M43.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,230
+0022301130,329,PT01M32.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,230,14,0,Missed,1,,,0,v,MISS Hunter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022301130,330,PT01M29.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,232
+0022301130,331,PT01M17.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,233
+0022301130,332,PT01M10.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela OFF.Foul (P2) (D.Collins),Foul,Offensive,1,0,234
+0022301130,334,PT01M10.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,235
+0022301130,335,PT01M07.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,2,12,1,Made,1,66,53,119,h,Caldwell-Pope 1' Driving Dunk (10 PTS) (Jokic 5 AST),Made Shot,Driving Dunk Shot,0,2,236
+0022301130,337,PT00M51.40S,2,1610612737,ATL,1629631,Hunter,D. Hunter,58,241,25,Made,1,66,56,122,v,Hunter 25' 3PT Step Back Jump Shot (12 PTS) (Capela 2 AST),Made Shot,Step Back Jump shot,1,3,237
+0022301130,339,PT00M34.20S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,232,31,0,Made,1,69,56,125,h,Caldwell-Pope 3PT Jump Shot (13 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,238
+0022301130,341,PT00M29.40S,2,1610612737,ATL,1627749,Murray,D. Murray,-181,168,25,Missed,1,,,0,v,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,239
+0022301130,341,PT00M29.40S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (2 BLK),,,1,3,240
+0022301130,343,PT00M25.70S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,241
+0022301130,344,PT00M19.30S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,242
+0022301130,344,PT00M19.30S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,0,243
+0022301130,346,PT00M01.40S,2,1610612737,ATL,1630552,Johnson,J. Johnson,-230,-13,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+0022301130,347,PT00M01.40S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,245
+0022301130,348,PT00M00.00S,2,0,,0,,,0,0,0,,0,69,56,125,,End of 2nd Period (10:13 PM EST),period,end,1,0,246
+0022301130,351,PT12M00.00S,3,0,,0,,,0,0,0,,0,69,56,125,,Start of 3rd Period (10:28 PM EST),period,start,0,0,247
+0022301130,352,PT11M45.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,248
+0022301130,352,PT11M45.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic STEAL (1 STL),,,1,0,249
+0022301130,354,PT11M43.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-12,25,3,Made,1,69,58,127,v,Bogdanovic 3' Running Finger Roll Layup (10 PTS) (Murray 7 AST),Made Shot,Running Finger Roll Layup Shot,1,2,250
+0022301130,356,PT11M22.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,114,235,26,Made,1,72,58,130,h,Jokic 26' 3PT Jump Shot (12 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,251
+0022301130,358,PT11M04.00S,3,1610612737,ATL,203991,Capela,C. Capela,-10,2,1,Made,1,72,60,132,v,Capela 1' Layup (8 PTS) (Bogdanovic 2 AST),Made Shot,Layup Shot,1,2,252
+0022301130,360,PT11M04.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,253
+0022301130,362,PT11M04.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,72,61,133,v,Capela Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,254
+0022301130,363,PT10M47.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-222,-21,0,Made,1,75,61,136,h,Porter Jr. 3PT Jump Shot (10 PTS) (Jokic 6 AST),Made Shot,Jump Shot,1,3,255
+0022301130,365,PT10M31.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-183,209,28,Made,1,75,64,139,v,Bogdanovic 28' 3PT Jump Shot (13 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,256
+0022301130,367,PT10M19.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,223,103,25,Made,1,78,64,142,h,Caldwell-Pope 25' 3PT Jump Shot (16 PTS) (Jokic 7 AST),Made Shot,Jump Shot,1,3,257
+0022301130,369,PT09M54.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,-109,32,11,Made,1,78,66,144,v,Johnson 11' Turnaround Bank Shot (9 PTS) (Murray 9 AST),Made Shot,Turnaround Bank shot,1,2,258
+0022301130,371,PT09M45.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,259
+0022301130,372,PT09M38.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic OFF.Foul (P3) (S.Twardoski),Foul,Offensive,1,0,260
+0022301130,374,PT09M38.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,261
+0022301130,375,PT09M28.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,262
+0022301130,375,PT09M28.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela STEAL (1 STL),,,1,0,263
+0022301130,377,PT09M23.00S,3,1610612737,ATL,203991,Capela,C. Capela,4,5,1,Made,1,78,68,146,v,Capela 1' Running Layup (11 PTS) (Murray 10 AST),Made Shot,Running Layup Shot,1,2,264
+0022301130,379,PT09M23.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,265
+0022301130,380,PT09M11.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-54,245,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022301130,381,PT09M08.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,267
+0022301130,382,PT09M06.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,26,25,4,Missed,1,,,0,h,MISS Porter Jr. 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,268
+0022301130,382,PT09M06.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray BLOCK (1 BLK),,,1,2,269
+0022301130,384,PT09M04.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,0,270
+0022301130,386,PT08M57.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,145,41,15,Made,1,80,68,148,h,Jokic 15' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,271
+0022301130,387,PT08M40.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-206,172,27,Made,1,80,71,151,v,Murray 27' 3PT Jump Shot (10 PTS) (Hunter 2 AST),Made Shot,Jump Shot,1,3,272
+0022301130,389,PT08M29.00S,3,1610612743,DEN,1627750,Murray,J. Murray,22,31,4,Made,1,82,71,153,h,Murray 4' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,273
+0022301130,390,PT08M29.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,274
+0022301130,392,PT08M29.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,83,71,154,h,Murray Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,275
+0022301130,393,PT08M10.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-29,253,25,Missed,1,,,0,v,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,276
+0022301130,394,PT08M07.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,277
+0022301130,395,PT08M00.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-172,111,20,Made,1,85,71,156,h,Murray 20' Step Back Jump Shot (16 PTS) (Jokic 8 AST),Made Shot,Step Back Jump shot,1,2,278
+0022301130,397,PT07M45.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,229,23,0,Made,1,85,74,159,v,Bogdanovic 3PT Jump Shot (16 PTS) (Johnson 4 AST),Made Shot,Jump Shot,1,3,279
+0022301130,399,PT07M25.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,10,159,16,Missed,1,,,0,h,MISS Jokic 16' Jump Shot,Missed Shot,Jump Shot,1,2,280
+0022301130,400,PT07M23.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,281
+0022301130,401,PT07M18.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,-25,-1,3,Missed,1,,,0,v,MISS Johnson 3' Running Layup,Missed Shot,Running Layup Shot,1,2,282
+0022301130,401,PT07M18.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray BLOCK (1 BLK),,,1,2,283
+0022301130,403,PT07M13.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,284
+0022301130,404,PT07M09.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-229,0,0,Made,1,88,74,162,h,Caldwell-Pope 3PT Running Jump Shot (19 PTS) (Porter Jr. 2 AST),Made Shot,Running Jump Shot,1,3,285
+0022301130,406,PT06M55.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,208,125,24,Missed,1,,,0,v,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+0022301130,407,PT06M52.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,287
+0022301130,408,PT06M48.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic P.FOUL (P4.T2) (D.Collins),Foul,Personal,1,0,288
+0022301130,410,PT06M48.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Krejci FOR Johnson,Substitution,,0,0,289
+0022301130,411,PT06M48.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,290
+0022301130,414,PT06M45.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,59,269,28,Missed,1,,,0,h,MISS Porter Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022301130,415,PT06M42.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,292
+0022301130,416,PT06M34.00S,3,1610612737,ATL,1627749,Murray,D. Murray,9,29,3,Missed,1,,,0,v,MISS Murray 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,293
+0022301130,417,PT06M32.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,294
+0022301130,418,PT06M30.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,11,0,1,Made,1,90,74,164,h,Porter Jr. 1' Running Dunk (12 PTS) (Jokic 9 AST),Made Shot,Running Dunk Shot,1,2,295
+0022301130,420,PT06M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,119,92,15,Made,1,90,76,166,v,Mathews 15' Fadeaway Jumper (11 PTS) (Capela 3 AST),Made Shot,Fadeaway Jump Shot,1,2,296
+0022301130,422,PT05M55.00S,3,1610612743,DEN,1631128,Braun,C. Braun,-229,-15,0,Made,1,93,76,169,h,Braun 3PT Jump Shot (5 PTS) (Murray 6 AST),Made Shot,Jump Shot,1,3,297
+0022301130,424,PT05M54.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,298
+0022301130,425,PT05M54.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Jackson FOR Murray,Substitution,,0,0,299
+0022301130,427,PT05M41.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-11,4,1,Made,1,93,78,171,v,Murray 1' Driving Layup (12 PTS) (Krejci 2 AST),Made Shot,Driving Layup Shot,1,2,300
+0022301130,429,PT05M17.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,185,11,19,Missed,1,,,0,h,MISS Jokic 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,301
+0022301130,430,PT05M13.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,302
+0022301130,431,PT05M13.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,26,0,3,Made,1,95,78,173,h,Porter Jr. 3' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,2,303
+0022301130,432,PT05M05.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope P.FOUL (P2.T2) (D.Collins),Foul,Personal,1,0,304
+0022301130,434,PT05M05.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Fernando FOR Capela,Substitution,,0,0,305
+0022301130,436,PT04M56.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-99,102,14,Made,1,95,80,175,v,Hunter 14' Driving Floating Jump Shot (14 PTS) (Murray 11 AST),Made Shot,Driving Floating Jump Shot,1,2,306
+0022301130,438,PT04M36.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,1,0,307
+0022301130,440,PT04M36.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Watson FOR Porter Jr.,Substitution,,0,0,308
+0022301130,442,PT04M30.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,-61,125,14,Missed,1,,,0,h,MISS Jackson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,309
+0022301130,443,PT04M27.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,310
+0022301130,444,PT04M20.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,311
+0022301130,444,PT04M20.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (2 STL),,,1,0,312
+0022301130,446,PT04M17.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-25,252,25,Missed,1,,,0,h,MISS Caldwell-Pope 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,313
+0022301130,447,PT04M12.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,314
+0022301130,448,PT04M03.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,48,22,5,Made,1,97,80,177,h,Caldwell-Pope 5' Cutting Layup Shot (21 PTS) (Jokic 10 AST),Made Shot,Cutting Layup Shot,1,2,315
+0022301130,450,PT03M51.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,316
+0022301130,450,PT03M51.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic STEAL (2 STL),,,1,0,317
+0022301130,452,PT03M51.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,Hunter P.FOUL (P2.T4) (D.Collins),Foul,Personal,1,0,318
+0022301130,454,PT03M37.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,59,29,7,Made,1,99,80,179,h,Jokic 7' Driving Floating Bank Jump Shot (16 PTS) (Jackson 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,319
+0022301130,456,PT03M30.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-191,167,25,Missed,1,,,0,v,MISS Hunter 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,320
+0022301130,457,PT03M27.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,321
+0022301130,458,PT03M12.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,322
+0022301130,458,PT03M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (2 STL),,,1,0,323
+0022301130,460,PT03M12.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson P.FOUL (P3.T3) (D.Collins),Foul,Personal,1,0,324
+0022301130,462,PT03M12.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,h,SUB: Holiday FOR Braun,Substitution,,0,0,325
+0022301130,463,PT03M12.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Johnson FOR Hunter,Substitution,,0,0,326
+0022301130,464,PT03M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,327
+0022301130,468,PT02M59.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,-32,15,4,Missed,1,,,0,v,MISS Johnson 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,328
+0022301130,469,PT02M57.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,329
+0022301130,470,PT02M57.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,Made,1,99,82,181,v,Johnson Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,330
+0022301130,471,PT02M42.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-26,31,4,Made,1,101,82,183,h,Jokic 4' Floating Jump Shot (18 PTS) (Holiday 5 AST),Made Shot,Floating Jump shot,1,2,331
+0022301130,473,PT02M30.00S,3,1610612737,ATL,1628981,Fernando,B. Fernando,-2,5,1,Made,1,101,84,185,v,Fernando 1' Driving Dunk (6 PTS) (Murray 12 AST),Made Shot,Driving Dunk Shot,1,2,332
+0022301130,475,PT02M13.00S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,1,0,333
+0022301130,477,PT02M13.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,MISS Jokic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,334
+0022301130,478,PT02M13.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,1,0,335
+0022301130,479,PT02M13.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,102,84,186,h,Jokic Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+0022301130,480,PT02M02.00S,3,1610612737,ATL,1628981,Fernando,B. Fernando,-11,13,2,Missed,1,,,0,v,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,337
+0022301130,480,PT02M02.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (3 BLK),,,1,2,338
+0022301130,482,PT01M58.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,339
+0022301130,483,PT01M54.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,239,22,24,Made,1,105,84,189,h,Caldwell-Pope 24' 3PT Running Jump Shot (24 PTS) (Watson 1 AST),Made Shot,Running Jump Shot,1,3,340
+0022301130,486,PT01M27.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P5.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,341
+0022301130,487,PT01M14.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,4,8,1,Made,1,107,84,191,h,Jackson 1' Driving Finger Roll Layup (12 PTS) (Jokic 11 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,342
+0022301130,489,PT01M02.00S,3,1610612737,ATL,1627749,Murray,D. Murray,53,258,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022301130,490,PT00M59.40S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:13),Rebound,Unknown,1,0,344
+0022301130,491,PT00M52.40S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,345
+0022301130,492,PT00M45.40S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,346
+0022301130,493,PT00M33.60S,3,1610612743,DEN,202704,Jackson,R. Jackson,164,214,27,Made,1,110,84,194,h,Jackson 27' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,3,347
+0022301130,494,PT00M18.80S,3,1610612737,ATL,1630552,Johnson,J. Johnson,-1,8,1,Made,1,110,86,196,v,Johnson 1' Driving Dunk (13 PTS) (Fernando 1 AST),Made Shot,Driving Dunk Shot,1,2,348
+0022301130,496,PT00M00.50S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P4.PN) (S.Twardoski),Foul,Shooting,1,0,349
+0022301130,498,PT00M00.50S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,111,86,197,h,Jackson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+0022301130,499,PT00M00.50S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,MISS Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,351
+0022301130,500,PT00M00.00S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,352
+0022301130,501,PT00M00.00S,3,0,,0,,,0,0,0,,0,111,86,197,,End of 3rd Period (10:53 PM EST),period,end,1,0,353
+0022301130,510,PT12M00.00S,4,0,,0,,,0,0,0,,0,111,86,197,,Start of 4th Period (10:56 PM EST),period,start,0,0,354
+0022301130,511,PT11M40.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,-18,44,5,Missed,1,,,0,v,MISS Johnson 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,355
+0022301130,512,PT11M37.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,356
+0022301130,513,PT11M36.00S,4,1610612737,ATL,203991,Capela,C. Capela,5,6,1,Made,1,111,88,199,v,Capela 1' Hook Shot (13 PTS),Made Shot,Hook Shot,1,2,357
+0022301130,514,PT11M21.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-4,-5,1,Made,1,113,88,201,h,Watson 1' Reverse Dunk (9 PTS) (Jackson 2 AST),Made Shot,Reverse Dunk Shot,1,2,358
+0022301130,516,PT11M04.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-34,20,4,Missed,1,,,0,v,MISS Bufkin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,359
+0022301130,516,PT11M04.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (4 BLK),,,1,2,360
+0022301130,518,PT11M01.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+0022301130,519,PT10M56.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,69,250,26,Missed,1,,,0,h,MISS Strawther 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,362
+0022301130,520,PT10M53.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,363
+0022301130,521,PT10M48.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-15,10,2,Missed,1,,,0,v,MISS Bogdanovic 2' Running Layup,Missed Shot,Running Layup Shot,1,2,364
+0022301130,522,PT10M46.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0022301130,523,PT10M24.00S,4,1610612743,DEN,1631212,Watson,P. Watson,27,13,3,Made,1,115,88,203,h,Watson 3' Layup (11 PTS) (Jackson 3 AST),Made Shot,Layup Shot,1,2,366
+0022301130,525,PT10M07.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,11,32,3,Missed,1,,,0,v,MISS Bogdanovic 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,367
+0022301130,526,PT10M06.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,368
+0022301130,527,PT10M06.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,Made,1,115,90,205,v,Bogdanovic Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,369
+0022301130,528,PT09M53.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,370
+0022301130,530,PT09M40.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,-102,234,26,Missed,1,,,0,h,MISS Jackson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,371
+0022301130,531,PT09M37.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,372
+0022301130,532,PT09M24.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,-136,17,14,Made,1,115,92,207,v,Johnson 14' Turnaround Fadeaway (15 PTS) (Bufkin 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,373
+0022301130,534,PT09M07.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,137,219,26,Missed,1,,,0,h,MISS Strawther 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022301130,535,PT09M04.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,375
+0022301130,536,PT08M47.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P6.T15),Turnover,Bad Pass,1,0,376
+0022301130,536,PT08M47.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji STEAL (1 STL),,,1,0,377
+0022301130,538,PT08M43.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,378
+0022301130,538,PT08M43.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci STEAL (1 STL),,,1,0,379
+0022301130,540,PT08M41.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,0,380
+0022301130,542,PT08M41.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,115,93,208,v,Capela Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+0022301130,543,PT08M41.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Murray FOR Bogdanovic,Substitution,,0,0,382
+0022301130,545,PT08M41.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,115,94,209,v,Capela Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022301130,546,PT08M30.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,10,4,1,Missed,1,,,0,h,MISS Strawther 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,384
+0022301130,547,PT08M28.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,385
+0022301130,548,PT08M24.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,-1,6,1,Made,1,115,96,211,v,Johnson 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,1,2,386
+0022301130,549,PT08M24.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,387
+0022301130,550,PT08M24.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Strawther,Substitution,,0,0,388
+0022301130,552,PT08M14.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,25,88,9,Made,1,117,96,213,h,Jackson 9' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,389
+0022301130,553,PT07M59.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-229,99,25,Missed,1,,,0,v,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301130,554,PT07M57.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,391
+0022301130,555,PT07M47.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-76,235,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022301130,556,PT07M43.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,393
+0022301130,557,PT07M31.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,20,17,3,Missed,1,,,0,v,MISS Johnson 3' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,394
+0022301130,558,PT07M30.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,395
+0022301130,559,PT07M21.00S,4,1610612743,DEN,1631212,Watson,P. Watson,55,146,16,Made,1,119,96,215,h,Watson 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,396
+0022301130,560,PT07M09.00S,4,1610612737,ATL,203991,Capela,C. Capela,6,25,3,Made,1,119,98,217,v,Capela 3' Cutting Layup Shot (17 PTS) (Bufkin 3 AST),Made Shot,Cutting Layup Shot,1,2,397
+0022301130,562,PT07M09.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P4.T2) (S.Twardoski),Foul,Shooting,1,0,398
+0022301130,564,PT07M09.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Hunter FOR Johnson,Substitution,,0,0,399
+0022301130,565,PT07M09.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Mathews FOR Bufkin,Substitution,,0,0,400
+0022301130,568,PT07M09.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,401
+0022301130,569,PT07M07.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,402
+0022301130,570,PT06M44.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,223,24,0,Made,1,122,98,220,h,Holiday 3PT Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,3,403
+0022301130,571,PT06M25.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,404
+0022301130,573,PT06M25.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,122,99,221,v,Hunter Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,405
+0022301130,574,PT06M25.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,SUB: Johnson FOR Krejci,Substitution,,0,0,406
+0022301130,576,PT06M25.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,122,100,222,v,Hunter Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,407
+0022301130,577,PT06M10.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,45,21,5,Missed,1,,,0,h,MISS Nnaji 5' Layup,Missed Shot,Layup Shot,1,2,408
+0022301130,578,PT06M07.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,409
+0022301130,579,PT05M59.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-115,21,12,Missed,1,,,0,v,MISS Murray 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,410
+0022301130,580,PT05M56.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,411
+0022301130,581,PT05M50.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,Jackson Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,412
+0022301130,582,PT05M39.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,1,0,413
+0022301130,584,PT05M39.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,122,101,223,v,Hunter Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022301130,585,PT05M39.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,122,102,224,v,Hunter Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+0022301130,586,PT05M28.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-40,260,26,Made,1,125,102,227,h,Porter Jr. 26' 3PT Step Back Jump Shot (17 PTS) (Nnaji 1 AST),Made Shot,Step Back Jump shot,1,3,416
+0022301130,588,PT05M11.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,126,236,27,Missed,1,,,0,v,MISS Hunter 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,417
+0022301130,589,PT05M08.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,418
+0022301130,590,PT04M57.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,-229,11,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022301130,591,PT04M53.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,420
+0022301130,592,PT04M53.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,0,421
+0022301130,594,PT04M53.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,125,103,228,v,Capela Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022301130,595,PT04M53.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,125,104,229,v,Capela Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,423
+0022301130,596,PT04M44.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,69,252,26,Made,1,128,104,232,h,Porter Jr. 26' 3PT Jump Shot (20 PTS) (Holiday 6 AST),Made Shot,Jump Shot,1,3,424
+0022301130,598,PT04M34.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,425
+0022301130,600,PT04M34.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,128,105,233,v,Murray Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,426
+0022301130,601,PT04M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,427
+0022301130,603,PT04M34.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,128,106,234,v,Murray Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022301130,604,PT04M18.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,114,236,26,Made,1,131,106,237,h,Nnaji 26' 3PT Jump Shot (5 PTS) (Watson 2 AST),Made Shot,Jump Shot,1,3,429
+0022301130,606,PT04M07.00S,4,1610612737,ATL,1627749,Murray,D. Murray,153,209,26,Missed,1,,,0,v,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+0022301130,607,PT04M05.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,431
+0022301130,608,PT04M01.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-25,142,14,Missed,1,,,0,v,MISS Murray 14' Jump Shot,Missed Shot,Jump Shot,1,2,432
+0022301130,609,PT03M57.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,433
+0022301130,612,PT03M43.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Tyson FOR Porter Jr.,Substitution,,0,0,434
+0022301130,613,PT03M43.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Gueye FOR Johnson,Substitution,,0,0,435
+0022301130,614,PT03M43.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,SUB: Fernando FOR Murray,Substitution,,0,0,436
+0022301130,615,PT03M43.00S,4,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,,,0,v,SUB: Krejci FOR Hunter,Substitution,,0,0,437
+0022301130,616,PT03M43.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Bufkin FOR Capela,Substitution,,0,0,438
+0022301130,622,PT03M38.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-206,145,25,Missed,1,,,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022301130,623,PT03M35.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,440
+0022301130,624,PT03M27.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-234,68,24,Missed,1,,,0,v,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022301130,625,PT03M25.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,442
+0022301130,626,PT03M23.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,9,10,1,Missed,1,,,0,v,MISS Krejci 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,443
+0022301130,626,PT03M23.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (5 BLK),,,1,2,444
+0022301130,628,PT03M20.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,445
+0022301130,629,PT03M15.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,446
+0022301130,630,PT03M15.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,,,0,h,SUB: Pickett FOR Jackson,Substitution,,0,0,447
+0022301130,631,PT03M15.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,SUB: Huff FOR Watson,Substitution,,0,0,448
+0022301130,632,PT03M15.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,SUB: Strawther FOR Nnaji,Substitution,,0,0,449
+0022301130,633,PT03M15.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,450
+0022301130,638,PT03M10.00S,4,1610612743,DEN,1641816,Tyson,H. Tyson,162,195,25,Missed,1,,,0,h,MISS Tyson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022301130,639,PT03M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,452
+0022301130,640,PT02M53.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-142,97,17,Made,1,131,108,239,v,Bufkin 17' Pullup Jump Shot (2 PTS) (Fernando 2 AST),Made Shot,Pullup Jump shot,1,2,453
+0022301130,642,PT02M37.00S,4,1610612743,DEN,1629618,Pickett,J. Pickett,238,71,25,Missed,1,,,0,h,MISS Pickett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+0022301130,643,PT02M34.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,v,Krejci REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,455
+0022301130,644,PT02M27.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,223,2,0,Missed,1,,,0,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+0022301130,645,PT02M24.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,457
+0022301130,646,PT02M19.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P5.T2) (D.Collins),Foul,Shooting,1,0,458
+0022301130,648,PT02M19.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,132,108,240,h,Strawther Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0022301130,649,PT02M19.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,133,108,241,h,Strawther Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022301130,650,PT02M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,21,259,26,Missed,1,,,0,v,MISS Bufkin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,461
+0022301130,651,PT02M03.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,462
+0022301130,652,PT02M03.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,463
+0022301130,652,PT02M03.00S,4,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett STEAL (1 STL),,,1,0,464
+0022301130,654,PT01M58.00S,4,1610612743,DEN,1629618,Pickett,J. Pickett,11,255,26,Made,1,136,108,244,h,Pickett 26' 3PT Running Jump Shot (3 PTS) (Strawther 2 AST),Made Shot,Running Jump Shot,1,3,465
+0022301130,656,PT01M44.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,-27,26,4,Missed,1,,,0,v,MISS Fernando 4' Layup,Missed Shot,Layup Shot,1,2,466
+0022301130,656,PT01M44.00S,4,1610612743,DEN,1630643,Huff,J. Huff,0,0,0,,0,,,0,h,Huff BLOCK (1 BLK),,,1,2,467
+0022301130,658,PT01M44.00S,4,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,468
+0022301130,659,PT01M34.00S,4,1610612743,DEN,1630643,Huff,J. Huff,9,15,2,Made,1,138,108,246,h,Huff 2' Driving Finger Roll Layup (2 PTS) (Pickett 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,469
+0022301130,661,PT01M16.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,83,247,26,Missed,1,,,0,v,MISS Krejci 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,470
+0022301130,662,PT01M13.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,471
+0022301130,663,PT01M06.00S,4,1610612743,DEN,1630643,Huff,J. Huff,2,5,1,Made,1,140,108,248,h,Huff 1' Driving Dunk (4 PTS) (Strawther 3 AST),Made Shot,Driving Dunk Shot,1,2,472
+0022301130,665,PT00M54.50S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,96,84,13,Made,1,140,110,250,v,Bufkin 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,473
+0022301130,666,PT00M42.20S,4,1610612743,DEN,1641816,Tyson,H. Tyson,55,6,6,Made,1,142,110,252,h,Tyson 6' Driving Layup (2 PTS) (Pickett 2 AST),Made Shot,Driving Layup Shot,1,2,474
+0022301130,668,PT00M28.60S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-75,110,13,Missed,1,,,0,v,MISS Gueye 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,475
+0022301130,669,PT00M25.70S,4,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,476
+0022301130,670,PT00M02.50S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,1,0,477
+0022301130,671,PT00M00.00S,4,0,,0,,,0,0,0,,0,142,110,252,,End of 4th Period (11:21 PM EST),period,end,1,0,478

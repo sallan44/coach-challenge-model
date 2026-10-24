@@ -1,0 +1,477 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400736,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:41 PM EST),period,start,1,0,1
+0022400736,4,PT12M00.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Jump Ball Okongwu vs. Lopez: Tip to Barlow,Jump Ball,,1,0,2
+0022400736,7,PT11M42.00S,1,1610612737,ATL,1629027,Young,T. Young,227,-20,0,Missed,1,,,0,h,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0022400736,8,PT11M39.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022400736,9,PT11M31.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-115,15,12,Missed,1,,,0,v,MISS Portis 12' Jump Shot,Missed Shot,Jump Shot,1,2,5
+0022400736,10,PT11M28.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022400736,11,PT11M22.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,5,13,1,Made,1,2,0,2,h,Barlow 1' Alley Oop Layup (2 PTS) (Daniels 1 AST),Made Shot,Alley Oop Layup shot,1,2,7
+0022400736,13,PT11M08.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,91,243,26,Missed,1,,,0,v,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022400736,14,PT11M03.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022400736,15,PT10M59.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,10
+0022400736,16,PT10M48.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,38,264,27,Made,1,2,3,5,v,Lillard 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,11
+0022400736,17,PT10M33.00S,1,1610612737,ATL,1629027,Young,T. Young,-104,231,25,Made,1,5,3,8,h,Young 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,12
+0022400736,18,PT10M20.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-131,213,25,Made,1,5,6,11,v,Lillard 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,13
+0022400736,20,PT10M05.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,230,-5,0,Missed,1,,,0,h,MISS Risacher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022400736,21,PT10M02.00S,1,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022400736,22,PT09M49.00S,1,1610612749,MIL,1626171,Portis,B. Portis,89,26,9,Made,1,5,8,13,v,Portis 9' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,1,2,16
+0022400736,24,PT09M36.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,9,260,26,Made,1,8,8,16,h,Risacher 26' 3PT Jump Shot (3 PTS) (Young 1 AST),Made Shot,Jump Shot,1,3,17
+0022400736,26,PT09M13.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-141,22,14,Missed,1,,,0,v,MISS Portis 14' Jump Shot,Missed Shot,Jump Shot,1,2,18
+0022400736,27,PT09M10.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022400736,28,PT09M04.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,-38,256,26,Missed,1,,,0,h,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0022400736,29,PT09M00.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0022400736,30,PT08M53.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,22
+0022400736,31,PT08M45.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,6,8,1,Missed,1,,,0,h,MISS Daniels 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+0022400736,32,PT08M42.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,24
+0022400736,33,PT08M35.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,70,167,18,Missed,1,,,0,v,MISS Lillard 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,25
+0022400736,34,PT08M31.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+0022400736,35,PT08M24.00S,1,1610612737,ATL,1629027,Young,T. Young,-94,233,25,Missed,1,,,0,h,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,27
+0022400736,36,PT08M22.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,28
+0022400736,37,PT08M13.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-4,6,1,Made,1,8,10,18,v,Portis 1' Driving Finger Roll Layup (4 PTS) (Lillard 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,29
+0022400736,39,PT08M07.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,30
+0022400736,41,PT08M07.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,9,10,19,h,Okongwu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+0022400736,42,PT08M07.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,10,10,20,h,Okongwu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,32
+0022400736,43,PT07M49.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,2,96,10,Made,1,10,12,22,v,Lopez 10' Floating Jump Shot (2 PTS) (Prince 1 AST),Made Shot,Floating Jump shot,1,2,33
+0022400736,45,PT07M42.00S,1,1610612737,ATL,1629027,Young,T. Young,9,11,1,Made,1,12,12,24,h,Young 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,34
+0022400736,46,PT07M33.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,26,32,4,Missed,1,,,0,v,MISS Lillard 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,35
+0022400736,46,PT07M33.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow BLOCK (1 BLK),,,1,2,36
+0022400736,48,PT07M32.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,0,37
+0022400736,50,PT07M28.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,233,25,0,Missed,1,,,0,v,MISS Lillard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022400736,51,PT07M24.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,39
+0022400736,52,PT07M22.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-103,32,11,Made,1,12,14,26,v,Portis 11' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,2,40
+0022400736,53,PT07M14.00S,1,1610612737,ATL,1629027,Young,T. Young,17,117,12,Missed,1,,,0,h,MISS Young 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,41
+0022400736,54,PT07M11.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,42
+0022400736,55,PT07M10.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-2,16,2,Missed,1,,,0,h,MISS Okongwu 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,43
+0022400736,55,PT07M10.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis BLOCK (1 BLK),,,1,2,44
+0022400736,57,PT07M07.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022400736,58,PT07M05.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher S.FOUL (P1.T1) (M.Boland),Foul,Shooting,1,0,46
+0022400736,60,PT07M05.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,12,15,27,v,Lillard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,47
+0022400736,61,PT07M05.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022400736,62,PT07M05.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,12,16,28,v,Lillard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,49
+0022400736,63,PT06M53.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,-9,17,2,Made,1,14,16,30,h,Okongwu 2' Cutting Dunk Shot (4 PTS) (Daniels 2 AST),Made Shot,Cutting Dunk Shot,1,2,50
+0022400736,65,PT06M38.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,HAWKS T.Foul (Def. 3 Sec Risacher ) (J.Tiven),Foul,Defense 3 Second,1,0,51
+0022400736,66,PT06M38.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,14,17,31,v,Lillard Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0,52
+0022400736,67,PT06M38.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Wallace FOR Young,Substitution,,0,0,53
+0022400736,69,PT06M31.00S,1,1610612749,MIL,1627752,Prince,T. Prince,-5,-4,1,Made,1,14,19,33,v,Prince 1' Driving Dunk (2 PTS) (Portis 1 AST),Made Shot,Driving Dunk Shot,1,2,54
+0022400736,71,PT06M22.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,48,259,26,Missed,1,,,0,h,MISS Wallace 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,55
+0022400736,72,PT06M18.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,56
+0022400736,73,PT06M16.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,57
+0022400736,75,PT06M16.00S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Okongwu,Substitution,,0,0,58
+0022400736,76,PT06M16.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Green FOR Portis,Substitution,,0,0,59
+0022400736,77,PT06M16.00S,1,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Kuzma FOR Jackson Jr.,Substitution,,0,0,60
+0022400736,81,PT05M59.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-47,243,25,Missed,1,,,0,v,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022400736,82,PT05M55.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022400736,83,PT05M39.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,-43,50,7,Missed,1,,,0,h,MISS Daniels 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,63
+0022400736,84,PT05M36.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022400736,85,PT05M22.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,65
+0022400736,85,PT05M22.00S,1,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,66
+0022400736,87,PT05M16.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-192,115,22,Made,1,16,19,35,h,Risacher 22' Running Jump Shot (5 PTS) (Wallace 1 AST),Made Shot,Running Jump Shot,1,2,67
+0022400736,89,PT05M02.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,10,66,7,Missed,1,,,0,v,MISS Lopez 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+0022400736,90,PT05M01.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,69
+0022400736,92,PT05M01.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,SUB: Krejci FOR Barlow,Substitution,,0,0,70
+0022400736,93,PT05M01.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Gueye FOR Risacher,Substitution,,0,0,71
+0022400736,96,PT04M48.00S,1,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,-42,259,26,Made,1,19,19,38,h,Nance Jr. 26' 3PT Jump Shot (3 PTS) (Wallace 2 AST),Made Shot,Jump Shot,1,3,72
+0022400736,98,PT04M37.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,17,17,2,Missed,1,,,0,v,MISS Lopez 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,73
+0022400736,98,PT04M37.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (1 BLK),,,1,2,74
+0022400736,100,PT04M33.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+0022400736,101,PT04M29.00S,1,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,-15,1,2,Missed,1,,,0,h,MISS Nance Jr. 2' Dunk,Missed Shot,Dunk Shot,1,2,76
+0022400736,102,PT04M26.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022400736,103,PT04M15.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-29,242,24,Missed,1,,,0,v,MISS Lillard 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,78
+0022400736,104,PT04M12.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022400736,105,PT04M05.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-240,-6,24,Made,1,22,19,41,h,Gueye 24' 3PT Jump Shot (3 PTS) (Nance Jr. 1 AST),Made Shot,Jump Shot,1,3,80
+0022400736,107,PT04M03.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0022400736,108,PT04M03.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Prince,Substitution,,0,0,82
+0022400736,110,PT03M48.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,32,40,5,Made,1,22,21,43,v,Kuzma 5' Driving Hook Shot (2 PTS) (Lopez 1 AST),Made Shot,Driving Hook Shot,1,2,83
+0022400736,112,PT03M39.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,223,111,25,Made,1,25,21,46,h,Krejci 25' 3PT Jump Shot (3 PTS) (Daniels 3 AST),Made Shot,Jump Shot,1,3,84
+0022400736,114,PT03M27.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-233,24,0,Missed,1,,,0,v,MISS Trent Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022400736,115,PT03M24.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022400736,116,PT03M08.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,183,176,25,Missed,1,,,0,h,MISS Gueye 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022400736,117,PT03M05.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0022400736,118,PT02M55.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,89
+0022400736,118,PT02M55.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye STEAL (1 STL),,,1,0,90
+0022400736,120,PT02M51.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,7,16,2,Made,1,27,21,48,h,Daniels 2' Running Layup (2 PTS) (Krejci 1 AST),Made Shot,Running Layup Shot,1,2,91
+0022400736,122,PT02M27.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,28,121,12,Missed,1,,,0,v,MISS Lopez 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,92
+0022400736,123,PT02M24.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,93
+0022400736,124,PT02M18.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0,94
+0022400736,126,PT02M18.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,95
+0022400736,127,PT02M18.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,96
+0022400736,128,PT02M18.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,SUB: Young FOR Wallace,Substitution,,0,0,97
+0022400736,129,PT02M18.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Portis FOR Lillard,Substitution,,0,0,98
+0022400736,130,PT02M18.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Rollins FOR Lopez,Substitution,,0,0,99
+0022400736,134,PT02M18.00S,1,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,28,21,49,h,Daniels Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022400736,135,PT01M55.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,87,171,19,Missed,1,,,0,v,MISS Trent Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,101
+0022400736,136,PT01M52.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,102
+0022400736,137,PT01M49.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,-21,257,26,Made,1,31,21,52,h,Krejci 26' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,103
+0022400736,138,PT01M31.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-197,142,24,Missed,1,,,0,v,MISS Portis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022400736,139,PT01M29.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022400736,140,PT01M17.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,33,127,13,Made,1,33,21,54,h,Gueye 13' Jump Shot (5 PTS) (Krejci 2 AST),Made Shot,Jump Shot,1,2,106
+0022400736,142,PT00M57.70S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-87,229,24,Made,1,33,24,57,v,Kuzma 24' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,107
+0022400736,143,PT00M44.50S,1,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,161,207,26,Made,1,36,24,60,h,Nance Jr. 26' 3PT Jump Shot (6 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,108
+0022400736,145,PT00M34.50S,1,1610612749,MIL,1631157,Rollins,R. Rollins,43,13,4,Missed,1,,,0,v,MISS Rollins 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,109
+0022400736,146,PT00M31.20S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,110
+0022400736,147,PT00M26.40S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. P.FOUL (P1.T3) (J.Tiven),Foul,Personal,1,0,111
+0022400736,149,PT00M13.10S,1,1610612737,ATL,1629027,Young,T. Young,-132,319,35,Missed,1,,,0,h,MISS Young 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,112
+0022400736,150,PT00M09.50S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0022400736,151,PT00M03.40S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-191,171,26,Missed,1,,,0,v,MISS Kuzma 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,114
+0022400736,152,PT00M00.60S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,0,115
+0022400736,153,PT00M00.60S,1,0,,151,,,0,0,0,,0,36,24,60,,Instant Replay1st Period (8:04 PM EST),Instant Replay,Support Ruling,0,0,116
+0022400736,154,PT00M00.40S,1,1610612749,MIL,1626171,Portis,B. Portis,16,68,7,Made,1,36,26,62,v,Portis 7' Jump Shot (8 PTS) (Rollins 1 AST),Made Shot,Jump Shot,1,2,117
+0022400736,156,PT00M00.00S,1,0,,154,Caldwell,A. Caldwell,0,0,0,,0,36,26,62,,Instant Replay1st Period (8:06 PM EST),Instant Replay,Support Ruling,0,0,118
+0022400736,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,36,26,62,,End of 1st Period (8:06 PM EST),period,end,1,0,119
+0022400736,160,PT12M00.00S,2,0,,0,,,0,0,0,,0,36,26,62,,Start of 2nd Period (8:08 PM EST),period,start,0,0,120
+0022400736,161,PT11M37.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,121
+0022400736,162,PT11M19.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Traveling Turnover (P1.T2),Turnover,Traveling,1,0,122
+0022400736,163,PT11M08.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,10,88,9,Missed,1,,,0,v,MISS Kuzma 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,123
+0022400736,164,PT11M05.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,124
+0022400736,165,PT11M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,5,15,2,Made,1,38,26,64,h,Mathews 2' Running Layup (2 PTS) (Young 3 AST),Made Shot,Running Layup Shot,1,2,125
+0022400736,167,PT10M45.00S,2,1610612749,MIL,1631260,Green,A. Green,-11,0,1,Missed,1,,,0,v,MISS Green 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,126
+0022400736,168,PT10M43.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,127
+0022400736,169,PT10M24.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,227,-1,0,Missed,1,,,0,h,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022400736,170,PT10M21.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,Rollins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022400736,171,PT10M13.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,-121,222,25,Made,1,38,29,67,v,Rollins 25' 3PT Jump Shot (3 PTS) (Portis 2 AST),Made Shot,Jump Shot,1,3,130
+0022400736,173,PT10M02.00S,2,1610612737,ATL,1629027,Young,T. Young,82,253,27,Made,1,41,29,70,h,Young 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,131
+0022400736,174,PT09M50.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,229,38,0,Made,1,41,32,73,v,Trent Jr. 3PT Pullup Jump Shot (3 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,1,3,132
+0022400736,176,PT09M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,230,-8,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022400736,177,PT09M33.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,0,134
+0022400736,178,PT09M33.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye L.B.FOUL (P1.T1) (M.Boland),Foul,Loose Ball,1,0,135
+0022400736,180,PT09M22.00S,2,1610612749,MIL,1626171,Portis,B. Portis,2,243,24,Made,1,41,35,76,v,Portis 24' 3PT Jump Shot (11 PTS) (Trent Jr. 1 AST),Made Shot,Jump Shot,1,3,136
+0022400736,182,PT09M06.00S,2,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,125,231,26,Missed,1,,,0,h,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022400736,183,PT09M01.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,Rollins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+0022400736,184,PT08M54.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,110,75,13,Missed,1,,,0,v,MISS Rollins 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,139
+0022400736,185,PT08M52.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,140
+0022400736,186,PT08M46.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,5,12,1,Made,1,43,35,78,h,Krejci 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,141
+0022400736,187,PT08M30.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-33,74,8,Made,1,43,37,80,v,Portis 8' Driving Floating Jump Shot (13 PTS) (Trent Jr. 2 AST),Made Shot,Driving Floating Jump Shot,1,2,142
+0022400736,189,PT08M12.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,-232,-4,0,Missed,1,,,0,h,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022400736,190,PT08M09.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,144
+0022400736,191,PT07M50.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-164,192,25,Made,1,43,40,83,v,Kuzma 25' 3PT Jump Shot (8 PTS) (Trent Jr. 3 AST),Made Shot,Jump Shot,1,3,145
+0022400736,193,PT07M35.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,Green P.FOUL (P1.T1) (E.Dalen),Foul,Personal,1,0,146
+0022400736,195,PT07M35.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Wallace FOR Young,Substitution,,0,0,147
+0022400736,196,PT07M35.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Daniels FOR Gueye,Substitution,,0,0,148
+0022400736,197,PT07M35.00S,2,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Okongwu FOR Nance Jr.,Substitution,,0,0,149
+0022400736,198,PT07M35.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,SUB: Lillard FOR Rollins,Substitution,,0,0,150
+0022400736,199,PT07M35.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,SUB: Lopez FOR Kuzma,Substitution,,0,0,151
+0022400736,200,PT07M35.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,SUB: Prince FOR Green,Substitution,,0,0,152
+0022400736,207,PT07M20.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,230,21,0,Missed,1,,,0,h,MISS Okongwu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022400736,208,PT07M16.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,154
+0022400736,209,PT07M13.00S,2,1610612749,MIL,1627752,Prince,T. Prince,-125,214,25,Made,1,43,43,86,v,Prince 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Lillard 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,155
+0022400736,211,PT07M06.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022400736,212,PT07M06.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,SUB: Barlow FOR Krejci,Substitution,,0,0,157
+0022400736,214,PT06M56.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,Wallace Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,158
+0022400736,214,PT06M56.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. STEAL (1 STL),,,1,0,159
+0022400736,216,PT06M52.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-1,0,0,Made,1,43,45,88,v,Trent Jr. Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,160
+0022400736,217,PT06M42.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,7,1,Made,1,45,45,90,h,Okongwu 1' Reverse Dunk (6 PTS) (Daniels 4 AST),Made Shot,Reverse Dunk Shot,1,2,161
+0022400736,219,PT06M22.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,21,3,2,Made,1,45,47,92,v,Lopez 2' Driving Layup (4 PTS) (Portis 3 AST),Made Shot,Driving Layup Shot,1,2,162
+0022400736,221,PT06M10.00S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,163
+0022400736,222,PT06M10.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Krejci FOR Mathews,Substitution,,0,0,164
+0022400736,224,PT05M58.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,223,114,25,Made,1,45,50,95,v,Trent Jr. 25' 3PT Pullup Jump Shot (8 PTS) (Lillard 3 AST),Made Shot,Pullup Jump shot,1,3,165
+0022400736,226,PT05M45.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-2,11,1,Made,1,47,50,97,h,Okongwu 1' Cutting Dunk Shot (8 PTS) (Daniels 5 AST),Made Shot,Cutting Dunk Shot,1,2,166
+0022400736,228,PT05M21.00S,2,1610612749,MIL,1626171,Portis,B. Portis,233,11,0,Made,1,47,53,100,v,Portis 3PT Jump Shot (16 PTS) (Trent Jr. 4 AST),Made Shot,Jump Shot,1,3,167
+0022400736,230,PT05M05.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,232,-6,0,Missed,1,,,0,h,MISS Wallace 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022400736,231,PT05M03.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,169
+0022400736,232,PT04M56.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,120,243,27,Made,1,47,56,103,v,Lopez 27' 3PT Jump Shot (7 PTS) (Lillard 4 AST),Made Shot,Jump Shot,1,3,170
+0022400736,234,PT04M38.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,171
+0022400736,234,PT04M38.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. STEAL (2 STL),,,1,0,172
+0022400736,236,PT04M28.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-86,226,24,Made,1,47,59,106,v,Trent Jr. 24' 3PT Jump Shot (11 PTS) (Portis 4 AST),Made Shot,Jump Shot,1,3,173
+0022400736,238,PT04M27.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,174
+0022400736,239,PT04M27.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,SUB: Risacher FOR Barlow,Substitution,,0,0,175
+0022400736,240,PT04M27.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,SUB: Young FOR Wallace,Substitution,,0,0,176
+0022400736,243,PT04M04.00S,2,1610612737,ATL,1629027,Young,T. Young,7,16,2,Missed,1,,,0,h,MISS Young 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,177
+0022400736,244,PT04M01.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,178
+0022400736,245,PT04M00.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,2,17,2,Made,1,49,59,108,h,Okongwu 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,179
+0022400736,246,PT03M45.00S,2,1610612749,MIL,1626171,Portis,B. Portis,38,84,9,Missed,1,,,0,v,MISS Portis 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,180
+0022400736,247,PT03M41.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+0022400736,248,PT03M39.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. P.FOUL (P2.T2) (E.Dalen),Foul,Personal,1,0,182
+0022400736,250,PT03M39.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Kuzma FOR Portis,Substitution,,0,0,183
+0022400736,252,PT03M34.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,0,184
+0022400736,254,PT03M34.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,MISS Krejci Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,185
+0022400736,255,PT03M34.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,186
+0022400736,256,PT03M34.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,MISS Krejci Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,187
+0022400736,257,PT03M30.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,188
+0022400736,258,PT03M24.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-230,14,0,Made,1,49,62,111,v,Trent Jr. 3PT Jump Shot (14 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,3,189
+0022400736,260,PT03M15.00S,2,1610612737,ATL,1629027,Young,T. Young,-6,91,9,Made,1,51,62,113,h,Young 9' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,190
+0022400736,261,PT03M15.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. S.FOUL (P3.T4) (M.Boland),Foul,Shooting,1,0,191
+0022400736,263,PT03M15.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,192
+0022400736,265,PT03M15.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,52,62,114,h,Young Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,193
+0022400736,266,PT02M57.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-112,73,13,Missed,1,,,0,v,MISS Kuzma 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,194
+0022400736,267,PT02M54.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,195
+0022400736,268,PT02M47.00S,2,1610612749,MIL,1627752,Prince,T. Prince,120,-7,12,Made,1,52,64,116,v,Prince 12' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,2,196
+0022400736,269,PT02M34.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu Offensive Charge Foul (P1) (E.Dalen),Foul,Offensive Charge,1,0,197
+0022400736,271,PT02M34.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,198
+0022400736,272,PT02M22.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu P.FOUL (P2.T2) (J.Tiven),Foul,Personal,1,0,199
+0022400736,274,PT02M19.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,200
+0022400736,276,PT02M19.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,201
+0022400736,277,PT02M19.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,0,202
+0022400736,278,PT02M19.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,52,65,117,v,Kuzma Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,203
+0022400736,279,PT02M04.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,204
+0022400736,279,PT02M04.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez STEAL (1 STL),,,1,0,205
+0022400736,281,PT01M52.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-227,6,0,Missed,1,,,0,v,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0022400736,282,PT01M45.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022400736,283,PT01M45.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,Made,1,52,67,119,v,Lillard Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,208
+0022400736,284,PT01M35.00S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,-15,18,2,Made,1,54,67,121,h,Risacher 2' Driving Layup (7 PTS) (Krejci 3 AST),Made Shot,Driving Layup Shot,1,2,209
+0022400736,286,PT01M23.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,178,182,25,Missed,1,,,0,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0022400736,287,PT01M21.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,211
+0022400736,288,PT01M17.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,-78,254,27,Missed,1,,,0,h,MISS Krejci 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,212
+0022400736,289,PT01M16.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,0,213
+0022400736,291,PT00M57.50S,2,1610612749,MIL,1627752,Prince,T. Prince,-229,-7,0,Missed,1,,,0,v,MISS Prince 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,214
+0022400736,292,PT00M54.90S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,215
+0022400736,293,PT00M53.40S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,104,224,25,Made,1,54,70,124,v,Kuzma 25' 3PT Jump Shot (12 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,216
+0022400736,295,PT00M41.10S,2,1610612737,ATL,1630700,Daniels,D. Daniels,11,105,11,Missed,1,,,0,h,MISS Daniels 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,217
+0022400736,296,PT00M38.10S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,Jackson Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,218
+0022400736,297,PT00M31.90S,2,1610612749,MIL,201572,Lopez,B. Lopez,103,243,26,Missed,1,,,0,v,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+0022400736,298,PT00M28.20S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,220
+0022400736,299,PT00M28.20S,2,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher P.FOUL (P2.T4) (J.Tiven),Foul,Personal,1,0,221
+0022400736,301,PT00M21.20S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,1,0,222
+0022400736,304,PT00M21.20S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Coach Challenge (Reg.1 Short 0),Timeout,Coach Challenge,0,0,223
+0022400736,305,PT00M21.20S,2,0,,301,,,0,0,0,,0,54,70,124,,Instant Replay2nd Period (8:32 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,224
+0022400736,306,PT00M21.20S,2,1610612749,MIL,201572,Lopez,B. Lopez,18,26,3,Made,1,54,72,126,v,Lopez 3' Driving Layup (9 PTS) (Lillard 5 AST),Made Shot,Driving Layup Shot,1,2,225
+0022400736,308,PT00M21.20S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Green FOR Lillard,Substitution,,0,0,226
+0022400736,310,PT00M21.20S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,54,73,127,v,Lopez Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,227
+0022400736,311,PT00M05.90S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma P.FOUL (P1.PN) (M.Boland),Foul,Personal,1,0,228
+0022400736,313,PT00M05.90S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,55,73,128,h,Daniels Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,229
+0022400736,314,PT00M05.90S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Lillard FOR Jackson Jr.,Substitution,,0,0,230
+0022400736,316,PT00M05.90S,2,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,MISS Daniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,231
+0022400736,317,PT00M03.50S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,232
+0022400736,318,PT00M00.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-164,64,18,Missed,1,,,0,v,MISS Kuzma 18' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,233
+0022400736,319,PT00M00.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,0,234
+0022400736,320,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,73,128,,End of 2nd Period (8:37 PM EST),period,end,1,0,235
+0022400736,327,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,73,128,,Start of 3rd Period (8:52 PM EST),period,start,0,0,236
+0022400736,328,PT11M43.00S,3,1610612749,MIL,1626171,Portis,B. Portis,26,253,25,Made,1,55,76,131,v,Portis 25' 3PT Jump Shot (19 PTS) (Lillard 6 AST),Made Shot,Jump Shot,1,3,237
+0022400736,330,PT11M30.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,7,5,1,Missed,1,,,0,h,MISS Okongwu 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,238
+0022400736,330,PT11M30.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,2,239
+0022400736,332,PT11M28.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,240
+0022400736,333,PT11M27.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,178,183,26,Made,1,58,76,134,h,Barlow 26' 3PT Jump Shot (5 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,1,3,241
+0022400736,335,PT11M13.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,242
+0022400736,335,PT11M13.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,1,0,243
+0022400736,337,PT11M09.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,16,3,2,Made,1,60,76,136,h,Risacher 2' Running Dunk (9 PTS) (Young 4 AST),Made Shot,Running Dunk Shot,1,2,244
+0022400736,339,PT11M00.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez OFF.Foul (P2) (M.Boland),Foul,Offensive,1,0,245
+0022400736,341,PT11M00.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,246
+0022400736,342,PT10M43.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,11,88,9,Missed,1,,,0,h,MISS Daniels 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,247
+0022400736,343,PT10M39.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,248
+0022400736,344,PT10M39.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,Made,1,62,76,138,h,Okongwu Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,249
+0022400736,345,PT10M25.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,89,242,26,Made,1,62,79,141,v,Lillard 26' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,250
+0022400736,346,PT10M15.00S,3,1610612737,ATL,1629027,Young,T. Young,33,6,3,Made,1,64,79,143,h,Young 3' Driving Floating Bank Jump Shot (13 PTS) (Daniels 6 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,251
+0022400736,347,PT10M00.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,89,104,14,Missed,1,,,0,v,MISS Lopez 14' Jump Shot,Missed Shot,Jump Shot,1,2,252
+0022400736,348,PT09M58.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,253
+0022400736,349,PT09M52.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,254
+0022400736,351,PT09M52.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,65,79,144,h,Daniels Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+0022400736,352,PT09M52.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,MISS Daniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,256
+0022400736,353,PT09M49.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,257
+0022400736,354,PT09M40.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-10,8,1,Made,1,65,81,146,v,Lopez 1' Driving Finger Roll Layup (12 PTS) (Jackson Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,258
+0022400736,356,PT09M28.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P3.T2) (E.Dalen),Foul,Shooting,1,0,259
+0022400736,358,PT09M28.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,66,81,147,h,Young Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+0022400736,359,PT09M28.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,67,81,148,h,Young Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+0022400736,360,PT09M17.00S,3,1610612749,MIL,1626171,Portis,B. Portis,234,1,0,Made,1,67,84,151,v,Portis 3PT Jump Shot (22 PTS) (Lillard 7 AST),Made Shot,Jump Shot,1,3,262
+0022400736,362,PT09M09.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,156,192,25,Missed,1,,,0,h,MISS Barlow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022400736,363,PT09M03.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,264
+0022400736,364,PT09M02.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-13,6,1,Missed,1,,,0,h,MISS Risacher 1' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,265
+0022400736,365,PT09M00.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,266
+0022400736,366,PT08M57.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,267
+0022400736,366,PT08M57.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels STEAL (1 STL),,,1,0,268
+0022400736,368,PT08M54.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,4,5,1,Made,1,69,84,153,h,Risacher 1' Running Dunk (11 PTS) (Daniels 7 AST),Made Shot,Running Dunk Shot,1,2,269
+0022400736,370,PT08M33.00S,3,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,200,167,26,Missed,1,,,0,v,MISS Jackson Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022400736,371,PT08M30.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+0022400736,372,PT08M24.00S,3,1610612737,ATL,1629027,Young,T. Young,37,113,12,Missed,1,,,0,h,MISS Young 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,272
+0022400736,373,PT08M21.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,273
+0022400736,374,PT08M09.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,274
+0022400736,375,PT07M59.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,275
+0022400736,375,PT07M59.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis STEAL (1 STL),,,1,0,276
+0022400736,377,PT07M50.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,228,-3,0,Missed,1,,,0,v,MISS Lillard 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,277
+0022400736,378,PT07M46.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,278
+0022400736,379,PT07M41.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,-233,-11,0,Missed,1,,,0,h,MISS Risacher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,279
+0022400736,380,PT07M38.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,280
+0022400736,381,PT07M37.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-9,47,5,Missed,1,,,0,h,MISS Okongwu 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,281
+0022400736,382,PT07M34.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,282
+0022400736,383,PT07M26.00S,3,1610612749,MIL,1626171,Portis,B. Portis,4,263,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022400736,384,PT07M21.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,284
+0022400736,385,PT07M15.00S,3,1610612737,ATL,1629027,Young,T. Young,16,51,5,Made,1,71,84,155,h,Young 5' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,285
+0022400736,386,PT07M14.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,286
+0022400736,388,PT06M59.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-6,11,1,Made,1,71,86,157,v,Lopez 1' Cutting Dunk Shot (14 PTS) (Portis 5 AST),Made Shot,Cutting Dunk Shot,1,2,287
+0022400736,390,PT06M46.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince Violation:Kicked Ball (M.Boland),Violation,Kicked Ball,0,0,288
+0022400736,391,PT06M42.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,33,255,26,Missed,1,,,0,h,MISS Risacher 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,289
+0022400736,392,PT06M38.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,290
+0022400736,393,PT06M28.00S,3,1610612749,MIL,1626171,Portis,B. Portis,162,199,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022400736,394,PT06M25.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,292
+0022400736,395,PT06M18.00S,3,1610612737,ATL,1629027,Young,T. Young,38,109,12,Missed,1,,,0,h,MISS Young 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,293
+0022400736,396,PT06M14.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,294
+0022400736,397,PT06M14.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,Made,1,73,86,159,h,Barlow Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,295
+0022400736,398,PT05M55.00S,3,1610612749,MIL,1627752,Prince,T. Prince,232,-11,0,Missed,1,,,0,v,MISS Prince 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,296
+0022400736,399,PT05M51.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+0022400736,400,PT05M44.00S,3,1610612737,ATL,1629027,Young,T. Young,-13,8,2,Made,1,75,86,161,h,Young 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,298
+0022400736,401,PT05M22.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,100,236,26,Missed,1,,,0,v,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+0022400736,402,PT05M19.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,300
+0022400736,404,PT05M14.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Nance Jr. FOR Young,Substitution,,0,0,301
+0022400736,405,PT05M14.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Wallace FOR Okongwu,Substitution,,0,0,302
+0022400736,406,PT05M14.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,SUB: Gueye FOR Barlow,Substitution,,0,0,303
+0022400736,407,PT05M14.00S,3,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Green FOR Jackson Jr.,Substitution,,0,0,304
+0022400736,408,PT05M14.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Kuzma FOR Portis,Substitution,,0,0,305
+0022400736,414,PT05M03.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-25,10,3,Made,1,77,86,163,h,Daniels 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,306
+0022400736,415,PT05M03.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,1,0,307
+0022400736,417,PT05M03.00S,3,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Krejci FOR Risacher,Substitution,,0,0,308
+0022400736,419,PT05M03.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,78,86,164,h,Daniels Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,309
+0022400736,420,PT04M46.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,-31,169,17,Missed,1,,,0,v,MISS Lillard 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,310
+0022400736,421,PT04M41.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,311
+0022400736,422,PT04M38.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,5,6,1,Missed,1,,,0,h,MISS Daniels 1' Running Layup,Missed Shot,Running Layup Shot,1,2,312
+0022400736,423,PT04M37.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,313
+0022400736,424,PT04M36.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,Missed,1,,,0,h,MISS Gueye Putback Dunk,Missed Shot,Putback Dunk Shot,1,2,314
+0022400736,425,PT04M34.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,315
+0022400736,430,PT04M22.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,2,8,1,Made,1,80,86,166,h,Gueye 1' Dunk (7 PTS) (Nance Jr. 2 AST),Made Shot,Dunk Shot,0,2,316
+0022400736,474,PT04M22.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,317
+0022400736,432,PT04M22.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Prince,Substitution,,0,0,318
+0022400736,434,PT04M10.00S,3,1610612749,MIL,1631260,Green,A. Green,129,230,26,Missed,1,,,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022400736,435,PT04M07.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,320
+0022400736,436,PT03M55.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,50,241,25,Made,1,83,86,169,h,Krejci 25' 3PT Jump Shot (11 PTS) (Nance Jr. 3 AST),Made Shot,Jump Shot,1,3,321
+0022400736,438,PT03M35.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,1,17,2,Made,1,83,88,171,v,Lillard 2' Driving Reverse Layup (16 PTS),Made Shot,Driving Reverse Layup Shot,1,2,322
+0022400736,439,PT03M15.00S,3,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,134,209,25,Made,1,86,88,174,h,Nance Jr. 25' 3PT Jump Shot (9 PTS) (Daniels 8 AST),Made Shot,Jump Shot,1,3,323
+0022400736,442,PT03M06.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Rollins FOR Lillard,Substitution,,0,0,324
+0022400736,444,PT02M58.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,-156,211,26,Missed,1,,,0,v,MISS Kuzma 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,325
+0022400736,445,PT02M55.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,326
+0022400736,446,PT02M46.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,-7,5,1,Made,1,88,88,176,h,Daniels 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,327
+0022400736,448,PT02M30.00S,3,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,SUB: Young FOR Daniels,Substitution,,0,0,328
+0022400736,449,PT02M30.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,0,329
+0022400736,452,PT02M24.00S,3,1610612749,MIL,1631260,Green,A. Green,-32,122,13,Made,1,88,90,178,v,Green 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,330
+0022400736,453,PT02M04.00S,3,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,53,15,6,Made,1,90,90,180,h,Nance Jr. 6' Driving Bank Hook Shot (11 PTS) (Young 5 AST),Made Shot,Driving Bank Hook Shot,1,2,331
+0022400736,455,PT01M50.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,332
+0022400736,455,PT01M50.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye STEAL (2 STL),,,1,0,333
+0022400736,457,PT01M38.00S,3,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,334
+0022400736,458,PT01M20.00S,3,1610612749,MIL,1626171,Portis,B. Portis,-135,57,15,Missed,1,,,0,v,MISS Portis 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,335
+0022400736,459,PT01M17.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,336
+0022400736,460,PT01M09.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,6,27,3,Made,1,92,90,182,h,Gueye 3' Turnaround Hook Shot (9 PTS) (Young 6 AST),Made Shot,Turnaround Hook Shot,1,2,337
+0022400736,462,PT00M59.50S,3,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T1) (E.Dalen),Foul,Personal,1,0,338
+0022400736,464,PT00M54.70S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,27,186,19,Missed,1,,,0,v,MISS Trent Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,339
+0022400736,465,PT00M51.30S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,340
+0022400736,466,PT00M32.80S,3,1610612737,ATL,1629027,Young,T. Young,34,74,8,Missed,1,,,0,h,MISS Young 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,341
+0022400736,467,PT00M28.20S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,342
+0022400736,468,PT00M13.00S,3,1610612749,MIL,1631260,Green,A. Green,-7,90,9,Missed,1,,,0,v,MISS Green 9' Jump Shot,Missed Shot,Jump Shot,1,2,343
+0022400736,468,PT00M13.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (2 BLK),,,1,2,344
+0022400736,470,PT00M08.90S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,345
+0022400736,471,PT00M01.60S,3,1610612737,ATL,1631243,Gueye,M. Gueye,230,31,0,Missed,1,,,0,h,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022400736,472,PT00M00.10S,3,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+0022400736,473,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,90,182,,End of 3rd Period (9:15 PM EST),period,end,1,0,348
+0022400736,475,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,90,182,,Start of 4th Period (9:17 PM EST),period,start,0,0,349
+0022400736,476,PT11M44.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,12,4,1,Missed,1,,,0,h,MISS Nance Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,350
+0022400736,477,PT11M41.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,Rollins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,351
+0022400736,478,PT11M33.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-4,91,9,Missed,1,,,0,v,MISS Portis 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,352
+0022400736,479,PT11M31.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,353
+0022400736,480,PT11M22.00S,4,1610612737,ATL,1629027,Young,T. Young,-36,25,4,Missed,1,,,0,h,MISS Young 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+0022400736,481,PT11M20.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,355
+0022400736,482,PT11M16.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,27,37,5,Missed,1,,,0,v,MISS Rollins 5' Running Layup,Missed Shot,Running Layup Shot,1,2,356
+0022400736,482,PT11M16.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,Wallace BLOCK (1 BLK),,,1,2,357
+0022400736,484,PT11M15.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,0,358
+0022400736,486,PT11M15.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,359
+0022400736,487,PT11M15.00S,4,0,,485,,,0,0,0,,0,92,90,182,,Instant Replay4th Period (9:19 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,360
+0022400736,488,PT11M01.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,-6,0,1,Missed,1,,,0,h,MISS Nance Jr. 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,361
+0022400736,489,PT10M58.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:13),Rebound,Unknown,1,0,362
+0022400736,490,PT10M52.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.T1) (M.Boland),Foul,Personal,1,0,363
+0022400736,492,PT10M43.00S,4,1610612749,MIL,1626171,Portis,B. Portis,18,262,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0022400736,493,PT10M39.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,Rollins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,365
+0022400736,494,PT10M38.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,-28,260,26,Missed,1,,,0,v,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022400736,495,PT10M34.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,367
+0022400736,496,PT10M15.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,-6,121,12,Missed,1,,,0,h,MISS Wallace 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,368
+0022400736,497,PT10M12.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,369
+0022400736,498,PT10M07.00S,4,1610612749,MIL,1631260,Green,A. Green,-145,211,26,Missed,1,,,0,v,MISS Green 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,370
+0022400736,499,PT10M07.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,371
+0022400736,500,PT10M07.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis L.B.FOUL (P1.T1) (J.Tiven),Foul,Loose Ball,1,0,372
+0022400736,502,PT09M55.00S,4,1610612737,ATL,1629027,Young,T. Young,-105,74,13,Made,1,94,90,184,h,Young 13' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,373
+0022400736,503,PT09M31.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-141,226,27,Missed,1,,,0,v,MISS Trent Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,374
+0022400736,504,PT09M28.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,375
+0022400736,505,PT09M17.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,-97,220,24,Missed,1,,,0,h,MISS Krejci 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022400736,506,PT09M15.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,Kuzma REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,377
+0022400736,507,PT09M09.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,-12,8,1,Missed,1,,,0,v,MISS Kuzma 1' Running Layup,Missed Shot,Running Layup Shot,1,2,378
+0022400736,507,PT09M09.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (3 BLK),,,1,2,379
+0022400736,509,PT09M06.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,380
+0022400736,510,PT09M05.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,381
+0022400736,511,PT09M05.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,v,SUB: Lillard FOR Rollins,Substitution,,0,0,382
+0022400736,512,PT09M05.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,SUB: Prince FOR Green,Substitution,,0,0,383
+0022400736,520,PT09M05.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Daniels FOR Young,Substitution,,0,0,384
+0022400736,515,PT08M48.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-4,21,2,Missed,1,,,0,v,MISS Portis 2' Layup,Missed Shot,Layup Shot,1,2,385
+0022400736,515,PT08M48.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (4 BLK),,,1,2,386
+0022400736,517,PT08M44.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,387
+0022400736,518,PT08M39.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-2,1,0,Made,1,96,90,186,h,Gueye Alley Oop Dunk (11 PTS) (Nance Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,388
+0022400736,522,PT08M39.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,389
+0022400736,523,PT08M27.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P3.T2) (J.Tiven),Foul,Personal,1,0,390
+0022400736,525,PT08M23.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,86,243,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0022400736,526,PT08M19.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,392
+0022400736,527,PT08M05.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,67,241,25,Missed,1,,,0,h,MISS Krejci 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,393
+0022400736,528,PT08M03.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,0,394
+0022400736,530,PT07M52.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,0,0,0,,0,,,0,h,Daniels S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,395
+0022400736,532,PT07M52.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,96,91,187,v,Portis Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+0022400736,533,PT07M52.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Okongwu FOR Gueye,Substitution,,0,0,397
+0022400736,534,PT07M52.00S,4,1610612737,ATL,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Barlow FOR Nance Jr.,Substitution,,0,0,398
+0022400736,535,PT07M52.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,v,SUB: Lopez FOR Kuzma,Substitution,,0,0,399
+0022400736,539,PT07M52.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,96,92,188,v,Portis Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,400
+0022400736,540,PT07M32.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,-17,5,2,Made,1,98,92,190,h,Daniels 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,401
+0022400736,541,PT07M17.00S,4,1610612749,MIL,1627752,Prince,T. Prince,-1,17,2,Made,1,98,94,192,v,Prince 2' Layup (9 PTS) (Lillard 8 AST),Made Shot,Layup Shot,1,2,402
+0022400736,543,PT07M01.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,-230,43,0,Made,1,101,94,195,h,Wallace 3PT Jump Shot (3 PTS) (Daniels 9 AST),Made Shot,Jump Shot,1,3,403
+0022400736,545,PT06M47.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,-15,8,2,Made,1,101,96,197,v,Lillard 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,404
+0022400736,546,PT06M32.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,10,243,24,Made,1,104,96,200,h,Daniels 24' 3PT Jump Shot (15 PTS) (Wallace 3 AST),Made Shot,Jump Shot,1,3,405
+0022400736,548,PT06M14.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,137,237,27,Missed,1,,,0,v,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,406
+0022400736,549,PT06M12.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,0,407
+0022400736,551,PT06M12.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,,,0,h,SUB: Risacher FOR Wallace,Substitution,,0,0,408
+0022400736,552,PT06M12.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,SUB: Young FOR Krejci,Substitution,,0,0,409
+0022400736,555,PT05M58.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,23,8,2,Missed,1,,,0,h,MISS Okongwu 2' Layup,Missed Shot,Layup Shot,1,2,410
+0022400736,556,PT05M54.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,411
+0022400736,557,PT05M52.00S,4,1610612737,ATL,1629027,Young,T. Young,81,236,25,Missed,1,,,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+0022400736,558,PT05M49.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,413
+0022400736,559,PT05M45.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-5,12,1,Made,1,104,98,202,v,Portis 1' Running Layup (26 PTS) (Lillard 9 AST),Made Shot,Running Layup Shot,1,2,414
+0022400736,561,PT05M34.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,5,4,1,Missed,1,,,0,h,MISS Okongwu 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,415
+0022400736,561,PT05M34.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (2 BLK),,,1,2,416
+0022400736,562,PT05M32.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,417
+0022400736,563,PT05M27.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-70,249,26,Missed,1,,,0,v,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022400736,564,PT05M23.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,419
+0022400736,565,PT05M19.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,9,5,1,Made,1,106,98,204,h,Risacher 1' Driving Reverse Layup (13 PTS) (Young 7 AST),Made Shot,Driving Reverse Layup Shot,1,2,420
+0022400736,567,PT05M07.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,Barlow P.FOUL (P2.T4) (J.Tiven),Foul,Personal,1,0,421
+0022400736,569,PT04M52.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,77,249,26,Missed,1,,,0,v,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,422
+0022400736,570,PT04M45.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,423
+0022400736,571,PT04M36.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,424
+0022400736,571,PT04M36.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. STEAL (3 STL),,,1,0,425
+0022400736,573,PT04M32.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,1,16,2,Made,1,106,100,206,v,Trent Jr. 2' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,426
+0022400736,574,PT04M12.00S,4,1610612737,ATL,1629027,Young,T. Young,-43,11,4,Missed,1,,,0,h,MISS Young 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+0022400736,575,PT04M09.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:14),Rebound,Unknown,1,0,428
+0022400736,576,PT04M06.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,Risacher P.FOUL (P3.PN) (J.Tiven),Foul,Personal,1,0,429
+0022400736,578,PT04M06.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,106,101,207,v,Lillard Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022400736,579,PT04M06.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,h,SUB: Gueye FOR Barlow,Substitution,,0,0,431
+0022400736,580,PT04M06.00S,4,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,,,0,h,SUB: Krejci FOR Risacher,Substitution,,0,0,432
+0022400736,583,PT04M06.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,106,102,208,v,Lillard Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+0022400736,584,PT03M54.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. P.FOUL (P4.T2) (J.Tiven),Foul,Personal,1,0,434
+0022400736,586,PT03M50.00S,4,1610612737,ATL,1629027,Young,T. Young,-152,192,24,Missed,1,,,0,h,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,435
+0022400736,587,PT03M46.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,436
+0022400736,588,PT03M34.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-7,257,26,Made,1,106,105,211,v,Trent Jr. 26' 3PT Pullup Jump Shot (19 PTS) (Lopez 2 AST),Made Shot,Pullup Jump shot,1,3,437
+0022400736,589,PT03M33.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,438
+0022400736,591,PT03M15.00S,4,1610612737,ATL,1630700,Daniels,D. Daniels,-21,51,6,Missed,1,,,0,h,MISS Daniels 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,439
+0022400736,592,PT03M13.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,440
+0022400736,593,PT03M09.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,1,0,441
+0022400736,595,PT03M09.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,442
+0022400736,597,PT03M09.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,107,105,212,h,Gueye Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,443
+0022400736,598,PT03M09.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,108,105,213,h,Gueye Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+0022400736,599,PT02M45.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,-67,257,27,Missed,1,,,0,v,MISS Lillard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022400736,600,PT02M41.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,,,0,h,Krejci REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,446
+0022400736,601,PT02M25.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,6,0,1,Made,1,110,105,215,h,Okongwu 1' Layup (14 PTS) (Daniels 10 AST),Made Shot,Layup Shot,1,2,447
+0022400736,603,PT02M05.00S,4,1610612749,MIL,1627752,Prince,T. Prince,-134,223,26,Missed,1,,,0,v,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022400736,604,PT02M02.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,449
+0022400736,605,PT01M49.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-4,0,0,Made,1,112,105,217,h,Gueye Dunk (15 PTS) (Okongwu 2 AST),Made Shot,Dunk Shot,1,2,450
+0022400736,607,PT01M49.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,451
+0022400736,609,PT01M49.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,SUB: Green FOR Prince,Substitution,,0,0,452
+0022400736,612,PT01M32.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,-40,262,27,Made,1,112,108,220,v,Lillard 27' 3PT Jump Shot (23 PTS) (Portis 6 AST),Made Shot,Jump Shot,1,3,453
+0022400736,614,PT01M13.00S,4,1610612737,ATL,1629027,Young,T. Young,11,117,12,Made,1,114,108,222,h,Young 12' Driving Floating Jump Shot (23 PTS),Made Shot,Driving Floating Jump Shot,1,2,454
+0022400736,615,PT01M00.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,32,94,10,Made,1,114,110,224,v,Lopez 10' Driving Floating Jump Shot (16 PTS) (Lillard 10 AST),Made Shot,Driving Floating Jump Shot,1,2,455
+0022400736,617,PT00M39.30S,4,1610612737,ATL,1629027,Young,T. Young,-5,268,27,Missed,1,,,0,h,MISS Young 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,456
+0022400736,618,PT00M36.80S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,457
+0022400736,649,PT00M34.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,Trent Jr. Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,458
+0022400736,649,PT00M34.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young STEAL (2 STL),,,1,0,459
+0022400736,621,PT00M23.30S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,460
+0022400736,622,PT00M23.30S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Lillard,Substitution,,0,0,461
+0022400736,623,PT00M23.30S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Prince FOR Lopez,Substitution,,0,0,462
+0022400736,626,PT00M19.20S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,v,Prince Personal Take Foul (P4.T4) (J.Tiven),Foul,Personal Take,1,0,463
+0022400736,628,PT00M15.50S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,Green P.FOUL (P2.PN) (E.Dalen),Foul,Personal,1,0,464
+0022400736,630,PT00M15.50S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,465
+0022400736,631,PT00M15.50S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,466
+0022400736,632,PT00M15.50S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,115,110,225,h,Young Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,467
+0022400736,633,PT00M15.50S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,468
+0022400736,637,PT00M15.50S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,v,SUB: Lillard FOR Trent Jr.,Substitution,,0,0,469
+0022400736,638,PT00M15.50S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,v,SUB: Kuzma FOR Green,Substitution,,0,0,470
+0022400736,639,PT00M15.50S,4,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,,,0,v,SUB: Lopez FOR Jackson Jr.,Substitution,,0,0,471
+0022400736,643,PT00M08.30S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,184,175,25,Missed,1,,,0,v,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022400736,644,PT00M03.80S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,473
+0022400736,645,PT00M02.50S,4,1610612749,MIL,203081,Lillard,D. Lillard,-229,-3,0,Missed,1,,,0,v,MISS Lillard 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,474
+0022400736,646,PT00M02.50S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,475
+0022400736,647,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,110,225,,End of 4th Period (9:53 PM EST),period,end,1,0,476

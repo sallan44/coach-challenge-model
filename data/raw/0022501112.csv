@@ -1,0 +1,512 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022501112,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:12 PM EST),period,start,1,0,1
+0022501112,4,PT12M00.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Jump Ball Bailey vs. Jokic: Tip to Johnson,Jump Ball,,1,0,2
+0022501112,7,PT11M48.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-55,253,26,Made,1,0,3,3,v,Murray 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Jump Shot,1,3,3
+0022501112,9,PT11M23.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,18,69,7,Missed,1,,,0,h,MISS Filipowski 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,4
+0022501112,10,PT11M20.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022501112,11,PT11M14.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-237,13,24,Made,1,0,6,6,v,Murray 24' 3PT Jump Shot (6 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,6
+0022501112,13,PT10M53.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,100,6,10,Missed,1,,,0,h,MISS Tshiebwe 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,7
+0022501112,14,PT10M51.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022501112,15,PT10M36.00S,1,1610612743,DEN,1627750,Murray,J. Murray,44,247,25,Made,1,0,9,9,v,Murray 25' 3PT Jump Shot (9 PTS) (Gordon 1 AST),Made Shot,Jump Shot,1,3,9
+0022501112,17,PT10M35.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,10
+0022501112,18,PT10M22.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,-72,183,20,Missed,1,,,0,h,MISS Bailey 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,11
+0022501112,19,PT10M20.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,12
+0022501112,20,PT10M16.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-135,220,26,Missed,1,,,0,v,MISS Murray 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,13
+0022501112,21,PT10M13.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022501112,22,PT10M05.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,237,19,24,Missed,1,,,0,h,MISS Filipowski 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022501112,23,PT10M01.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022501112,24,PT09M46.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,223,106,25,Missed,1,,,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022501112,25,PT09M44.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,18
+0022501112,27,PT09M41.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,-229,21,0,Made,1,0,12,12,v,Johnson 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,19
+0022501112,29,PT09M21.00S,1,1610612762,UTA,1642262,Williams,C. Williams,-233,-8,0,Made,1,3,12,15,h,Williams 3PT Jump Shot (3 PTS) (Filipowski 1 AST),Made Shot,Jump Shot,1,3,20
+0022501112,31,PT09M04.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,228,23,0,Made,1,3,15,18,v,Gordon 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,1,3,21
+0022501112,33,PT08M54.00S,1,1610612762,UTA,1642262,Williams,C. Williams,140,63,15,Missed,1,,,0,h,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,22
+0022501112,34,PT08M52.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,23
+0022501112,35,PT08M45.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,1,0,24
+0022501112,37,PT08M45.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,3,16,19,v,Braun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,25
+0022501112,38,PT08M45.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Chandler FOR Bailey,Substitution,,0,0,26
+0022501112,40,PT08M45.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,3,17,20,v,Braun Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+0022501112,41,PT08M33.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,-228,40,0,Missed,1,,,0,h,MISS Filipowski 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0022501112,42,PT08M29.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,29
+0022501112,43,PT08M22.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,30
+0022501112,44,PT08M12.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,75,256,27,Made,1,6,17,23,h,Sensabaugh 27' 3PT Jump Shot (3 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,3,31
+0022501112,46,PT07M54.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson Traveling Turnover (P1.T2),Turnover,Traveling,1,0,32
+0022501112,47,PT07M43.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-4,274,27,Missed,1,,,0,h,MISS Sensabaugh 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,33
+0022501112,48,PT07M39.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,34
+0022501112,49,PT07M22.00S,1,1610612743,DEN,1627750,Murray,J. Murray,222,-15,0,Missed,1,,,0,v,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022501112,50,PT07M21.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022501112,51,PT07M15.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,47,98,11,Missed,1,,,0,h,MISS Sensabaugh 11' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,37
+0022501112,52,PT07M12.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,38
+0022501112,54,PT07M05.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Johnson,Substitution,,0,0,39
+0022501112,56,PT07M03.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-237,62,24,Made,1,6,20,26,v,Murray 24' 3PT Jump Shot (12 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,40
+0022501112,58,PT06M48.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,27,84,9,Made,1,8,20,28,h,Filipowski 9' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,2,41
+0022501112,60,PT06M35.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-233,101,25,Missed,1,,,0,v,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0022501112,61,PT06M32.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022501112,62,PT06M22.00S,1,1610612762,UTA,1631113,Chandler,K. Chandler,-229,-8,0,Missed,1,,,0,h,MISS Chandler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0022501112,63,PT06M19.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022501112,64,PT06M14.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,46
+0022501112,64,PT06M14.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,47
+0022501112,66,PT06M09.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,20,9,2,Made,1,10,20,30,h,Filipowski 2' Running Layup (4 PTS) (Chandler 2 AST),Made Shot,Running Layup Shot,1,2,48
+0022501112,68,PT05M49.00S,1,1610612743,DEN,1631128,Braun,C. Braun,7,81,8,Made,1,10,22,32,v,Braun 8' Driving Hook Shot (4 PTS) (Jokic 3 AST),Made Shot,Driving Hook Shot,1,2,49
+0022501112,70,PT05M32.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,1,0,50
+0022501112,72,PT05M32.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,11,22,33,h,Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,51
+0022501112,73,PT05M32.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,SUB: Bailey FOR Tshiebwe,Substitution,,0,0,52
+0022501112,75,PT05M32.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,12,22,34,h,Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,53
+0022501112,76,PT05M18.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-100,243,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+0022501112,77,PT05M15.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+0022501112,78,PT05M09.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,38,34,5,Made,1,14,22,36,h,Filipowski 5' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,56
+0022501112,79,PT04M45.00S,1,1610612743,DEN,1631128,Braun,C. Braun,-240,80,25,Made,1,14,25,39,v,Braun 25' 3PT Jump Shot (7 PTS) (Jokic 4 AST),Made Shot,Jump Shot,1,3,57
+0022501112,81,PT04M30.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,183,20,18,Missed,1,,,0,h,MISS Bailey 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,58
+0022501112,82,PT04M27.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,59
+0022501112,84,PT04M26.00S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Watson FOR Braun,Substitution,,0,0,60
+0022501112,86,PT04M26.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Konchar FOR Williams,Substitution,,0,0,61
+0022501112,88,PT04M14.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-22,38,4,Missed,1,,,0,v,MISS Murray 4' Layup,Missed Shot,Layup Shot,1,2,62
+0022501112,88,PT04M14.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh BLOCK (1 BLK),,,1,2,63
+0022501112,90,PT04M14.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,64
+0022501112,92,PT04M10.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-229,-9,0,Made,1,14,28,42,v,Hardaway Jr. 3PT Jump Bank Shot (3 PTS) (Murray 1 AST),Made Shot,Jump Bank Shot,1,3,65
+0022501112,94,PT03M58.00S,1,1610612762,UTA,1629723,Konchar,J. Konchar,232,3,0,Made,1,17,28,45,h,Konchar 3PT Jump Shot (3 PTS) (Bailey 1 AST),Made Shot,Jump Shot,1,3,66
+0022501112,96,PT03M53.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,67
+0022501112,96,PT03M53.00S,1,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar STEAL (1 STL),,,1,0,68
+0022501112,98,PT03M50.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,-28,241,24,Missed,1,,,0,h,MISS Filipowski 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022501112,99,PT03M49.00S,1,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,70
+0022501112,100,PT03M42.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-21,26,3,Made,1,19,28,47,h,Sensabaugh 3' Cutting Finger Roll Layup Shot (5 PTS) (Chandler 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,71
+0022501112,102,PT03M42.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,72
+0022501112,103,PT03M42.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Johnson FOR Murray,Substitution,,0,0,73
+0022501112,104,PT03M42.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Brown FOR Gordon,Substitution,,0,0,74
+0022501112,107,PT03M27.00S,1,1610612743,DEN,1628971,Brown,B. Brown,-233,53,24,Missed,1,,,0,v,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022501112,108,PT03M24.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+0022501112,109,PT03M15.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,212,142,26,Missed,1,,,0,h,MISS Bailey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,77
+0022501112,110,PT03M12.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022501112,111,PT02M53.00S,1,1610612743,DEN,1631212,Watson,P. Watson,-230,27,0,Missed,1,,,0,v,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022501112,112,PT02M50.00S,1,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,80
+0022501112,113,PT02M43.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,72,85,11,Made,1,21,28,49,h,Sensabaugh 11' Driving Floating Jump Shot (7 PTS) (Konchar 1 AST),Made Shot,Driving Floating Jump Shot,1,2,81
+0022501112,114,PT02M35.00S,1,1610612743,DEN,1631212,Watson,P. Watson,-233,33,24,Missed,1,,,0,v,MISS Watson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022501112,115,PT02M32.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,83
+0022501112,116,PT02M21.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,233,14,0,Made,1,24,28,52,h,Filipowski 3PT Jump Shot (9 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,84
+0022501112,118,PT02M07.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,23,36,4,Made,1,24,30,54,v,Johnson 4' Cutting Layup Shot (5 PTS) (Jokic 5 AST),Made Shot,Cutting Layup Shot,1,2,85
+0022501112,120,PT01M55.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-164,187,25,Made,1,27,30,57,h,Sensabaugh 25' 3PT Jump Shot (10 PTS) (Filipowski 2 AST),Made Shot,Jump Shot,1,3,86
+0022501112,122,PT01M55.00S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T2) (P.O'Connell),Foul,Shooting,1,0,87
+0022501112,124,PT01M55.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,SUB: Tshiebwe FOR Filipowski,Substitution,,0,0,88
+0022501112,126,PT01M55.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,MISS Sensabaugh Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,89
+0022501112,127,PT01M53.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,90
+0022501112,128,PT01M37.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh P.FOUL (P1.T2) (P.O'Connell),Foul,Personal,1,0,91
+0022501112,130,PT01M37.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,SUB: Mbeng FOR Sensabaugh,Substitution,,0,0,92
+0022501112,132,PT01M23.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,15,17,2,Made,1,27,32,59,v,Jokic 2' Driving Layup (2 PTS) (Brown 1 AST),Made Shot,Driving Layup Shot,1,2,93
+0022501112,134,PT01M11.00S,1,1610612762,UTA,1631113,Chandler,K. Chandler,23,73,8,Missed,1,,,0,h,MISS Chandler 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,94
+0022501112,135,PT01M10.00S,1,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,95
+0022501112,136,PT01M07.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,-202,187,28,Missed,1,,,0,h,MISS Bailey 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022501112,137,PT01M04.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,97
+0022501112,138,PT00M57.00S,1,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,44,100,11,Missed,1,,,0,h,MISS Tshiebwe 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,98
+0022501112,139,PT00M52.90S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+0022501112,140,PT00M43.80S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,2,253,25,Missed,1,,,0,v,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022501112,141,PT00M40.30S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+0022501112,142,PT00M40.30S,1,1610612743,DEN,1631212,Watson,P. Watson,-20,31,4,Made,1,27,34,61,v,Watson 4' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,102
+0022501112,144,PT00M33.00S,1,1610612762,UTA,1629723,Konchar,J. Konchar,235,34,24,Missed,1,,,0,h,MISS Konchar 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022501112,145,PT00M29.30S,1,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022501112,146,PT00M10.30S,1,1610612743,DEN,1631212,Watson,P. Watson,53,105,12,Made,1,27,36,63,v,Watson 12' Driving Floating Jump Shot (4 PTS) (Jokic 6 AST),Made Shot,Driving Floating Jump Shot,1,2,105
+0022501112,147,PT00M03.10S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,106
+0022501112,150,PT00M03.10S,1,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,MISS Chandler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,107
+0022501112,151,PT00M03.10S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,108
+0022501112,152,PT00M03.10S,1,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Murray FOR Johnson,Substitution,,0,0,109
+0022501112,154,PT00M03.10S,1,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,28,36,64,h,Chandler Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,110
+0022501112,155,PT00M00.30S,1,1610612743,DEN,1627750,Murray,J. Murray,27,494,49,Made,1,28,39,67,v,Murray 49' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,111
+0022501112,157,PT00M00.00S,1,0,,155,,,0,0,0,,0,28,39,67,,Instant Replay1st Period (9:36 PM EST),Instant Replay,Support Ruling,0,0,112
+0022501112,156,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,39,67,,End of 1st Period (9:36 PM EST),period,end,1,0,113
+0022501112,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,39,67,,Start of 2nd Period (9:39 PM EST),period,start,1,0,114
+0022501112,163,PT11M44.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,115
+0022501112,163,PT11M44.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown STEAL (1 STL),,,1,0,116
+0022501112,165,PT11M40.00S,2,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,0,117
+0022501112,167,PT11M26.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,21,17,3,Missed,1,,,0,v,MISS Valanciunas 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,118
+0022501112,173,PT11M26.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,119
+0022501112,170,PT11M26.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,120
+0022501112,171,PT11M26.00S,2,0,,169,,,0,0,0,,0,28,39,67,,Instant Replay2nd Period (9:40 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,121
+0022501112,174,PT11M06.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-87,46,10,Missed,1,,,0,h,MISS Bailey 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022501112,175,PT11M03.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022501112,176,PT10M46.00S,2,1610612743,DEN,1631212,Watson,P. Watson,-115,133,18,Made,1,28,41,69,v,Watson 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,124
+0022501112,177,PT10M37.00S,2,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,125
+0022501112,177,PT10M37.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown STEAL (2 STL),,,1,0,126
+0022501112,179,PT10M34.00S,2,1610612743,DEN,1628971,Brown,B. Brown,13,26,3,Made,1,28,43,71,v,Brown 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,127
+0022501112,180,PT10M21.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,169,177,24,Missed,1,,,0,h,MISS Bailey 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+0022501112,181,PT10M20.00S,2,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,129
+0022501112,182,PT10M19.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,130
+0022501112,184,PT10M19.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,29,43,72,h,Bailey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,131
+0022501112,185,PT10M19.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,MISS Bailey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,132
+0022501112,186,PT10M16.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+0022501112,187,PT10M01.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,13,31,3,Made,1,29,45,74,v,Valanciunas 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,134
+0022501112,189,PT09M48.00S,2,1610612762,UTA,1629723,Konchar,J. Konchar,115,-2,12,Made,1,31,45,76,h,Konchar 12' Floating Jump Shot (5 PTS) (Chandler 4 AST),Made Shot,Floating Jump shot,1,2,135
+0022501112,191,PT09M24.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,1,0,136
+0022501112,193,PT09M24.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,31,46,77,v,Valanciunas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+0022501112,194,PT09M24.00S,2,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,SUB: Tshiebwe FOR Chandler,Substitution,,0,0,138
+0022501112,196,PT09M24.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,31,47,78,v,Valanciunas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,139
+0022501112,197,PT09M10.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,140
+0022501112,198,PT09M00.00S,2,1610612743,DEN,1627750,Murray,J. Murray,80,122,15,Missed,1,,,0,v,MISS Murray 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,141
+0022501112,199,PT08M59.00S,2,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,142
+0022501112,200,PT08M49.00S,2,1610612762,UTA,1642262,Williams,C. Williams,65,84,11,Missed,1,,,0,h,MISS Williams 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,143
+0022501112,201,PT08M45.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022501112,202,PT08M40.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.T3) (P.O'Connell),Foul,Shooting,1,0,145
+0022501112,204,PT08M40.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,146
+0022501112,205,PT08M40.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,147
+0022501112,206,PT08M40.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Johnson FOR Hardaway Jr.,Substitution,,0,0,148
+0022501112,208,PT08M40.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,31,48,79,v,Valanciunas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+0022501112,209,PT08M22.00S,2,1610612762,UTA,1642262,Williams,C. Williams,-54,80,10,Made,1,33,48,81,h,Williams 10' Pullup Jump Shot (7 PTS) (Konchar 3 AST),Made Shot,Pullup Jump shot,1,2,150
+0022501112,211,PT08M07.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,151
+0022501112,211,PT08M07.00S,2,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe STEAL (1 STL),,,1,0,152
+0022501112,213,PT08M05.00S,2,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,153
+0022501112,213,PT08M05.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown STEAL (3 STL),,,1,0,154
+0022501112,215,PT07M58.00S,2,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng P.FOUL (P2.T4) (P.O'Connell),Foul,Personal,1,0,155
+0022501112,217,PT07M50.00S,2,1610612743,DEN,1627750,Murray,J. Murray,89,241,26,Made,1,33,51,84,v,Murray 26' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,3,156
+0022501112,218,PT07M38.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-221,-10,0,Missed,1,,,0,h,MISS Bailey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0022501112,219,PT07M34.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,158
+0022501112,220,PT07M19.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,-239,13,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022501112,221,PT07M16.00S,2,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,160
+0022501112,222,PT07M03.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P2.T2) (P.O'Connell),Foul,Shooting,1,0,161
+0022501112,224,PT07M03.00S,2,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,MISS Konchar Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,162
+0022501112,225,PT07M03.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,163
+0022501112,226,PT07M03.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Filipowski FOR Bailey,Substitution,,0,0,164
+0022501112,227,PT07M03.00S,2,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Tshiebwe,Substitution,,0,0,165
+0022501112,228,PT07M03.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,v,SUB: Gordon FOR Watson,Substitution,,0,0,166
+0022501112,232,PT07M03.00S,2,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,34,51,85,h,Konchar Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+0022501112,233,PT06M45.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,-22,101,10,Missed,1,,,0,v,MISS Johnson 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,168
+0022501112,234,PT06M42.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022501112,235,PT06M25.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,170
+0022501112,235,PT06M25.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (1 STL),,,1,0,171
+0022501112,237,PT06M22.00S,2,1610612743,DEN,1628971,Brown,B. Brown,25,11,3,Missed,1,,,0,v,MISS Brown 3' Running Layup,Missed Shot,Running Layup Shot,1,2,172
+0022501112,238,PT06M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,173
+0022501112,239,PT06M16.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,118,230,26,Made,1,37,51,88,h,Filipowski 26' 3PT Running Jump Shot (12 PTS) (Sensabaugh 1 AST),Made Shot,Running Jump Shot,1,3,174
+0022501112,241,PT05M58.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,1,0,175
+0022501112,243,PT05M58.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,37,52,89,v,Johnson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,176
+0022501112,244,PT05M58.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Braun FOR Valanciunas,Substitution,,0,0,177
+0022501112,245,PT05M58.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Jokic FOR Murray,Substitution,,0,0,178
+0022501112,248,PT05M58.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,37,53,90,v,Johnson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+0022501112,249,PT05M50.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,180
+0022501112,249,PT05M50.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown STEAL (4 STL),,,1,0,181
+0022501112,251,PT05M48.00S,2,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0,182
+0022501112,253,PT05M48.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,183
+0022501112,254,PT05M48.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,184
+0022501112,255,PT05M48.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,37,54,91,v,Brown Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+0022501112,256,PT05M39.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-167,199,26,Made,1,40,54,94,h,Sensabaugh 26' 3PT Jump Shot (13 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,186
+0022501112,258,PT05M15.00S,2,1610612743,DEN,1631128,Braun,C. Braun,80,247,26,Missed,1,,,0,v,MISS Braun 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,187
+0022501112,259,PT05M12.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,188
+0022501112,260,PT04M55.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-208,157,26,Missed,1,,,0,h,MISS Sensabaugh 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022501112,261,PT04M53.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,190
+0022501112,262,PT04M38.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,130,22,13,Missed,1,,,0,v,MISS Gordon 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,191
+0022501112,263,PT04M34.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,192
+0022501112,264,PT04M28.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,193
+0022501112,264,PT04M28.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,194
+0022501112,266,PT04M25.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,-21,39,4,Made,1,40,56,96,v,Johnson 4' Running Dunk (9 PTS) (Braun 2 AST),Made Shot,Running Dunk Shot,1,2,195
+0022501112,268,PT04M25.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,196
+0022501112,269,PT04M25.00S,2,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,SUB: Chandler FOR Mbeng,Substitution,,0,0,197
+0022501112,271,PT04M10.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,198
+0022501112,273,PT04M10.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,41,56,97,h,Filipowski Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,199
+0022501112,274,PT04M10.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,42,56,98,h,Filipowski Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+0022501112,275,PT03M58.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,201
+0022501112,276,PT03M58.00S,2,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,SUB: Bailey FOR Konchar,Substitution,,0,0,202
+0022501112,278,PT03M51.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-221,105,24,Missed,1,,,0,h,MISS Bailey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022501112,279,PT03M48.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,204
+0022501112,280,PT03M43.00S,2,1610612743,DEN,1628971,Brown,B. Brown,9,20,2,Made,1,42,58,100,v,Brown 2' Running Layup (5 PTS) (Jokic 7 AST),Made Shot,Running Layup Shot,1,2,205
+0022501112,282,PT03M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,-40,58,7,Made,1,44,58,102,h,Filipowski 7' Driving Floating Bank Jump Shot (16 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,206
+0022501112,283,PT03M20.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,207
+0022501112,285,PT03M20.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Murray FOR Brown,Substitution,,0,0,208
+0022501112,287,PT03M20.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,45,58,103,h,Filipowski Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,209
+0022501112,288,PT03M04.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,-237,8,24,Made,1,45,61,106,v,Johnson 24' 3PT Jump Shot (12 PTS) (Jokic 8 AST),Made Shot,Jump Shot,1,3,210
+0022501112,290,PT02M53.00S,2,1610612762,UTA,1631113,Chandler,K. Chandler,27,14,3,Missed,1,,,0,h,MISS Chandler 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,211
+0022501112,291,PT02M50.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,212
+0022501112,292,PT02M50.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,Made,1,47,61,108,h,Filipowski Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,213
+0022501112,293,PT02M37.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-27,33,4,Missed,1,,,0,v,MISS Murray 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,214
+0022501112,294,PT02M33.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,215
+0022501112,295,PT02M31.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-37,26,5,Made,1,47,63,110,v,Murray 5' Layup (20 PTS) (Johnson 2 AST),Made Shot,Layup Shot,1,2,216
+0022501112,297,PT02M20.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-38,246,25,Made,1,50,63,113,h,Sensabaugh 25' 3PT Step Back Jump Shot (16 PTS) (Williams 3 AST),Made Shot,Step Back Jump shot,1,3,217
+0022501112,299,PT02M12.00S,2,1610612743,DEN,1629661,Johnson,C. Johnson,37,16,4,Made,1,50,65,115,v,Johnson 4' Cutting Dunk Shot (14 PTS) (Braun 3 AST),Made Shot,Cutting Dunk Shot,1,2,218
+0022501112,301,PT01M57.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,28,62,7,Made,1,52,65,117,h,Sensabaugh 7' Driving Floating Jump Shot (18 PTS) (Chandler 5 AST),Made Shot,Driving Floating Jump Shot,1,2,219
+0022501112,303,PT01M40.00S,2,1610612743,DEN,1627750,Murray,J. Murray,4,197,20,Missed,1,,,0,v,MISS Murray 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,220
+0022501112,304,PT01M38.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,221
+0022501112,305,PT01M33.00S,2,1610612762,UTA,1642262,Williams,C. Williams,-29,37,5,Missed,1,,,0,h,MISS Williams 5' Running Layup,Missed Shot,Running Layup Shot,1,2,222
+0022501112,306,PT01M32.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,223
+0022501112,307,PT01M26.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,-10,42,4,Missed,1,,,0,v,MISS Jokic 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,224
+0022501112,308,PT01M22.00S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,225
+0022501112,309,PT01M17.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,226
+0022501112,309,PT01M17.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,0,227
+0022501112,311,PT01M11.00S,2,1610612743,DEN,1631128,Braun,C. Braun,-21,22,3,Made,1,52,67,119,v,Braun 3' Running Dunk (9 PTS) (Murray 2 AST),Made Shot,Running Dunk Shot,1,2,228
+0022501112,313,PT00M53.70S,2,1610612762,UTA,1642262,Williams,C. Williams,224,30,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022501112,314,PT00M50.10S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,230
+0022501112,316,PT00M45.30S,2,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski P.FOUL (P1.PN) (S.Corbin),Foul,Personal,1,0,231
+0022501112,318,PT00M45.30S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,232
+0022501112,319,PT00M45.30S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,233
+0022501112,320,PT00M45.30S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,52,68,120,v,Gordon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+0022501112,321,PT00M33.90S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Traveling Turnover (P2.T9),Turnover,Traveling,1,0,235
+0022501112,322,PT00M15.30S,2,1610612743,DEN,1631128,Braun,C. Braun,-229,43,0,Missed,1,,,0,v,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+0022501112,323,PT00M11.20S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,237
+0022501112,324,PT00M10.30S,2,1610612743,DEN,1627750,Murray,J. Murray,66,304,31,Missed,1,,,0,v,MISS Murray 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022501112,325,PT00M07.90S,2,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,239
+0022501112,326,PT00M02.60S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,240
+0022501112,328,PT00M02.60S,2,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,53,68,121,h,Chandler Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+0022501112,329,PT00M02.60S,2,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,54,68,122,h,Chandler Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0022501112,330,PT00M00.30S,2,0,,0,,,0,0,0,,0,,,0,v,NUGGETS Heave,Heave,Team Field Goal Attempt,0,0,243
+0022501112,331,PT00M00.10S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,244
+0022501112,332,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,68,122,,End of 2nd Period (10:08 PM EST),period,end,1,0,245
+0022501112,335,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,68,122,,Start of 3rd Period (10:23 PM EST),period,start,1,0,246
+0022501112,336,PT11M38.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,4,53,5,Made,1,56,68,124,h,Tshiebwe 5' Turnaround Hook Shot (2 PTS) (Filipowski 3 AST),Made Shot,Turnaround Hook Shot,1,2,247
+0022501112,338,PT11M13.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,-230,15,0,Missed,1,,,0,v,MISS Gordon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022501112,339,PT11M09.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,249
+0022501112,340,PT11M01.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,1,48,5,Made,1,58,68,126,h,Bailey 5' Driving Dunk (3 PTS) (Williams 4 AST),Made Shot,Driving Dunk Shot,1,2,250
+0022501112,342,PT10M48.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-37,32,5,Missed,1,,,0,v,MISS Jokic 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,251
+0022501112,343,PT10M46.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,252
+0022501112,344,PT10M38.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,123,217,25,Missed,1,,,0,h,MISS Sensabaugh 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022501112,345,PT10M35.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,254
+0022501112,346,PT10M20.00S,3,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P3.T1) (P.O'Connell),Foul,Shooting,1,0,255
+0022501112,348,PT10M20.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,58,69,127,v,Murray Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+0022501112,349,PT10M20.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,58,70,128,v,Murray Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+0022501112,350,PT10M05.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,70,41,8,Made,1,60,70,130,h,Bailey 8' Driving Dunk (5 PTS) (Williams 5 AST),Made Shot,Driving Dunk Shot,1,2,258
+0022501112,352,PT09M48.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,1,0,259
+0022501112,353,PT09M37.00S,3,1610612762,UTA,1642262,Williams,C. Williams,4,33,3,Missed,1,,,0,h,MISS Williams 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,260
+0022501112,354,PT09M35.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,261
+0022501112,355,PT09M34.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,22,20,3,Made,1,62,70,132,h,Sensabaugh 3' Driving Dunk (20 PTS),Made Shot,Driving Dunk Shot,1,2,262
+0022501112,358,PT09M34.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,263
+0022501112,359,PT09M23.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,25,253,25,Missed,1,,,0,v,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022501112,360,PT09M20.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,265
+0022501112,361,PT09M17.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,22,47,5,Made,1,62,72,134,v,Johnson 5' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,2,266
+0022501112,362,PT09M06.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,210,134,25,Missed,1,,,0,h,MISS Bailey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,267
+0022501112,363,PT09M03.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,268
+0022501112,364,PT08M59.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-102,230,25,Missed,1,,,0,v,MISS Murray 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,269
+0022501112,365,PT08M56.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,270
+0022501112,366,PT08M42.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,11,11,2,Made,1,64,72,136,h,Tshiebwe 2' Driving Layup (4 PTS) (Sensabaugh 2 AST),Made Shot,Driving Layup Shot,1,2,271
+0022501112,368,PT08M36.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-214,210,30,Missed,1,,,0,v,MISS Jokic 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,272
+0022501112,369,PT08M35.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,273
+0022501112,370,PT08M30.00S,3,1610612743,DEN,1631128,Braun,C. Braun,-29,-1,3,Made,1,64,74,138,v,Braun 3' Cutting Layup Shot (11 PTS) (Jokic 9 AST),Made Shot,Cutting Layup Shot,1,2,274
+0022501112,372,PT08M24.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,-23,15,3,Made,1,66,74,140,h,Tshiebwe 3' Cutting Layup Shot (6 PTS) (Williams 6 AST),Made Shot,Cutting Layup Shot,1,2,275
+0022501112,374,PT08M04.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,235,105,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022501112,375,PT08M02.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,277
+0022501112,376,PT08M00.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,4,121,12,Made,1,66,76,142,v,Jokic 12' Floating Jump Shot (4 PTS) (Johnson 3 AST),Made Shot,Floating Jump shot,1,2,278
+0022501112,378,PT08M00.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,279
+0022501112,380,PT08M00.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,66,77,143,v,Jokic Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,280
+0022501112,381,PT07M50.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,50,253,26,Made,1,69,77,146,h,Sensabaugh 26' 3PT Pullup Jump Shot (23 PTS) (Williams 7 AST),Made Shot,Pullup Jump shot,1,3,281
+0022501112,382,PT07M25.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,282
+0022501112,384,PT07M25.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,69,78,147,v,Jokic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,283
+0022501112,385,PT07M25.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,69,79,148,v,Jokic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,284
+0022501112,386,PT07M11.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,76,52,9,Made,1,71,79,150,h,Bailey 9' Turnaround Jump Shot (7 PTS) (Williams 8 AST),Made Shot,Turnaround Jump Shot,1,2,285
+0022501112,388,PT06M54.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,286
+0022501112,390,PT06M44.00S,3,1610612743,DEN,1627750,Murray,J. Murray,38,108,11,Missed,1,,,0,v,MISS Murray 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,287
+0022501112,391,PT06M41.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,288
+0022501112,393,PT06M36.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Brown FOR Johnson,Substitution,,0,0,289
+0022501112,395,PT06M29.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,-25,22,3,Missed,1,,,0,h,MISS Tshiebwe 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,290
+0022501112,396,PT06M26.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,Tshiebwe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,291
+0022501112,397,PT06M23.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,25,18,3,Missed,1,,,0,h,MISS Sensabaugh 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,292
+0022501112,397,PT06M23.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown BLOCK (1 BLK),,,1,2,293
+0022501112,399,PT06M23.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,294
+0022501112,400,PT06M23.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh P.FOUL (P3.PN) (S.Corbin),Foul,Personal,1,0,295
+0022501112,402,PT06M23.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,MISS Jokic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,296
+0022501112,403,PT06M23.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,0,297
+0022501112,404,PT06M23.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,71,80,151,v,Jokic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,298
+0022501112,405,PT06M03.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,126,222,26,Made,1,74,80,154,h,Bailey 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,299
+0022501112,408,PT05M45.00S,3,1610612743,DEN,1627750,Murray,J. Murray,146,136,20,Missed,1,,,0,v,MISS Murray 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,300
+0022501112,409,PT05M42.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,301
+0022501112,410,PT05M36.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,16,43,5,Missed,1,,,0,h,MISS Sensabaugh 5' Running Layup,Missed Shot,Running Layup Shot,1,2,302
+0022501112,410,PT05M36.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray BLOCK (1 BLK),,,1,2,303
+0022501112,412,PT05M33.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,304
+0022501112,413,PT05M31.00S,3,1610612743,DEN,1628971,Brown,B. Brown,25,13,3,Made,1,74,82,156,v,Brown 3' Running Layup (7 PTS) (Braun 4 AST),Made Shot,Running Layup Shot,1,2,305
+0022501112,415,PT05M16.00S,3,1610612762,UTA,1642262,Williams,C. Williams,-145,22,15,Missed,1,,,0,h,MISS Williams 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,306
+0022501112,416,PT05M13.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,307
+0022501112,417,PT05M09.00S,3,1610612743,DEN,1631128,Braun,C. Braun,-34,29,4,Missed,1,,,0,v,MISS Braun 4' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,2,308
+0022501112,418,PT05M07.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,309
+0022501112,428,PT05M07.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,310
+0022501112,428,PT05M07.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon STEAL (2 STL),,,1,0,311
+0022501112,419,PT05M05.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,32,34,5,Missed,1,,,0,v,MISS Gordon 5' Layup,Missed Shot,Layup Shot,1,2,312
+0022501112,420,PT05M05.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,313
+0022501112,513,PT05M05.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,10,17,2,Missed,1,,,0,v,MISS Gordon 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,314
+0022501112,514,PT05M05.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,315
+0022501112,421,PT04M50.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,-36,13,4,Missed,1,,,0,h,MISS Tshiebwe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,316
+0022501112,422,PT04M49.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:13),Rebound,Unknown,1,0,317
+0022501112,423,PT04M46.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,318
+0022501112,423,PT04M46.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh STEAL (1 STL),,,1,0,319
+0022501112,425,PT04M43.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,-21,47,5,Made,1,76,82,158,h,Tshiebwe 5' Running Dunk (8 PTS) (Sensabaugh 3 AST),Made Shot,Running Dunk Shot,1,2,320
+0022501112,427,PT04M43.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,321
+0022501112,431,PT04M43.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,SUB: Konchar FOR Filipowski,Substitution,,0,0,322
+0022501112,432,PT04M43.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,SUB: Chandler FOR Sensabaugh,Substitution,,0,0,323
+0022501112,433,PT04M43.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Strawther FOR Braun,Substitution,,0,0,324
+0022501112,434,PT04M43.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Johnson FOR Gordon,Substitution,,0,0,325
+0022501112,439,PT04M33.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,29,80,9,Made,1,76,84,160,v,Jokic 9' Turnaround Hook Shot (10 PTS) (Murray 3 AST),Made Shot,Turnaround Hook Shot,1,2,326
+0022501112,441,PT04M16.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,120,13,12,Missed,1,,,0,h,MISS Bailey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,327
+0022501112,442,PT04M14.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,328
+0022501112,443,PT04M10.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-91,234,25,Made,1,76,87,163,v,Murray 25' 3PT Running Pull-Up Jump Shot (25 PTS) (Johnson 4 AST),Made Shot,Running Pull-Up Jump Shot,1,3,329
+0022501112,444,PT04M06.00S,3,0,,1628181,,,0,0,0,,0,,,0,,Will Hardy Foul:T.FOUL (P.O'Connell),Foul,Technical,0,0,330
+0022501112,445,PT04M06.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,76,88,164,v,Murray Free Throw Technical (26 PTS),Free Throw,Free Throw Technical,1,0,331
+0022501112,447,PT03M39.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,18,6,2,Missed,1,,,0,h,MISS Chandler 2' Layup,Missed Shot,Layup Shot,1,2,332
+0022501112,448,PT03M38.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:14),Rebound,Unknown,1,0,333
+0022501112,449,PT03M35.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,334
+0022501112,451,PT03M35.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,76,89,165,v,Brown Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,335
+0022501112,452,PT03M35.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,76,90,166,v,Brown Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+0022501112,453,PT03M23.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,229,48,0,Missed,1,,,0,h,MISS Konchar 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+0022501112,454,PT03M19.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:15),Rebound,Unknown,1,0,338
+0022501112,455,PT03M11.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,22,20,3,Missed,1,,,0,v,MISS Jokic 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,339
+0022501112,457,PT03M10.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+0022501112,458,PT03M06.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,-27,41,5,Made,1,78,90,168,h,Konchar 5' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,2,341
+0022501112,459,PT02M55.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,2,40,4,Made,1,78,92,170,v,Jokic 4' Layup (12 PTS) (Murray 4 AST),Made Shot,Layup Shot,1,2,342
+0022501112,461,PT02M45.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,-11,100,10,Made,1,80,92,172,h,Bailey 10' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,1,2,343
+0022501112,462,PT02M24.00S,3,1610612743,DEN,1628971,Brown,B. Brown,-227,10,0,Missed,1,,,0,v,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022501112,463,PT02M20.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,345
+0022501112,464,PT02M13.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,-222,189,29,Missed,1,,,0,h,MISS Bailey 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022501112,465,PT02M12.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,347
+0022501112,466,PT02M12.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,-34,11,4,Made,1,82,92,174,h,Konchar 4' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,348
+0022501112,467,PT02M12.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,349
+0022501112,469,PT02M12.00S,3,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Filipowski FOR Williams,Substitution,,0,0,350
+0022501112,470,PT02M12.00S,3,1610612762,UTA,1631131,Tshiebwe,O. Tshiebwe,0,0,0,,0,,,0,h,SUB: Mbeng FOR Tshiebwe,Substitution,,0,0,351
+0022501112,471,PT02M12.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Braun FOR Murray,Substitution,,0,0,352
+0022501112,475,PT02M12.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,83,92,175,h,Konchar Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,353
+0022501112,476,PT01M58.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,241,-7,24,Made,1,83,95,178,v,Johnson 24' 3PT Jump Shot (19 PTS) (Jokic 10 AST),Made Shot,Jump Shot,1,3,354
+0022501112,478,PT01M46.00S,3,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T2) (P.O'Connell),Foul,Personal,1,0,355
+0022501112,480,PT01M35.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,233,-4,0,Missed,1,,,0,h,MISS Chandler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+0022501112,481,PT01M30.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:16),Rebound,Unknown,1,0,357
+0022501112,482,PT01M29.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,358
+0022501112,482,PT01M29.00S,3,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar STEAL (2 STL),,,1,0,359
+0022501112,484,PT01M24.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,-31,12,3,Made,1,85,95,180,h,Chandler 3' Running Layup (5 PTS) (Konchar 4 AST),Made Shot,Running Layup Shot,1,2,360
+0022501112,486,PT01M19.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic Bad Pass Turnover (P5.T10),Turnover,Bad Pass,1,0,361
+0022501112,486,PT01M19.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler STEAL (1 STL),,,1,0,362
+0022501112,488,PT01M17.00S,3,1610612762,UTA,1631113,Chandler,K. Chandler,7,31,3,Made,1,87,95,182,h,Chandler 3' Layup (7 PTS),Made Shot,Layup Shot,1,2,363
+0022501112,489,PT01M12.00S,3,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,v,Strawther OFF.Foul (P1) (C.Kirkland),Foul,Offensive,1,0,364
+0022501112,491,PT01M12.00S,3,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,v,Strawther Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,365
+0022501112,492,PT01M01.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0,366
+0022501112,494,PT01M01.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,88,95,183,h,Filipowski Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022501112,495,PT01M01.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Lane,Violation,Lane,0,0,368
+0022501112,496,PT01M01.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,MISS Filipowski Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,369
+0022501112,497,PT00M59.70S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,370
+0022501112,498,PT00M46.90S,3,1610612743,DEN,203999,Jokić,N. Jokić,23,71,7,Made,1,88,97,185,v,Jokic 7' Turnaround Jump Shot (14 PTS) (Johnson 5 AST),Made Shot,Turnaround Jump Shot,1,2,371
+0022501112,500,PT00M30.30S,3,1610612762,UTA,1631113,Chandler,K. Chandler,38,23,4,Missed,1,,,0,h,MISS Chandler 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,372
+0022501112,501,PT00M28.90S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,373
+0022501112,503,PT00M26.90S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Murray FOR Braun,Substitution,,0,0,374
+0022501112,505,PT00M07.90S,3,1610612743,DEN,1627750,Murray,J. Murray,119,77,14,Missed,1,,,0,v,MISS Murray 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,375
+0022501112,505,PT00M07.90S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski BLOCK (1 BLK),,,1,2,376
+0022501112,507,PT00M05.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,377
+0022501112,508,PT00M01.80S,3,1610612762,UTA,1643016,Mbeng,B. Mbeng,-23,20,3,Made,1,90,97,187,h,Mbeng 3' Running Layup (2 PTS) (Bailey 2 AST),Made Shot,Running Layup Shot,1,2,378
+0022501112,510,PT00M00.40S,3,0,,0,,,0,0,0,,0,,,0,v,NUGGETS Heave,Heave,Team Field Goal Attempt,0,0,379
+0022501112,511,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,380
+0022501112,512,PT00M00.00S,3,0,,0,,,0,0,0,,0,90,97,187,,End of 3rd Period (10:51 PM EST),period,end,1,0,381
+0022501112,524,PT12M00.00S,4,0,,0,,,0,0,0,,0,90,97,187,,Start of 4th Period (10:54 PM EST),period,start,1,0,382
+0022501112,525,PT11M41.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-34,31,5,Made,1,90,99,189,v,Valanciunas 5' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,383
+0022501112,527,PT11M29.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,29,18,3,Missed,1,,,0,h,MISS Mbeng 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,384
+0022501112,527,PT11M29.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,2,385
+0022501112,529,PT11M27.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,386
+0022501112,530,PT11M21.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-5,83,8,Missed,1,,,0,h,MISS Sensabaugh 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,387
+0022501112,531,PT11M20.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,388
+0022501112,532,PT11M18.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-38,252,25,Made,1,93,99,192,h,Sensabaugh 25' 3PT Jump Shot (26 PTS) (Mbeng 1 AST),Made Shot,Jump Shot,1,3,389
+0022501112,534,PT10M58.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,390
+0022501112,536,PT10M49.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,20,35,4,Missed,1,,,0,v,MISS Valanciunas 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,391
+0022501112,536,PT10M49.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler BLOCK (1 BLK),,,1,2,392
+0022501112,538,PT10M47.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,393
+0022501112,539,PT10M44.00S,4,1610612743,DEN,1628971,Brown,B. Brown,-86,57,10,Missed,1,,,0,v,MISS Brown 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,394
+0022501112,540,PT10M43.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,395
+0022501112,541,PT10M38.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P3.T1) (C.Kirkland),Foul,Shooting,1,0,396
+0022501112,543,PT10M38.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,94,99,193,h,Chandler Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022501112,544,PT10M38.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,95,99,194,h,Chandler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+0022501112,545,PT10M17.00S,4,1610612743,DEN,1631128,Braun,C. Braun,-2,32,3,Made,1,95,101,196,v,Braun 3' Driving Layup (13 PTS) (Johnson 6 AST),Made Shot,Driving Layup Shot,1,2,399
+0022501112,546,PT10M08.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,-32,20,4,Missed,1,,,0,h,MISS Konchar 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,400
+0022501112,547,PT10M06.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,401
+0022501112,548,PT10M00.00S,4,1610612743,DEN,1627750,Murray,J. Murray,229,9,0,Missed,1,,,0,v,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022501112,549,PT09M54.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,403
+0022501112,550,PT09M47.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,-17,256,26,Missed,1,,,0,h,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022501112,551,PT09M45.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,405
+0022501112,552,PT09M41.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-38,48,6,Made,1,97,101,198,h,Sensabaugh 6' Driving Floating Jump Shot (28 PTS) (Konchar 5 AST),Made Shot,Driving Floating Jump Shot,1,2,406
+0022501112,554,PT09M19.00S,4,1610612743,DEN,1627750,Murray,J. Murray,75,67,10,Missed,1,,,0,v,MISS Murray 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,407
+0022501112,555,PT09M17.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,408
+0022501112,556,PT09M16.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,Made,1,97,103,200,v,Murray Putback Layup (28 PTS),Made Shot,Putback Layup Shot,1,2,409
+0022501112,559,PT08M52.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,410
+0022501112,559,PT08M52.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (2 STL),,,1,0,411
+0022501112,561,PT08M47.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,1,0,412
+0022501112,563,PT08M35.00S,4,1610612743,DEN,1631128,Braun,C. Braun,32,10,3,Made,1,97,105,202,v,Braun 3' Dunk (15 PTS),Made Shot,Dunk Shot,1,2,413
+0022501112,565,PT08M14.00S,4,1610612762,UTA,1642262,Williams,C. Williams,227,102,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022501112,566,PT08M10.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,415
+0022501112,567,PT07M50.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,237,5,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022501112,568,PT07M48.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,417
+0022501112,569,PT07M46.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,418
+0022501112,571,PT07M46.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,97,106,203,v,Valanciunas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,419
+0022501112,572,PT07M46.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,SUB: Filipowski FOR Sensabaugh,Substitution,,0,0,420
+0022501112,574,PT07M46.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,97,107,204,v,Valanciunas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,421
+0022501112,575,PT07M36.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,21,1,2,Made,1,99,107,206,h,Mbeng 2' Reverse Layup (4 PTS) (Chandler 6 AST),Made Shot,Reverse Layup Shot,1,2,422
+0022501112,577,PT07M24.00S,4,1610612743,DEN,1627750,Murray,J. Murray,132,213,25,Made,1,99,110,209,v,Murray 25' 3PT Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,1,3,423
+0022501112,579,PT07M09.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,-64,256,26,Missed,1,,,0,h,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022501112,580,PT07M05.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,425
+0022501112,581,PT07M00.00S,4,1610612743,DEN,1628971,Brown,B. Brown,16,35,4,Made,1,99,112,211,v,Brown 4' Running Layup (11 PTS) (Murray 5 AST),Made Shot,Running Layup Shot,1,2,426
+0022501112,582,PT07M00.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,427
+0022501112,583,PT07M00.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Strawther FOR Braun,Substitution,,0,0,428
+0022501112,584,PT07M00.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Gordon FOR Johnson,Substitution,,0,0,429
+0022501112,587,PT06M49.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,-18,28,3,Missed,1,,,0,h,MISS Mbeng 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,430
+0022501112,588,PT06M49.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,431
+0022501112,590,PT06M38.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski S.FOUL (P3.T4) (C.Kirkland),Foul,Shooting,1,0,432
+0022501112,592,PT06M38.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,99,113,212,v,Valanciunas Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+0022501112,594,PT06M38.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,99,114,213,v,Valanciunas Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022501112,595,PT06M27.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-174,188,26,Missed,1,,,0,h,MISS Filipowski 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022501112,596,PT06M24.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,436
+0022501112,597,PT06M23.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-213,141,26,Missed,1,,,0,h,MISS Filipowski 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022501112,598,PT06M19.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,438
+0022501112,599,PT06M04.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,7,57,6,Missed,1,,,0,v,MISS Valanciunas 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,439
+0022501112,600,PT06M02.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,440
+0022501112,601,PT06M02.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,99,116,215,v,Valanciunas Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,441
+0022501112,602,PT05M45.00S,4,1610612762,UTA,1642262,Williams,C. Williams,-74,102,13,Made,1,101,116,217,h,Williams 13' Pullup Jump Shot (9 PTS) (Konchar 6 AST),Made Shot,Pullup Jump shot,1,2,442
+0022501112,604,PT05M27.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,Valanciunas Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,443
+0022501112,604,PT05M27.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng STEAL (1 STL),,,1,0,444
+0022501112,606,PT05M23.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,-32,13,3,Made,1,103,116,219,h,Mbeng 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,445
+0022501112,607,PT05M01.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,v,Strawther OFF.Foul (P2) (S.Corbin),Foul,Offensive,1,0,446
+0022501112,609,PT05M01.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,v,Strawther Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,447
+0022501112,610,PT04M51.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-232,20,0,Made,1,106,116,222,h,Filipowski 3PT Jump Shot (23 PTS) (Mbeng 2 AST),Made Shot,Jump Shot,1,3,448
+0022501112,612,PT04M48.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,449
+0022501112,613,PT04M48.00S,4,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,v,SUB: Braun FOR Valanciunas,Substitution,,0,0,450
+0022501112,614,PT04M48.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Jokic FOR Murray,Substitution,,0,0,451
+0022501112,615,PT04M48.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,v,SUB: Johnson FOR Strawther,Substitution,,0,0,452
+0022501112,619,PT04M33.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,59,20,6,Missed,1,,,0,v,MISS Johnson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,453
+0022501112,620,PT04M33.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,454
+0022501112,621,PT04M32.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,Missed,1,,,0,v,MISS Braun Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,455
+0022501112,622,PT04M29.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,456
+0022501112,623,PT04M26.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-9,34,4,Made,1,108,116,224,h,Filipowski 4' Running Finger Roll Layup (25 PTS) (Williams 9 AST),Made Shot,Running Finger Roll Layup Shot,1,2,457
+0022501112,625,PT04M10.00S,4,1610612743,DEN,1631128,Braun,C. Braun,25,16,3,Made,1,108,118,226,v,Braun 3' Cutting Layup Shot (17 PTS) (Jokic 11 AST),Made Shot,Cutting Layup Shot,1,2,458
+0022501112,627,PT04M10.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,Mbeng S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,1,0,459
+0022501112,630,PT04M10.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,108,119,227,v,Braun Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,460
+0022501112,632,PT03M58.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,-225,112,25,Missed,1,,,0,h,MISS Mbeng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+0022501112,633,PT03M56.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,462
+0022501112,634,PT03M45.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski P.FOUL (P4.PN) (S.Corbin),Foul,Personal,1,0,463
+0022501112,636,PT03M45.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,108,120,228,v,Jokic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,464
+0022501112,637,PT03M45.00S,4,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Williams,Substitution,,0,0,465
+0022501112,638,PT03M45.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,SUB: Bailey FOR Filipowski,Substitution,,0,0,466
+0022501112,639,PT03M45.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,v,SUB: Murray FOR Brown,Substitution,,0,0,467
+0022501112,643,PT03M45.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,MISS Jokic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,468
+0022501112,644,PT03M42.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,469
+0022501112,645,PT03M21.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,94,232,25,Missed,1,,,0,h,MISS Bailey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022501112,646,PT03M19.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,Jokic REBOUND (Off:0 Def:17),Rebound,Unknown,1,0,471
+0022501112,647,PT03M01.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-85,19,9,Missed,1,,,0,v,MISS Jokic 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,472
+0022501112,648,PT02M58.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,473
+0022501112,649,PT02M55.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,-22,18,3,Missed,1,,,0,h,MISS Chandler 3' Running Layup,Missed Shot,Running Layup Shot,1,2,474
+0022501112,649,PT02M55.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray BLOCK (2 BLK),,,1,2,475
+0022501112,651,PT02M55.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,0,476
+0022501112,653,PT02M39.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-138,225,26,Made,1,108,123,231,v,Murray 26' 3PT Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,3,477
+0022501112,654,PT02M12.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,478
+0022501112,655,PT02M01.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-119,225,25,Made,1,108,126,234,v,Murray 25' 3PT Jump Shot (37 PTS) (Jokic 12 AST),Made Shot,Jump Shot,1,3,479
+0022501112,657,PT01M53.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,16,18,2,Made,1,110,126,236,h,Chandler 2' Driving Finger Roll Layup (11 PTS) (Sensabaugh 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,480
+0022501112,659,PT01M40.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,1,0,481
+0022501112,661,PT01M40.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,110,127,237,v,Gordon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+0022501112,662,PT01M40.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,,,0,v,SUB: Simpson FOR Braun,Substitution,,0,0,483
+0022501112,663,PT01M40.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,v,SUB: Strawther FOR Jokic,Substitution,,0,0,484
+0022501112,664,PT01M40.00S,4,1610612743,DEN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Pickett FOR Johnson,Substitution,,0,0,485
+0022501112,665,PT01M40.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Holmes II FOR Murray,Substitution,,0,0,486
+0022501112,670,PT01M40.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,110,128,238,v,Gordon Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+0022501112,671,PT01M39.00S,4,1610612743,DEN,1642354,Simpson,K. Simpson,0,0,0,,0,,,0,v,Simpson Personal Take Foul (P1.T2) (P.O'Connell),Foul,Personal Take,1,0,488
+0022501112,673,PT01M39.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,v,SUB: Roddy FOR Gordon,Substitution,,0,0,489
+0022501112,675,PT01M33.00S,4,1610612743,DEN,1642354,Simpson,K. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0,490
+0022501112,677,PT01M33.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,MISS Chandler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,491
+0022501112,678,PT01M33.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,492
+0022501112,679,PT01M33.00S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,111,128,239,h,Chandler Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+0022501112,680,PT01M14.00S,4,1610612743,DEN,1642354,Simpson,K. Simpson,-77,246,26,Missed,1,,,0,v,MISS Simpson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,494
+0022501112,680,PT01M14.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,Konchar BLOCK (1 BLK),,,1,3,495
+0022501112,682,PT01M14.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,496
+0022501112,683,PT01M14.00S,4,1610612743,DEN,1642354,Simpson,K. Simpson,0,0,0,,0,,,0,v,Simpson L.B.FOUL (P3.PN) (S.Corbin),Foul,Loose Ball,1,0,497
+0022501112,685,PT01M14.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,112,128,240,h,Konchar Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,498
+0022501112,686,PT01M14.00S,4,1610612762,UTA,1629723,Konchar,J. Konchar,0,0,0,,0,,,0,h,MISS Konchar Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,499
+0022501112,687,PT01M13.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,500
+0022501112,688,PT01M13.00S,4,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,v,Pickett L.B.FOUL (P1.PN) (C.Kirkland),Foul,Loose Ball,1,0,501
+0022501112,690,PT01M13.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,113,128,241,h,Mbeng Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+0022501112,691,PT01M13.00S,4,1610612762,UTA,1643016,Mbeng,B. Mbeng,0,0,0,,0,,,0,h,MISS Mbeng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,503
+0022501112,692,PT01M13.00S,4,1610612743,DEN,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,504
+0022501112,693,PT01M01.00S,4,1610612743,DEN,1631223,Roddy,D. Roddy,-47,22,5,Made,1,113,130,243,v,Roddy 5' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,505
+0022501112,694,PT00M46.80S,4,1610612762,UTA,1631113,Chandler,K. Chandler,33,80,9,Made,1,115,130,245,h,Chandler 9' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,506
+0022501112,695,PT00M37.90S,4,1610612743,DEN,1631223,Roddy,D. Roddy,126,214,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,507
+0022501112,696,PT00M34.60S,4,1610612762,UTA,1631113,Chandler,K. Chandler,0,0,0,,0,,,0,h,Chandler REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,508
+0022501112,697,PT00M29.80S,4,1610612762,UTA,1631113,Chandler,K. Chandler,27,17,3,Made,1,117,130,247,h,Chandler 3' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,509
+0022501112,698,PT00M05.70S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,510
+0022501112,699,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,130,247,,End of 4th Period (11:24 PM EST),period,end,1,0,511

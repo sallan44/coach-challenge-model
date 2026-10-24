@@ -1,0 +1,518 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400674,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:12 PM EST),period,start,1,0,1
+0022400674,4,PT12M00.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Jump Ball Valančiūnas vs. Hayes: Tip to Christie,Jump Ball,,1,0,2
+0022400674,7,PT11M45.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,1,0,3
+0022400674,9,PT11M45.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,0,1,1,v,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,4
+0022400674,10,PT11M45.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,0,2,2,v,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,5
+0022400674,11,PT11M21.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-130,395,42,Missed,1,,,0,h,MISS Kuzma 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,6
+0022400674,12,PT11M19.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022400674,13,PT11M13.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,1,0,8
+0022400674,15,PT11M05.00S,1,1610612747,LAL,1631108,Christie,M. Christie,-223,-21,0,Missed,1,,,0,v,MISS Christie 3PT Jump Shot,Missed Shot,Jump Shot,0,3,9
+0022400674,16,PT11M01.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,10
+0022400674,17,PT10M54.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,-21,256,26,Missed,1,,,0,h,MISS Valančiūnas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022400674,18,PT10M51.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022400674,19,PT10M51.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,13
+0022400674,20,PT10M47.00S,1,1610612764,WAS,1629673,Poole,J. Poole,15,89,9,Made,1,2,2,4,h,Poole 9' Driving Floating Jump Shot (2 PTS) (Valančiūnas 1 AST),Made Shot,Driving Floating Jump Shot,1,2,14
+0022400674,21,PT10M34.00S,1,1610612747,LAL,2544,James,L. James,-36,176,18,Made,1,2,4,6,v,L. James 18' Pullup Jump Shot (2 PTS) (Hayes 1 AST),Made Shot,Pullup Jump shot,1,2,15
+0022400674,22,PT10M20.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,16
+0022400674,26,PT10M20.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,3,4,7,h,Valančiūnas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,17
+0022400674,27,PT10M20.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,4,4,8,h,Valančiūnas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,18
+0022400674,28,PT10M06.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,27,-4,3,Made,1,4,6,10,v,Hachimura 3' Layup (2 PTS) (L. James 1 AST),Made Shot,Layup Shot,1,2,19
+0022400674,30,PT09M56.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-114,243,27,Missed,1,,,0,h,MISS Poole 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,20
+0022400674,31,PT09M53.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022400674,32,PT09M48.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,22
+0022400674,33,PT09M40.00S,1,1610612747,LAL,2544,James,L. James,64,13,7,Missed,1,,,0,v,MISS L. James 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,23
+0022400674,34,PT09M39.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+0022400674,35,PT09M39.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Made,1,4,8,12,v,Hayes Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,25
+0022400674,36,PT09M13.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-107,280,30,Made,1,7,8,15,h,Kuzma 30' 3PT Jump Shot (3 PTS) (Valančiūnas 2 AST),Made Shot,Jump Shot,1,3,26
+0022400674,38,PT08M53.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,212,130,25,Made,1,7,11,18,v,Reaves 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,27
+0022400674,40,PT08M42.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,233,5,0,Made,1,10,11,21,h,Kuzma 3PT Jump Shot (6 PTS) (Poole 1 AST),Made Shot,Jump Shot,1,3,28
+0022400674,42,PT08M25.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-45,21,5,Missed,1,,,0,v,MISS Reaves 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,29
+0022400674,43,PT08M23.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,30
+0022400674,46,PT08M09.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,31
+0022400674,47,PT08M02.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,81,67,11,Missed,1,,,0,h,MISS Valančiūnas 11' Hook Shot,Missed Shot,Hook Shot,1,2,32
+0022400674,48,PT08M00.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,33
+0022400674,49,PT07M47.00S,1,1610612747,LAL,1631108,Christie,M. Christie,-227,-16,0,Missed,1,,,0,v,MISS Christie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+0022400674,50,PT07M43.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,35
+0022400674,51,PT07M41.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,210,141,25,Missed,1,,,0,v,MISS Hachimura 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022400674,52,PT07M38.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+0022400674,54,PT07M31.00S,1,1610612764,WAS,1642273,George,K. George,-232,-8,0,Made,1,13,11,24,h,George 3PT Running Jump Shot (3 PTS) (Kuzma 1 AST),Made Shot,Running Jump Shot,1,3,38
+0022400674,56,PT07M11.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-225,104,25,Made,1,13,14,27,v,Hachimura 25' 3PT Jump Shot (5 PTS) (L. James 2 AST),Made Shot,Jump Shot,1,3,39
+0022400674,58,PT07M01.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-39,321,32,Missed,1,,,0,h,MISS Kuzma 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022400674,59,PT06M59.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,41
+0022400674,60,PT06M54.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas S.FOUL (P2.T3) (M.Davis),Foul,Shooting,1,0,42
+0022400674,62,PT06M54.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,43
+0022400674,63,PT06M54.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,13,15,28,v,L. James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,44
+0022400674,64,PT06M54.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,13,16,29,v,L. James Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,45
+0022400674,65,PT06M30.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,46
+0022400674,66,PT06M20.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,-9,3,1,Made,1,13,18,31,v,Hayes 1' Alley Oop Layup (6 PTS) (L. James 3 AST),Made Shot,Alley Oop Layup shot,1,2,47
+0022400674,68,PT06M02.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,116,147,19,Made,1,15,18,33,h,Coulibaly 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,48
+0022400674,69,PT05M43.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-22,11,2,Made,1,15,20,35,v,Hachimura 2' Driving Layup (7 PTS) (Reaves 1 AST),Made Shot,Driving Layup Shot,1,2,49
+0022400674,71,PT05M32.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-127,259,29,Missed,1,,,0,h,MISS Poole 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,50
+0022400674,71,PT05M32.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes BLOCK (1 BLK),,,1,3,51
+0022400674,73,PT05M28.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+0022400674,74,PT05M26.00S,1,1610612747,LAL,2544,James,L. James,-107,293,31,Made,1,15,23,38,v,L. James 31' 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,53
+0022400674,75,PT05M02.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-168,230,28,Made,1,18,23,41,h,Poole 28' 3PT Jump Shot (5 PTS) (Valančiūnas 3 AST),Made Shot,Jump Shot,1,3,54
+0022400674,77,PT04M54.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,40,-8,4,Missed,1,,,0,v,MISS Hachimura 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,55
+0022400674,77,PT04M54.00S,1,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George BLOCK (1 BLK),,,1,2,56
+0022400674,79,PT04M53.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,57
+0022400674,80,PT04M38.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,100,159,19,Missed,1,,,0,h,MISS Valančiūnas 19' Jump Shot,Missed Shot,Jump Shot,1,2,58
+0022400674,81,PT04M36.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,59
+0022400674,82,PT04M32.00S,1,1610612747,LAL,1631108,Christie,M. Christie,-232,-18,0,Made,1,18,26,44,v,Christie 3PT Running Jump Shot (3 PTS) (Reaves 2 AST),Made Shot,Running Jump Shot,1,3,60
+0022400674,84,PT04M31.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,61
+0022400674,86,PT04M31.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Kispert FOR Kuzma,Substitution,,0,0,62
+0022400674,87,PT04M31.00S,1,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Carrington FOR Valančiūnas,Substitution,,0,0,63
+0022400674,88,PT04M31.00S,1,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,SUB: Holmes FOR George,Substitution,,0,0,64
+0022400674,89,PT04M31.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Vanderbilt FOR L. James,Substitution,,0,0,65
+0022400674,90,PT04M31.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Knecht FOR Hachimura,Substitution,,0,0,66
+0022400674,96,PT04M18.00S,1,1610612764,WAS,1629673,Poole,J. Poole,62,270,28,Missed,1,,,0,h,MISS Poole 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022400674,97,PT04M15.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,68
+0022400674,98,PT04M11.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes Offensive Goaltending Turnover (P1.T2),Turnover,Offensive Goaltending,1,0,69
+0022400674,99,PT03M59.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie P.FOUL (P1.T2) (P.Ransom),Foul,Personal,1,0,70
+0022400674,101,PT03M49.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,180,121,22,Missed,1,,,0,h,MISS Carrington 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,71
+0022400674,102,PT03M46.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022400674,103,PT03M28.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,234,-2,0,Made,1,18,29,47,v,Reaves 3PT Jump Shot (6 PTS) (Hayes 2 AST),Made Shot,Jump Shot,1,3,73
+0022400674,105,PT03M22.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,1,0,74
+0022400674,107,PT03M22.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,19,29,48,h,Poole Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,75
+0022400674,108,PT03M22.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Champagnie FOR Coulibaly,Substitution,,0,0,76
+0022400674,109,PT03M22.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,SUB: Jemison III FOR Hayes,Substitution,,0,0,77
+0022400674,110,PT03M22.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,SUB: Milton FOR Christie,Substitution,,0,0,78
+0022400674,114,PT03M22.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,MISS Poole Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,79
+0022400674,115,PT03M20.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022400674,116,PT03M06.00S,1,1610612747,LAL,1629003,Milton,S. Milton,-20,30,4,Made,1,19,31,50,v,Milton 4' Driving Floating Jump Shot (2 PTS) (Reaves 3 AST),Made Shot,Driving Floating Jump Shot,1,2,81
+0022400674,117,PT02M58.00S,1,1610612764,WAS,1629673,Poole,J. Poole,20,-1,2,Missed,1,,,0,h,MISS Poole 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,82
+0022400674,118,PT02M58.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022400674,119,PT02M58.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,1,0,84
+0022400674,122,PT02M58.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,20,31,51,h,Kispert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,85
+0022400674,123,PT02M58.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,21,31,52,h,Kispert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,86
+0022400674,124,PT02M37.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,2,22,2,Made,1,21,33,54,v,Reaves 2' Driving Finger Roll Layup (8 PTS) (Milton 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,87
+0022400674,126,PT02M27.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-83,23,9,Made,1,23,33,56,h,Champagnie 9' Driving Floating Jump Shot (2 PTS) (Carrington 1 AST),Made Shot,Driving Floating Jump Shot,1,2,88
+0022400674,128,PT02M22.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0,89
+0022400674,138,PT02M20.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-93,104,14,Missed,1,,,0,v,MISS Reaves 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,90
+0022400674,138,PT02M20.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert BLOCK (1 BLK),,,1,2,91
+0022400674,140,PT02M19.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+0022400674,132,PT02M14.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,-5,11,1,Made,1,25,33,58,h,Kispert 1' Running Layup (4 PTS) (Poole 2 AST),Made Shot,Running Layup Shot,1,2,93
+0022400674,134,PT02M14.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves T.FOUL (P0.T4) (M.Davis),Foul,Technical,1,0,94
+0022400674,135,PT02M14.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,26,33,59,h,Poole Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,0,95
+0022400674,136,PT02M14.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,SUB: L. James FOR Reaves,Substitution,,0,0,96
+0022400674,141,PT01M55.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Jump Ball Holmes vs. Jemison III: Tip to L. James,Jump Ball,,1,0,97
+0022400674,144,PT01M50.00S,1,1610612747,LAL,2544,James,L. James,1,11,1,Made,1,26,35,61,v,L. James 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,98
+0022400674,145,PT01M30.00S,1,1610612764,WAS,1629673,Poole,J. Poole,232,118,26,Missed,1,,,0,h,MISS Poole 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,99
+0022400674,146,PT01M27.00S,1,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022400674,147,PT01M21.00S,1,1610612747,LAL,2544,James,L. James,-1,21,2,Made,1,26,37,63,v,L. James 2' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,101
+0022400674,148,PT01M21.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,1,0,102
+0022400674,149,PT01M09.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,103
+0022400674,149,PT01M09.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,104
+0022400674,151,PT01M05.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,10,24,3,Made,1,26,39,65,v,Jemison III 3' Turnaround Hook Shot (2 PTS) (Vanderbilt 1 AST),Made Shot,Turnaround Hook Shot,1,2,105
+0022400674,153,PT00M56.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P1.PN) (P.Ransom),Foul,Personal,1,0,106
+0022400674,155,PT00M56.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,27,39,66,h,Poole Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+0022400674,156,PT00M56.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,SUB: Kuzma FOR Holmes,Substitution,,0,0,108
+0022400674,159,PT00M56.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,28,39,67,h,Poole Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,109
+0022400674,160,PT00M46.10S,1,1610612747,LAL,1642261,Knecht,D. Knecht,-127,243,27,Missed,1,,,0,v,MISS Knecht 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022400674,161,PT00M41.90S,1,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,111
+0022400674,162,PT00M41.90S,1,1610612747,LAL,1629003,Milton,S. Milton,-9,16,2,Made,1,28,41,69,v,Milton 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,2,112
+0022400674,163,PT00M41.90S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,Carrington S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,1,0,113
+0022400674,165,PT00M41.90S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Hachimura FOR Jemison III,Substitution,,0,0,114
+0022400674,167,PT00M41.90S,1,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,28,42,70,v,Milton Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,115
+0022400674,168,PT00M34.30S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P2.PN) (M.Davis),Foul,Personal,1,0,116
+0022400674,170,PT00M34.30S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+0022400674,171,PT00M34.30S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,118
+0022400674,172,PT00M34.30S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Poole,Substitution,,0,0,119
+0022400674,174,PT00M34.30S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,29,42,71,h,Kuzma Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,120
+0022400674,175,PT00M16.40S,1,1610612747,LAL,2544,James,L. James,-33,1,3,Missed,1,,,0,v,MISS L. James 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,121
+0022400674,176,PT00M12.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0022400674,177,PT00M03.90S,1,1610612747,LAL,1642261,Knecht,D. Knecht,-5,268,27,Missed,1,,,0,v,MISS Knecht 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022400674,178,PT00M02.40S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,124
+0022400674,180,PT00M02.40S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Poole FOR Coulibaly,Substitution,,0,0,125
+0022400674,182,PT00M02.40S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Champagnie,Substitution,,0,0,126
+0022400674,184,PT00M00.10S,1,1610612764,WAS,1629673,Poole,J. Poole,-195,566,60,Missed,1,,,0,h,MISS Poole 60' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,127
+0022400674,185,PT00M00.10S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,128
+0022400674,186,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,42,71,,End of 1st Period (7:41 PM EST),period,end,1,0,129
+0022400674,195,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,42,71,,Start of 2nd Period (7:44 PM EST),period,start,0,0,130
+0022400674,196,PT11M47.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,55,37,7,Missed,1,,,0,h,MISS Kuzma 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,131
+0022400674,196,PT11M47.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III BLOCK (1 BLK),,,1,2,132
+0022400674,198,PT11M47.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,133
+0022400674,200,PT11M39.00S,2,1610612764,WAS,1630215,Butler,J. Butler,87,27,9,Made,1,31,42,73,h,Butler 9' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,134
+0022400674,201,PT11M39.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,1,0,135
+0022400674,203,PT11M39.00S,2,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,32,42,74,h,Butler Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,136
+0022400674,204,PT11M25.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,222,105,25,Made,1,32,45,77,v,Hachimura 25' 3PT Jump Shot (10 PTS) (L. James 4 AST),Made Shot,Jump Shot,1,3,137
+0022400674,206,PT11M13.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-138,230,27,Missed,1,,,0,h,MISS Kispert 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022400674,207,PT11M10.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,L. James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0022400674,208,PT11M06.00S,2,1610612747,LAL,2544,James,L. James,-2,250,25,Missed,1,,,0,v,MISS L. James 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,140
+0022400674,209,PT11M04.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022400674,210,PT10M57.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-243,-11,24,Missed,1,,,0,h,MISS Kispert 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,142
+0022400674,211,PT10M54.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,143
+0022400674,212,PT10M45.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,144
+0022400674,214,PT10M45.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,32,46,78,v,L. James Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0022400674,215,PT10M45.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,32,47,79,v,L. James Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+0022400674,216,PT10M32.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,54,251,26,Missed,1,,,0,h,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022400674,217,PT10M31.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,148
+0022400674,219,PT10M20.00S,2,1610612764,WAS,1630215,Butler,J. Butler,225,143,27,Missed,1,,,0,h,MISS Butler 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0022400674,220,PT10M15.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,150
+0022400674,221,PT10M06.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,93,72,12,Made,1,32,49,81,v,Hachimura 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,151
+0022400674,222,PT09M57.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,130,88,16,Missed,1,,,0,h,MISS Kuzma 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,152
+0022400674,223,PT09M56.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,153
+0022400674,224,PT09M56.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,4,7,1,Made,1,34,49,83,h,Holmes 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,154
+0022400674,225,PT09M30.00S,2,1610612747,LAL,2544,James,L. James,20,48,5,Missed,1,,,0,v,MISS L. James 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,155
+0022400674,226,PT09M28.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+0022400674,227,PT09M24.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,L. James S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,157
+0022400674,229,PT09M24.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,158
+0022400674,230,PT09M24.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,159
+0022400674,231,PT09M24.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Valančiūnas FOR Kispert,Substitution,,0,0,160
+0022400674,232,PT09M24.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,SUB: George FOR Holmes,Substitution,,0,0,161
+0022400674,233,PT09M24.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Hayes FOR Jemison III,Substitution,,0,0,162
+0022400674,237,PT09M24.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,35,49,84,h,Kuzma Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,163
+0022400674,238,PT09M03.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,55,30,6,Missed,1,,,0,v,MISS Hachimura 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,164
+0022400674,238,PT09M03.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie BLOCK (1 BLK),,,1,2,165
+0022400674,240,PT09M03.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,166
+0022400674,242,PT08M50.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,22,8,2,Missed,1,,,0,h,MISS Valančiūnas 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,167
+0022400674,243,PT08M48.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,168
+0022400674,244,PT08M37.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,-4,6,1,Made,1,35,51,86,v,Hayes 1' Dunk (8 PTS) (L. James 5 AST),Made Shot,Dunk Shot,1,2,169
+0022400674,246,PT08M25.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-2,270,27,Missed,1,,,0,h,MISS Kuzma 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022400674,247,PT08M22.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,171
+0022400674,248,PT08M19.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,10,1,Made,1,35,53,88,v,Hachimura 1' Running Dunk (14 PTS) (L. James 6 AST),Made Shot,Running Dunk Shot,1,2,172
+0022400674,250,PT08M19.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,173
+0022400674,251,PT08M19.00S,2,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Butler,Substitution,,0,0,174
+0022400674,252,PT08M19.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Poole FOR Champagnie,Substitution,,0,0,175
+0022400674,253,PT08M19.00S,2,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,SUB: Reaves FOR Knecht,Substitution,,0,0,176
+0022400674,257,PT08M01.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,177
+0022400674,258,PT07M46.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,10,66,7,Missed,1,,,0,v,MISS Reaves 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,178
+0022400674,258,PT07M46.00S,2,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George BLOCK (2 BLK),,,1,2,179
+0022400674,260,PT07M44.00S,2,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,180
+0022400674,261,PT07M39.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-234,106,26,Missed,1,,,0,h,MISS Kuzma 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,181
+0022400674,262,PT07M36.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,182
+0022400674,263,PT07M29.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Violation:Kicked Ball (B.Barnaky),Violation,Kicked Ball,0,0,183
+0022400674,264,PT07M29.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Carrington FOR Kuzma,Substitution,,0,0,184
+0022400674,266,PT07M20.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,-1,8,1,Made,1,35,55,90,v,Hayes 1' Cutting Dunk Shot (10 PTS) (L. James 7 AST),Made Shot,Cutting Dunk Shot,1,2,185
+0022400674,268,PT07M07.00S,2,1610612764,WAS,1629673,Poole,J. Poole,-78,133,15,Missed,1,,,0,h,MISS Poole 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+0022400674,269,PT07M05.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,187
+0022400674,270,PT06M59.00S,2,1610612747,LAL,2544,James,L. James,-17,9,2,Made,1,35,57,92,v,L. James 2' Running Reverse Layup (15 PTS),Made Shot,Running Reverse Layup Shot,1,2,188
+0022400674,271,PT06M59.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,189
+0022400674,272,PT06M59.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Christie FOR L. James,Substitution,,0,0,190
+0022400674,274,PT06M44.00S,2,1610612764,WAS,1629673,Poole,J. Poole,25,0,3,Made,1,37,57,94,h,Poole 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,191
+0022400674,275,PT06M32.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly P.FOUL (P1.T2) (P.Ransom),Foul,Personal,1,0,192
+0022400674,278,PT06M26.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-38,279,28,Missed,1,,,0,v,MISS Reaves 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022400674,279,PT06M23.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,194
+0022400674,280,PT06M11.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,195
+0022400674,280,PT06M11.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,196
+0022400674,282,PT06M09.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,1,0,197
+0022400674,284,PT06M09.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,37,58,95,v,Milton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,198
+0022400674,285,PT06M09.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,SUB: Jemison III FOR Hayes,Substitution,,0,0,199
+0022400674,287,PT06M09.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,37,59,96,v,Milton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+0022400674,288,PT05M56.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,-55,152,16,Missed,1,,,0,h,MISS Valančiūnas 16' Jump Shot,Missed Shot,Jump Shot,1,2,201
+0022400674,289,PT05M51.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,202
+0022400674,290,PT05M37.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole S.FOUL (P3.T4) (B.Barnaky),Foul,Shooting,1,0,203
+0022400674,292,PT05M37.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,37,60,97,v,Christie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,204
+0022400674,293,PT05M37.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,37,61,98,v,Christie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,205
+0022400674,294,PT05M23.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,16,54,6,Missed,1,,,0,h,MISS Valančiūnas 6' Hook Shot,Missed Shot,Hook Shot,1,2,206
+0022400674,295,PT05M21.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022400674,296,PT05M13.00S,2,1610612747,LAL,1629003,Milton,S. Milton,-103,256,28,Missed,1,,,0,v,MISS Milton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022400674,297,PT05M09.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+0022400674,298,PT05M02.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T3) (P.Ransom),Foul,Personal,1,0,210
+0022400674,300,PT04M49.00S,2,1610612764,WAS,1629673,Poole,J. Poole,-20,257,26,Made,1,40,61,101,h,Poole 26' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,211
+0022400674,301,PT04M26.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,62,29,7,Missed,1,,,0,v,MISS Reaves 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,212
+0022400674,302,PT04M26.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,213
+0022400674,303,PT04M19.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,-42,251,25,Made,1,40,64,104,v,Hachimura 25' 3PT Jump Shot (17 PTS) (Milton 2 AST),Made Shot,Jump Shot,1,3,214
+0022400674,305,PT04M03.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,215
+0022400674,305,PT04M03.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura STEAL (1 STL),,,1,0,216
+0022400674,307,PT03M59.00S,2,1610612747,LAL,1629003,Milton,S. Milton,-13,9,2,Made,1,40,66,106,v,Milton 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,217
+0022400674,308,PT03M39.00S,2,1610612764,WAS,1642273,George,K. George,131,243,28,Missed,1,,,0,h,MISS George 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,218
+0022400674,309,PT03M36.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,219
+0022400674,310,PT03M36.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,Made,1,42,66,108,h,Coulibaly Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,220
+0022400674,311,PT03M24.00S,2,1610612747,LAL,1631108,Christie,M. Christie,48,290,29,Made,1,42,69,111,v,Christie 29' 3PT Jump Shot (8 PTS) (Reaves 4 AST),Made Shot,Jump Shot,1,3,221
+0022400674,313,PT03M14.00S,2,1610612764,WAS,1642273,George,K. George,-56,15,6,Missed,1,,,0,h,MISS George 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,222
+0022400674,313,PT03M14.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III BLOCK (2 BLK),,,1,2,223
+0022400674,315,PT03M14.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,224
+0022400674,317,PT03M14.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Kuzma FOR Poole,Substitution,,0,0,225
+0022400674,318,PT03M14.00S,2,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Kispert FOR Valančiūnas,Substitution,,0,0,226
+0022400674,319,PT03M14.00S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Vanderbilt FOR Milton,Substitution,,0,0,227
+0022400674,320,PT03M14.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Hayes FOR Hachimura,Substitution,,0,0,228
+0022400674,321,PT03M14.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: L. James FOR Jemison III,Substitution,,0,0,229
+0022400674,327,PT03M05.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,Carrington Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,230
+0022400674,327,PT03M05.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,231
+0022400674,329,PT03M00.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,232
+0022400674,329,PT03M00.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert STEAL (1 STL),,,1,0,233
+0022400674,331,PT02M56.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-78,46,9,Missed,1,,,0,h,MISS Coulibaly 9' Running Layup,Missed Shot,Running Layup Shot,1,2,234
+0022400674,331,PT02M56.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes BLOCK (2 BLK),,,1,2,235
+0022400674,333,PT02M55.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,236
+0022400674,334,PT02M54.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,-2,1,Made,1,42,71,113,v,Vanderbilt 1' Running Dunk (2 PTS) (L. James 8 AST),Made Shot,Running Dunk Shot,1,2,237
+0022400674,336,PT02M32.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,-112,262,28,Missed,1,,,0,h,MISS Carrington 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022400674,337,PT02M30.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,239
+0022400674,338,PT02M14.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,240
+0022400674,339,PT02M04.00S,2,1610612747,LAL,2544,James,L. James,66,79,10,Missed,1,,,0,v,MISS L. James 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,241
+0022400674,339,PT02M04.00S,2,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George BLOCK (3 BLK),,,1,2,242
+0022400674,341,PT02M01.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,Carrington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,243
+0022400674,342,PT01M59.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,23,5,2,Missed,1,,,0,h,MISS Carrington 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,244
+0022400674,343,PT01M57.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,245
+0022400674,344,PT01M53.00S,2,1610612747,LAL,2544,James,L. James,120,-2,12,Made,1,42,73,115,v,L. James 12' Running Jump Shot (17 PTS) (Christie 1 AST),Made Shot,Running Jump Shot,1,2,246
+0022400674,346,PT01M32.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-210,136,25,Missed,1,,,0,h,MISS Coulibaly 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0022400674,347,PT01M30.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,248
+0022400674,348,PT01M16.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-5,274,27,Made,1,42,76,118,v,Reaves 27' 3PT Jump Shot (11 PTS) (L. James 9 AST),Made Shot,Jump Shot,1,3,249
+0022400674,350,PT01M03.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0,250
+0022400674,352,PT01M03.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,SUB: Holmes FOR Carrington,Substitution,,0,0,251
+0022400674,354,PT00M54.10S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,1,0,252
+0022400674,356,PT00M54.10S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,43,76,119,h,Coulibaly Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+0022400674,357,PT00M54.10S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,SUB: Milton FOR Christie,Substitution,,0,0,254
+0022400674,359,PT00M54.10S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,44,76,120,h,Coulibaly Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,255
+0022400674,360,PT00M33.90S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,Reaves Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,256
+0022400674,360,PT00M33.90S,2,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George STEAL (1 STL),,,1,0,257
+0022400674,362,PT00M30.30S,2,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,1,0,258
+0022400674,364,PT00M30.30S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,259
+0022400674,365,PT00M30.30S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,260
+0022400674,366,PT00M30.30S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,45,76,121,h,Kuzma Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+0022400674,367,PT00M07.90S,2,1610612747,LAL,2544,James,L. James,-61,64,9,Missed,1,,,0,v,MISS L. James 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,262
+0022400674,368,PT00M07.80S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,263
+0022400674,369,PT00M07.80S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,45,78,123,v,Vanderbilt Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,264
+0022400674,370,PT00M02.70S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,55,79,10,Missed,1,,,0,h,MISS Coulibaly 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,265
+0022400674,371,PT00M01.50S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,266
+0022400674,373,PT00M01.50S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Poole FOR Coulibaly,Substitution,,0,0,267
+0022400674,375,PT00M00.10S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,232,39,24,Missed,1,,,0,h,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+0022400674,376,PT00M00.10S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,269
+0022400674,377,PT00M00.00S,2,0,,0,,,0,0,0,,0,45,78,123,,End of 2nd Period (8:13 PM EST),period,end,1,0,270
+0022400674,386,PT12M00.00S,3,0,,0,,,0,0,0,,0,45,78,123,,Start of 3rd Period (8:28 PM EST),period,start,0,0,271
+0022400674,387,PT11M45.00S,3,1610612764,WAS,1642273,George,K. George,67,9,7,Missed,1,,,0,h,MISS George 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,272
+0022400674,388,PT11M44.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,273
+0022400674,390,PT11M35.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,-135,30,14,Missed,1,,,0,h,MISS Valančiūnas 14' Jump Shot,Missed Shot,Jump Shot,1,2,274
+0022400674,391,PT11M34.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,275
+0022400674,392,PT11M18.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-180,256,31,Missed,1,,,0,v,MISS Reaves 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022400674,393,PT11M15.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,277
+0022400674,394,PT11M07.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-153,230,28,Missed,1,,,0,h,MISS Poole 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022400674,395,PT11M04.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,L. James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,279
+0022400674,396,PT10M46.00S,3,1610612747,LAL,2544,James,L. James,51,27,6,Missed,1,,,0,v,MISS L. James 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,280
+0022400674,397,PT10M43.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,281
+0022400674,398,PT10M42.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,1,0,282
+0022400674,400,PT10M42.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,283
+0022400674,401,PT10M42.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,284
+0022400674,402,PT10M42.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,46,78,124,h,Kuzma Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+0022400674,403,PT10M33.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,286
+0022400674,404,PT10M28.00S,3,1610612764,WAS,1629673,Poole,J. Poole,22,16,3,Missed,1,,,0,h,MISS Poole 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,287
+0022400674,404,PT10M28.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes BLOCK (3 BLK),,,1,2,288
+0022400674,406,PT10M28.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,289
+0022400674,408,PT10M13.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-28,8,3,Missed,1,,,0,h,MISS Kuzma 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,290
+0022400674,409,PT10M13.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valančiūnas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,291
+0022400674,410,PT10M13.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,48,78,126,h,Valančiūnas Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,292
+0022400674,411,PT10M13.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,1,0,293
+0022400674,413,PT10M13.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,49,78,127,h,Valančiūnas Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,294
+0022400674,414,PT09M57.00S,3,1610612747,LAL,1631108,Christie,M. Christie,1,33,3,Missed,1,,,0,v,MISS Christie 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,295
+0022400674,415,PT09M55.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,296
+0022400674,416,PT09M50.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,23,3,2,Made,1,51,78,129,h,Kuzma 2' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,297
+0022400674,417,PT09M50.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,1,0,298
+0022400674,419,PT09M50.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,52,78,130,h,Kuzma Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,299
+0022400674,420,PT09M38.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,-243,55,25,Made,1,52,81,133,v,Hachimura 25' 3PT Jump Shot (20 PTS) (L. James 10 AST),Made Shot,Jump Shot,1,3,300
+0022400674,423,PT09M17.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,301
+0022400674,424,PT09M06.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-51,19,5,Missed,1,,,0,h,MISS Kuzma 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,302
+0022400674,424,PT09M06.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura BLOCK (1 BLK),,,1,2,303
+0022400674,426,PT09M04.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,L. James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,304
+0022400674,427,PT09M01.00S,3,1610612747,LAL,2544,James,L. James,-66,76,10,Made,1,52,83,135,v,L. James 10' Driving Floating Bank Jump Shot (19 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,305
+0022400674,428,PT09M01.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole S.FOUL (P4.T1) (P.Ransom),Foul,Shooting,1,0,306
+0022400674,430,PT09M01.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,52,84,136,v,L. James Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,307
+0022400674,431,PT08M45.00S,3,1610612764,WAS,1629673,Poole,J. Poole,186,210,28,Missed,1,,,0,h,MISS Poole 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,308
+0022400674,432,PT08M42.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,309
+0022400674,433,PT08M37.00S,3,1610612747,LAL,2544,James,L. James,-158,309,35,Missed,1,,,0,v,MISS L. James 35' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,310
+0022400674,434,PT08M36.00S,3,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,311
+0022400674,435,PT08M32.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,115,41,12,Missed,1,,,0,h,MISS Kuzma 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,312
+0022400674,436,PT08M31.00S,3,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Rebound,Rebound,Unknown,0,0,313
+0022400674,438,PT08M12.00S,3,1610612747,LAL,2544,James,L. James,-159,5,16,Made,1,52,86,138,v,L. James 16' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,2,314
+0022400674,439,PT07M59.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,216,121,25,Missed,1,,,0,h,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022400674,440,PT07M56.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,316
+0022400674,441,PT07M51.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,7,-1,1,Made,1,52,88,140,v,Hachimura 1' Dunk (22 PTS) (L. James 11 AST),Made Shot,Dunk Shot,1,2,317
+0022400674,443,PT07M51.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,318
+0022400674,444,PT07M51.00S,3,1610612764,WAS,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Holmes FOR Valančiūnas,Substitution,,0,0,319
+0022400674,446,PT07M41.00S,3,1610612764,WAS,1642273,George,K. George,241,-15,24,Missed,1,,,0,h,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022400674,447,PT07M39.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,321
+0022400674,448,PT07M18.00S,3,1610612747,LAL,2544,James,L. James,213,149,26,Missed,1,,,0,v,MISS L. James 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,322
+0022400674,449,PT07M18.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,323
+0022400674,450,PT07M18.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes L.B.FOUL (P4.T4) (P.Ransom),Foul,Loose Ball,1,0,324
+0022400674,452,PT07M18.00S,3,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,SUB: Kispert FOR George,Substitution,,0,0,325
+0022400674,453,PT07M18.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Carrington FOR Kuzma,Substitution,,0,0,326
+0022400674,456,PT06M59.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,99,256,27,Missed,1,,,0,h,MISS Carrington 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,327
+0022400674,457,PT06M55.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,328
+0022400674,458,PT06M46.00S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-234,117,26,Missed,1,,,0,h,MISS Coulibaly 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022400674,459,PT06M43.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,330
+0022400674,460,PT06M28.00S,3,1610612747,LAL,2544,James,L. James,134,60,15,Missed,1,,,0,v,MISS L. James 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,331
+0022400674,461,PT06M25.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,332
+0022400674,462,PT06M12.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,5,56,6,Missed,1,,,0,h,MISS Holmes 6' Hook Shot,Missed Shot,Hook Shot,1,2,333
+0022400674,463,PT06M10.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,334
+0022400674,464,PT06M08.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,238,6,24,Missed,1,,,0,h,MISS Carrington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022400674,465,PT06M07.00S,3,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Rebound,Rebound,Unknown,0,0,336
+0022400674,467,PT05M53.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,23,65,7,Missed,1,,,0,v,MISS Reaves 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,337
+0022400674,468,PT05M52.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,338
+0022400674,469,PT05M49.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-195,157,25,Made,1,55,88,143,h,Kispert 25' 3PT Running Jump Shot (7 PTS) (Carrington 2 AST),Made Shot,Running Jump Shot,1,3,339
+0022400674,471,PT05M38.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,Hayes Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,340
+0022400674,472,PT05M31.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,341
+0022400674,472,PT05M31.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie STEAL (1 STL),,,1,0,342
+0022400674,474,PT05M28.00S,3,1610612747,LAL,1631108,Christie,M. Christie,15,29,3,Made,1,55,90,145,v,Christie 3' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,343
+0022400674,475,PT05M07.00S,3,1610612764,WAS,1629673,Poole,J. Poole,248,-12,25,Made,1,58,90,148,h,Poole 25' 3PT Jump Shot (17 PTS) (Carrington 3 AST),Made Shot,Jump Shot,1,3,344
+0022400674,477,PT05M00.00S,3,1610612747,LAL,2544,James,L. James,2,11,1,Made,1,58,92,150,v,L. James 1' Driving Dunk (24 PTS) (Christie 2 AST),Made Shot,Driving Dunk Shot,1,2,345
+0022400674,479,PT04M46.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,16,9,2,Made,1,60,92,152,h,Kispert 2' Reverse Layup (9 PTS) (Holmes 1 AST),Made Shot,Reverse Layup Shot,1,2,346
+0022400674,481,PT04M32.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-42,147,15,Made,1,60,94,154,v,Reaves 15' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,347
+0022400674,482,PT04M13.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-16,9,2,Made,1,62,94,156,h,Kispert 2' Cutting Layup Shot (11 PTS) (Carrington 4 AST),Made Shot,Cutting Layup Shot,1,2,348
+0022400674,484,PT03M49.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,349
+0022400674,484,PT03M49.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes STEAL (1 STL),,,1,0,350
+0022400674,486,PT03M43.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,148,235,28,Missed,1,,,0,h,MISS Carrington 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,351
+0022400674,487,PT03M41.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,Hachimura REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,352
+0022400674,488,PT03M38.00S,3,1610612747,LAL,1631108,Christie,M. Christie,-232,99,25,Made,1,62,97,159,v,Christie 25' 3PT Running Jump Shot (13 PTS) (Reaves 5 AST),Made Shot,Running Jump Shot,1,3,353
+0022400674,491,PT03M24.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,Christie P.FOUL (P4.PN) (B.Barnaky),Foul,Personal,1,0,354
+0022400674,493,PT03M24.00S,3,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,355
+0022400674,494,PT03M24.00S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Champagnie FOR Coulibaly,Substitution,,0,0,356
+0022400674,495,PT03M24.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,,,0,v,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,357
+0022400674,496,PT03M24.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,,,0,v,SUB: Jemison III FOR L. James,Substitution,,0,0,358
+0022400674,497,PT03M24.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,v,SUB: Knecht FOR Hachimura,Substitution,,0,0,359
+0022400674,502,PT03M24.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,63,97,160,h,Poole Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022400674,503,PT03M24.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,64,97,161,h,Poole Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0022400674,504,PT03M23.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert P.FOUL (P1.T2) (M.Davis),Foul,Personal,1,0,362
+0022400674,506,PT03M23.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Butler FOR Poole,Substitution,,0,0,363
+0022400674,508,PT03M08.00S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,-54,21,6,Missed,1,,,0,v,MISS Jemison III 6' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,364
+0022400674,509,PT03M06.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,365
+0022400674,510,PT02M56.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,7,5,1,Made,1,66,97,163,h,Holmes 1' Alley Oop Dunk (4 PTS) (Carrington 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,366
+0022400674,512,PT02M53.00S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,367
+0022400674,514,PT02M53.00S,3,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,,,0,v,SUB: Milton FOR Christie,Substitution,,0,0,368
+0022400674,516,PT02M40.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-189,249,31,Made,1,66,100,166,v,Reaves 31' 3PT Jump Shot (16 PTS) (Jemison III 1 AST),Made Shot,Jump Shot,1,3,369
+0022400674,518,PT02M26.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,-233,125,26,Missed,1,,,0,h,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022400674,519,PT02M24.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,371
+0022400674,521,PT02M17.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,-12,14,2,Made,1,68,100,168,h,Holmes 2' Alley Oop Dunk (6 PTS) (Butler 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,372
+0022400674,525,PT01M58.00S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P2.T4) (B.Barnaky),Foul,Shooting,1,0,373
+0022400674,527,PT01M58.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,,,0,v,MISS Reaves Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,374
+0022400674,528,PT01M58.00S,3,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Rebound,Rebound,Normal Rebound,0,0,375
+0022400674,529,PT01M58.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,68,101,169,v,Reaves Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022400674,530,PT01M34.00S,3,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,377
+0022400674,530,PT01M34.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (3 STL),,,1,0,378
+0022400674,532,PT01M25.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-44,22,5,Missed,1,,,0,v,MISS Vanderbilt 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,379
+0022400674,533,PT01M23.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,380
+0022400674,534,PT01M22.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,381
+0022400674,535,PT01M08.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-145,232,27,Missed,1,,,0,v,MISS Reaves 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,382
+0022400674,537,PT01M03.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,383
+0022400674,538,PT01M03.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,Kispert S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,1,0,384
+0022400674,540,PT01M03.00S,3,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,68,102,170,v,Knecht Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+0022400674,541,PT01M03.00S,3,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,68,103,171,v,Knecht Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+0022400674,542,PT00M47.50S,3,1610612764,WAS,1630215,Butler,J. Butler,27,42,5,Missed,1,,,0,h,MISS Butler 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,387
+0022400674,543,PT00M45.70S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,388
+0022400674,544,PT00M37.20S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,1,62,6,Missed,1,,,0,v,MISS Jemison III 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,389
+0022400674,544,PT00M37.20S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,,,0,h,Holmes BLOCK (1 BLK),,,1,2,390
+0022400674,546,PT00M36.70S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,391
+0022400674,548,PT00M36.70S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III OFF.Foul (P3) (M.Davis),Foul,Offensive,1,0,392
+0022400674,551,PT00M36.70S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,393
+0022400674,550,PT00M12.40S,3,1610612764,WAS,1642267,Carrington,B. Carrington,58,126,14,Made,1,70,103,173,h,Carrington 14' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,394
+0022400674,552,PT00M01.50S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,Carrington S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,395
+0022400674,554,PT00M01.50S,3,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,70,104,174,v,Milton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+0022400674,555,PT00M01.50S,3,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,70,105,175,v,Milton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022400674,556,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,105,175,,End of 3rd Period (8:55 PM EST),period,end,1,0,398
+0022400674,563,PT12M00.00S,4,0,,0,,,0,0,0,,0,70,105,175,,Start of 4th Period (8:58 PM EST),period,start,0,0,399
+0022400674,564,PT11M36.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,-5,49,5,Missed,1,,,0,v,MISS Jemison III 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,400
+0022400674,565,PT11M35.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,401
+0022400674,602,PT11M25.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,402
+0022400674,602,PT11M25.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (4 STL),,,1,0,403
+0022400674,568,PT11M19.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,234,110,26,Made,1,70,108,178,v,Knecht 26' 3PT Running Jump Shot (5 PTS) (Milton 3 AST),Made Shot,Running Jump Shot,1,3,404
+0022400674,570,PT11M00.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,405
+0022400674,572,PT10M52.00S,4,1610612747,LAL,1642355,James,B. James,38,25,5,Missed,1,,,0,v,MISS B. James 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,406
+0022400674,573,PT10M49.00S,4,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,407
+0022400674,574,PT10M45.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,10,6,1,Made,1,72,108,180,h,Champagnie 1' Running Layup (4 PTS) (Vukcevic 1 AST),Made Shot,Running Layup Shot,1,2,408
+0022400674,576,PT10M18.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,-194,-25,20,Missed,1,,,0,v,MISS Knecht 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,409
+0022400674,577,PT10M16.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,410
+0022400674,578,PT10M10.00S,4,1610612764,WAS,1642273,George,K. George,-222,106,25,Made,1,75,108,183,h,George 25' 3PT Running Jump Shot (6 PTS) (Carrington 6 AST),Made Shot,Running Jump Shot,1,3,411
+0022400674,580,PT10M09.00S,4,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,412
+0022400674,581,PT10M09.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,SUB: Davis FOR Butler,Substitution,,0,0,413
+0022400674,583,PT09M57.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III Offensive Charge Foul (P4) (B.Barnaky),Foul,Offensive Charge,1,0,414
+0022400674,585,PT09M57.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,415
+0022400674,586,PT09M32.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,222,-16,0,Missed,1,,,0,h,MISS Carrington 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022400674,587,PT09M32.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,417
+0022400674,592,PT09M32.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,418
+0022400674,590,PT09M09.00S,4,1610612747,LAL,1629003,Milton,S. Milton,-6,136,14,Made,1,75,110,185,v,Milton 14' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,419
+0022400674,591,PT09M09.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P2.T1) (M.Davis),Foul,Shooting,1,0,420
+0022400674,594,PT09M09.00S,4,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,75,111,186,v,Milton Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,421
+0022400674,595,PT08M58.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-34,250,25,Missed,1,,,0,h,MISS Vukcevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022400674,596,PT08M54.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,423
+0022400674,597,PT08M45.00S,4,1610612747,LAL,1629003,Milton,S. Milton,-16,136,14,Made,1,75,113,188,v,Milton 14' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,424
+0022400674,598,PT08M31.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,425
+0022400674,598,PT08M31.00S,4,1610612747,LAL,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (2 STL),,,1,0,426
+0022400674,600,PT08M29.00S,4,1610612747,LAL,1629003,Milton,S. Milton,25,-3,3,Made,1,75,115,190,v,Milton 3' Running Finger Roll Layup (18 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,427
+0022400674,601,PT08M29.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,428
+0022400674,604,PT08M29.00S,4,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,h,SUB: Butler FOR Carrington,Substitution,,0,0,429
+0022400674,606,PT08M16.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,76,63,10,Missed,1,,,0,h,MISS Vukcevic 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,430
+0022400674,607,PT08M13.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,,,0,v,B. James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,431
+0022400674,608,PT07M59.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,-25,10,3,Made,1,75,117,192,v,Jemison III 3' Driving Reverse Layup (4 PTS) (Vanderbilt 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,432
+0022400674,610,PT07M47.00S,4,1610612764,WAS,1642273,George,K. George,136,229,27,Missed,1,,,0,h,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0022400674,611,PT07M44.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,434
+0022400674,612,PT07M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,435
+0022400674,612,PT07M39.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,0,436
+0022400674,614,PT07M24.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,-237,-15,24,Missed,1,,,0,h,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022400674,615,PT07M23.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,,,0,v,B. James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,438
+0022400674,616,PT07M10.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,-20,38,4,Missed,1,,,0,v,MISS Jemison III 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,439
+0022400674,617,PT07M07.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,440
+0022400674,618,PT07M02.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,118,80,14,Missed,1,,,0,h,MISS Champagnie 14' Running Layup,Missed Shot,Running Layup Shot,1,2,441
+0022400674,619,PT07M01.00S,4,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,442
+0022400674,620,PT07M00.00S,4,1610612764,WAS,1642273,George,K. George,-45,-2,5,Missed,1,,,0,h,MISS George 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,443
+0022400674,621,PT06M59.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,444
+0022400674,624,PT06M59.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III S.FOUL (P5.T1) (M.Davis),Foul,Shooting,1,0,445
+0022400674,626,PT06M59.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,76,117,193,h,Champagnie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+0022400674,627,PT06M59.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Koloko FOR Jemison III,Substitution,,0,0,447
+0022400674,629,PT06M59.00S,4,1610612764,WAS,1642273,George,K. George,0,0,0,,0,,,0,h,SUB: Baldwin Jr. FOR George,Substitution,,0,0,448
+0022400674,631,PT06M59.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Jemison III FOR Vanderbilt,Substitution,,0,0,449
+0022400674,633,PT06M59.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,77,117,194,h,Champagnie Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+0022400674,634,PT06M46.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,224,146,27,Missed,1,,,0,v,MISS Knecht 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,451
+0022400674,635,PT06M42.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,452
+0022400674,636,PT06M32.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-206,157,26,Missed,1,,,0,h,MISS Baldwin Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,453
+0022400674,637,PT06M31.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,454
+0022400674,638,PT06M27.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,-27,252,25,Made,1,80,117,197,h,Baldwin Jr. 25' 3PT Jump Shot (3 PTS) (Champagnie 1 AST),Made Shot,Jump Shot,1,3,455
+0022400674,640,PT06M08.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,Knecht Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,456
+0022400674,641,PT06M08.00S,4,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Gill FOR Champagnie,Substitution,,0,0,457
+0022400674,643,PT05M58.00S,4,1610612764,WAS,1630215,Butler,J. Butler,15,-5,2,Missed,1,,,0,h,MISS Butler 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,2,458
+0022400674,644,PT05M57.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,459
+0022400674,645,PT05M57.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison III S.FOUL (P6.T2) (P.Ransom),Foul,Shooting,0,0,460
+0022400674,647,PT05M57.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Christie FOR Jemison III,Substitution,,0,0,461
+0022400674,649,PT05M57.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,81,117,198,h,Vukcevic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022400674,650,PT05M57.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,82,117,199,h,Vukcevic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,463
+0022400674,651,PT05M41.00S,4,1610612747,LAL,1642355,James,B. James,-165,204,26,Missed,1,,,0,v,MISS B. James 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022400674,652,PT05M40.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,465
+0022400674,654,PT05M28.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,45,263,27,Made,1,85,117,202,h,Vukcevic 27' 3PT Jump Shot (5 PTS) (Butler 2 AST),Made Shot,Jump Shot,1,3,466
+0022400674,656,PT05M12.00S,4,1610612747,LAL,1631132,Koloko,C. Koloko,-21,18,3,Made,1,85,119,204,v,Koloko 3' Turnaround Hook Shot (2 PTS) (Milton 4 AST),Made Shot,Turnaround Hook Shot,1,2,467
+0022400674,658,PT04M59.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,468
+0022400674,658,PT04M59.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,,,0,v,B. James STEAL (1 STL),,,1,0,469
+0022400674,660,PT04M55.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,-2,6,1,Made,1,85,121,206,v,Knecht 1' Running Dunk (7 PTS) (B. James 1 AST),Made Shot,Running Dunk Shot,1,2,470
+0022400674,662,PT04M37.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-230,119,26,Missed,1,,,0,h,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+0022400674,663,PT04M37.00S,4,0,,1610612747,,,0,0,0,,0,,,0,v,Lakers Rebound,Rebound,Unknown,1,0,472
+0022400674,665,PT04M20.00S,4,1610612747,LAL,1629003,Milton,S. Milton,-213,162,27,Made,1,85,124,209,v,Milton 27' 3PT Jump Shot (21 PTS) (Christie 3 AST),Made Shot,Jump Shot,1,3,473
+0022400674,667,PT04M03.00S,4,1610612764,WAS,1631098,Davis,J. Davis,17,27,3,Missed,1,,,0,h,MISS Davis 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,474
+0022400674,668,PT04M02.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,475
+0022400674,670,PT04M02.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,5,5,1,Made,1,87,124,211,h,Vukcevic 1' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,476
+0022400674,671,PT03M42.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,-240,-6,24,Missed,1,,,0,v,MISS Knecht 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,477
+0022400674,672,PT03M39.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,478
+0022400674,673,PT03M28.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,479
+0022400674,674,PT03M16.00S,4,1610612747,LAL,1642355,James,B. James,-237,57,24,Missed,1,,,0,v,MISS B. James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+0022400674,675,PT03M15.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,0,481
+0022400674,677,PT03M02.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-67,155,17,Made,1,89,124,213,h,Vukcevic 17' Jump Shot (9 PTS) (Butler 3 AST),Made Shot,Jump Shot,1,2,482
+0022400674,679,PT02M48.00S,4,1610612747,LAL,1642355,James,B. James,-32,10,3,Made,1,89,126,215,v,B. James 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,483
+0022400674,680,PT02M48.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,h,Vukcevic S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,484
+0022400674,682,PT02M48.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,89,127,216,v,B. James Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,485
+0022400674,683,PT02M40.00S,4,1610612747,LAL,1631132,Koloko,C. Koloko,0,0,0,,0,,,0,v,Koloko P.FOUL (P1.T3) (P.Ransom),Foul,Personal,1,0,486
+0022400674,685,PT02M30.00S,4,1610612764,WAS,1630215,Butler,J. Butler,-38,151,16,Made,1,91,127,218,h,Butler 16' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,487
+0022400674,686,PT02M14.00S,4,1610612747,LAL,1642355,James,B. James,-40,43,6,Missed,1,,,0,v,MISS B. James 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,488
+0022400674,687,PT02M12.00S,4,1610612747,LAL,1631132,Koloko,C. Koloko,0,0,0,,0,,,0,v,Koloko REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,489
+0022400674,688,PT02M11.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,201,199,28,Made,1,91,130,221,v,Knecht 28' 3PT Jump Shot (10 PTS) (Koloko 1 AST),Made Shot,Jump Shot,1,3,490
+0022400674,690,PT01M54.00S,4,1610612764,WAS,1630215,Butler,J. Butler,67,34,8,Missed,1,,,0,h,MISS Butler 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,491
+0022400674,691,PT01M52.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,Knecht REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,492
+0022400674,692,PT01M30.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,-186,246,31,Missed,1,,,0,v,MISS Knecht 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,493
+0022400674,693,PT01M28.00S,4,1610612764,WAS,1631116,Baldwin Jr.,P. Baldwin Jr.,0,0,0,,0,,,0,h,Baldwin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,494
+0022400674,694,PT01M25.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,,,0,v,B. James S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,1,0,495
+0022400674,696,PT01M25.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,Knecht T.FOUL (P0.T4) (M.Davis),Foul,Technical,1,0,496
+0022400674,724,PT01M25.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,Knecht T.FOUL (P0.T4) (M.Davis),Foul,Technical,0,0,497
+0022400674,697,PT01M25.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,MISS Butler Free Throw Technical,Free Throw,Free Throw Technical,1,0,498
+0022400674,702,PT01M25.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,0,499
+0022400674,725,PT01M25.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,92,130,222,h,Butler Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,500
+0022400674,699,PT01M25.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,SUB: Hayes FOR Knecht,Substitution,,0,0,501
+0022400674,701,PT01M25.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,,,0,v,Knecht Ejection:Other,Ejection,Other,1,0,502
+0022400674,704,PT01M25.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,93,130,223,h,Davis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,503
+0022400674,705,PT01M25.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,94,130,224,h,Davis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,504
+0022400674,706,PT01M10.00S,4,1610612747,LAL,1631132,Koloko,C. Koloko,2,11,1,Made,1,94,132,226,v,Koloko 1' Alley Oop Dunk (4 PTS) (B. James 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,505
+0022400674,708,PT01M03.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,,,0,v,B. James P.FOUL (P2.PN) (P.Ransom),Foul,Personal,1,0,506
+0022400674,710,PT01M03.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,95,132,227,h,Butler Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,507
+0022400674,711,PT01M03.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,96,132,228,h,Butler Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,508
+0022400674,712,PT00M46.70S,4,1610612747,LAL,1642355,James,B. James,-64,33,7,Missed,1,,,0,v,MISS B. James 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,509
+0022400674,713,PT00M42.60S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,h,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,510
+0022400674,714,PT00M39.20S,4,1610612764,WAS,1631098,Davis,J. Davis,249,-13,25,Missed,1,,,0,h,MISS Davis 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,511
+0022400674,715,PT00M35.70S,4,1610612747,LAL,1631132,Koloko,C. Koloko,0,0,0,,0,,,0,v,Koloko REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,512
+0022400674,717,PT00M20.00S,4,1610612764,WAS,1631098,Davis,J. Davis,0,0,0,,0,,,0,h,Davis Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,513
+0022400674,718,PT00M06.00S,4,1610612764,WAS,1630215,Butler,J. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,1,0,514
+0022400674,720,PT00M06.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,96,133,229,v,B. James Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,515
+0022400674,721,PT00M06.00S,4,1610612747,LAL,1642355,James,B. James,0,0,0,,0,96,134,230,v,B. James Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,516
+0022400674,722,PT00M00.00S,4,0,,0,,,0,0,0,,0,96,134,230,,End of 4th Period (9:26 PM EST),period,end,1,0,517

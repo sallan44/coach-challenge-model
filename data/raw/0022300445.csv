@@ -1,0 +1,524 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300445,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:11 PM EST),period,start,0,0,1
+0022300445,4,PT12M00.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Jump Ball Gafford vs. Capela: Tip to Johnson,Jump Ball,,1,0,2
+0022300445,7,PT11M40.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022300445,7,PT11M40.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,4
+0022300445,9,PT11M35.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,2,-3,0,Made,1,2,0,2,h,Avdija Running Dunk (2 PTS) (Jones 1 AST),Made Shot,Running Dunk Shot,1,2,5
+0022300445,11,PT11M25.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-181,198,27,Missed,1,,,0,v,MISS Murray 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,6
+0022300445,12,PT11M21.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300445,13,PT11M13.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-119,132,18,Missed,1,,,0,h,MISS Poole 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0022300445,14,PT11M11.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022300445,15,PT11M02.00S,1,1610612737,ATL,1629027,Young,T. Young,-53,290,29,Missed,1,,,0,v,MISS Young 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,10
+0022300445,16,PT10M59.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,11
+0022300445,17,PT10M58.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,12
+0022300445,17,PT10M58.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford STEAL (1 STL),,,1,0,13
+0022300445,19,PT10M55.00S,1,1610612764,WAS,1629673,Poole,J. Poole,16,7,2,Made,1,4,0,4,h,Poole 2' Running Layup (2 PTS) (Kuzma 1 AST),Made Shot,Running Layup Shot,1,2,14
+0022300445,21,PT10M46.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,-26,262,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022300445,22,PT10M42.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300445,23,PT10M33.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,234,110,26,Missed,1,,,0,h,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022300445,24,PT10M30.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,18
+0022300445,25,PT10M22.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,19
+0022300445,25,PT10M22.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija STEAL (1 STL),,,1,0,20
+0022300445,27,PT10M17.00S,1,1610612764,WAS,1626145,Jones,T. Jones,233,132,27,Made,1,7,0,7,h,Jones 27' 3PT Running Jump Shot (3 PTS) (Poole 1 AST),Made Shot,Running Jump Shot,1,3,21
+0022300445,29,PT09M59.00S,1,1610612737,ATL,1629027,Young,T. Young,-100,17,10,Made,1,7,2,9,v,Young 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,22
+0022300445,31,PT09M43.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-172,221,28,Made,1,10,2,12,h,Kuzma 28' 3PT Jump Shot (3 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,23
+0022300445,33,PT09M17.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-28,58,6,Missed,1,,,0,v,MISS Bey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,24
+0022300445,34,PT09M13.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+0022300445,35,PT09M13.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Missed,1,,,0,v,MISS Capela Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,26
+0022300445,36,PT09M13.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,27
+0022300445,37,PT09M10.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,10,4,14,v,Capela Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,28
+0022300445,41,PT09M03.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Hawks T.Foul (Def. 3 Sec Capela ) (T.Maddox),Foul,Defense 3 Second,1,0,29
+0022300445,42,PT09M03.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,11,4,15,h,Kuzma Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,30
+0022300445,43,PT08M52.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,31
+0022300445,45,PT08M52.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,12,4,16,h,Avdija Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022300445,46,PT08M52.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,33
+0022300445,47,PT08M48.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,34
+0022300445,48,PT08M37.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,-120,73,14,Missed,1,,,0,v,MISS Johnson 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,35
+0022300445,49,PT08M35.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+0022300445,50,PT08M30.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-233,57,24,Missed,1,,,0,h,MISS Kuzma 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,37
+0022300445,51,PT08M30.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,38
+0022300445,52,PT08M25.00S,1,1610612737,ATL,1629027,Young,T. Young,40,55,7,Missed,1,,,0,v,MISS Young 7' Running Layup,Missed Shot,Running Layup Shot,1,2,39
+0022300445,52,PT08M25.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,40
+0022300445,54,PT08M25.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,41
+0022300445,56,PT08M23.00S,1,1610612737,ATL,1627749,Murray,D. Murray,130,34,13,Missed,1,,,0,v,MISS Murray 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,42
+0022300445,57,PT08M20.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,43
+0022300445,58,PT08M13.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,233,37,24,Made,1,15,4,19,h,Kuzma 24' 3PT Jump Shot (7 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,44
+0022300445,60,PT08M10.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,45
+0022300445,61,PT07M46.00S,1,1610612737,ATL,203991,Capela,C. Capela,45,58,7,Missed,1,,,0,v,MISS Capela 7' Layup,Missed Shot,Layup Shot,1,2,46
+0022300445,61,PT07M46.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford BLOCK (1 BLK),,,1,2,47
+0022300445,63,PT07M44.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0022300445,64,PT07M41.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-28,2,3,Made,1,17,4,21,h,Kuzma 3' Running Alley Oop Dunk Shot (9 PTS) (Poole 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,49
+0022300445,66,PT07M25.00S,1,1610612737,ATL,1630180,Bey,S. Bey,-33,46,6,Missed,1,,,0,v,MISS Bey 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,50
+0022300445,67,PT07M23.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,51
+0022300445,68,PT07M21.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,52
+0022300445,70,PT07M21.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,17,5,22,v,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,53
+0022300445,71,PT07M21.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,17,6,23,v,Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,54
+0022300445,72,PT07M05.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,29,13,3,Made,1,19,6,25,h,Gafford 3' Cutting Layup Shot (2 PTS) (Poole 3 AST),Made Shot,Cutting Layup Shot,1,2,55
+0022300445,74,PT06M52.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-59,32,7,Made,1,19,8,27,v,Murray 7' Driving Floating Bank Jump Shot (2 PTS) (Young 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,56
+0022300445,75,PT06M39.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-134,244,28,Missed,1,,,0,h,MISS Kuzma 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+0022300445,76,PT06M37.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,58
+0022300445,77,PT06M27.00S,1,1610612737,ATL,203991,Capela,C. Capela,29,30,4,Made,1,19,10,29,v,Capela 4' Cutting Dunk Shot (4 PTS) (Murray 1 AST),Made Shot,Cutting Dunk Shot,1,2,59
+0022300445,79,PT06M09.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-237,80,25,Made,1,22,10,32,h,Kuzma 25' 3PT Jump Shot (12 PTS) (Avdija 1 AST),Made Shot,Jump Shot,1,3,60
+0022300445,81,PT05M51.00S,1,1610612737,ATL,1629027,Young,T. Young,10,287,29,Made,1,22,13,35,v,Young 29' 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,61
+0022300445,83,PT05M37.00S,1,1610612764,WAS,1626145,Jones,T. Jones,-162,218,27,Missed,1,,,0,h,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0022300445,84,PT05M34.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300445,85,PT05M24.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,64
+0022300445,87,PT05M24.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,65
+0022300445,88,PT05M24.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,1,0,66
+0022300445,89,PT05M24.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Young,Substitution,,0,0,67
+0022300445,90,PT05M24.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Mills FOR Johnson,Substitution,,0,0,68
+0022300445,93,PT05M24.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,69
+0022300445,94,PT05M22.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,70
+0022300445,95,PT05M05.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,49,160,17,Missed,1,,,0,h,MISS Kuzma 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,71
+0022300445,96,PT05M02.00S,1,1610612737,ATL,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022300445,97,PT04M54.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-58,41,7,Missed,1,,,0,v,MISS Murray 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,73
+0022300445,97,PT04M54.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford BLOCK (2 BLK),,,1,2,74
+0022300445,99,PT04M51.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,75
+0022300445,100,PT04M51.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,76
+0022300445,101,PT04M34.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,78,71,11,Missed,1,,,0,v,MISS Bogdanovic 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,77
+0022300445,102,PT04M29.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,78
+0022300445,103,PT04M19.00S,1,1610612764,WAS,1626145,Jones,T. Jones,-241,-31,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022300445,104,PT04M16.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+0022300445,105,PT04M04.00S,1,1610612737,ATL,1627749,Murray,D. Murray,21,1,2,Made,1,22,15,37,v,Murray 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,81
+0022300445,106,PT03M49.00S,1,1610612764,WAS,1629673,Poole,J. Poole,98,288,30,Missed,1,,,0,h,MISS Poole 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022300445,107,PT03M47.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300445,108,PT03M45.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-4,274,27,Missed,1,,,0,v,MISS Bogdanovic 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,84
+0022300445,109,PT03M41.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,85
+0022300445,110,PT03M38.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-184,116,22,Missed,1,,,0,h,MISS Kuzma 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,86
+0022300445,111,PT03M35.00S,1,1610612737,ATL,201988,Mills,P. Mills,0,0,0,,0,,,0,v,Mills REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022300445,112,PT03M30.00S,1,1610612737,ATL,201988,Mills,P. Mills,-119,241,27,Missed,1,,,0,v,MISS Mills 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,88
+0022300445,113,PT03M27.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,89
+0022300445,114,PT03M21.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,90
+0022300445,116,PT03M21.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Wright FOR Jones,Substitution,,0,0,91
+0022300445,117,PT03M21.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Muscala FOR Avdija,Substitution,,0,0,92
+0022300445,118,PT03M21.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Gafford,Substitution,,0,0,93
+0022300445,119,PT03M21.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,SUB: Johnson FOR Murray,Substitution,,0,0,94
+0022300445,120,PT03M21.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Young FOR Capela,Substitution,,0,0,95
+0022300445,121,PT03M21.00S,1,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,SUB: Fernando FOR Bey,Substitution,,0,0,96
+0022300445,122,PT03M21.00S,1,1610612737,ATL,201988,Mills,P. Mills,0,0,0,,0,,,0,v,SUB: Mathews FOR Mills,Substitution,,0,0,97
+0022300445,130,PT03M08.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,229,-24,0,Made,1,25,15,40,h,Kuzma 3PT Jump Shot (15 PTS) (Muscala 1 AST),Made Shot,Jump Shot,1,3,98
+0022300445,132,PT02M51.00S,1,1610612737,ATL,1629027,Young,T. Young,12,20,2,Made,1,25,17,42,v,Young 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,99
+0022300445,133,PT02M32.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,28,-9,3,Missed,1,,,0,h,MISS Coulibaly 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,100
+0022300445,134,PT02M30.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300445,135,PT02M17.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,102
+0022300445,136,PT02M06.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-190,216,29,Missed,1,,,0,h,MISS Poole 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,103
+0022300445,137,PT02M03.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,104
+0022300445,138,PT02M00.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,-48,88,10,Made,1,25,19,44,v,Johnson 10' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,105
+0022300445,139,PT02M00.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,106
+0022300445,141,PT02M00.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Kispert FOR Kuzma,Substitution,,0,0,107
+0022300445,143,PT02M00.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,25,20,45,v,Johnson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,108
+0022300445,144,PT01M45.00S,1,1610612764,WAS,1626153,Wright,D. Wright,232,-14,0,Missed,1,,,0,h,MISS Wright 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300445,145,PT01M42.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,110
+0022300445,146,PT01M38.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly P.FOUL (P1.PN) (J.Orr),Foul,Personal,1,0,111
+0022300445,148,PT01M38.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,112
+0022300445,149,PT01M38.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,113
+0022300445,150,PT01M38.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,21,46,v,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,114
+0022300445,151,PT01M32.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (K.Cutler),Foul,Personal,1,0,115
+0022300445,153,PT01M32.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Avdija FOR Poole,Substitution,,0,0,116
+0022300445,155,PT01M26.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P1.PN) (J.Orr),Foul,Shooting,1,0,117
+0022300445,157,PT01M26.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,26,21,47,h,Coulibaly Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0022300445,158,PT01M26.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,27,21,48,h,Coulibaly Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,119
+0022300445,159,PT01M14.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,40,26,5,Missed,1,,,0,v,MISS Bogdanovic 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,120
+0022300445,160,PT01M11.00S,1,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022300445,161,PT01M07.00S,1,1610612764,WAS,203488,Muscala,M. Muscala,40,281,28,Missed,1,,,0,h,MISS Muscala 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,122
+0022300445,162,PT01M04.00S,1,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,123
+0022300445,163,PT00M55.10S,1,1610612737,ATL,1629027,Young,T. Young,-235,-7,24,Made,1,27,24,51,v,Young 24' 3PT Jump Shot (11 PTS) (Mathews 1 AST),Made Shot,Jump Shot,1,3,124
+0022300445,165,PT00M40.50S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,125
+0022300445,165,PT00M40.50S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young STEAL (1 STL),,,1,0,126
+0022300445,167,PT00M35.60S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,33,14,4,Made,1,27,26,53,v,Bogdanovic 4' Running Layup (2 PTS) (Young 2 AST),Made Shot,Running Layup Shot,1,2,127
+0022300445,169,PT00M20.90S,1,1610612764,WAS,1630557,Kispert,C. Kispert,225,-5,0,Missed,1,,,0,h,MISS Kispert 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300445,169,PT00M20.90S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews BLOCK (1 BLK),,,1,3,129
+0022300445,171,PT00M20.90S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,130
+0022300445,238,PT00M13.20S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,131
+0022300445,238,PT00M13.20S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando STEAL (1 STL),,,1,0,132
+0022300445,176,PT00M01.70S,1,1610612737,ATL,1630552,Johnson,J. Johnson,-28,14,3,Made,1,27,28,55,v,Johnson 3' Cutting Dunk Shot (7 PTS) (Young 3 AST),Made Shot,Cutting Dunk Shot,1,2,133
+0022300445,178,PT00M00.10S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-212,172,27,Made,1,30,28,58,h,Avdija 27' 3PT Jump Shot (6 PTS) (Coulibaly 1 AST),Made Shot,Jump Shot,1,3,134
+0022300445,180,PT00M00.10S,1,0,,178,Polynice,O. Polynice,0,0,0,,0,30,28,58,,Instant Replay1st Period (3:36 PM EST),Instant Replay,Ruling Stands,0,0,135
+0022300445,181,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,28,58,,End of 1st Period (3:37 PM EST),period,end,1,0,136
+0022300445,182,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,28,58,,Start of 2nd Period (3:39 PM EST),period,start,0,0,137
+0022300445,183,PT11M44.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-118,227,26,Missed,1,,,0,h,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300445,184,PT11M41.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,139
+0022300445,185,PT11M34.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-248,-8,25,Missed,1,,,0,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022300445,186,PT11M30.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300445,187,PT11M22.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-21,10,2,Made,1,32,28,60,h,Kispert 2' Driving Layup (2 PTS) (Muscala 2 AST),Made Shot,Driving Layup Shot,1,2,142
+0022300445,189,PT11M06.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,217,105,24,Made,1,32,31,63,v,Bogdanovic 24' 3PT Jump Shot (5 PTS) (Fernando 1 AST),Made Shot,Jump Shot,1,3,143
+0022300445,191,PT10M48.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,1,0,144
+0022300445,193,PT10M48.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,33,31,64,h,Kispert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0022300445,194,PT10M48.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,34,31,65,h,Kispert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+0022300445,195,PT10M39.00S,2,1610612737,ATL,1629027,Young,T. Young,-146,253,29,Made,1,34,34,68,v,Young 29' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,147
+0022300445,197,PT10M30.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,22,5,2,Made,1,36,34,70,h,Kispert 2' Driving Layup (6 PTS) (Wright 1 AST),Made Shot,Driving Layup Shot,1,2,148
+0022300445,199,PT10M30.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,149
+0022300445,201,PT10M30.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,37,34,71,h,Kispert Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,150
+0022300445,202,PT10M19.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-245,-5,25,Missed,1,,,0,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300445,203,PT10M14.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,152
+0022300445,204,PT10M13.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T3) (J.Orr),Foul,Personal,1,0,153
+0022300445,206,PT10M03.00S,2,1610612764,WAS,203488,Muscala,M. Muscala,-37,33,5,Missed,1,,,0,h,MISS Muscala 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,154
+0022300445,207,PT09M59.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300445,208,PT09M53.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,-21,21,3,Made,1,37,36,73,v,Johnson 3' Cutting Dunk Shot (9 PTS) (Young 4 AST),Made Shot,Cutting Dunk Shot,1,2,156
+0022300445,210,PT09M53.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+0022300445,211,PT09M53.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,SUB: Shamet FOR Wright,Substitution,,0,0,158
+0022300445,213,PT09M30.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,-34,83,9,Made,1,39,36,75,h,Shamet 9' Driving Floating Jump Shot (2 PTS) (Coulibaly 2 AST),Made Shot,Driving Floating Jump Shot,1,2,159
+0022300445,215,PT09M13.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Traveling Turnover (P1.T5),Turnover,Traveling,1,0,160
+0022300445,216,PT09M02.00S,2,1610612764,WAS,203488,Muscala,M. Muscala,1,-8,1,Made,1,41,36,77,h,Muscala 1' Cutting Dunk Shot (2 PTS) (Kispert 1 AST),Made Shot,Cutting Dunk Shot,1,2,161
+0022300445,218,PT08M40.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,-53,-5,5,Made,1,41,38,79,v,Johnson 5' Turnaround Bank Shot (11 PTS),Made Shot,Turnaround Bank shot,1,2,162
+0022300445,219,PT08M26.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,-25,-14,3,Missed,1,,,0,h,MISS Shamet 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,163
+0022300445,220,PT08M24.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+0022300445,221,PT08M22.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,-9,253,25,Missed,1,,,0,h,MISS Avdija 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022300445,222,PT08M18.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022300445,223,PT08M05.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,15,17,2,Made,1,41,40,81,v,Johnson 2' Cutting Finger Roll Layup Shot (13 PTS) (Young 5 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,167
+0022300445,225,PT07M54.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,246,25,Missed,1,,,0,h,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022300445,226,PT07M52.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,169
+0022300445,227,PT07M45.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,227,71,24,Missed,1,,,0,v,MISS Bogdanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022300445,228,PT07M41.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,171
+0022300445,229,PT07M34.00S,2,1610612737,ATL,1629027,Young,T. Young,-49,138,15,Missed,1,,,0,v,MISS Young 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,172
+0022300445,230,PT07M33.00S,2,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+0022300445,231,PT07M24.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,174
+0022300445,231,PT07M24.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young STEAL (2 STL),,,1,0,175
+0022300445,233,PT07M19.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,-36,14,4,Made,1,41,42,83,v,Johnson 4' Running Alley Oop Dunk Shot (15 PTS) (Young 6 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,176
+0022300445,235,PT06M59.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,-29,13,3,Made,1,43,42,85,h,Avdija 3' Cutting Layup Shot (8 PTS) (Kispert 2 AST),Made Shot,Cutting Layup Shot,1,2,177
+0022300445,237,PT06M59.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,178
+0022300445,240,PT06M59.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Kuzma FOR Avdija,Substitution,,0,0,179
+0022300445,241,PT06M59.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Jones FOR Kispert,Substitution,,0,0,180
+0022300445,242,PT06M59.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Mills FOR Johnson,Substitution,,0,0,181
+0022300445,243,PT06M59.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Capela FOR Young,Substitution,,0,0,182
+0022300445,244,PT06M59.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Bey FOR Fernando,Substitution,,0,0,183
+0022300445,245,PT06M59.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,184
+0022300445,252,PT06M39.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-53,41,7,Missed,1,,,0,v,MISS Bogdanovic 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,185
+0022300445,253,PT06M38.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,186
+0022300445,254,PT06M38.00S,2,1610612737,ATL,1630180,Bey,S. Bey,-28,29,4,Made,1,43,44,87,v,Bey 4' Cutting Layup Shot (2 PTS) (Capela 1 AST),Made Shot,Cutting Layup Shot,1,2,187
+0022300445,255,PT06M38.00S,2,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,188
+0022300445,257,PT06M38.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,43,45,88,v,Bey Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,189
+0022300445,259,PT06M21.00S,2,1610612764,WAS,1626145,Jones,T. Jones,12,16,2,Made,1,45,45,90,h,Jones 2' Driving Finger Roll Layup (5 PTS) (Kuzma 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,190
+0022300445,261,PT06M04.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,21,51,6,Missed,1,,,0,v,MISS Bogdanovic 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,191
+0022300445,261,PT06M04.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet BLOCK (1 BLK),,,1,2,192
+0022300445,263,PT06M00.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,193
+0022300445,264,PT05M55.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,5,280,28,Missed,1,,,0,h,MISS Kuzma 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0022300445,265,PT05M53.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,195
+0022300445,266,PT05M42.00S,2,1610612737,ATL,1627749,Murray,D. Murray,112,43,12,Made,1,45,47,92,v,Murray 12' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,196
+0022300445,267,PT05M30.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,229,0,0,Missed,1,,,0,h,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0022300445,268,PT05M27.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,198
+0022300445,269,PT05M22.00S,2,1610612737,ATL,1627749,Murray,D. Murray,36,9,4,Made,1,45,49,94,v,Murray 4' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,199
+0022300445,270,PT05M08.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-239,86,25,Missed,1,,,0,h,MISS Coulibaly 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300445,271,PT05M06.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,201
+0022300445,272,PT04M53.00S,2,1610612737,ATL,1630180,Bey,S. Bey,130,37,14,Made,1,45,51,96,v,Bey 14' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,202
+0022300445,273,PT04M52.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,203
+0022300445,274,PT04M52.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Gafford FOR Coulibaly,Substitution,,0,0,204
+0022300445,275,PT04M52.00S,2,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,SUB: Poole FOR Muscala,Substitution,,0,0,205
+0022300445,278,PT04M36.00S,2,1610612764,WAS,1629673,Poole,J. Poole,-2,11,1,Made,1,47,51,98,h,Poole 1' Driving Layup (4 PTS) (Shamet 1 AST),Made Shot,Driving Layup Shot,1,2,206
+0022300445,280,PT04M36.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole T.FOUL (P0.T1) (K.Cutler),Foul,Technical,1,0,207
+0022300445,281,PT04M36.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,47,52,99,v,Bogdanovic Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,1,0,208
+0022300445,282,PT04M26.00S,2,1610612737,ATL,1627749,Murray,D. Murray,58,63,9,Missed,1,,,0,v,MISS Murray 9' Layup,Missed Shot,Layup Shot,1,2,209
+0022300445,282,PT04M26.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet BLOCK (2 BLK),,,1,2,210
+0022300445,284,PT04M22.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,211
+0022300445,285,PT04M21.00S,2,1610612737,ATL,1627749,Murray,D. Murray,83,45,9,Made,1,47,54,101,v,Murray 9' Layup (10 PTS),Made Shot,Layup Shot,1,2,212
+0022300445,286,PT04M13.00S,2,1610612764,WAS,1626145,Jones,T. Jones,-245,17,25,Missed,1,,,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022300445,287,PT04M13.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,214
+0022300445,288,PT04M13.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela L.B.FOUL (P1.T4) (K.Cutler),Foul,Loose Ball,1,0,215
+0022300445,290,PT04M13.00S,2,1610612737,ATL,201988,Mills,P. Mills,0,0,0,,0,,,0,v,SUB: Johnson FOR Mills,Substitution,,0,0,216
+0022300445,291,PT04M13.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Young FOR Bogdanovic,Substitution,,0,0,217
+0022300445,294,PT04M06.00S,2,1610612764,WAS,1629673,Poole,J. Poole,-56,259,26,Missed,1,,,0,h,MISS Poole 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300445,295,PT04M03.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,219
+0022300445,296,PT03M56.00S,2,1610612764,WAS,1629673,Poole,J. Poole,72,21,8,Made,1,49,54,103,h,Poole 8' Fadeaway Bank Shot (6 PTS),Made Shot,Fadeaway Bank shot,1,2,220
+0022300445,297,PT03M38.00S,2,1610612737,ATL,1630180,Bey,S. Bey,194,187,27,Missed,1,,,0,v,MISS Bey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,221
+0022300445,298,PT03M35.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,222
+0022300445,299,PT03M25.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-241,-19,24,Made,1,52,54,106,h,Kuzma 24' 3PT Jump Shot (18 PTS) (Jones 4 AST),Made Shot,Jump Shot,1,3,223
+0022300445,301,PT03M07.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-1,96,10,Made,1,52,56,108,v,Murray 10' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,224
+0022300445,302,PT02M50.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-91,8,9,Missed,1,,,0,h,MISS Kuzma 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,225
+0022300445,303,PT02M48.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,226
+0022300445,304,PT02M43.00S,2,1610612737,ATL,203991,Capela,C. Capela,2,19,2,Made,1,52,58,110,v,Capela 2' Running Dunk (6 PTS) (Johnson 2 AST),Made Shot,Running Dunk Shot,1,2,227
+0022300445,306,PT02M24.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,-62,112,13,Missed,1,,,0,h,MISS Shamet 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,228
+0022300445,306,PT02M24.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey BLOCK (1 BLK),,,1,2,229
+0022300445,308,PT02M21.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,230
+0022300445,309,PT02M17.00S,2,1610612737,ATL,1627749,Murray,D. Murray,221,120,25,Made,1,52,61,113,v,Murray 25' 3PT Running Jump Shot (15 PTS) (Young 7 AST),Made Shot,Running Jump Shot,1,3,231
+0022300445,311,PT02M10.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-27,6,3,Made,1,54,61,115,h,Kuzma 3' Running Dunk (20 PTS) (Poole 4 AST),Made Shot,Running Dunk Shot,1,2,232
+0022300445,313,PT01M52.00S,2,1610612737,ATL,1630552,Johnson,J. Johnson,172,193,26,Made,1,54,64,118,v,Johnson 26' 3PT Jump Shot (18 PTS) (Young 8 AST),Made Shot,Jump Shot,1,3,233
+0022300445,315,PT01M41.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela P.FOUL (P2.PN) (J.Orr),Foul,Personal,1,0,234
+0022300445,317,PT01M41.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,55,64,119,h,Gafford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+0022300445,318,PT01M41.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,56,64,120,h,Gafford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+0022300445,319,PT01M35.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,0,237
+0022300445,321,PT01M29.00S,2,1610612737,ATL,1629027,Young,T. Young,-61,169,18,Missed,1,,,0,v,MISS Young 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,238
+0022300445,322,PT01M28.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,239
+0022300445,323,PT01M28.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma L.B.FOUL (P2.PN) (J.Orr),Foul,Loose Ball,1,0,240
+0022300445,325,PT01M28.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,56,65,121,v,Young Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+0022300445,326,PT01M28.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,56,66,122,v,Young Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0022300445,327,PT01M12.00S,2,1610612764,WAS,1626145,Jones,T. Jones,-237,-6,24,Missed,1,,,0,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022300445,328,PT01M09.00S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,244
+0022300445,329,PT01M05.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,245
+0022300445,329,PT01M05.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet STEAL (1 STL),,,1,0,246
+0022300445,331,PT01M00.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,-6,1,1,Made,1,58,66,124,h,Shamet 1' Running Layup (4 PTS) (Jones 5 AST),Made Shot,Running Layup Shot,1,2,247
+0022300445,333,PT00M46.40S,2,1610612737,ATL,1630180,Bey,S. Bey,-233,1,0,Missed,1,,,0,v,MISS Bey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022300445,334,PT00M44.60S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,1,0,249
+0022300445,336,PT00M39.90S,2,1610612737,ATL,203991,Capela,C. Capela,-38,16,4,Made,1,58,68,126,v,Capela 4' Alley Oop Dunk (8 PTS) (Young 9 AST),Made Shot,Alley Oop Dunk Shot,1,2,250
+0022300445,338,PT00M30.80S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,1,285,29,Missed,1,,,0,h,MISS Kuzma 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022300445,339,PT00M28.40S,2,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,252
+0022300445,340,PT00M05.60S,2,1610612737,ATL,1629027,Young,T. Young,-23,38,4,Made,1,58,70,128,v,Young 4' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,253
+0022300445,341,PT00M00.10S,2,1610612764,WAS,1626145,Jones,T. Jones,-102,58,12,Missed,1,,,0,h,MISS Jones 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,254
+0022300445,342,PT00M00.10S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,255
+0022300445,343,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,70,128,,End of 2nd Period (4:05 PM EST),period,end,1,0,256
+0022300445,346,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,70,128,,Start of 3rd Period (4:20 PM EST),period,start,0,0,257
+0022300445,347,PT11M45.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-45,98,11,Made,1,60,70,130,h,Kuzma 11' Driving Floating Jump Shot (22 PTS) (Jones 6 AST),Made Shot,Driving Floating Jump Shot,1,2,258
+0022300445,349,PT11M28.00S,3,1610612737,ATL,1629027,Young,T. Young,-21,274,27,Missed,1,,,0,v,MISS Young 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+0022300445,350,PT11M24.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,260
+0022300445,351,PT11M19.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,1,63,6,Made,1,62,70,132,h,Kuzma 6' Driving Hook Shot (24 PTS),Made Shot,Driving Hook Shot,1,2,261
+0022300445,352,PT11M02.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,-13,38,4,Made,1,62,72,134,v,Johnson 4' Turnaround Jump Shot (20 PTS) (Young 10 AST),Made Shot,Turnaround Jump Shot,1,2,262
+0022300445,354,PT10M41.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,-34,83,9,Missed,1,,,0,h,MISS Gafford 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,263
+0022300445,355,PT10M40.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,264
+0022300445,356,PT10M29.00S,3,1610612737,ATL,1629027,Young,T. Young,-23,76,8,Made,1,62,74,136,v,Young 8' Driving Floating Jump Shot (20 PTS) (Johnson 3 AST),Made Shot,Driving Floating Jump Shot,1,2,265
+0022300445,358,PT10M16.00S,3,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,266
+0022300445,359,PT10M06.00S,3,1610612737,ATL,1629027,Young,T. Young,62,49,8,Missed,1,,,0,v,MISS Young 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,267
+0022300445,359,PT10M06.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole BLOCK (1 BLK),,,1,2,268
+0022300445,361,PT10M04.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,269
+0022300445,362,PT10M02.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-206,151,26,Made,1,65,74,139,h,Poole 26' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,270
+0022300445,363,PT09M43.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-102,70,12,Missed,1,,,0,v,MISS Murray 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,271
+0022300445,364,PT09M41.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,272
+0022300445,365,PT09M39.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,273
+0022300445,367,PT09M39.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,66,74,140,h,Avdija Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,274
+0022300445,368,PT09M39.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,67,74,141,h,Avdija Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,275
+0022300445,369,PT09M26.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P3.T1) (K.Cutler),Foul,Shooting,1,0,276
+0022300445,371,PT09M26.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,67,75,142,v,Young Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,277
+0022300445,372,PT09M26.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,67,76,143,v,Young Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,278
+0022300445,373,PT09M19.00S,3,1610612764,WAS,1629673,Poole,J. Poole,10,306,31,Missed,1,,,0,h,MISS Poole 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+0022300445,374,PT09M17.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,280
+0022300445,375,PT09M10.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela Traveling Turnover (P1.T7),Turnover,Traveling,1,0,281
+0022300445,376,PT08M59.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-235,37,24,Missed,1,,,0,h,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022300445,377,PT08M56.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,283
+0022300445,378,PT08M56.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,0,284
+0022300445,380,PT08M48.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey P.FOUL (P2.T3) (K.Cutler),Foul,Personal,1,0,285
+0022300445,382,PT08M48.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,68,76,144,h,Avdija Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022300445,383,PT08M48.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,287
+0022300445,384,PT08M48.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,288
+0022300445,385,PT08M29.00S,3,1610612737,ATL,203991,Capela,C. Capela,47,60,8,Missed,1,,,0,v,MISS Capela 8' Hook Shot,Missed Shot,Hook Shot,1,2,289
+0022300445,385,PT08M29.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford BLOCK (3 BLK),,,1,2,290
+0022300445,387,PT08M24.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,291
+0022300445,388,PT08M24.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Missed,1,,,0,v,MISS Capela Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,292
+0022300445,389,PT08M22.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,293
+0022300445,390,PT08M20.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-5,15,2,Made,1,70,76,146,h,Kuzma 2' Running Dunk (26 PTS) (Poole 5 AST),Made Shot,Running Dunk Shot,1,2,294
+0022300445,392,PT08M05.00S,3,1610612737,ATL,203991,Capela,C. Capela,43,26,5,Missed,1,,,0,v,MISS Capela 5' Dunk,Missed Shot,Dunk Shot,1,2,295
+0022300445,392,PT08M05.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija BLOCK (1 BLK),,,1,2,296
+0022300445,394,PT08M02.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,297
+0022300445,395,PT08M01.00S,3,1610612737,ATL,203991,Capela,C. Capela,12,11,2,Made,1,70,78,148,v,Capela 2' Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,1,2,298
+0022300445,396,PT07M54.00S,3,1610612764,WAS,1626145,Jones,T. Jones,-31,42,5,Made,1,72,78,150,h,Jones 5' Floating Jump Shot (7 PTS) (Avdija 2 AST),Made Shot,Floating Jump shot,1,2,299
+0022300445,398,PT07M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela OFF.Foul (P3) (J.Orr),Foul,Offensive,1,0,300
+0022300445,400,PT07M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,301
+0022300445,401,PT07M26.00S,3,1610612764,WAS,1626145,Jones,T. Jones,25,63,7,Missed,1,,,0,h,MISS Jones 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,302
+0022300445,402,PT07M24.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,303
+0022300445,403,PT07M20.00S,3,1610612737,ATL,1630180,Bey,S. Bey,-248,-22,25,Made,1,72,81,153,v,Bey 25' 3PT Jump Shot (8 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,304
+0022300445,405,PT07M00.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-172,24,17,Made,1,74,81,155,h,Kuzma 17' Step Back Jump Shot (28 PTS),Made Shot,Step Back Jump shot,1,2,305
+0022300445,406,PT06M48.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,306
+0022300445,408,PT06M48.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,307
+0022300445,409,PT06M48.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Avdija,Substitution,,0,0,308
+0022300445,411,PT06M48.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,309
+0022300445,412,PT06M48.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,310
+0022300445,413,PT06M48.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,74,82,156,v,Young Free Throw 2 of 3 (23 PTS),Free Throw,Free Throw 2 of 3,1,0,311
+0022300445,414,PT06M48.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,74,83,157,v,Young Free Throw 3 of 3 (24 PTS),Free Throw,Free Throw 3 of 3,1,0,312
+0022300445,415,PT06M31.00S,3,1610612764,WAS,1629673,Poole,J. Poole,50,41,6,Missed,1,,,0,h,MISS Poole 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,313
+0022300445,415,PT06M31.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela BLOCK (1 BLK),,,1,2,314
+0022300445,417,PT06M28.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+0022300445,418,PT06M21.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,316
+0022300445,418,PT06M21.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford STEAL (2 STL),,,1,0,317
+0022300445,420,PT06M16.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-13,17,2,Made,1,76,83,159,h,Poole 2' Running Dunk (11 PTS) (Jones 7 AST),Made Shot,Running Dunk Shot,1,2,318
+0022300445,422,PT05M54.00S,3,1610612737,ATL,1630180,Bey,S. Bey,31,2,3,Missed,1,,,0,v,MISS Bey 3' Layup,Missed Shot,Layup Shot,1,2,319
+0022300445,423,PT05M51.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,320
+0022300445,424,PT05M51.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Missed,1,,,0,v,MISS Capela Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,321
+0022300445,425,PT05M51.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,322
+0022300445,426,PT05M43.00S,3,1610612764,WAS,1629673,Poole,J. Poole,157,261,30,Missed,1,,,0,h,MISS Poole 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022300445,427,PT05M41.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,324
+0022300445,428,PT05M33.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-37,-5,4,Missed,1,,,0,v,MISS Murray 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022300445,428,PT05M33.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford BLOCK (4 BLK),,,1,2,326
+0022300445,430,PT05M28.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,327
+0022300445,431,PT05M23.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,51,256,26,Made,1,79,83,162,h,Kuzma 26' 3PT Jump Shot (31 PTS),Made Shot,Jump Shot,1,3,328
+0022300445,432,PT05M23.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,329
+0022300445,433,PT05M23.00S,3,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Mills FOR Johnson,Substitution,,0,0,330
+0022300445,434,PT05M23.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Young,Substitution,,0,0,331
+0022300445,437,PT05M07.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-66,133,15,Missed,1,,,0,v,MISS Bogdanovic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,332
+0022300445,438,PT05M04.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,333
+0022300445,439,PT04M52.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-22,21,3,Made,1,81,83,164,h,Poole 3' Driving Floating Jump Shot (13 PTS) (Kuzma 3 AST),Made Shot,Driving Floating Jump Shot,1,2,334
+0022300445,441,PT04M39.00S,3,1610612737,ATL,1630180,Bey,S. Bey,2,253,25,Made,1,81,86,167,v,Bey 25' 3PT Jump Shot (11 PTS) (Capela 2 AST),Made Shot,Jump Shot,1,3,335
+0022300445,443,PT04M23.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-145,57,16,Missed,1,,,0,h,MISS Kuzma 16' Jump Shot,Missed Shot,Jump Shot,1,2,336
+0022300445,444,PT04M21.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,337
+0022300445,445,PT04M06.00S,3,1610612737,ATL,1627749,Murray,D. Murray,127,246,28,Missed,1,,,0,v,MISS Murray 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022300445,446,PT04M03.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,339
+0022300445,447,PT03M46.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-185,209,28,Missed,1,,,0,h,MISS Kuzma 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+0022300445,448,PT03M39.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,341
+0022300445,449,PT03M35.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-55,21,6,Made,1,81,88,169,v,Murray 6' Driving Layup (17 PTS) (Bogdanovic 1 AST),Made Shot,Driving Layup Shot,1,2,342
+0022300445,450,PT03M35.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P4.T3) (J.Orr),Foul,Shooting,1,0,343
+0022300445,452,PT03M35.00S,3,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,SUB: Wright FOR Jones,Substitution,,0,0,344
+0022300445,453,PT03M35.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,SUB: Muscala FOR Gafford,Substitution,,0,0,345
+0022300445,454,PT03M35.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Fernando FOR Capela,Substitution,,0,0,346
+0022300445,458,PT03M35.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,81,89,170,v,Murray Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,347
+0022300445,459,PT03M23.00S,3,1610612764,WAS,203488,Muscala,M. Muscala,-235,-8,24,Made,1,84,89,173,h,Muscala 24' 3PT Jump Shot (5 PTS) (Poole 6 AST),Made Shot,Jump Shot,1,3,348
+0022300445,461,PT03M08.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-168,232,29,Missed,1,,,0,v,MISS Bogdanovic 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0022300445,462,PT03M05.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,350
+0022300445,463,PT02M57.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,21,0,2,Made,1,84,91,175,v,Bogdanovic 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,351
+0022300445,464,PT02M45.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-76,261,27,Missed,1,,,0,h,MISS Poole 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,352
+0022300445,465,PT02M41.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,353
+0022300445,466,PT02M33.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-60,59,8,Made,1,84,93,177,v,Murray 8' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,354
+0022300445,467,PT02M20.00S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,59,83,10,Missed,1,,,0,h,MISS Coulibaly 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,355
+0022300445,468,PT02M17.00S,3,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,356
+0022300445,469,PT02M01.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-114,141,18,Made,1,84,95,179,v,Murray 18' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,357
+0022300445,471,PT01M58.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,358
+0022300445,472,PT01M58.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,SUB: Avdija FOR Poole,Substitution,,0,0,359
+0022300445,473,PT01M58.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Kispert FOR Kuzma,Substitution,,0,0,360
+0022300445,474,PT01M58.00S,3,1610612737,ATL,201988,Mills,P. Mills,0,0,0,,0,,,0,v,SUB: Johnson FOR Mills,Substitution,,0,0,361
+0022300445,475,PT01M58.00S,3,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,SUB: Young FOR Bey,Substitution,,0,0,362
+0022300445,480,PT01M50.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,363
+0022300445,481,PT01M32.00S,3,1610612737,ATL,1627749,Murray,D. Murray,229,1,0,Made,1,84,98,182,v,Murray 3PT Jump Shot (25 PTS) (Young 11 AST),Made Shot,Jump Shot,1,3,364
+0022300445,483,PT01M21.00S,3,1610612764,WAS,203488,Muscala,M. Muscala,211,153,26,Missed,1,,,0,h,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300445,484,PT01M15.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,Murray REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,366
+0022300445,485,PT00M59.50S,3,1610612737,ATL,1628981,Fernando,B. Fernando,-1,54,5,Missed,1,,,0,v,MISS Fernando 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,367
+0022300445,486,PT00M57.50S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,368
+0022300445,487,PT00M54.40S,3,1610612764,WAS,1626153,Wright,D. Wright,211,143,25,Made,1,87,98,185,h,Wright 25' 3PT Running Jump Shot (3 PTS) (Coulibaly 3 AST),Made Shot,Running Jump Shot,1,3,369
+0022300445,489,PT00M35.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-237,4,24,Missed,1,,,0,v,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300445,490,PT00M31.40S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,371
+0022300445,491,PT00M11.50S,3,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright OFF.Foul (P1) (T.Maddox),Foul,Offensive,1,0,372
+0022300445,493,PT00M11.50S,3,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,373
+0022300445,494,PT00M04.60S,3,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,Wright Personal Take Foul (P2.T4) (J.Orr),Foul,Personal Take,1,0,374
+0022300445,496,PT00M00.50S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-36,105,11,Made,1,87,100,187,v,Bogdanovic 11' Driving Floating Jump Shot (10 PTS) (Young 12 AST),Made Shot,Driving Floating Jump Shot,1,2,375
+0022300445,498,PT00M00.00S,3,0,,0,,,0,0,0,,0,87,100,187,,End of 3rd Period (4:46 PM EST),period,end,1,0,376
+0022300445,503,PT12M00.00S,4,0,,0,,,0,0,0,,0,87,100,187,,Start of 4th Period (4:49 PM EST),period,start,0,0,377
+0022300445,504,PT11M46.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,18,55,6,Missed,1,,,0,v,MISS Bogdanovic 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,378
+0022300445,505,PT11M43.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,379
+0022300445,506,PT11M24.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-16,64,7,Made,1,89,100,189,h,Kispert 7' Finger Roll Layup (9 PTS),Made Shot,Finger Roll Layup Shot,1,2,380
+0022300445,508,PT11M09.00S,4,1610612737,ATL,1629027,Young,T. Young,-1,104,10,Made,1,89,102,191,v,Young 10' Driving Floating Jump Shot (26 PTS) (Fernando 2 AST),Made Shot,Driving Floating Jump Shot,1,2,381
+0022300445,510,PT11M00.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,183,205,27,Missed,1,,,0,h,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022300445,511,PT10M55.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,383
+0022300445,512,PT10M41.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,-53,68,9,Missed,1,,,0,v,MISS Fernando 9' Hook Shot,Missed Shot,Hook Shot,1,2,384
+0022300445,513,PT10M39.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,385
+0022300445,514,PT10M33.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,196,169,26,Missed,1,,,0,h,MISS Avdija 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,386
+0022300445,515,PT10M29.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+0022300445,516,PT10M19.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,191,201,28,Missed,1,,,0,v,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300445,517,PT10M19.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,389
+0022300445,518,PT10M19.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando L.B.FOUL (P2.T1) (J.Orr),Foul,Loose Ball,1,0,390
+0022300445,520,PT10M19.00S,4,0,,518,Mozgov,T. Mozgov,0,0,0,,0,89,102,191,,Instant Replay4th Period (4:51 PM EST),Instant Replay,Ruling Stands,0,0,391
+0022300445,521,PT10M08.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,22,24,3,Made,1,91,102,193,h,Kispert 3' Cutting Layup Shot (11 PTS) (Muscala 3 AST),Made Shot,Cutting Layup Shot,1,2,392
+0022300445,523,PT09M53.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando OFF.Foul (P3) (T.Maddox),Foul,Offensive,1,0,393
+0022300445,525,PT09M53.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,394
+0022300445,526,PT09M42.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-37,57,7,Missed,1,,,0,h,MISS Kispert 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,395
+0022300445,527,PT09M39.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,396
+0022300445,529,PT09M39.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young Out of Bounds Lost Ball Turnover (P5.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,397
+0022300445,530,PT09M37.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,225,1,0,Missed,1,,,0,h,MISS Avdija 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022300445,531,PT09M34.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,399
+0022300445,532,PT09M32.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,15,11,2,Made,1,93,102,195,h,Avdija 2' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,2,400
+0022300445,533,PT09M18.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,WIZARDS T.Foul (Def. 3 Sec Avdija ) (K.Cutler),Foul,Defense 3 Second,1,0,401
+0022300445,534,PT09M18.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,93,103,196,v,Young Free Throw Technical (27 PTS),Free Throw,Free Throw Technical,1,0,402
+0022300445,535,PT09M08.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-13,68,7,Missed,1,,,0,v,MISS Bogdanovic 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,403
+0022300445,536,PT09M06.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,404
+0022300445,537,PT08M58.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,Fernando S.FOUL (P4.T2) (T.Maddox),Foul,Shooting,1,0,405
+0022300445,539,PT08M58.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,94,103,197,h,Kispert Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+0022300445,540,PT08M58.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,,,0,v,SUB: Capela FOR Fernando,Substitution,,0,0,407
+0022300445,542,PT08M58.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,MISS Kispert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,408
+0022300445,543,PT08M56.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:13),Rebound,Unknown,1,0,409
+0022300445,544,PT08M38.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,-27,274,28,Made,1,94,106,200,v,Johnson 28' 3PT Jump Shot (23 PTS) (Young 13 AST),Made Shot,Jump Shot,1,3,410
+0022300445,546,PT08M19.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,219,153,27,Missed,1,,,0,h,MISS Shamet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300445,547,PT08M16.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,412
+0022300445,548,PT08M05.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,225,111,25,Missed,1,,,0,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022300445,549,PT08M02.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,414
+0022300445,550,PT07M49.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,6,17,2,Made,1,96,106,202,h,Muscala 2' Hook Shot (7 PTS) (Kispert 3 AST),Made Shot,Hook Shot,1,2,415
+0022300445,552,PT07M33.00S,4,1610612737,ATL,1629027,Young,T. Young,-23,278,28,Missed,1,,,0,v,MISS Young 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,416
+0022300445,553,PT07M30.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,417
+0022300445,554,PT07M26.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,216,153,26,Missed,1,,,0,h,MISS Kispert 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,418
+0022300445,555,PT07M26.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,419
+0022300445,556,PT07M15.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-48,144,15,Made,1,96,108,204,v,Bogdanovic 15' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,420
+0022300445,557,PT06M52.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,-130,222,26,Made,1,99,108,207,h,Muscala 26' 3PT Jump Shot (10 PTS) (Wright 2 AST),Made Shot,Jump Shot,1,3,421
+0022300445,559,PT06M32.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,422
+0022300445,562,PT06M32.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,423
+0022300445,570,PT06M32.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Kuzma FOR Avdija,Substitution,,0,0,424
+0022300445,571,PT06M32.00S,4,1610612764,WAS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,SUB: Gafford FOR Muscala,Substitution,,0,0,425
+0022300445,572,PT06M32.00S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Murray FOR Johnson,Substitution,,0,0,426
+0022300445,573,PT06M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,427
+0022300445,563,PT06M32.00S,4,0,,559,,,0,0,0,,0,99,108,207,,Instant Replay4th Period (4:59 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,428
+0022300445,564,PT06M32.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,429
+0022300445,565,PT06M32.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,430
+0022300445,566,PT06M32.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,99,109,208,v,Young Free Throw 2 of 3 (28 PTS),Free Throw,Free Throw 2 of 3,1,0,431
+0022300445,567,PT06M32.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,99,110,209,v,Young Free Throw 3 of 3 (29 PTS),Free Throw,Free Throw 3 of 3,1,0,432
+0022300445,568,PT06M18.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,-217,148,26,Missed,1,,,0,h,MISS Shamet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0022300445,569,PT06M12.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,434
+0022300445,621,PT06M11.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,10,1,Missed,1,,,0,h,MISS Kuzma 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,435
+0022300445,622,PT06M10.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,436
+0022300445,578,PT06M02.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-185,189,26,Missed,1,,,0,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300445,579,PT05M58.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,438
+0022300445,580,PT05M48.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,218,122,25,Made,1,102,110,212,h,Kuzma 25' 3PT Jump Bank Shot (34 PTS) (Kispert 4 AST),Made Shot,Jump Bank Shot,1,3,439
+0022300445,582,PT05M32.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-132,116,18,Made,1,102,112,214,v,Murray 18' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,2,440
+0022300445,583,PT05M21.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,441
+0022300445,583,PT05M21.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young STEAL (3 STL),,,1,0,442
+0022300445,585,PT05M12.00S,4,1610612737,ATL,1630180,Bey,S. Bey,234,-14,0,Missed,1,,,0,v,MISS Bey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022300445,586,PT05M10.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,Shamet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,444
+0022300445,587,PT05M06.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-137,229,27,Made,1,105,112,217,h,Kispert 27' 3PT Running Jump Shot (15 PTS) (Shamet 2 AST),Made Shot,Running Jump Shot,1,3,445
+0022300445,589,PT04M43.00S,4,1610612737,ATL,1629027,Young,T. Young,55,71,9,Made,1,105,114,219,v,Young 9' Floating Jump Shot (31 PTS),Made Shot,Floating Jump shot,1,2,446
+0022300445,590,PT04M28.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-25,266,27,Missed,1,,,0,h,MISS Kuzma 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,447
+0022300445,591,PT04M24.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,448
+0022300445,592,PT04M08.00S,4,1610612737,ATL,1629027,Young,T. Young,-102,162,19,Made,1,105,116,221,v,Young 19' Driving Floating Jump Shot (33 PTS) (Murray 3 AST),Made Shot,Driving Floating Jump Shot,1,2,449
+0022300445,594,PT03M45.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-216,138,26,Missed,1,,,0,h,MISS Kuzma 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,450
+0022300445,595,PT03M42.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:6 Def:9),Rebound,Unknown,1,0,451
+0022300445,597,PT03M22.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,452
+0022300445,598,PT03M22.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,h,SUB: Jones FOR Shamet,Substitution,,0,0,453
+0022300445,599,PT03M22.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,,,0,h,SUB: Poole FOR Kispert,Substitution,,0,0,454
+0022300445,600,PT03M22.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,,,0,h,SUB: Avdija FOR Wright,Substitution,,0,0,455
+0022300445,601,PT03M22.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Johnson FOR Bogdanovic,Substitution,,0,0,456
+0022300445,606,PT03M20.00S,4,1610612737,ATL,1627749,Murray,D. Murray,-142,243,28,Made,1,105,119,224,v,Murray 28' 3PT Jump Shot (30 PTS) (Johnson 4 AST),Made Shot,Jump Shot,1,3,457
+0022300445,608,PT03M05.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,458
+0022300445,608,PT03M05.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela STEAL (1 STL),,,1,0,459
+0022300445,610,PT02M48.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,1,0,460
+0022300445,612,PT02M48.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,461
+0022300445,613,PT02M48.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,462
+0022300445,614,PT02M48.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,105,120,225,v,Capela Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,463
+0022300445,615,PT02M41.00S,4,1610612764,WAS,1626145,Jones,T. Jones,-164,205,26,Made,1,108,120,228,h,Jones 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,464
+0022300445,616,PT02M20.00S,4,1610612737,ATL,1629027,Young,T. Young,-75,296,31,Missed,1,,,0,v,MISS Young 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022300445,617,PT02M18.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:7 Def:9),Rebound,Unknown,1,0,466
+0022300445,618,PT02M16.00S,4,1610612737,ATL,1629027,Young,T. Young,2,272,27,Made,1,108,123,231,v,Young 27' 3PT Jump Shot (36 PTS) (Capela 3 AST),Made Shot,Jump Shot,1,3,467
+0022300445,620,PT02M15.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,468
+0022300445,623,PT02M05.00S,4,1610612764,WAS,1626145,Jones,T. Jones,-4,269,27,Made,1,111,123,234,h,Jones 27' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,3,469
+0022300445,624,PT02M05.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,Young S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,1,0,470
+0022300445,626,PT02M05.00S,4,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,112,123,235,h,Jones Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,471
+0022300445,627,PT01M44.00S,4,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,,,0,h,Poole S.FOUL (P3.T3) (K.Cutler),Foul,Shooting,1,0,472
+0022300445,629,PT01M44.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,MISS Bey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,473
+0022300445,630,PT01M44.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,1,0,474
+0022300445,631,PT01M44.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,MISS Bey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,475
+0022300445,632,PT01M42.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,476
+0022300445,633,PT01M31.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela S.FOUL (P4.T4) (J.Orr),Foul,Shooting,1,0,477
+0022300445,635,PT01M31.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,113,123,236,h,Gafford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,478
+0022300445,636,PT01M31.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,114,123,237,h,Gafford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,479
+0022300445,637,PT01M31.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P2.PN) (T.Maddox),Foul,Personal,1,0,480
+0022300445,639,PT01M31.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,481
+0022300445,641,PT01M31.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,1,0,482
+0022300445,642,PT01M31.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,114,124,238,v,Young Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022300445,643,PT01M21.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-239,1,24,Made,1,117,124,241,h,Avdija 24' 3PT Jump Shot (16 PTS) (Kuzma 4 AST),Made Shot,Jump Shot,1,3,484
+0022300445,645,PT01M14.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P3.PN) (K.Cutler),Foul,Personal,1,0,485
+0022300445,647,PT01M14.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,486
+0022300445,648,PT01M14.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,487
+0022300445,649,PT01M14.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,488
+0022300445,650,PT01M14.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,117,125,242,v,Young Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0,489
+0022300445,651,PT01M09.00S,4,1610612737,ATL,1630180,Bey,S. Bey,0,0,0,,0,,,0,v,Bey S.FOUL (P3.PN) (J.Orr),Foul,Shooting,1,0,490
+0022300445,653,PT01M09.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,118,125,243,h,Avdija Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,491
+0022300445,654,PT01M09.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,MISS Avdija Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,492
+0022300445,655,PT01M06.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela REBOUND (Off:7 Def:10),Rebound,Unknown,1,0,493
+0022300445,656,PT00M49.30S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,Capela Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,494
+0022300445,657,PT00M42.50S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-234,-17,0,Missed,1,,,0,h,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,495
+0022300445,658,PT00M41.50S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,496
+0022300445,659,PT00M41.50S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,Made,1,120,125,245,h,Gafford Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,497
+0022300445,660,PT00M41.50S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,498
+0022300445,661,PT00M41.50S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Capela,Substitution,,0,0,499
+0022300445,663,PT00M41.50S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Gafford,Substitution,,0,0,500
+0022300445,665,PT00M33.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,Coulibaly P.FOUL (P2.PN) (K.Cutler),Foul,Personal,1,0,501
+0022300445,667,PT00M33.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,502
+0022300445,668,PT00M33.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,0,503
+0022300445,669,PT00M33.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,,,0,h,SUB: Gafford FOR Coulibaly,Substitution,,0,0,504
+0022300445,670,PT00M33.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,,,0,v,SUB: Capela FOR Bogdanovic,Substitution,,0,0,505
+0022300445,673,PT00M33.00S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,120,126,246,v,Murray Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,506
+0022300445,674,PT00M24.50S,4,1610612764,WAS,1629655,Gafford,D. Gafford,23,14,3,Made,1,122,126,248,h,Gafford 3' Alley Oop Layup (10 PTS) (Kuzma 5 AST),Made Shot,Alley Oop Layup shot,1,2,507
+0022300445,676,PT00M22.90S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P4.PN) (K.Cutler),Foul,Personal,1,0,508
+0022300445,678,PT00M22.90S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,122,127,249,v,Young Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,0,0,509
+0022300445,679,PT00M22.90S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,122,128,250,v,Young Free Throw 2 of 2 (40 PTS),Free Throw,Free Throw 2 of 2,1,0,510
+0022300445,680,PT00M15.80S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-22,11,2,Made,1,124,128,252,h,Kuzma 2' Driving Layup (36 PTS) (Jones 8 AST),Made Shot,Driving Layup Shot,1,2,511
+0022300445,681,PT00M14.80S,4,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.PN) (K.Cutler),Foul,Personal,1,0,512
+0022300445,683,PT00M14.80S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,124,129,253,v,Johnson Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,513
+0022300445,684,PT00M14.80S,4,1610612737,ATL,1630552,Johnson,J. Johnson,0,0,0,,0,,,0,v,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,514
+0022300445,685,PT00M13.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,515
+0022300445,686,PT00M08.60S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-20,24,3,Made,1,126,129,255,h,Kuzma 3' Driving Dunk (38 PTS),Made Shot,Driving Dunk Shot,1,2,516
+0022300445,687,PT00M06.10S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P5.PN) (J.Orr),Foul,Personal,1,0,517
+0022300445,689,PT00M06.10S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,126,130,256,v,Murray Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,518
+0022300445,690,PT00M06.10S,4,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,,,0,v,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,519
+0022300445,691,PT00M03.20S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,,,0,h,Gafford REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,520
+0022300445,692,PT00M00.10S,4,1610612764,WAS,1630166,Avdija,D. Avdija,74,436,44,Missed,1,,,0,h,MISS Avdija 44' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,521
+0022300445,693,PT00M00.10S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,1,0,522
+0022300445,694,PT00M00.00S,4,0,,0,,,0,0,0,,0,126,130,256,,End of 4th Period (5:29 PM EST),period,end,1,0,523

@@ -1,0 +1,467 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500747,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:11 PM EST),period,start,1,0,1
+0022500747,4,PT12M00.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Jump Ball Claxton vs. Vukcevic: Tip to Clowney,Jump Ball,,1,0,2
+0022500747,7,PT11M43.00S,1,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,3
+0022500747,9,PT11M43.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,4
+0022500747,10,PT11M43.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,1,0,5
+0022500747,11,PT11M43.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,1,0,1,h,Claxton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,6
+0022500747,12,PT11M26.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,18,9,2,Missed,1,,,0,v,MISS Watkins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,7
+0022500747,13,PT11M22.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022500747,14,PT11M18.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,223,92,24,Missed,1,,,0,h,MISS Demin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,9
+0022500747,15,PT11M18.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+0022500747,16,PT11M18.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,Missed,1,,,0,h,MISS Clowney Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,11
+0022500747,17,PT11M18.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,12
+0022500747,19,PT11M01.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,11,10,1,Missed,1,,,0,v,MISS Champagnie 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,13
+0022500747,20,PT10M59.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,14
+0022500747,21,PT10M59.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,15
+0022500747,23,PT10M59.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,1,1,2,v,Champagnie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,16
+0022500747,24,PT10M59.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,1,2,3,v,Champagnie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,17
+0022500747,25,PT10M46.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,1,0,18
+0022500747,27,PT10M46.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,2,2,4,h,Porter Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,19
+0022500747,28,PT10M46.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,3,2,5,h,Porter Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,20
+0022500747,29,PT10M25.00S,1,1610612764,WAS,1642860,Riley,W. Riley,-138,214,25,Made,1,3,5,8,v,Riley 25' 3PT Jump Shot (3 PTS) (Champagnie 1 AST),Made Shot,Jump Shot,1,3,21
+0022500747,31,PT10M11.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-105,236,26,Made,1,6,5,11,h,Porter Jr. 26' 3PT Jump Shot (5 PTS) (Traore 1 AST),Made Shot,Jump Shot,1,3,22
+0022500747,33,PT10M03.00S,1,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,23
+0022500747,35,PT09M58.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,24
+0022500747,35,PT09M58.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney STEAL (1 STL),,,1,0,25
+0022500747,38,PT09M39.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-110,148,18,Made,1,8,5,13,h,Porter Jr. 18' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,26
+0022500747,39,PT09M27.00S,1,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,27
+0022500747,40,PT09M20.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,140,216,26,Missed,1,,,0,h,MISS Demin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,28
+0022500747,41,PT09M17.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,29
+0022500747,42,PT09M14.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,75,256,27,Made,1,11,5,16,h,Clowney 27' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,30
+0022500747,44,PT08M51.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,16,14,2,Made,1,11,7,18,v,Vukcevic 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,31
+0022500747,45,PT08M37.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-4,16,2,Made,1,13,7,20,h,Claxton 2' Driving Dunk (3 PTS) (Traore 2 AST),Made Shot,Driving Dunk Shot,1,2,32
+0022500747,47,PT08M27.00S,1,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,33
+0022500747,49,PT08M27.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,13,8,21,v,Watkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+0022500747,50,PT08M27.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,13,9,22,v,Watkins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+0022500747,51,PT08M09.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,34,1,3,Missed,1,,,0,h,MISS Claxton 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,36
+0022500747,52,PT08M03.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,37
+0022500747,53,PT08M03.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Made,1,15,9,24,h,Claxton Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,38
+0022500747,54,PT07M57.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,5,3,1,Made,1,15,11,26,v,Vukcevic 1' Driving Dunk (4 PTS) (Carrington 1 AST),Made Shot,Driving Dunk Shot,1,2,39
+0022500747,56,PT07M40.00S,1,1610612751,BKN,1642849,Traore,N. Traore,13,0,1,Made,1,17,11,28,h,Traore 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,40
+0022500747,57,PT07M25.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,2,92,9,Missed,1,,,0,v,MISS Carrington 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,41
+0022500747,58,PT07M23.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,42
+0022500747,59,PT07M20.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,43
+0022500747,60,PT07M10.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,74,252,26,Missed,1,,,0,v,MISS Carrington 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,44
+0022500747,61,PT07M05.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+0022500747,62,PT07M03.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0,46
+0022500747,64,PT06M58.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,7,15,2,Made,1,19,11,30,h,Demin 2' Cutting Dunk Shot (2 PTS) (Clowney 1 AST),Made Shot,Cutting Dunk Shot,1,2,47
+0022500747,66,PT06M48.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,-6,9,1,Made,1,19,13,32,v,Champagnie 1' Cutting Layup Shot (4 PTS) (Vukcevic 1 AST),Made Shot,Cutting Layup Shot,1,2,48
+0022500747,68,PT06M29.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-23,249,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,49
+0022500747,69,PT06M27.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,50
+0022500747,70,PT06M22.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,51
+0022500747,71,PT06M22.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52
+0022500747,72,PT06M22.00S,1,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,SUB: Saraf FOR Traore,Substitution,,0,0,53
+0022500747,74,PT06M03.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,54
+0022500747,74,PT06M03.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins STEAL (1 STL),,,1,0,55
+0022500747,76,PT05M59.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,56
+0022500747,77,PT05M42.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,-29,7,3,Made,1,21,13,34,h,Demin 3' Driving Finger Roll Layup (4 PTS) (Porter Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,57
+0022500747,79,PT05M32.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,58
+0022500747,80,PT05M23.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,-13,8,2,Missed,1,,,0,h,MISS Saraf 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,59
+0022500747,80,PT05M23.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic BLOCK (1 BLK),,,1,2,60
+0022500747,82,PT05M20.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,61
+0022500747,83,PT05M15.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-21,0,2,Made,1,21,15,36,v,Vukcevic 2' Running Reverse Layup (6 PTS) (Champagnie 2 AST),Made Shot,Running Reverse Layup Shot,1,2,62
+0022500747,85,PT05M05.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,6,8,1,Made,1,23,15,38,h,Claxton 1' Driving Dunk (7 PTS) (Demin 1 AST),Made Shot,Driving Dunk Shot,1,2,63
+0022500747,87,PT04M44.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,42,72,8,Made,1,23,17,40,v,Champagnie 8' Driving Bank Hook Shot (6 PTS),Made Shot,Driving Bank Hook Shot,1,2,64
+0022500747,88,PT04M39.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic P.FOUL (P2.T4) (A.Smith),Foul,Personal,1,0,65
+0022500747,90,PT04M39.00S,1,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,SUB: Mann FOR Demin,Substitution,,0,0,66
+0022500747,91,PT04M39.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,SUB: Powell FOR Clowney,Substitution,,0,0,67
+0022500747,92,PT04M39.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Sharpe FOR Claxton,Substitution,,0,0,68
+0022500747,93,PT04M39.00S,1,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,SUB: Cooper FOR Vukcevic,Substitution,,0,0,69
+0022500747,94,PT04M39.00S,1,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Gilbert FOR Carrington,Substitution,,0,0,70
+0022500747,95,PT04M39.00S,1,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Gill FOR Champagnie,Substitution,,0,0,71
+0022500747,102,PT04M33.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,61,251,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022500747,103,PT04M30.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,73
+0022500747,105,PT04M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,40,21,5,Made,1,25,17,42,h,Sharpe 5' Alley Oop Layup (2 PTS) (Saraf 1 AST),Made Shot,Alley Oop Layup shot,1,2,74
+0022500747,107,PT04M06.00S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,-150,194,25,Missed,1,,,0,v,MISS Gilbert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022500747,108,PT04M03.00S,1,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022500747,109,PT03M52.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-12,39,4,Made,1,27,17,44,h,Sharpe 4' Driving Layup (4 PTS) (Mann 1 AST),Made Shot,Driving Layup Shot,1,2,77
+0022500747,111,PT03M41.00S,1,1610612764,WAS,1630264,Gill,A. Gill,-67,234,24,Missed,1,,,0,v,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022500747,112,PT03M37.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,79
+0022500747,114,PT03M28.00S,1,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Wolf FOR Porter Jr.,Substitution,,0,0,80
+0022500747,116,PT03M20.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,180,189,26,Made,1,30,17,47,h,Saraf 26' 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,1,3,81
+0022500747,118,PT03M03.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T4) (A.Smith),Foul,Shooting,1,0,82
+0022500747,120,PT03M03.00S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,30,18,48,v,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0022500747,121,PT03M03.00S,1,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,MISS Gill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,84
+0022500747,122,PT03M00.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022500747,123,PT02M47.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,-16,10,2,Missed,1,,,0,h,MISS Saraf 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,86
+0022500747,124,PT02M45.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0022500747,125,PT02M45.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Made,1,32,18,50,h,Sharpe Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,88
+0022500747,126,PT02M37.00S,1,1610612764,WAS,1642364,Watkins,J. Watkins,-168,185,25,Missed,1,,,0,v,MISS Watkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022500747,127,PT02M31.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,90
+0022500747,128,PT02M28.00S,1,1610612751,BKN,1629611,Mann,T. Mann,-5,-4,1,Made,1,34,18,52,h,Mann 1' Running Dunk (2 PTS) (Powell 1 AST),Made Shot,Running Dunk Shot,1,2,91
+0022500747,130,PT02M17.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,92
+0022500747,131,PT02M04.00S,1,1610612764,WAS,1642860,Riley,W. Riley,36,125,13,Missed,1,,,0,v,MISS Riley 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,93
+0022500747,132,PT02M00.00S,1,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022500747,133,PT01M48.00S,1,1610612751,BKN,1642962,Powell,D. Powell,235,-13,24,Made,1,37,18,55,h,Powell 24' 3PT Jump Shot (3 PTS) (Saraf 2 AST),Made Shot,Jump Shot,1,3,95
+0022500747,135,PT01M42.00S,1,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,96
+0022500747,135,PT01M42.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf STEAL (1 STL),,,1,0,97
+0022500747,137,PT01M38.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,-127,217,25,Missed,1,,,0,h,MISS Saraf 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,98
+0022500747,138,PT01M34.00S,1,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+0022500747,139,PT01M34.00S,1,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,Made,1,39,18,57,h,Wolf Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,100
+0022500747,140,PT01M21.00S,1,1610612764,WAS,1630264,Gill,A. Gill,-4,21,2,Missed,1,,,0,v,MISS Gill 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,101
+0022500747,141,PT01M21.00S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,102
+0022500747,143,PT01M20.00S,1,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,1,0,103
+0022500747,145,PT01M20.00S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,39,19,58,v,Gilbert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,104
+0022500747,146,PT01M20.00S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,39,20,59,v,Gilbert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+0022500747,147,PT01M05.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,-71,55,9,Missed,1,,,0,h,MISS Saraf 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,106
+0022500747,148,PT01M02.00S,1,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,107
+0022500747,149,PT00M56.20S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,11,6,1,Missed,1,,,0,h,MISS Sharpe 1' Layup,Missed Shot,Layup Shot,1,2,108
+0022500747,151,PT00M53.80S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022500747,152,PT00M50.90S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,110
+0022500747,152,PT00M50.90S,1,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf STEAL (2 STL),,,1,0,111
+0022500747,154,PT00M46.10S,1,1610612751,BKN,1629611,Mann,T. Mann,5,1,1,Made,1,41,20,61,h,Mann 1' Running Layup (4 PTS) (Wolf 1 AST),Made Shot,Running Layup Shot,1,2,112
+0022500747,156,PT00M31.80S,1,1610612764,WAS,1630536,Cooper,S. Cooper,-2,251,25,Missed,1,,,0,v,MISS Cooper 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,113
+0022500747,157,PT00M27.60S,1,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+0022500747,158,PT00M21.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,36,47,6,Made,1,43,20,63,h,Sharpe 6' Turnaround Jump Shot (8 PTS) (Saraf 3 AST),Made Shot,Turnaround Jump Shot,1,2,115
+0022500747,160,PT00M05.20S,1,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,116
+0022500747,160,PT00M05.20S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,117
+0022500747,162,PT00M00.90S,1,1610612751,BKN,1642874,Wolf,D. Wolf,-174,178,25,Made,1,46,20,66,h,Wolf 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Sharpe 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,118
+0022500747,163,PT00M00.30S,1,0,,0,,,0,0,0,,0,,,0,v,WIZARDS Heave,Heave,Team Field Goal Attempt,1,0,119
+0022500747,164,PT00M00.10S,1,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,0,0,120
+0022500747,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,46,20,66,,End of 1st Period (3:37 PM EST),period,end,1,0,121
+0022500747,166,PT12M00.00S,2,0,,0,,,0,0,0,,0,46,20,66,,Start of 2nd Period (3:40 PM EST),period,start,0,0,122
+0022500747,167,PT11M44.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,NETS T.Foul (Def. 3 Sec Wolf ) (J.Goble),Foul,Defense 3 Second,1,0,123
+0022500747,168,PT11M44.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,46,21,67,v,Riley Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,124
+0022500747,169,PT11M32.00S,2,1610612764,WAS,1630536,Cooper,S. Cooper,-10,55,6,Missed,1,,,0,v,MISS Cooper 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+0022500747,169,PT11M32.00S,2,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,126
+0022500747,171,PT11M29.00S,2,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,127
+0022500747,172,PT11M21.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,0,128
+0022500747,174,PT11M14.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,-26,21,3,Made,1,48,21,69,h,Wolf 3' Driving Layup (7 PTS) (Sharpe 2 AST),Made Shot,Driving Layup Shot,1,2,129
+0022500747,176,PT10M55.00S,2,1610612764,WAS,1642364,Watkins,J. Watkins,228,29,0,Missed,1,,,0,v,MISS Watkins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022500747,177,PT10M52.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022500747,178,PT10M49.00S,2,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,132
+0022500747,178,PT10M49.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill STEAL (1 STL),,,1,0,133
+0022500747,180,PT10M42.00S,2,1610612764,WAS,1642860,Riley,W. Riley,-5,6,1,Missed,1,,,0,v,MISS Riley 1' Running Layup,Missed Shot,Running Layup Shot,1,2,134
+0022500747,181,PT10M40.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022500747,182,PT10M36.00S,2,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,136
+0022500747,183,PT10M19.00S,2,1610612764,WAS,1642860,Riley,W. Riley,-81,85,12,Missed,1,,,0,v,MISS Riley 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,137
+0022500747,184,PT10M16.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+0022500747,338,PT09M59.00S,2,1610612751,BKN,1642962,Powell,D. Powell,-20,10,2,Missed,1,,,0,h,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,139
+0022500747,338,PT09M59.00S,2,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert BLOCK (1 BLK),,,1,2,140
+0022500747,340,PT09M59.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022500747,187,PT09M55.00S,2,1610612764,WAS,1642364,Watkins,J. Watkins,-1,21,2,Missed,1,,,0,v,MISS Watkins 2' Running Layup,Missed Shot,Running Layup Shot,1,2,142
+0022500747,188,PT09M52.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,143
+0022500747,189,PT09M48.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,12,6,1,Made,1,50,21,71,h,Sharpe 1' Layup (10 PTS) (Mann 3 AST),Made Shot,Layup Shot,1,2,144
+0022500747,191,PT09M48.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,1,0,145
+0022500747,193,PT09M48.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,146
+0022500747,194,PT09M48.00S,2,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,SUB: Carrington FOR Watkins,Substitution,,0,0,147
+0022500747,195,PT09M48.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,SUB: Champagnie FOR Riley,Substitution,,0,0,148
+0022500747,198,PT09M48.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,51,21,72,h,Sharpe Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,149
+0022500747,199,PT09M27.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,-102,105,15,Missed,1,,,0,v,MISS Carrington 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,150
+0022500747,200,PT09M23.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,151
+0022500747,201,PT09M05.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,1,34,3,Missed,1,,,0,h,MISS Wolf 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+0022500747,202,PT09M02.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,153
+0022500747,203,PT08M57.00S,2,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,154
+0022500747,203,PT08M57.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (2 STL),,,1,0,155
+0022500747,205,PT08M52.00S,2,1610612751,BKN,1642962,Powell,D. Powell,-190,154,24,Missed,1,,,0,h,MISS Powell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,156
+0022500747,206,PT08M48.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,157
+0022500747,207,PT08M42.00S,2,1610612751,BKN,1629611,Mann,T. Mann,11,15,2,Missed,1,,,0,h,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,158
+0022500747,208,PT08M42.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,159
+0022500747,209,PT08M38.00S,2,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,160
+0022500747,211,PT08M38.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,51,22,73,v,Champagnie Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,161
+0022500747,212,PT08M38.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,SUB: Vukcevic FOR Gill,Substitution,,0,0,162
+0022500747,214,PT08M38.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,51,23,74,v,Champagnie Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,163
+0022500747,215,PT08M22.00S,2,1610612751,BKN,1629611,Mann,T. Mann,62,11,6,Made,1,53,23,76,h,Mann 6' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,164
+0022500747,219,PT08M10.00S,2,0,,217,,,0,0,0,,0,53,23,76,,Instant Replay2nd Period (3:49 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,165
+0022500747,220,PT08M09.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,166
+0022500747,218,PT08M09.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,167
+0022500747,221,PT08M09.00S,2,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Claxton FOR Mann,Substitution,,0,0,168
+0022500747,222,PT08M09.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Sharpe,Substitution,,0,0,169
+0022500747,225,PT07M48.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-6,11,1,Made,1,55,23,78,h,Claxton 1' Alley Oop Dunk (9 PTS) (Porter Jr. 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,170
+0022500747,227,PT07M29.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,-230,1,0,Made,1,55,26,81,v,Champagnie 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,3,171
+0022500747,228,PT07M14.00S,2,1610612751,BKN,1642879,Saraf,B. Saraf,-13,88,9,Made,1,57,26,83,h,Saraf 9' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,172
+0022500747,229,PT07M06.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,148,206,25,Missed,1,,,0,v,MISS Carrington 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,173
+0022500747,230,PT07M03.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,174
+0022500747,231,PT06M58.00S,2,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,175
+0022500747,234,PT06M58.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,58,26,84,h,Claxton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,176
+0022500747,235,PT06M58.00S,2,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,SUB: Demin FOR Wolf,Substitution,,0,0,177
+0022500747,236,PT06M58.00S,2,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Clowney FOR Powell,Substitution,,0,0,178
+0022500747,237,PT06M58.00S,2,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,SUB: Watkins FOR Cooper,Substitution,,0,0,179
+0022500747,238,PT06M58.00S,2,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,SUB: Riley FOR Gilbert,Substitution,,0,0,180
+0022500747,253,PT06M58.00S,2,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,SUB: Traore FOR Saraf,Substitution,,0,0,181
+0022500747,243,PT06M58.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,182
+0022500747,244,PT06M57.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,183
+0022500747,245,PT06M57.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic S.FOUL (P3.T4) (A.Smith),Foul,Shooting,1,0,184
+0022500747,247,PT06M57.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,59,26,85,h,Porter Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+0022500747,248,PT06M57.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,60,26,86,h,Porter Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+0022500747,249,PT06M42.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-22,247,25,Missed,1,,,0,v,MISS Vukcevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0022500747,250,PT06M32.00S,2,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022500747,251,PT06M30.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-233,16,0,Missed,1,,,0,h,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022500747,252,PT06M27.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,190
+0022500747,255,PT06M17.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,191
+0022500747,255,PT06M17.00S,2,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin STEAL (1 STL),,,1,0,192
+0022500747,257,PT06M10.00S,2,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,193
+0022500747,257,PT06M10.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley STEAL (1 STL),,,1,0,194
+0022500747,259,PT06M09.00S,2,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore S.FOUL (P3.T2) (A.Smith),Foul,Shooting,1,0,195
+0022500747,261,PT06M09.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,60,27,87,v,Champagnie Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,196
+0022500747,262,PT06M09.00S,2,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,SUB: Gill FOR Vukcevic,Substitution,,0,0,197
+0022500747,264,PT06M09.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,60,28,88,v,Champagnie Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+0022500747,265,PT05M54.00S,2,1610612751,BKN,1642856,Dëmin,E. Dëmin,5,44,4,Missed,1,,,0,h,MISS Demin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,199
+0022500747,265,PT05M54.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie BLOCK (1 BLK),,,1,2,200
+0022500747,267,PT05M51.00S,2,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+0022500747,268,PT05M51.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,1,0,202
+0022500747,270,PT05M51.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,60,29,89,v,Champagnie Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0022500747,271,PT05M51.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,60,30,90,v,Champagnie Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022500747,272,PT05M38.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,5,8,1,Made,1,62,30,92,h,Porter Jr. 1' Layup (11 PTS) (Claxton 1 AST),Made Shot,Layup Shot,1,2,205
+0022500747,274,PT05M24.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,121,246,27,Missed,1,,,0,v,MISS Champagnie 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0022500747,275,PT05M20.00S,2,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,207
+0022500747,276,PT05M08.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,-233,18,0,Missed,1,,,0,h,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022500747,277,PT05M04.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,209
+0022500747,278,PT04M57.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,0,210
+0022500747,280,PT04M46.00S,2,1610612764,WAS,1630264,Gill,A. Gill,9,16,2,Made,1,62,32,94,v,Gill 2' Cutting Layup Shot (3 PTS) (Carrington 2 AST),Made Shot,Cutting Layup Shot,1,2,211
+0022500747,282,PT04M39.00S,2,1610612751,BKN,1642849,Traore,N. Traore,64,2,6,Made,1,64,32,96,h,Traore 6' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,212
+0022500747,283,PT04M39.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,1,0,213
+0022500747,285,PT04M39.00S,2,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,65,32,97,h,Traore Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,214
+0022500747,286,PT04M21.00S,2,1610612764,WAS,1642364,Watkins,J. Watkins,92,20,9,Missed,1,,,0,v,MISS Watkins 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,215
+0022500747,287,PT04M21.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,216
+0022500747,288,PT04M21.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney L.B.FOUL (P1.PN) (J.Goble),Foul,Loose Ball,1,0,217
+0022500747,290,PT04M21.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,65,33,98,v,Gill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,218
+0022500747,291,PT04M21.00S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,65,34,99,v,Gill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,219
+0022500747,292,PT04M13.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,211,8,21,Made,1,67,34,101,h,Porter Jr. 21' Jump Shot (13 PTS) (Traore 3 AST),Made Shot,Jump Shot,1,2,220
+0022500747,294,PT04M03.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,87,237,25,Made,1,67,37,104,v,Carrington 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,221
+0022500747,295,PT03M47.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington S.FOUL (P1.PN) (A.Smith),Foul,Shooting,1,0,222
+0022500747,298,PT03M47.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,223
+0022500747,299,PT03M47.00S,2,0,,295,,,0,0,0,,0,67,37,104,,Instant Replay2nd Period (4:02 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,224
+0022500747,300,PT03M47.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,225
+0022500747,301,PT03M47.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,226
+0022500747,302,PT03M47.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,68,37,105,h,Claxton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+0022500747,303,PT03M23.00S,2,1610612764,WAS,1642860,Riley,W. Riley,-230,-28,0,Missed,1,,,0,v,MISS Riley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022500747,304,PT03M19.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,229
+0022500747,305,PT03M12.00S,2,1610612751,BKN,1642856,Dëmin,E. Dëmin,-10,265,27,Missed,1,,,0,h,MISS Demin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022500747,306,PT03M09.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,231
+0022500747,307,PT03M01.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,31,253,25,Missed,1,,,0,v,MISS Carrington 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,232
+0022500747,308,PT02M58.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,233
+0022500747,309,PT02M53.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,234
+0022500747,309,PT02M53.00S,2,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley STEAL (2 STL),,,1,0,235
+0022500747,314,PT02M49.00S,2,1610612764,WAS,1642860,Riley,W. Riley,25,63,7,Missed,1,,,0,v,MISS Riley 7' Running Layup,Missed Shot,Running Layup Shot,1,2,236
+0022500747,315,PT02M48.00S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,237
+0022500747,311,PT02M48.00S,2,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore L.B.FOUL (P4.PN) (A.Smith),Foul,Loose Ball,1,0,238
+0022500747,313,PT02M48.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,68,38,106,v,Champagnie Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+0022500747,316,PT02M48.00S,2,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,SUB: Saraf FOR Traore,Substitution,,0,0,240
+0022500747,318,PT02M48.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,68,39,107,v,Champagnie Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,241
+0022500747,319,PT02M30.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,16,0,2,Made,1,70,39,109,h,Porter Jr. 2' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,242
+0022500747,320,PT02M15.00S,2,1610612764,WAS,1642860,Riley,W. Riley,17,9,2,Made,1,70,41,111,v,Riley 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,243
+0022500747,321,PT02M07.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,-173,146,23,Made,1,72,41,113,h,Clowney 23' Jump Shot (5 PTS) (Saraf 4 AST),Made Shot,Jump Shot,1,2,244
+0022500747,323,PT01M56.00S,2,1610612764,WAS,1630264,Gill,A. Gill,13,4,1,Made,1,72,43,115,v,Gill 1' Layup (7 PTS) (Carrington 3 AST),Made Shot,Layup Shot,1,2,245
+0022500747,325,PT01M34.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,234,-22,24,Made,1,75,43,118,h,Clowney 24' 3PT Jump Shot (8 PTS) (Claxton 2 AST),Made Shot,Jump Shot,1,3,246
+0022500747,327,PT01M24.00S,2,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,247
+0022500747,327,PT01M24.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. STEAL (1 STL),,,1,0,248
+0022500747,329,PT01M19.00S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-9,-3,1,Made,1,77,43,120,h,Porter Jr. 1' Running Layup (17 PTS),Made Shot,Running Layup Shot,1,2,249
+0022500747,330,PT01M02.00S,2,1610612764,WAS,1642267,Carrington,B. Carrington,107,137,17,Made,1,77,45,122,v,Carrington 17' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,250
+0022500747,331,PT00M43.90S,2,1610612751,BKN,1641730,Clowney,N. Clowney,237,-14,24,Missed,1,,,0,h,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022500747,332,PT00M41.40S,2,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,252
+0022500747,333,PT00M30.90S,2,1610612764,WAS,1642267,Carrington,B. Carrington,157,120,20,Made,1,77,47,124,v,Carrington 20' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,253
+0022500747,334,PT00M07.30S,2,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,162,201,26,Made,1,80,47,127,h,Porter Jr. 26' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,254
+0022500747,335,PT00M00.80S,2,1610612764,WAS,1630264,Gill,A. Gill,107,225,25,Missed,1,,,0,v,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022500747,336,PT00M00.10S,2,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,256
+0022500747,337,PT00M00.00S,2,0,,0,,,0,0,0,,0,80,47,127,,End of 2nd Period (4:10 PM EST),period,end,1,0,257
+0022500747,345,PT12M00.00S,3,0,,0,,,0,0,0,,0,80,47,127,,Start of 3rd Period (4:26 PM EST),period,start,0,0,258
+0022500747,346,PT11M46.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-67,253,26,Made,1,80,50,130,v,Vukcevic 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,259
+0022500747,347,PT11M30.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,0,260
+0022500747,349,PT11M26.00S,3,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley P.FOUL (P3.T2) (S.Mehta),Foul,Personal,1,0,261
+0022500747,351,PT11M13.00S,3,1610612751,BKN,1642856,Dëmin,E. Dëmin,-239,-26,24,Missed,1,,,0,h,MISS Demin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022500747,351,PT11M13.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie BLOCK (2 BLK),,,1,3,263
+0022500747,353,PT11M09.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,Carrington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,264
+0022500747,354,PT11M00.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,118,133,18,Missed,1,,,0,v,MISS Vukcevic 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,265
+0022500747,355,PT10M57.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,266
+0022500747,356,PT10M54.00S,3,1610612764,WAS,1642364,Watkins,J. Watkins,-228,5,0,Missed,1,,,0,v,MISS Watkins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0022500747,357,PT10M51.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,268
+0022500747,358,PT10M44.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,161,177,24,Missed,1,,,0,h,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022500747,359,PT10M40.00S,3,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,270
+0022500747,360,PT10M31.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-29,16,3,Made,1,80,52,132,v,Vukcevic 3' Cutting Layup Shot (11 PTS) (Riley 1 AST),Made Shot,Cutting Layup Shot,1,2,271
+0022500747,362,PT10M31.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,1,0,272
+0022500747,364,PT10M31.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,80,53,133,v,Vukcevic Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,273
+0022500747,365,PT10M14.00S,3,1610612751,BKN,1642849,Traore,N. Traore,11,8,1,Made,1,82,53,135,h,Traore 1' Cutting Finger Roll Layup Shot (7 PTS) (Claxton 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,274
+0022500747,367,PT10M04.00S,3,1610612764,WAS,1642860,Riley,W. Riley,4,11,1,Missed,1,,,0,v,MISS Riley 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,275
+0022500747,367,PT10M04.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney BLOCK (1 BLK),,,1,2,276
+0022500747,369,PT10M02.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,277
+0022500747,370,PT10M02.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,17,-9,2,Made,1,82,55,137,v,Champagnie 2' Layup (19 PTS),Made Shot,Layup Shot,1,2,278
+0022500747,371,PT10M02.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,279
+0022500747,372,PT09M47.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-80,21,8,Missed,1,,,0,h,MISS Claxton 8' Hook Shot,Missed Shot,Hook Shot,1,2,280
+0022500747,373,PT09M44.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,281
+0022500747,374,PT09M25.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,37,116,12,Missed,1,,,0,v,MISS Vukcevic 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,282
+0022500747,375,PT09M25.00S,3,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,283
+0022500747,376,PT09M20.00S,3,1610612764,WAS,1642860,Riley,W. Riley,-5,38,4,Made,1,82,57,139,v,Riley 4' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,284
+0022500747,377,PT09M05.00S,3,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-87,241,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+0022500747,378,PT09M01.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,286
+0022500747,379,PT08M55.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,-100,62,12,Missed,1,,,0,v,MISS Champagnie 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,287
+0022500747,380,PT08M54.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,288
+0022500747,382,PT08M54.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,SUB: Gill FOR Vukcevic,Substitution,,0,0,289
+0022500747,384,PT08M41.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,230,47,0,Made,1,85,57,142,h,Clowney 3PT Jump Shot (11 PTS) (Traore 4 AST),Made Shot,Jump Shot,1,3,290
+0022500747,386,PT08M18.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,-10,195,20,Missed,1,,,0,v,MISS Carrington 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,291
+0022500747,387,PT08M14.00S,3,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,292
+0022500747,388,PT08M10.00S,3,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,293
+0022500747,389,PT07M56.00S,3,1610612764,WAS,1642860,Riley,W. Riley,-126,53,14,Missed,1,,,0,v,MISS Riley 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,294
+0022500747,390,PT07M54.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,295
+0022500747,391,PT07M54.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton L.B.FOUL (P1.T2) (A.Smith),Foul,Loose Ball,1,0,296
+0022500747,393,PT07M49.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,7,256,26,Made,1,85,60,145,v,Carrington 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,297
+0022500747,394,PT07M49.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney FLAGRANT.FOUL.TYPE1 (P3.T3) (S.Mehta),Foul,Flagrant Type 1,1,0,298
+0022500747,396,PT07M49.00S,3,0,,394,,,0,0,0,,0,85,60,145,,Instant Replay3rd Period (4:35 PM EST),Instant Replay,Overturn Ruling,0,0,299
+0022500747,397,PT07M49.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,85,61,146,v,Carrington Free Throw Flagrant 1 of 1 (11 PTS),Free Throw,Free Throw Flagrant 1 of 1,1,0,300
+0022500747,398,PT07M40.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,5,20,2,Made,1,85,63,148,v,Champagnie 2' Cutting Dunk Shot (21 PTS) (Gill 1 AST),Made Shot,Cutting Dunk Shot,1,2,301
+0022500747,400,PT07M22.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,-228,21,0,Missed,1,,,0,h,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+0022500747,401,PT07M19.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,303
+0022500747,402,PT07M17.00S,3,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-85,236,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+0022500747,403,PT07M13.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,305
+0022500747,404,PT07M07.00S,3,1610612764,WAS,1630264,Gill,A. Gill,2,20,2,Made,1,85,65,150,v,Gill 2' Running Layup (9 PTS) (Carrington 4 AST),Made Shot,Running Layup Shot,1,2,306
+0022500747,407,PT07M03.00S,3,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,307
+0022500747,408,PT07M03.00S,3,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,SUB: Wolf FOR Demin,Substitution,,0,0,308
+0022500747,409,PT07M03.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,SUB: Sharpe FOR Clowney,Substitution,,0,0,309
+0022500747,410,PT07M03.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Powell FOR Claxton,Substitution,,0,0,310
+0022500747,411,PT07M03.00S,3,1610612764,WAS,1642267,Carrington,B. Carrington,0,0,0,,0,,,0,v,SUB: Cooper FOR Carrington,Substitution,,0,0,311
+0022500747,412,PT07M03.00S,3,1610612764,WAS,1630551,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Gilbert FOR Champagnie,Substitution,,0,0,312
+0022500747,418,PT06M44.00S,3,1610612764,WAS,1642860,Riley,W. Riley,87,238,25,Made,1,85,68,153,v,Riley 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,313
+0022500747,419,PT06M23.00S,3,1610612751,BKN,1642849,Traore,N. Traore,230,32,0,Made,1,88,68,156,h,Traore 3PT Jump Shot (10 PTS) (Wolf 2 AST),Made Shot,Jump Shot,1,3,314
+0022500747,425,PT06M06.00S,3,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Saraf FOR Porter Jr.,Substitution,,0,0,315
+0022500747,426,PT06M06.00S,3,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,SUB: Mann FOR Traore,Substitution,,0,0,316
+0022500747,429,PT05M55.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,317
+0022500747,430,PT05M45.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe OFF.Foul (P2) (S.Mehta),Foul,Offensive,1,0,318
+0022500747,432,PT05M45.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,319
+0022500747,433,PT05M34.00S,3,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,320
+0022500747,434,PT05M21.00S,3,1610612764,WAS,1630264,Gill,A. Gill,-69,258,27,Missed,1,,,0,v,MISS Gill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022500747,435,PT05M18.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,322
+0022500747,436,PT05M10.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,-10,25,3,Made,1,90,68,158,h,Sharpe 3' Cutting Layup Shot (13 PTS) (Wolf 3 AST),Made Shot,Cutting Layup Shot,1,2,323
+0022500747,439,PT04M59.00S,3,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,324
+0022500747,440,PT04M59.00S,3,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,SUB: Vukcevic FOR Gill,Substitution,,0,0,325
+0022500747,442,PT04M47.00S,3,1610612764,WAS,1630536,Cooper,S. Cooper,7,-4,1,Made,1,90,70,160,v,Cooper 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,326
+0022500747,443,PT04M32.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Charge Foul (P3) (J.Goble),Foul,Offensive Charge,1,0,327
+0022500747,445,PT04M32.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,328
+0022500747,446,PT04M18.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-157,202,26,Missed,1,,,0,v,MISS Vukcevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022500747,447,PT04M14.00S,3,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,330
+0022500747,448,PT04M00.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,17,17,2,Missed,1,,,0,h,MISS Sharpe 2' Layup,Missed Shot,Layup Shot,1,2,331
+0022500747,448,PT04M00.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert BLOCK (2 BLK),,,1,2,332
+0022500747,450,PT04M00.00S,3,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,1,0,333
+0022500747,452,PT03M51.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,5,3,1,Made,1,92,70,162,h,Sharpe 1' Layup (15 PTS) (Wolf 4 AST),Made Shot,Layup Shot,1,2,334
+0022500747,454,PT03M35.00S,3,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf S.FOUL (P1.T4) (S.Mehta),Foul,Shooting,1,0,335
+0022500747,456,PT03M35.00S,3,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,92,71,163,v,Watkins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+0022500747,457,PT03M35.00S,3,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,92,72,164,v,Watkins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+0022500747,458,PT03M26.00S,3,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0,338
+0022500747,460,PT03M14.00S,3,1610612751,BKN,1642962,Powell,D. Powell,-230,5,0,Missed,1,,,0,h,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022500747,461,PT03M10.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,340
+0022500747,462,PT03M07.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,341
+0022500747,462,PT03M07.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic STEAL (1 STL),,,1,0,342
+0022500747,464,PT03M00.00S,3,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,102,232,25,Missed,1,,,0,v,MISS Vukcevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022500747,465,PT02M57.00S,3,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,344
+0022500747,466,PT02M43.00S,3,1610612751,BKN,1642874,Wolf,D. Wolf,-10,11,1,Made,1,94,72,166,h,Wolf 1' Driving Reverse Layup (9 PTS) (Sharpe 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,345
+0022500747,468,PT02M31.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,-11,33,3,Missed,1,,,0,v,MISS Gilbert 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,346
+0022500747,469,PT02M29.00S,3,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,347
+0022500747,470,PT02M25.00S,3,1610612751,BKN,1629611,Mann,T. Mann,150,192,24,Missed,1,,,0,h,MISS Mann 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,348
+0022500747,471,PT02M21.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+0022500747,472,PT02M18.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P4.PN) (J.Goble),Foul,Personal,1,0,350
+0022500747,474,PT02M18.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,94,73,167,v,Gilbert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+0022500747,475,PT02M18.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,94,74,168,v,Gilbert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,352
+0022500747,476,PT02M06.00S,3,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,Saraf Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,353
+0022500747,477,PT01M52.00S,3,1610612764,WAS,1642364,Watkins,J. Watkins,-2,10,1,Made,1,94,76,170,v,Watkins 1' Alley Oop Dunk (6 PTS) (Vukcevic 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,354
+0022500747,479,PT01M35.00S,3,1610612751,BKN,1642874,Wolf,D. Wolf,230,29,0,Made,1,97,76,173,h,Wolf 3PT Step Back Jump Shot (12 PTS) (Mann 4 AST),Made Shot,Step Back Jump shot,1,3,355
+0022500747,481,PT01M19.00S,3,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert Lost Ball Turnover (P4.T14),Turnover,Lost Ball,1,0,356
+0022500747,481,PT01M19.00S,3,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,357
+0022500747,483,PT01M15.00S,3,1610612751,BKN,1642879,Saraf,B. Saraf,10,17,2,Made,1,99,76,175,h,Saraf 2' Running Dunk (7 PTS) (Mann 5 AST),Made Shot,Running Dunk Shot,1,2,358
+0022500747,485,PT00M55.50S,3,1610612764,WAS,1630536,Cooper,S. Cooper,-65,244,25,Made,1,99,79,178,v,Cooper 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,359
+0022500747,486,PT00M35.40S,3,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins P.FOUL (P2.T4) (A.Smith),Foul,Personal,1,0,360
+0022500747,488,PT00M28.70S,3,1610612751,BKN,1642874,Wolf,D. Wolf,91,197,22,Made,1,101,79,180,h,Wolf 22' Step Back Jump Shot (14 PTS) (Sharpe 4 AST),Made Shot,Step Back Jump shot,1,2,361
+0022500747,492,PT00M12.90S,3,1610612764,WAS,1642364,Watkins,J. Watkins,233,-11,0,Made,1,101,82,183,v,Watkins 3PT Jump Shot (9 PTS) (Gilbert 1 AST),Made Shot,Jump Shot,1,3,362
+0022500747,494,PT00M00.10S,3,1610612751,BKN,1642879,Saraf,B. Saraf,-28,46,5,Missed,1,,,0,h,MISS Saraf 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,363
+0022500747,494,PT00M00.10S,3,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins BLOCK (1 BLK),,,1,2,364
+0022500747,496,PT00M00.10S,3,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,Wolf REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,365
+0022500747,497,PT00M00.00S,3,0,,0,,,0,0,0,,0,101,82,183,,End of 3rd Period (4:53 PM EST),period,end,1,0,366
+0022500747,500,PT12M00.00S,4,0,,0,,,0,0,0,,0,101,82,183,,Start of 4th Period (4:56 PM EST),period,start,0,0,367
+0022500747,501,PT11M38.00S,4,1610612751,BKN,1642962,Powell,D. Powell,142,193,24,Missed,1,,,0,h,MISS Powell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+0022500747,502,PT11M38.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Unknown,1,0,369
+0022500747,503,PT11M38.00S,4,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann L.B.FOUL (P1.T1) (A.Smith),Foul,Loose Ball,1,0,370
+0022500747,505,PT11M19.00S,4,1610612764,WAS,1642860,Riley,W. Riley,-61,65,9,Made,1,101,84,185,v,Riley 9' Driving Hook Shot (13 PTS),Made Shot,Driving Hook Shot,1,2,371
+0022500747,506,PT11M06.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,11,4,1,Made,1,103,84,187,h,Sharpe 1' Alley Oop Dunk (17 PTS) (Wolf 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,372
+0022500747,512,PT10M42.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,83,59,10,Missed,1,,,0,v,MISS Vukcevic 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,373
+0022500747,513,PT10M38.00S,4,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,374
+0022500747,514,PT10M34.00S,4,1610612751,BKN,1642874,Wolf,D. Wolf,-131,201,24,Missed,1,,,0,h,MISS Wolf 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,375
+0022500747,515,PT10M29.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,376
+0022500747,516,PT10M29.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Made,1,105,84,189,h,Sharpe Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,377
+0022500747,517,PT10M19.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,-9,137,14,Made,1,105,86,191,v,Vukcevic 14' Driving Floating Jump Shot (14 PTS) (Cooper 1 AST),Made Shot,Driving Floating Jump Shot,1,2,378
+0022500747,519,PT09M53.00S,4,1610612751,BKN,1642874,Wolf,D. Wolf,5,48,5,Missed,1,,,0,h,MISS Wolf 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,379
+0022500747,520,PT09M51.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,Vukcevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,380
+0022500747,521,PT09M46.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,-205,130,24,Missed,1,,,0,v,MISS Watkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022500747,522,PT09M43.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,382
+0022500747,523,PT09M31.00S,4,1610612751,BKN,1642879,Saraf,B. Saraf,9,15,2,Made,1,107,86,193,h,Saraf 2' Driving Layup (9 PTS) (Powell 2 AST),Made Shot,Driving Layup Shot,1,2,383
+0022500747,525,PT09M31.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins S.FOUL (P3.T1) (J.Goble),Foul,Shooting,1,0,384
+0022500747,527,PT09M31.00S,4,1610612764,WAS,1641774,Vukcevic,T. Vukcevic,0,0,0,,0,,,0,v,SUB: Gill FOR Vukcevic,Substitution,,0,0,385
+0022500747,529,PT09M31.00S,4,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,108,86,194,h,Saraf Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,386
+0022500747,530,PT09M22.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,11,15,2,Made,1,108,88,196,v,Cooper 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,387
+0022500747,531,PT09M11.00S,4,1610612751,BKN,1642879,Saraf,B. Saraf,103,222,24,Missed,1,,,0,h,MISS Saraf 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022500747,532,PT09M07.00S,4,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,389
+0022500747,533,PT09M05.00S,4,1610612751,BKN,1642874,Wolf,D. Wolf,88,247,26,Missed,1,,,0,h,MISS Wolf 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022500747,534,PT09M00.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,391
+0022500747,535,PT08M43.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,-29,268,27,Missed,1,,,0,v,MISS Watkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022500747,536,PT08M39.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,393
+0022500747,537,PT08M31.00S,4,1610612751,BKN,1642962,Powell,D. Powell,-11,11,2,Made,1,110,88,198,h,Powell 2' Driving Finger Roll Layup (5 PTS) (Wolf 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,394
+0022500747,539,PT08M19.00S,4,1610612764,WAS,1642860,Riley,W. Riley,6,6,1,Made,1,110,90,200,v,Riley 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1,2,395
+0022500747,540,PT08M09.00S,4,1610612751,BKN,1642874,Wolf,D. Wolf,56,24,6,Made,1,112,90,202,h,Wolf 6' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,396
+0022500747,541,PT07M55.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,397
+0022500747,542,PT07M55.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,398
+0022500747,543,PT07M55.00S,4,1610612751,BKN,1642874,Wolf,D. Wolf,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Wolf,Substitution,,0,0,399
+0022500747,544,PT07M55.00S,4,1610612751,BKN,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Traore FOR Mann,Substitution,,0,0,400
+0022500747,545,PT07M55.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,h,SUB: Claxton FOR Sharpe,Substitution,,0,0,401
+0022500747,546,PT07M55.00S,4,1610612751,BKN,1642879,Saraf,B. Saraf,0,0,0,,0,,,0,h,SUB: Clowney FOR Saraf,Substitution,,0,0,402
+0022500747,551,PT07M48.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper P.FOUL (P2.T2) (A.Smith),Foul,Personal,1,0,403
+0022500747,553,PT07M39.00S,4,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,0,404
+0022500747,555,PT07M29.00S,4,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-55,240,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,405
+0022500747,556,PT07M26.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,406
+0022500747,557,PT07M23.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,11,8,1,Made,1,112,92,204,v,Watkins 1' Running Layup (11 PTS) (Cooper 2 AST),Made Shot,Running Layup Shot,1,2,407
+0022500747,560,PT07M05.00S,4,1610612751,BKN,1642962,Powell,D. Powell,67,66,9,Missed,1,,,0,h,MISS Powell 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+0022500747,560,PT07M05.00S,4,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert BLOCK (3 BLK),,,1,2,409
+0022500747,562,PT07M03.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,410
+0022500747,563,PT07M01.00S,4,1610612764,WAS,1642860,Riley,W. Riley,143,200,25,Made,1,112,95,207,v,Riley 25' 3PT Running Jump Shot (18 PTS) (Watkins 1 AST),Made Shot,Running Jump Shot,1,3,411
+0022500747,565,PT06M38.00S,4,1610612751,BKN,1642849,Traore,N. Traore,-123,215,25,Made,1,115,95,210,h,Traore 25' 3PT Jump Shot (13 PTS) (Clowney 2 AST),Made Shot,Jump Shot,1,3,412
+0022500747,567,PT06M16.00S,4,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T2) (J.Goble),Foul,Shooting,1,0,413
+0022500747,569,PT06M16.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,115,96,211,v,Cooper Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022500747,570,PT06M16.00S,4,1610612751,BKN,1642962,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Demin FOR Powell,Substitution,,0,0,415
+0022500747,572,PT06M16.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,115,97,212,v,Cooper Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+0022500747,573,PT06M05.00S,4,1610612751,BKN,1642849,Traore,N. Traore,5,1,1,Made,1,117,97,214,h,Traore 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,417
+0022500747,574,PT05M46.00S,4,1610612764,WAS,1642860,Riley,W. Riley,-89,249,26,Made,1,117,100,217,v,Riley 26' 3PT Jump Shot (21 PTS) (Cooper 3 AST),Made Shot,Jump Shot,1,3,418
+0022500747,576,PT05M46.00S,4,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P3.T3) (A.Smith),Foul,Shooting,1,0,419
+0022500747,578,PT05M46.00S,4,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,117,101,218,v,Riley Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,420
+0022500747,579,PT05M23.00S,4,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-10,37,4,Missed,1,,,0,h,MISS Porter Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,421
+0022500747,579,PT05M23.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins BLOCK (2 BLK),,,1,2,422
+0022500747,581,PT05M20.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,423
+0022500747,582,PT05M14.00S,4,1610612764,WAS,1642860,Riley,W. Riley,40,54,7,Made,1,117,103,220,v,Riley 7' Floating Jump Shot (24 PTS),Made Shot,Floating Jump shot,1,2,424
+0022500747,583,PT04M57.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins S.FOUL (P4.T4) (S.Mehta),Foul,Shooting,1,0,425
+0022500747,585,PT04M57.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,MISS Clowney Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,426
+0022500747,586,PT04M57.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,427
+0022500747,587,PT04M57.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,118,103,221,h,Clowney Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022500747,588,PT04M46.00S,4,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore S.FOUL (P5.T4) (S.Mehta),Foul,Shooting,1,0,429
+0022500747,590,PT04M46.00S,4,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,MISS Riley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,430
+0022500747,591,PT04M46.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Rebound,Rebound,Normal Rebound,0,0,431
+0022500747,592,PT04M46.00S,4,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,118,104,222,v,Riley Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022500747,593,PT04M36.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0,433
+0022500747,595,PT04M36.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,119,104,223,h,Clowney Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,434
+0022500747,596,PT04M36.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,120,104,224,h,Clowney Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,435
+0022500747,597,PT04M18.00S,4,1610612764,WAS,1642860,Riley,W. Riley,42,21,5,Missed,1,,,0,v,MISS Riley 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+0022500747,598,PT04M17.00S,4,1610612764,WAS,1630264,Gill,A. Gill,0,0,0,,0,,,0,v,Gill REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,437
+0022500747,599,PT04M12.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins OFF.Foul (P5) (A.Smith),Foul,Offensive,1,0,438
+0022500747,601,PT04M12.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,0,0,0,,0,,,0,v,Watkins Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,1,0,439
+0022500747,602,PT04M00.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,-18,247,25,Made,1,123,104,227,h,Clowney 25' 3PT Jump Shot (17 PTS) (Claxton 4 AST),Made Shot,Jump Shot,1,3,440
+0022500747,605,PT03M33.00S,4,1610612764,WAS,1642364,Watkins,J. Watkins,2,2,0,Made,1,123,106,229,v,Watkins Driving Dunk (13 PTS) (Gilbert 2 AST),Made Shot,Driving Dunk Shot,1,2,441
+0022500747,607,PT03M16.00S,4,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-102,231,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022500747,608,PT03M13.00S,4,1610612764,WAS,1642933,Gilbert,K. Gilbert,0,0,0,,0,,,0,v,Gilbert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,443
+0022500747,609,PT03M06.00S,4,1610612764,WAS,1642860,Riley,W. Riley,-172,189,26,Missed,1,,,0,v,MISS Riley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022500747,610,PT03M03.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,Clowney REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,445
+0022500747,611,PT02M45.00S,4,1610612751,BKN,1642849,Traore,N. Traore,107,256,28,Missed,1,,,0,h,MISS Traore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,446
+0022500747,612,PT02M40.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,447
+0022500747,613,PT02M35.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,7,10,1,Made,1,123,108,231,v,Cooper 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,448
+0022500747,614,PT02M18.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,449
+0022500747,614,PT02M18.00S,4,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley STEAL (3 STL),,,1,0,450
+0022500747,616,PT02M10.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,232,36,0,Made,1,123,111,234,v,Cooper 3PT Jump Shot (14 PTS) (Riley 2 AST),Made Shot,Jump Shot,1,3,451
+0022500747,618,PT01M49.00S,4,1610612751,BKN,1642856,Dëmin,E. Dëmin,-230,-33,0,Missed,1,,,0,h,MISS Demin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022500747,619,PT01M46.00S,4,1610612764,WAS,1630536,Cooper,S. Cooper,0,0,0,,0,,,0,v,Cooper REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,453
+0022500747,620,PT01M25.00S,4,1610612764,WAS,1630264,Gill,A. Gill,-21,17,3,Missed,1,,,0,v,MISS Gill 3' Layup,Missed Shot,Layup Shot,1,2,454
+0022500747,621,PT01M22.00S,4,1610612751,BKN,1642849,Traore,N. Traore,0,0,0,,0,,,0,h,Traore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,455
+0022500747,622,PT01M03.00S,4,1610612764,WAS,1642860,Riley,W. Riley,0,0,0,,0,,,0,v,Riley S.FOUL (P4.PN) (S.Mehta),Foul,Shooting,1,0,456
+0022500747,624,PT01M03.00S,4,0,,1610612764,,,0,0,0,,0,,,0,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,457
+0022500747,625,PT01M03.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,,,0,h,MISS Clowney Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,458
+0022500747,626,PT01M03.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,0,0,459
+0022500747,627,PT01M03.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,124,111,235,h,Clowney Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022500747,628,PT00M47.90S,4,1610612764,WAS,1630536,Cooper,S. Cooper,-1,65,7,Missed,1,,,0,v,MISS Cooper 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,461
+0022500747,628,PT00M47.90S,4,1610612751,BKN,1642856,Dëmin,E. Dëmin,0,0,0,,0,,,0,h,Demin BLOCK (1 BLK),,,1,2,462
+0022500747,630,PT00M44.90S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,463
+0022500747,631,PT00M24.70S,4,1610612751,BKN,1629008,Porter Jr.,M. Porter Jr.,-137,205,25,Made,1,127,111,238,h,Porter Jr. 25' 3PT Jump Shot (23 PTS) (Demin 2 AST),Made Shot,Jump Shot,1,3,464
+0022500747,633,PT00M08.00S,4,1610612764,WAS,1642860,Riley,W. Riley,6,6,1,Made,1,127,113,240,v,Riley 1' Cutting Dunk Shot (27 PTS) (Gill 2 AST),Made Shot,Cutting Dunk Shot,1,2,465
+0022500747,635,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,113,240,,End of 4th Period (5:22 PM EST),period,end,1,0,466

@@ -1,0 +1,496 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300908,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:11 PM EST),period,start,0,0,1
+0022300908,4,PT12M00.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Jump Ball Sabonis vs. Collins: Tip to Barnes,Jump Ball,,1,0,2
+0022300908,7,PT11M38.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,25,18,3,Missed,1,,,0,h,MISS Huerter 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,3
+0022300908,8,PT11M36.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0022300908,11,PT11M36.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter Traveling Turnover (P1.T1),Turnover,Traveling,1,0,5
+0022300908,12,PT11M16.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,-21,261,26,Made,1,0,3,3,v,Collins 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,6
+0022300908,14,PT11M04.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,173,211,27,Missed,1,,,0,h,MISS Barnes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300908,15,PT11M04.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,8
+0022300908,16,PT11M04.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins L.B.FOUL (P1.T1) (D.Richardson),Foul,Loose Ball,1,0,9
+0022300908,18,PT10M55.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-89,104,14,Missed,1,,,0,h,MISS Fox 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,10
+0022300908,19,PT10M51.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300908,20,PT10M30.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,6,143,14,Missed,1,,,0,v,MISS Collins 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,12
+0022300908,21,PT10M26.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,13
+0022300908,22,PT10M24.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,14
+0022300908,24,PT10M24.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,1,3,4,h,Barnes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,15
+0022300908,25,PT10M24.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Barlow FOR Collins,Substitution,,0,0,16
+0022300908,27,PT10M24.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,2,3,5,h,Barnes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,17
+0022300908,28,PT10M13.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,-120,14,12,Made,1,2,5,7,v,Barlow 12' Jump Shot (2 PTS) (Vassell 1 AST),Made Shot,Jump Shot,1,2,18
+0022300908,30,PT10M05.00S,1,1610612758,SAC,1628368,Fox,D. Fox,42,123,13,Missed,1,,,0,h,MISS Fox 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,19
+0022300908,31,PT10M02.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+0022300908,32,PT10M00.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,38,62,7,Made,1,4,5,9,h,Barnes 7' Driving Floating Bank Jump Shot (4 PTS) (Huerter 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,21
+0022300908,34,PT09M49.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,201,189,28,Missed,1,,,0,v,MISS Champagnie 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+0022300908,35,PT09M45.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0022300908,36,PT09M36.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-42,46,6,Made,1,6,5,11,h,Sabonis 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,24
+0022300908,37,PT09M21.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,126,87,15,Missed,1,,,0,v,MISS Vassell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,25
+0022300908,38,PT09M19.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+0022300908,39,PT09M06.00S,1,1610612758,SAC,1631099,Murray,K. Murray,-142,237,28,Missed,1,,,0,h,MISS Murray 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,27
+0022300908,40,PT09M03.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+0022300908,41,PT08M52.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,29
+0022300908,43,PT08M52.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,6,6,12,v,Champagnie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,30
+0022300908,44,PT08M52.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,6,7,13,v,Champagnie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,31
+0022300908,45,PT08M29.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,-241,69,25,Missed,1,,,0,h,MISS Huerter 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,32
+0022300908,46,PT08M26.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022300908,47,PT08M14.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,21,59,6,Made,1,6,9,15,v,Vassell 6' Driving Dunk (2 PTS) (Champagnie 1 AST),Made Shot,Driving Dunk Shot,1,2,34
+0022300908,49,PT08M13.00S,1,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,35
+0022300908,50,PT07M57.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-39,48,6,Made,1,8,9,17,h,Sabonis 6' Layup (4 PTS) (Barnes 1 AST),Made Shot,Layup Shot,1,2,36
+0022300908,53,PT07M42.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-125,32,13,Missed,1,,,0,v,MISS Vassell 13' Jump Shot,Missed Shot,Jump Shot,1,2,37
+0022300908,54,PT07M38.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,38
+0022300908,55,PT07M38.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,39
+0022300908,57,PT07M38.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,8,10,18,v,Champagnie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,40
+0022300908,58,PT07M38.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,8,11,19,v,Champagnie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+0022300908,59,PT07M27.00S,1,1610612758,SAC,1631099,Murray,K. Murray,234,32,24,Made,1,11,11,22,h,Murray 24' 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,1,3,42
+0022300908,61,PT07M16.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,43
+0022300908,61,PT07M16.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (1 STL),,,1,0,44
+0022300908,63,PT07M11.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis OFF.Foul (P1) (K.Lane),Foul,Offensive,1,0,45
+0022300908,65,PT07M11.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,46
+0022300908,66,PT06M58.00S,1,1610612759,SAS,1630200,Jones,T. Jones,25,40,5,Made,1,11,13,24,v,Jones 5' Driving Reverse Layup (2 PTS) (Vassell 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,47
+0022300908,68,PT06M46.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,-6,38,4,Made,1,13,13,26,h,Barnes 4' Driving Dunk (6 PTS) (Sabonis 1 AST),Made Shot,Driving Dunk Shot,1,2,48
+0022300908,70,PT06M34.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,7,131,13,Made,1,13,15,28,v,Barlow 13' Floating Jump Shot (4 PTS) (Jones 2 AST),Made Shot,Floating Jump shot,1,2,49
+0022300908,72,PT06M23.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,240,47,24,Missed,1,,,0,h,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0022300908,73,PT06M19.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+0022300908,74,PT06M15.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,33,69,8,Made,1,13,17,30,v,Vassell 8' Driving Layup (4 PTS) (Jones 3 AST),Made Shot,Driving Layup Shot,1,2,52
+0022300908,76,PT06M15.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,1,0,53
+0022300908,78,PT06M15.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Mitchell FOR Fox,Substitution,,0,0,54
+0022300908,79,PT06M15.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Johnson FOR Champagnie,Substitution,,0,0,55
+0022300908,82,PT06M15.00S,1,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Monk FOR Huerter,Substitution,,0,0,56
+0022300908,84,PT06M15.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,13,18,31,v,Vassell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,57
+0022300908,85,PT05M59.00S,1,1610612758,SAC,1628370,Monk,M. Monk,7,300,30,Missed,1,,,0,h,MISS Monk 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022300908,86,PT05M56.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022300908,87,PT05M43.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-23,261,26,Missed,1,,,0,v,MISS Vassell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,60
+0022300908,88,PT05M40.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+0022300908,89,PT05M38.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-15,59,6,Made,1,15,18,33,h,Monk 6' Running Finger Roll Layup (2 PTS) (Sabonis 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,62
+0022300908,91,PT05M28.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones Double Dribble Turnover (P1.T2),Turnover,Double Dribble,1,0,63
+0022300908,92,PT05M12.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,64
+0022300908,92,PT05M12.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell STEAL (1 STL),,,1,0,65
+0022300908,94,PT05M05.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,145,221,26,Made,1,15,21,36,v,Johnson 26' 3PT Running Jump Shot (3 PTS) (Vassell 3 AST),Made Shot,Running Jump Shot,1,3,66
+0022300908,96,PT04M57.00S,1,1610612758,SAC,1630558,Mitchell,D. Mitchell,23,15,3,Made,1,17,21,38,h,Mitchell 3' Layup (2 PTS) (Sabonis 3 AST),Made Shot,Layup Shot,1,2,67
+0022300908,98,PT04M57.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell Violation:Defensive Goaltending (D.Richardson),Violation,Defensive Goaltending,1,0,68
+0022300908,99,PT04M46.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,69
+0022300908,99,PT04M46.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk STEAL (1 STL),,,1,0,70
+0022300908,101,PT04M37.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,-18,71,7,Made,1,19,21,40,h,Sabonis 7' Cutting Dunk Shot (6 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,1,2,71
+0022300908,103,PT04M37.00S,1,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,72
+0022300908,104,PT04M37.00S,1,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Lyles FOR Barnes,Substitution,,0,0,73
+0022300908,105,PT04M37.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,SUB: Branham FOR Jones,Substitution,,0,0,74
+0022300908,108,PT04M14.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,248,67,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300908,109,PT04M12.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,76
+0022300908,110,PT04M08.00S,1,1610612758,SAC,1630558,Mitchell,D. Mitchell,-37,13,4,Made,1,21,21,42,h,Mitchell 4' Running Layup (4 PTS) (Lyles 1 AST),Made Shot,Running Layup Shot,1,2,77
+0022300908,112,PT03M55.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,-70,53,9,Missed,1,,,0,v,MISS Barlow 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,78
+0022300908,113,PT03M53.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,79
+0022300908,114,PT03M52.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow P.FOUL (P1.T3) (J.Williams),Foul,Personal,1,0,80
+0022300908,116,PT03M52.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,SUB: Osman FOR Sochan,Substitution,,0,0,81
+0022300908,118,PT03M39.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-26,170,17,Made,1,23,21,44,h,Monk 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,82
+0022300908,119,PT03M19.00S,1,1610612759,SAS,1631103,Branham,M. Branham,32,57,7,Missed,1,,,0,v,MISS Branham 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+0022300908,120,PT03M17.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,84
+0022300908,121,PT03M12.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,85
+0022300908,121,PT03M12.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,86
+0022300908,123,PT03M01.00S,1,1610612759,SAS,1631103,Branham,M. Branham,-74,266,28,Made,1,23,24,47,v,Branham 28' 3PT Jump Shot (3 PTS) (Vassell 4 AST),Made Shot,Jump Shot,1,3,87
+0022300908,125,PT02M47.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow P.FOUL (P2.T4) (K.Lane),Foul,Personal,1,0,88
+0022300908,127,PT02M47.00S,1,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Fox FOR Sabonis,Substitution,,0,0,89
+0022300908,128,PT02M47.00S,1,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,SUB: Len FOR Murray,Substitution,,0,0,90
+0022300908,129,PT02M47.00S,1,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Ellis FOR Mitchell,Substitution,,0,0,91
+0022300908,133,PT02M40.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-159,235,28,Made,1,26,24,50,h,Monk 28' 3PT Jump Shot (7 PTS) (Len 1 AST),Made Shot,Jump Shot,1,3,92
+0022300908,135,PT02M30.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,241,67,25,Made,1,26,27,53,v,Vassell 25' 3PT Jump Shot (8 PTS) (Branham 1 AST),Made Shot,Jump Shot,1,3,93
+0022300908,137,PT02M19.00S,1,1610612758,SAC,1628370,Monk,M. Monk,-129,157,20,Missed,1,,,0,h,MISS Monk 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,94
+0022300908,138,PT02M17.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300908,139,PT02M00.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,67,35,8,Made,1,26,29,55,v,Johnson 8' Driving Floating Bank Jump Shot (5 PTS) (Vassell 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,96
+0022300908,141,PT01M48.00S,1,1610612758,SAC,1626168,Lyles,T. Lyles,23,26,3,Made,1,28,29,57,h,Lyles 3' Layup (2 PTS) (Fox 2 AST),Made Shot,Layup Shot,1,2,97
+0022300908,142,PT01M34.00S,1,1610612759,SAS,1631103,Branham,M. Branham,7,161,16,Missed,1,,,0,v,MISS Branham 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,98
+0022300908,143,PT01M32.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,99
+0022300908,144,PT01M23.00S,1,1610612758,SAC,1628370,Monk,M. Monk,48,64,8,Missed,1,,,0,h,MISS Monk 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,100
+0022300908,145,PT01M21.00S,1,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300908,146,PT01M08.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-49,73,9,Missed,1,,,0,v,MISS Vassell 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,102
+0022300908,147,PT01M06.00S,1,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300908,148,PT01M06.00S,1,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0,104
+0022300908,150,PT01M06.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,29,29,58,h,Monk Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,105
+0022300908,151,PT01M06.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,SUB: Mamukelashvili FOR Vassell,Substitution,,0,0,106
+0022300908,152,PT01M06.00S,1,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Wesley FOR Barlow,Substitution,,0,0,107
+0022300908,155,PT01M06.00S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,30,29,59,h,Monk Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,108
+0022300908,156,PT00M52.20S,1,1610612759,SAS,1626224,Osman,C. Osman,-5,72,7,Made,1,30,31,61,v,Osman 7' Jump Shot (2 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,2,109
+0022300908,158,PT00M35.50S,1,1610612758,SAC,1628370,Monk,M. Monk,-1,273,27,Missed,1,,,0,h,MISS Monk 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022300908,159,PT00M33.00S,1,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0022300908,160,PT00M30.20S,1,1610612758,SAC,1628368,Fox,D. Fox,206,162,26,Missed,1,,,0,h,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022300908,161,PT00M27.70S,1,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0022300908,162,PT00M12.10S,1,1610612759,SAS,1629640,Johnson,K. Johnson,141,229,27,Missed,1,,,0,v,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022300908,163,PT00M09.40S,1,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,115
+0022300908,164,PT00M01.30S,1,1610612758,SAC,1628370,Monk,M. Monk,-124,130,18,Missed,1,,,0,h,MISS Monk 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,116
+0022300908,165,PT00M01.30S,1,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,v,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300908,166,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,31,61,,End of 1st Period (10:36 PM EST),period,end,1,0,118
+0022300908,168,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,31,61,,Start of 2nd Period (10:39 PM EST),period,start,0,0,119
+0022300908,169,PT11M39.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,120
+0022300908,169,PT11M39.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox STEAL (1 STL),,,1,0,121
+0022300908,171,PT11M23.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,105,242,26,Made,1,33,31,64,h,Lyles 26' 3PT Fadeaway Jumper (5 PTS) (Monk 2 AST),Made Shot,Fadeaway Jump Shot,1,3,122
+0022300908,173,PT11M02.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-5,271,27,Missed,1,,,0,v,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300908,174,PT10M58.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,124
+0022300908,175,PT10M53.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-22,62,7,Made,1,35,31,66,h,Fox 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,125
+0022300908,176,PT10M40.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,-175,195,26,Missed,1,,,0,v,MISS Mamukelashvili 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022300908,177,PT10M40.00S,2,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300908,178,PT10M31.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-85,144,17,Made,1,37,31,68,h,Fox 17' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,128
+0022300908,179,PT10M31.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,129
+0022300908,181,PT10M31.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,38,31,69,h,Fox Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,130
+0022300908,182,PT10M10.00S,2,1610612759,SAS,1626224,Osman,C. Osman,153,231,28,Missed,1,,,0,v,MISS Osman 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022300908,183,PT10M08.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,132
+0022300908,184,PT10M06.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,93,252,27,Missed,1,,,0,h,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300908,185,PT10M04.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,134
+0022300908,186,PT10M02.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-218,154,27,Missed,1,,,0,h,MISS Fox 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300908,187,PT10M00.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,136
+0022300908,188,PT10M00.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,Missed,1,,,0,h,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,137
+0022300908,189,PT09M59.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,v,Mamukelashvili REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+0022300908,190,PT09M50.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,139
+0022300908,190,PT09M50.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (1 STL),,,1,0,140
+0022300908,192,PT09M49.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman P.FOUL (P2.T2) (K.Lane),Foul,Personal,1,0,141
+0022300908,194,PT09M49.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Champagnie FOR Osman,Substitution,,0,0,142
+0022300908,196,PT09M36.00S,2,1610612758,SAC,1628368,Fox,D. Fox,170,200,26,Made,1,41,31,72,h,Fox 26' 3PT Jump Shot (8 PTS) (Monk 3 AST),Made Shot,Jump Shot,1,3,143
+0022300908,198,PT09M24.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,121,12,Missed,1,,,0,v,MISS Champagnie 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,144
+0022300908,198,PT09M24.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk BLOCK (1 BLK),,,1,2,145
+0022300908,200,PT09M20.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,v,Mamukelashvili REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,146
+0022300908,201,PT09M18.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-100,243,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022300908,202,PT09M14.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,148
+0022300908,203,PT09M07.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-110,142,18,Missed,1,,,0,h,MISS Fox 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,149
+0022300908,204,PT09M05.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,150
+0022300908,205,PT08M53.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,7,75,8,Made,1,41,33,74,v,Wesley 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,151
+0022300908,206,PT08M42.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,-197,193,28,Made,1,44,33,77,h,Ellis 28' 3PT Jump Shot (3 PTS) (Len 2 AST),Made Shot,Jump Shot,1,3,152
+0022300908,208,PT08M42.00S,2,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,153
+0022300908,209,PT08M42.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Sabonis FOR Fox,Substitution,,0,0,154
+0022300908,210,PT08M42.00S,2,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Mitchell FOR Len,Substitution,,0,0,155
+0022300908,211,PT08M42.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Collins FOR Johnson,Substitution,,0,0,156
+0022300908,212,PT08M42.00S,2,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,v,SUB: Sochan FOR Mamukelashvili,Substitution,,0,0,157
+0022300908,218,PT08M21.00S,2,1610612759,SAS,1631103,Branham,M. Branham,-80,257,27,Made,1,44,36,80,v,Branham 27' 3PT Jump Shot (6 PTS) (Sochan 1 AST),Made Shot,Jump Shot,1,3,158
+0022300908,220,PT08M06.00S,2,1610612758,SAC,1628370,Monk,M. Monk,-104,118,16,Missed,1,,,0,h,MISS Monk 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,159
+0022300908,220,PT08M06.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley BLOCK (1 BLK),,,1,2,160
+0022300908,222,PT08M06.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,161
+0022300908,224,PT07M55.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-76,55,9,Missed,1,,,0,h,MISS Sabonis 9' Hook Shot,Missed Shot,Hook Shot,1,2,162
+0022300908,225,PT07M53.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+0022300908,226,PT07M49.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,164
+0022300908,228,PT07M42.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,-54,55,8,Missed,1,,,0,v,MISS Champagnie 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,165
+0022300908,229,PT07M40.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,166
+0022300908,230,PT07M40.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,Missed,1,,,0,v,MISS Collins Putback Layup,Missed Shot,Putback Layup Shot,1,2,167
+0022300908,231,PT07M39.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,168
+0022300908,232,PT07M34.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-16,49,5,Made,1,46,36,82,h,Sabonis 5' Running Layup (8 PTS) (Monk 4 AST),Made Shot,Running Layup Shot,1,2,169
+0022300908,234,PT07M34.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,170
+0022300908,236,PT07M34.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,47,36,83,h,Sabonis Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,171
+0022300908,237,PT07M11.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,4,136,14,Missed,1,,,0,v,MISS Wesley 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,172
+0022300908,238,PT07M09.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,173
+0022300908,239,PT07M08.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Made,1,47,38,85,v,Sochan Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,174
+0022300908,240,PT06M53.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,28,179,18,Made,1,49,38,87,h,Mitchell 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,175
+0022300908,241,PT06M46.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,29,38,5,Made,1,49,40,89,v,Sochan 5' Driving Layup (4 PTS) (Wesley 1 AST),Made Shot,Driving Layup Shot,1,2,176
+0022300908,243,PT06M46.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,177
+0022300908,245,PT06M46.00S,2,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: Barnes FOR Monk,Substitution,,0,0,178
+0022300908,246,PT06M46.00S,2,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,SUB: Huerter FOR Lyles,Substitution,,0,0,179
+0022300908,247,PT06M46.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,SUB: Vassell FOR Wesley,Substitution,,0,0,180
+0022300908,251,PT06M46.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,49,41,90,v,Sochan Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,181
+0022300908,252,PT06M29.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,43,4,Made,1,51,41,92,h,Ellis 4' Cutting Dunk Shot (5 PTS) (Sabonis 4 AST),Made Shot,Cutting Dunk Shot,1,2,182
+0022300908,254,PT06M14.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,183
+0022300908,254,PT06M14.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (2 STL),,,1,0,184
+0022300908,256,PT06M01.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-11,115,12,Made,1,53,41,94,h,Sabonis 12' Hook Shot (11 PTS),Made Shot,Hook Shot,1,2,185
+0022300908,257,PT05M36.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-136,239,27,Missed,1,,,0,v,MISS Sochan 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+0022300908,258,PT05M34.00S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,187
+0022300908,259,PT05M34.00S,2,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,SUB: Fox FOR Ellis,Substitution,,0,0,188
+0022300908,260,PT05M34.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,SUB: Jones FOR Branham,Substitution,,0,0,189
+0022300908,263,PT05M08.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,-93,259,28,Made,1,56,41,97,h,Mitchell 28' 3PT Jump Shot (9 PTS) (Fox 3 AST),Made Shot,Jump Shot,1,3,190
+0022300908,265,PT04M54.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,32,104,11,Missed,1,,,0,v,MISS Collins 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,191
+0022300908,266,PT04M51.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,192
+0022300908,267,PT04M48.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,11,33,3,Made,1,58,41,99,h,Barnes 3' Driving Layup (8 PTS) (Sabonis 5 AST),Made Shot,Driving Layup Shot,1,2,193
+0022300908,278,PT04M48.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Defensive Goaltending,Violation,Defensive Goaltending,1,0,194
+0022300908,269,PT04M48.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,195
+0022300908,271,PT04M48.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Johnson FOR Champagnie,Substitution,,0,0,196
+0022300908,273,PT04M48.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,59,41,100,h,Barnes Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,197
+0022300908,274,PT04M39.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,198
+0022300908,274,PT04M39.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox STEAL (2 STL),,,1,0,199
+0022300908,276,PT04M34.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-40,49,6,Made,1,61,41,102,h,Fox 6' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,200
+0022300908,277,PT04M34.00S,2,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,201
+0022300908,279,PT04M22.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,202
+0022300908,279,PT04M22.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox STEAL (3 STL),,,1,0,203
+0022300908,281,PT04M05.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,110,235,26,Missed,1,,,0,h,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022300908,282,PT04M02.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,205
+0022300908,283,PT03M56.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,43,43,6,Made,1,61,43,104,v,Collins 6' Cutting Layup Shot (5 PTS) (Jones 4 AST),Made Shot,Cutting Layup Shot,1,2,206
+0022300908,285,PT03M38.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-13,113,11,Missed,1,,,0,h,MISS Fox 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,207
+0022300908,286,PT03M35.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,208
+0022300908,287,PT03M29.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,172,200,26,Made,1,61,46,107,v,Vassell 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Jones 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,209
+0022300908,289,PT03M15.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,100,134,17,Missed,1,,,0,h,MISS Sabonis 17' Jump Shot,Missed Shot,Jump Shot,1,2,210
+0022300908,290,PT03M13.00S,2,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Rebound,Rebound,Unknown,0,0,211
+0022300908,291,PT03M13.00S,2,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Murray FOR Huerter,Substitution,,0,0,212
+0022300908,292,PT03M13.00S,2,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Monk FOR Mitchell,Substitution,,0,0,213
+0022300908,295,PT02M58.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,78,258,27,Made,1,61,49,110,v,Johnson 27' 3PT Jump Shot (8 PTS) (Collins 1 AST),Made Shot,Jump Shot,1,3,214
+0022300908,297,PT02M46.00S,2,1610612758,SAC,203084,Barnes,H. Barnes,-99,60,12,Made,1,63,49,112,h,Barnes 12' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,2,215
+0022300908,298,PT02M28.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-20,43,5,Made,1,63,51,114,v,Johnson 5' Cutting Layup Shot (10 PTS) (Collins 2 AST),Made Shot,Cutting Layup Shot,1,2,216
+0022300908,300,PT02M18.00S,2,1610612758,SAC,1628370,Monk,M. Monk,4,57,6,Made,1,65,51,116,h,Monk 6' Driving Layup (11 PTS) (Sabonis 6 AST),Made Shot,Driving Layup Shot,1,2,217
+0022300908,302,PT02M06.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,22,50,5,Made,1,65,53,118,v,Collins 5' Cutting Layup Shot (7 PTS) (Jones 6 AST),Made Shot,Cutting Layup Shot,1,2,218
+0022300908,304,PT02M06.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox S.FOUL (P2.T3) (J.Williams),Foul,Shooting,1,0,219
+0022300908,306,PT02M06.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,65,54,119,v,Collins Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,220
+0022300908,307,PT01M48.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,23,53,6,Made,1,67,54,121,h,Sabonis 6' Cutting Layup Shot (13 PTS) (Monk 5 AST),Made Shot,Cutting Layup Shot,1,2,221
+0022300908,309,PT01M34.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,201,177,27,Missed,1,,,0,v,MISS Sochan 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022300908,310,PT01M32.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,223
+0022300908,311,PT01M22.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-195,193,27,Missed,1,,,0,h,MISS Fox 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022300908,312,PT01M19.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,225
+0022300908,313,PT01M11.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,27,47,5,Missed,1,,,0,v,MISS Sochan 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+0022300908,314,PT01M07.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,227
+0022300908,315,PT01M03.00S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-2,59,6,Made,1,69,54,123,h,Sabonis 6' Cutting Layup Shot (15 PTS) (Fox 4 AST),Made Shot,Cutting Layup Shot,1,2,228
+0022300908,317,PT00M41.80S,2,1610612759,SAS,1631110,Sochan,J. Sochan,16,41,4,Made,1,69,56,125,v,Sochan 4' Layup (7 PTS) (Jones 7 AST),Made Shot,Layup Shot,1,2,229
+0022300908,319,PT00M29.30S,2,1610612758,SAC,1628370,Monk,M. Monk,-188,215,29,Missed,1,,,0,h,MISS Monk 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022300908,320,PT00M25.90S,2,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,231
+0022300908,322,PT00M20.90S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Champagnie FOR Collins,Substitution,,0,0,232
+0022300908,324,PT00M17.60S,2,1610612758,SAC,1627734,Sabonis,D. Sabonis,-29,64,7,Made,1,71,56,127,h,Sabonis 7' Driving Dunk (17 PTS) (Monk 6 AST),Made Shot,Driving Dunk Shot,1,2,233
+0022300908,326,PT00M01.40S,2,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P2.T4) (K.Lane),Foul,Shooting,1,0,234
+0022300908,328,PT00M01.40S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,71,57,128,v,Vassell Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,1,0,235
+0022300908,329,PT00M01.40S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,71,58,129,v,Vassell Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,1,0,236
+0022300908,330,PT00M01.40S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,71,59,130,v,Vassell Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,1,0,237
+0022300908,331,PT00M00.10S,2,1610612758,SAC,1631099,Murray,K. Murray,173,635,66,Missed,1,,,0,h,MISS Murray 66' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022300908,332,PT00M00.10S,2,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,239
+0022300908,333,PT00M00.00S,2,0,,0,,,0,0,0,,0,71,59,130,,End of 2nd Period (11:05 PM EST),period,end,1,0,240
+0022300908,340,PT12M00.00S,3,0,,0,,,0,0,0,,0,71,59,130,,Start of 3rd Period (11:19 PM EST),period,start,0,0,241
+0022300908,341,PT11M36.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,-18,109,11,Missed,1,,,0,v,MISS Collins 11' Hook Shot,Missed Shot,Hook Shot,1,2,242
+0022300908,342,PT11M33.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,243
+0022300908,343,PT11M20.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,244
+0022300908,344,PT10M55.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,72,155,17,Made,1,71,61,132,v,Vassell 17' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,1,2,245
+0022300908,345,PT10M49.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,246
+0022300908,347,PT10M49.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,72,61,133,h,Fox Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,247
+0022300908,348,PT10M49.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,73,61,134,h,Fox Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,248
+0022300908,349,PT10M33.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,-36,64,7,Made,1,73,63,136,v,Collins 7' Cutting Layup Shot (10 PTS) (Jones 8 AST),Made Shot,Cutting Layup Shot,1,2,249
+0022300908,351,PT10M19.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-113,69,13,Missed,1,,,0,h,MISS Fox 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,250
+0022300908,352,PT10M17.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,251
+0022300908,353,PT10M09.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-76,142,16,Made,1,73,65,138,v,Vassell 16' Floating Jump Shot (18 PTS) (Collins 3 AST),Made Shot,Floating Jump shot,1,2,252
+0022300908,355,PT09M56.00S,3,1610612758,SAC,1628989,Huerter,K. Huerter,-190,178,26,Missed,1,,,0,h,MISS Huerter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022300908,356,PT09M53.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,254
+0022300908,357,PT09M45.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-54,37,7,Missed,1,,,0,v,MISS Champagnie 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,255
+0022300908,358,PT09M40.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,256
+0022300908,359,PT09M34.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,-1,53,5,Made,1,75,65,140,h,Barnes 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,257
+0022300908,360,PT09M18.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,-9,279,28,Made,1,75,68,143,v,Collins 28' 3PT Jump Shot (13 PTS) (Jones 9 AST),Made Shot,Jump Shot,1,3,258
+0022300908,362,PT09M18.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,259
+0022300908,363,PT08M52.00S,3,1610612758,SAC,1628989,Huerter,K. Huerter,-115,109,16,Missed,1,,,0,h,MISS Huerter 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,260
+0022300908,364,PT08M51.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,261
+0022300908,366,PT08M41.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-33,82,9,Missed,1,,,0,h,MISS Sabonis 9' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,262
+0022300908,367,PT08M35.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,263
+0022300908,368,PT08M17.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,151,214,26,Missed,1,,,0,v,MISS Collins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022300908,369,PT08M15.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,265
+0022300908,370,PT08M09.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-17,50,5,Made,1,77,68,145,h,Fox 5' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,266
+0022300908,371,PT07M58.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-244,120,27,Made,1,77,71,148,v,Vassell 27' 3PT Pullup Jump Shot (21 PTS) (Jones 10 AST),Made Shot,Pullup Jump shot,1,3,267
+0022300908,373,PT07M53.00S,3,1610612758,SAC,1628368,Fox,D. Fox,-1,101,10,Missed,1,,,0,h,MISS Fox 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,268
+0022300908,373,PT07M53.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell BLOCK (1 BLK),,,1,2,269
+0022300908,375,PT07M51.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,270
+0022300908,376,PT07M35.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,59,134,15,Made,1,77,73,150,v,Collins 15' Jump Shot (15 PTS) (Vassell 6 AST),Made Shot,Jump Shot,1,2,271
+0022300908,378,PT07M22.00S,3,1610612758,SAC,1628368,Fox,D. Fox,12,21,2,Made,1,79,73,152,h,Fox 2' Alley Oop Dunk (16 PTS) (Sabonis 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,272
+0022300908,380,PT06M58.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,18,112,11,Missed,1,,,0,v,MISS Sochan 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,273
+0022300908,381,PT06M58.00S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,274
+0022300908,383,PT06M58.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,SUB: Branham FOR Vassell,Substitution,,0,0,275
+0022300908,385,PT06M44.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,28,31,4,Made,1,81,73,154,h,Sabonis 4' Driving Layup (19 PTS) (Huerter 2 AST),Made Shot,Driving Layup Shot,1,2,276
+0022300908,387,PT06M44.00S,3,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,277
+0022300908,388,PT06M29.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,66,264,27,Missed,1,,,0,v,MISS Champagnie 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022300908,388,PT06M29.00S,3,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter BLOCK (1 BLK),,,1,3,279
+0022300908,390,PT06M27.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,280
+0022300908,391,PT06M22.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,281
+0022300908,391,PT06M22.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham STEAL (1 STL),,,1,0,282
+0022300908,393,PT06M14.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,-23,63,7,Made,1,81,75,156,v,Collins 7' Cutting Layup Shot (17 PTS) (Branham 2 AST),Made Shot,Cutting Layup Shot,1,2,283
+0022300908,395,PT06M14.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox S.FOUL (P3.T1) (D.Richardson),Foul,Shooting,1,0,284
+0022300908,397,PT06M14.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Monk FOR Fox,Substitution,,0,0,285
+0022300908,398,PT06M14.00S,3,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Mitchell FOR Huerter,Substitution,,0,0,286
+0022300908,399,PT06M14.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,v,SUB: Vassell FOR Champagnie,Substitution,,0,0,287
+0022300908,403,PT06M14.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,81,76,157,v,Collins Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,288
+0022300908,404,PT06M01.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,-48,80,9,Missed,1,,,0,h,MISS Barnes 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,289
+0022300908,405,PT05M59.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,290
+0022300908,406,PT05M58.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,43,98,11,Made,1,83,76,159,h,Sabonis 11' Turnaround Hook Shot (21 PTS),Made Shot,Turnaround Hook Shot,1,2,291
+0022300908,407,PT05M48.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0,292
+0022300908,409,PT05M48.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,83,77,160,v,Branham Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,293
+0022300908,410,PT05M48.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,83,78,161,v,Branham Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022300908,411,PT05M35.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,295
+0022300908,411,PT05M35.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell STEAL (2 STL),,,1,0,296
+0022300908,413,PT05M27.00S,3,1610612759,SAS,1631103,Branham,M. Branham,233,47,24,Made,1,83,81,164,v,Branham 24' 3PT Jump Shot (11 PTS) (Jones 11 AST),Made Shot,Jump Shot,1,3,297
+0022300908,415,PT05M20.00S,3,1610612758,SAC,1628370,Monk,M. Monk,172,216,28,Missed,1,,,0,h,MISS Monk 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300908,416,PT05M17.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,299
+0022300908,417,PT05M08.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,-49,89,10,Missed,1,,,0,v,MISS Collins 10' Hook Shot,Missed Shot,Hook Shot,1,2,300
+0022300908,418,PT05M04.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,301
+0022300908,419,PT04M54.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,1,266,27,Made,1,86,81,167,h,Sabonis 27' 3PT Jump Shot (24 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,302
+0022300908,421,PT04M37.00S,3,1610612759,SAS,1631103,Branham,M. Branham,237,49,24,Made,1,86,84,170,v,Branham 24' 3PT Jump Shot (14 PTS) (Jones 12 AST),Made Shot,Jump Shot,1,3,303
+0022300908,424,PT04M33.00S,3,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,SUB: Ellis FOR Murray,Substitution,,0,0,304
+0022300908,425,PT04M33.00S,3,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Lyles FOR Barnes,Substitution,,0,0,305
+0022300908,426,PT04M33.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,SUB: Johnson FOR Sochan,Substitution,,0,0,306
+0022300908,427,PT04M33.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,SUB: Wesley FOR Jones,Substitution,,0,0,307
+0022300908,432,PT04M22.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,-25,73,8,Missed,1,,,0,h,MISS Sabonis 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,308
+0022300908,433,PT04M20.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,309
+0022300908,434,PT04M20.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,-240,25,24,Missed,1,,,0,h,MISS Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022300908,435,PT04M17.00S,3,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,311
+0022300908,436,PT04M15.00S,3,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,Made,1,88,84,172,h,Lyles Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,312
+0022300908,437,PT04M02.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,22,34,4,Made,1,88,86,174,v,Vassell 4' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,313
+0022300908,438,PT03M50.00S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,314
+0022300908,440,PT03M50.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,89,86,175,h,Monk Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,315
+0022300908,441,PT03M50.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,90,86,176,h,Monk Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022300908,442,PT03M29.00S,3,1610612759,SAS,1631103,Branham,M. Branham,124,37,13,Missed,1,,,0,v,MISS Branham 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,317
+0022300908,443,PT03M26.00S,3,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,318
+0022300908,444,PT03M17.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,-174,213,28,Made,1,93,86,179,h,Ellis 28' 3PT Jump Shot (8 PTS) (Sabonis 8 AST),Made Shot,Jump Shot,1,3,319
+0022300908,447,PT02M51.00S,3,1610612759,SAS,1631104,Wesley,B. Wesley,-13,41,4,Made,1,93,88,181,v,Wesley 4' Cutting Dunk Shot (4 PTS) (Johnson 2 AST),Made Shot,Cutting Dunk Shot,1,2,320
+0022300908,449,PT02M39.00S,3,1610612758,SAC,1628370,Monk,M. Monk,-32,57,7,Missed,1,,,0,h,MISS Monk 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,321
+0022300908,450,PT02M36.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,322
+0022300908,451,PT02M32.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-29,64,7,Made,1,93,90,183,v,Johnson 7' Running Layup (12 PTS) (Vassell 7 AST),Made Shot,Running Layup Shot,1,2,323
+0022300908,453,PT02M24.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins P.FOUL (P3.T3) (D.Richardson),Foul,Personal,1,0,324
+0022300908,455,PT02M24.00S,3,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Fox FOR Sabonis,Substitution,,0,0,325
+0022300908,456,PT02M24.00S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Len FOR Mitchell,Substitution,,0,0,326
+0022300908,457,PT02M24.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Barlow FOR Collins,Substitution,,0,0,327
+0022300908,479,PT02M14.00S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,328
+0022300908,479,PT02M14.00S,3,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow STEAL (1 STL),,,1,0,329
+0022300908,496,PT02M02.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-224,84,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300908,497,PT02M02.00S,3,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,331
+0022300908,465,PT01M47.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,-234,36,24,Made,1,96,90,186,h,Ellis 24' 3PT Running Jump Shot (11 PTS) (Lyles 2 AST),Made Shot,Running Jump Shot,1,3,332
+0022300908,467,PT01M31.00S,3,1610612759,SAS,1631103,Branham,M. Branham,157,236,28,Made,1,96,93,189,v,Branham 28' 3PT Jump Shot (17 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1,3,333
+0022300908,469,PT01M19.00S,3,1610612758,SAC,1631165,Ellis,K. Ellis,-159,190,25,Missed,1,,,0,h,MISS Ellis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022300908,470,PT01M17.00S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,335
+0022300908,471,PT01M14.00S,3,1610612758,SAC,1628370,Monk,M. Monk,11,42,4,Made,1,98,93,191,h,Monk 4' Alley Oop Dunk (15 PTS) (Fox 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,336
+0022300908,473,PT01M03.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-170,50,18,Missed,1,,,0,v,MISS Vassell 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,337
+0022300908,474,PT00M59.40S,3,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,338
+0022300908,475,PT00M54.20S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,339
+0022300908,475,PT00M54.20S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham STEAL (2 STL),,,1,0,340
+0022300908,477,PT00M52.50S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,341
+0022300908,478,PT00M52.50S,3,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,342
+0022300908,481,PT00M52.50S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,SUB: Sochan FOR Vassell,Substitution,,0,0,343
+0022300908,483,PT00M34.30S,3,1610612758,SAC,1628368,Fox,D. Fox,-53,262,27,Missed,1,,,0,h,MISS Fox 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300908,484,PT00M31.30S,3,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,345
+0022300908,485,PT00M30.90S,3,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Backcourt Turnover (P1.T10),Turnover,Backcourt Turnover,1,0,346
+0022300908,486,PT00M30.90S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Murray FOR Fox,Substitution,,0,0,347
+0022300908,487,PT00M30.90S,3,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Mitchell FOR Len,Substitution,,0,0,348
+0022300908,490,PT00M12.80S,3,1610612759,SAS,1631103,Branham,M. Branham,9,29,3,Made,1,98,95,193,v,Branham 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,349
+0022300908,491,PT00M05.60S,3,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham P.FOUL (P3.T4) (J.Williams),Foul,Personal,1,0,350
+0022300908,493,PT00M05.60S,3,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Fox FOR Mitchell,Substitution,,0,0,351
+0022300908,495,PT00M01.90S,3,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,Barlow S.FOUL (P3.PN) (D.Richardson),Foul,Shooting,1,0,352
+0022300908,499,PT00M01.90S,3,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,99,95,194,h,Lyles Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300908,500,PT00M01.90S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Len FOR Fox,Substitution,,0,0,354
+0022300908,502,PT00M01.90S,3,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,100,95,195,h,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022300908,503,PT00M00.00S,3,0,,0,,,0,0,0,,0,100,95,195,,End of 3rd Period (11:47 PM EST),period,end,1,0,356
+0022300908,508,PT12M00.00S,4,0,,0,,,0,0,0,,0,100,95,195,,Start of 4th Period (11:50 PM EST),period,start,0,0,357
+0022300908,509,PT11M44.00S,4,1610612758,SAC,1628368,Fox,D. Fox,12,268,27,Missed,1,,,0,h,MISS Fox 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300908,510,PT11M41.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,359
+0022300908,511,PT11M34.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,163,193,25,Made,1,100,98,198,v,Johnson 25' 3PT Jump Shot (15 PTS) (Wesley 2 AST),Made Shot,Jump Shot,1,3,360
+0022300908,513,PT11M18.00S,4,1610612758,SAC,1628370,Monk,M. Monk,-25,116,12,Missed,1,,,0,h,MISS Monk 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,361
+0022300908,514,PT11M14.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,362
+0022300908,515,PT11M12.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-1,47,5,Made,1,100,100,200,v,Vassell 5' Running Layup (25 PTS) (Sochan 2 AST),Made Shot,Running Layup Shot,1,2,363
+0022300908,517,PT11M06.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-9,59,6,Made,1,102,100,202,h,Fox 6' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,364
+0022300908,518,PT11M06.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,365
+0022300908,520,PT11M06.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,103,100,203,h,Fox Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,366
+0022300908,521,PT10M46.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,241,53,25,Made,1,103,103,206,v,Wesley 25' 3PT Jump Shot (7 PTS) (Vassell 8 AST),Made Shot,Jump Shot,1,3,367
+0022300908,523,PT10M33.00S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0,368
+0022300908,523,PT10M33.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan STEAL (1 STL),,,1,0,369
+0022300908,525,PT10M31.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox S.FOUL (P4.T1) (K.Lane),Foul,Shooting,1,0,370
+0022300908,527,PT10M31.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,103,104,207,v,Sochan Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+0022300908,528,PT10M31.00S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,SUB: Sabonis FOR Monk,Substitution,,0,0,372
+0022300908,529,PT10M31.00S,4,1610612758,SAC,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Murray FOR Len,Substitution,,0,0,373
+0022300908,530,PT10M31.00S,4,1610612759,SAS,1631230,Barlow,D. Barlow,0,0,0,,0,,,0,v,SUB: Collins FOR Barlow,Substitution,,0,0,374
+0022300908,534,PT10M31.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,103,105,208,v,Sochan Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,375
+0022300908,535,PT10M14.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-76,21,8,Made,1,105,105,210,h,Fox 8' Jump Bank Shot (21 PTS),Made Shot,Jump Bank Shot,1,2,376
+0022300908,536,PT10M01.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,184,181,26,Made,1,105,108,213,v,Johnson 26' 3PT Jump Shot (18 PTS) (Wesley 3 AST),Made Shot,Jump Shot,1,3,377
+0022300908,538,PT09M43.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-93,142,17,Missed,1,,,0,h,MISS Fox 17' Jump Shot,Missed Shot,Jump Shot,1,2,378
+0022300908,539,PT09M43.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,379
+0022300908,541,PT09M39.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-23,64,7,Missed,1,,,0,h,MISS Fox 7' Layup,Missed Shot,Layup Shot,1,2,380
+0022300908,541,PT09M39.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan BLOCK (1 BLK),,,1,2,381
+0022300908,543,PT09M37.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,382
+0022300908,544,PT09M24.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-56,78,10,Missed,1,,,0,v,MISS Sochan 10' Layup,Missed Shot,Layup Shot,1,2,383
+0022300908,545,PT09M22.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,384
+0022300908,546,PT09M18.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley P.FOUL (P2.T2) (K.Lane),Foul,Personal,1,0,385
+0022300908,548,PT09M18.00S,4,1610612758,SAC,1631165,Ellis,K. Ellis,0,0,0,,0,,,0,h,SUB: Huerter FOR Ellis,Substitution,,0,0,386
+0022300908,550,PT09M13.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley P.FOUL (P3.T3) (J.Williams),Foul,Personal,0,0,387
+0022300908,552,PT09M06.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P4.T4) (K.Lane),Foul,Shooting,1,0,388
+0022300908,554,PT09M06.00S,4,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,389
+0022300908,555,PT09M06.00S,4,0,,552,,,0,0,0,,0,105,108,213,,Instant Replay4th Period (11:56 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,390
+0022300908,556,PT09M06.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Mitchell FOR Fox,Substitution,,0,0,391
+0022300908,557,PT09M06.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Branham FOR Johnson,Substitution,,0,0,392
+0022300908,560,PT09M06.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,MISS Sabonis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,393
+0022300908,561,PT09M06.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Normal Rebound,0,0,394
+0022300908,562,PT09M06.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,106,108,214,h,Sabonis Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,395
+0022300908,563,PT08M51.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,-31,62,7,Missed,1,,,0,v,MISS Collins 7' Layup,Missed Shot,Layup Shot,1,2,396
+0022300908,563,PT08M51.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis BLOCK (1 BLK),,,1,2,397
+0022300908,565,PT08M50.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,398
+0022300908,566,PT08M48.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis S.FOUL (P2.T2) (J.Williams),Foul,Shooting,1,0,399
+0022300908,568,PT08M48.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,106,109,215,v,Collins Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,400
+0022300908,569,PT08M48.00S,4,1610612758,SAC,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,h,SUB: Barnes FOR Lyles,Substitution,,0,0,401
+0022300908,571,PT08M48.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,106,110,216,v,Collins Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022300908,572,PT08M33.00S,4,1610612758,SAC,1628989,Huerter,K. Huerter,98,258,28,Missed,1,,,0,h,MISS Huerter 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300908,573,PT08M30.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,404
+0022300908,574,PT08M23.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,62,102,12,Made,1,106,112,218,v,Vassell 12' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,2,405
+0022300908,575,PT08M11.00S,4,1610612758,SAC,1631099,Murray,K. Murray,-62,159,17,Missed,1,,,0,h,MISS Murray 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,406
+0022300908,576,PT08M08.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,407
+0022300908,577,PT07M59.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,-2,46,5,Made,1,106,114,220,v,Wesley 5' Reverse Layup (9 PTS) (Collins 4 AST),Made Shot,Reverse Layup Shot,1,2,408
+0022300908,579,PT07M59.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,409
+0022300908,580,PT07M59.00S,4,1610612758,SAC,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Monk FOR Huerter,Substitution,,0,0,410
+0022300908,581,PT07M59.00S,4,1610612758,SAC,1630558,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Fox FOR Mitchell,Substitution,,0,0,411
+0022300908,584,PT07M47.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-2,104,10,Made,1,108,114,222,h,Fox 10' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,2,412
+0022300908,585,PT07M33.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,-32,54,6,Made,1,108,116,224,v,Collins 6' Driving Layup (22 PTS) (Branham 3 AST),Made Shot,Driving Layup Shot,1,2,413
+0022300908,587,PT07M23.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-23,35,4,Missed,1,,,0,h,MISS Fox 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,414
+0022300908,588,PT07M22.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,415
+0022300908,589,PT07M20.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,6,24,2,Made,1,110,116,226,h,Sabonis 2' Putback Layup (27 PTS),Made Shot,Putback Layup Shot,1,2,416
+0022300908,590,PT07M00.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-249,31,25,Missed,1,,,0,v,MISS Sochan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022300908,591,PT06M56.00S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,418
+0022300908,592,PT06M52.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,419
+0022300908,592,PT06M52.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,Wesley STEAL (1 STL),,,1,0,420
+0022300908,594,PT06M48.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,-16,44,5,Made,1,110,118,228,v,Wesley 5' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,421
+0022300908,595,PT06M31.00S,4,1610612758,SAC,1628370,Monk,M. Monk,72,257,27,Missed,1,,,0,h,MISS Monk 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022300908,596,PT06M29.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,423
+0022300908,597,PT06M22.00S,4,1610612758,SAC,1628368,Fox,D. Fox,11,127,13,Made,1,112,118,230,h,Fox 13' Pullup Jump Shot (25 PTS) (Sabonis 9 AST),Made Shot,Pullup Jump shot,1,2,424
+0022300908,598,PT06M11.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox P.FOUL (P5.T3) (K.Lane),Foul,Personal,1,0,425
+0022300908,600,PT06M11.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,,,0,v,SUB: Jones FOR Wesley,Substitution,,0,0,426
+0022300908,601,PT06M11.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,SUB: Johnson FOR Vassell,Substitution,,0,0,427
+0022300908,604,PT06M08.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan OFF.Foul (P4) (K.Lane),Foul,Offensive,1,0,428
+0022300908,606,PT06M08.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,429
+0022300908,607,PT05M59.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-20,263,26,Missed,1,,,0,h,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+0022300908,608,PT05M59.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,0,0,431
+0022300908,610,PT05M53.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,7,82,8,Missed,1,,,0,h,MISS Sabonis 8' Hook Shot,Missed Shot,Hook Shot,1,2,432
+0022300908,611,PT05M51.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:5 Def:10),Rebound,Unknown,1,0,433
+0022300908,612,PT05M46.00S,4,1610612758,SAC,1628368,Fox,D. Fox,2,34,3,Made,1,114,118,232,h,Fox 3' Driving Layup (27 PTS) (Monk 7 AST),Made Shot,Driving Layup Shot,1,2,434
+0022300908,614,PT05M18.00S,4,1610612759,SAS,1631103,Branham,M. Branham,197,47,20,Missed,1,,,0,v,MISS Branham 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,435
+0022300908,615,PT05M15.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:5 Def:11),Rebound,Unknown,1,0,436
+0022300908,616,PT05M04.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,10,24,3,Made,1,116,118,234,h,Sabonis 3' Dunk (29 PTS) (Monk 8 AST),Made Shot,Dunk Shot,1,2,437
+0022300908,618,PT05M03.00S,4,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,438
+0022300908,619,PT05M03.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,SUB: Vassell FOR Sochan,Substitution,,0,0,439
+0022300908,622,PT04M37.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-97,195,22,Made,1,116,120,236,v,Johnson 22' Jump Shot (20 PTS) (Vassell 9 AST),Made Shot,Jump Shot,1,2,440
+0022300908,623,PT04M31.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-29,120,12,Made,1,118,120,238,h,Fox 12' Jump Bank Shot (29 PTS),Made Shot,Jump Bank Shot,1,2,441
+0022300908,625,PT04M08.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-200,57,21,Missed,1,,,0,v,MISS Vassell 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,442
+0022300908,626,PT04M05.00S,4,1610612758,SAC,1631099,Murray,K. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,443
+0022300908,628,PT03M58.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,SUB: Sochan FOR Branham,Substitution,,0,0,444
+0022300908,630,PT03M54.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-138,64,15,Missed,1,,,0,h,MISS Fox 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,445
+0022300908,631,PT03M52.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,446
+0022300908,632,PT03M34.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,189,193,27,Made,1,118,123,241,v,Vassell 27' 3PT Jump Shot (30 PTS) (Johnson 4 AST),Made Shot,Jump Shot,1,3,447
+0022300908,634,PT03M23.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-16,48,5,Made,1,120,123,243,h,Fox 5' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,1,2,448
+0022300908,635,PT03M00.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-165,220,28,Missed,1,,,0,v,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022300908,636,PT02M58.00S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis REBOUND (Off:5 Def:12),Rebound,Unknown,1,0,450
+0022300908,637,PT02M55.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan S.FOUL (P5.PN) (J.Williams),Foul,Shooting,1,0,451
+0022300908,639,PT02M55.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,121,123,244,h,Barnes Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+0022300908,640,PT02M55.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,SUB: Branham FOR Sochan,Substitution,,0,0,453
+0022300908,642,PT02M55.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,122,123,245,h,Barnes Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0022300908,643,PT02M39.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes S.FOUL (P1.T4) (J.Williams),Foul,Shooting,1,0,455
+0022300908,646,PT02M39.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,122,124,246,v,Branham Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,456
+0022300908,647,PT02M39.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,,,0,v,SUB: Sochan FOR Jones,Substitution,,0,0,457
+0022300908,649,PT02M39.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,122,125,247,v,Branham Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,458
+0022300908,650,PT02M31.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-5,119,12,Made,1,124,125,249,h,Fox 12' Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,1,2,459
+0022300908,651,PT02M17.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,2,95,10,Missed,1,,,0,v,MISS Collins 10' Layup,Missed Shot,Layup Shot,1,2,460
+0022300908,652,PT02M15.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,461
+0022300908,653,PT02M12.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,244,37,25,Missed,1,,,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0022300908,654,PT02M10.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,463
+0022300908,692,PT02M09.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-7,32,3,Missed,1,,,0,v,MISS Johnson 3' Layup,Missed Shot,Layup Shot,1,2,464
+0022300908,693,PT02M08.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,465
+0022300908,655,PT02M05.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,-50,28,6,Missed,1,,,0,v,MISS Collins 6' Layup,Missed Shot,Layup Shot,1,2,466
+0022300908,656,PT02M05.00S,4,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Rebound,Rebound,Unknown,1,0,467
+0022300908,658,PT01M55.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,v,Vassell Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,468
+0022300908,659,PT01M47.00S,4,1610612758,SAC,1628368,Fox,D. Fox,62,131,14,Missed,1,,,0,h,MISS Fox 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,469
+0022300908,660,PT01M47.00S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Rebound,Rebound,Unknown,1,0,470
+0022300908,662,PT01M40.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-48,62,8,Missed,1,,,0,h,MISS Fox 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,471
+0022300908,662,PT01M40.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan BLOCK (2 BLK),,,1,2,472
+0022300908,664,PT01M38.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,473
+0022300908,665,PT01M15.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-27,48,6,Made,1,124,127,251,v,Johnson 6' Driving Floating Jump Shot (22 PTS) (Branham 4 AST),Made Shot,Driving Floating Jump Shot,1,2,474
+0022300908,667,PT01M09.00S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk Traveling Turnover (P6.T13),Turnover,Traveling,1,0,475
+0022300908,668,PT00M57.10S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox P.FOUL (P6.PN) (J.Williams),Foul,Personal,1,0,476
+0022300908,670,PT00M57.10S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Ellis FOR Fox,Substitution,,0,0,477
+0022300908,672,PT00M57.10S,4,0,,1610612758,,,0,0,0,,0,,,0,h,KINGS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,478
+0022300908,673,PT00M57.10S,4,0,,668,,,0,0,0,,0,124,127,251,,Instant Replay4th Period (12:20 AM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,479
+0022300908,674,PT00M57.10S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,124,128,252,v,Branham Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+0022300908,675,PT00M57.10S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,124,129,253,v,Branham Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+0022300908,676,PT00M51.00S,4,1610612758,SAC,203084,Barnes,H. Barnes,38,47,6,Made,1,126,129,255,h,Barnes 6' Driving Layup (17 PTS) (Monk 9 AST),Made Shot,Driving Layup Shot,1,2,482
+0022300908,677,PT00M31.60S,4,1610612759,SAS,1631103,Branham,M. Branham,25,41,5,Missed,1,,,0,v,MISS Branham 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,483
+0022300908,678,PT00M28.40S,4,1610612758,SAC,1628370,Monk,M. Monk,0,0,0,,0,,,0,h,Monk REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,484
+0022300908,679,PT00M23.30S,4,1610612758,SAC,1628370,Monk,M. Monk,60,253,26,Made,1,129,129,258,h,Monk 26' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,3,485
+0022300908,680,PT00M07.70S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,,,0,v,Branham Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,486
+0022300908,680,PT00M07.70S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,Sabonis STEAL (1 STL),,,1,0,487
+0022300908,682,PT00M07.70S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,50,26,6,Made,1,131,129,260,h,Sabonis 6' Driving Dunk (31 PTS),Made Shot,Driving Dunk Shot,1,2,488
+0022300908,683,PT00M07.70S,4,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,489
+0022300908,684,PT00M07.70S,4,1610612758,SAC,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Lyles FOR Sabonis,Substitution,,0,0,490
+0022300908,686,PT00M00.90S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-7,281,28,Missed,1,,,0,v,MISS Vassell 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,491
+0022300908,687,PT00M00.90S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,v,Sochan REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,492
+0022300908,688,PT00M00.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-29,84,9,Missed,1,,,0,v,MISS Sochan 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,493
+0022300908,689,PT00M00.00S,4,0,,1610612759,,,0,0,0,,0,,,0,v,Spurs Rebound,Rebound,Unknown,1,0,494
+0022300908,690,PT00M00.00S,4,0,,0,,,0,0,0,,0,131,129,260,,End of 4th Period (12:27 AM EST),period,end,1,0,495

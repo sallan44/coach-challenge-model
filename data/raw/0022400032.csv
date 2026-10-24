@@ -1,0 +1,538 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400032,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:44 PM EST),period,start,0,0,1
+0022400032,4,PT12M00.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Jump Ball Theis vs. Jackson-Davis: Tip to Green,Jump Ball,,1,0,2
+0022400032,7,PT11M46.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,3
+0022400032,9,PT11M46.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,1,0,1,h,Ingram Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,4
+0022400032,10,PT11M46.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,2,0,2,h,Ingram Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,5
+0022400032,11,PT11M33.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+0022400032,11,PT11M33.00S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton STEAL (1 STL),,,1,0,7
+0022400032,13,PT11M22.00S,1,1610612740,NOP,203901,Payton,E. Payton,-15,87,9,Made,1,4,0,4,h,Payton 9' Driving Floating Jump Shot (2 PTS) (Murphy III 1 AST),Made Shot,Driving Floating Jump Shot,1,2,8
+0022400032,15,PT11M09.00S,1,1610612744,GSW,203110,Green,D. Green,20,57,6,Missed,1,,,0,v,MISS Green 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,9
+0022400032,16,PT11M06.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+0022400032,17,PT11M05.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,-9,20,2,Missed,1,,,0,v,MISS Jackson-Davis 2' Layup,Missed Shot,Layup Shot,1,2,11
+0022400032,17,PT11M05.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis BLOCK (1 BLK),,,1,2,12
+0022400032,19,PT11M05.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,13
+0022400032,77,PT11M05.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,-12,27,3,Missed,1,,,0,v,MISS Jackson-Davis 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,14
+0022400032,78,PT11M05.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,15
+0022400032,20,PT11M00.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,9,33,3,Missed,1,,,0,v,MISS Jackson-Davis 3' Layup,Missed Shot,Layup Shot,1,2,16
+0022400032,20,PT11M00.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis BLOCK (2 BLK),,,1,2,17
+0022400032,22,PT10M59.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+0022400032,23,PT10M59.00S,1,1610612744,GSW,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,Waters III S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,19
+0022400032,25,PT10M59.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,5,0,5,h,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,20
+0022400032,26,PT10M59.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,6,0,6,h,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,21
+0022400032,27,PT10M40.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,96,18,10,Made,1,6,2,8,v,Wiggins 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,22
+0022400032,28,PT10M28.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,81,11,8,Made,1,8,2,10,h,Murphy III 8' Driving Floating Jump Shot (2 PTS) (Theis 1 AST),Made Shot,Driving Floating Jump Shot,1,2,23
+0022400032,30,PT10M17.00S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton P.FOUL (P1.T1) (K.Scott),Foul,Personal,1,0,24
+0022400032,32,PT10M08.00S,1,1610612744,GSW,203110,Green,D. Green,232,-16,0,Made,1,8,5,13,v,Green 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,25
+0022400032,35,PT09M48.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-58,251,26,Missed,1,,,0,h,MISS Ingram 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,26
+0022400032,35,PT09M48.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins BLOCK (1 BLK),,,1,3,27
+0022400032,37,PT09M44.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,28
+0022400032,38,PT09M36.00S,1,1610612744,GSW,203110,Green,D. Green,2,29,3,Missed,1,,,0,v,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,29
+0022400032,39,PT09M33.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022400032,40,PT09M28.00S,1,1610612740,NOP,1629750,Green,J. Green,-4,20,2,Made,1,10,5,15,h,Green 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,31
+0022400032,41,PT09M18.00S,1,1610612744,GSW,201939,Curry,S. Curry,-20,299,30,Made,1,10,8,18,v,Curry 30' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,32
+0022400032,42,PT09M06.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,31,29,4,Missed,1,,,0,h,MISS Ingram 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+0022400032,43,PT09M04.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,34
+0022400032,44,PT08M58.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,235,-6,24,Made,1,10,11,21,v,Wiggins 24' 3PT Jump Shot (5 PTS) (Waters III 1 AST),Made Shot,Jump Shot,1,3,35
+0022400032,46,PT08M45.00S,1,1610612740,NOP,1628464,Theis,D. Theis,175,183,25,Made,1,13,11,24,h,Theis 25' 3PT Jump Shot (3 PTS) (Payton 1 AST),Made Shot,Jump Shot,1,3,36
+0022400032,48,PT08M29.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,189,183,26,Made,1,13,14,27,v,Wiggins 26' 3PT Jump Shot (8 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,3,37
+0022400032,50,PT08M15.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-96,240,26,Missed,1,,,0,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022400032,51,PT08M13.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0022400032,52,PT08M11.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,12,10,2,Made,1,13,16,29,v,Wiggins 2' Running Dunk (10 PTS) (Curry 3 AST),Made Shot,Running Dunk Shot,1,2,40
+0022400032,54,PT07M42.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,230,9,0,Made,1,16,16,32,h,Murphy III 3PT Jump Shot (5 PTS) (Payton 2 AST),Made Shot,Jump Shot,1,3,41
+0022400032,56,PT07M32.00S,1,1610612744,GSW,1630322,Waters III,L. Waters III,-230,-6,0,Missed,1,,,0,v,MISS Waters III 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0022400032,57,PT07M30.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022400032,59,PT07M20.00S,1,1610612740,NOP,1629750,Green,J. Green,234,-5,0,Made,1,19,16,35,h,Green 3PT Jump Shot (7 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,3,44
+0022400032,61,PT07M04.00S,1,1610612744,GSW,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,Waters III Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,45
+0022400032,62,PT07M04.00S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,SUB: Boston Jr. FOR Payton,Substitution,,0,0,46
+0022400032,64,PT06M47.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,21,19,3,Made,1,21,16,37,h,Murphy III 3' Driving Layup (7 PTS) (Green 1 AST),Made Shot,Driving Layup Shot,1,2,47
+0022400032,66,PT06M34.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,-175,204,27,Made,1,21,19,40,v,Wiggins 27' 3PT Jump Shot (13 PTS) (Waters III 2 AST),Made Shot,Jump Shot,1,3,48
+0022400032,68,PT06M16.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,66,29,7,Made,1,23,19,42,h,Ingram 7' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,49
+0022400032,69,PT06M03.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,23,12,3,Made,1,23,21,44,v,Jackson-Davis 3' Reverse Layup (2 PTS) (Wiggins 1 AST),Made Shot,Reverse Layup Shot,1,2,50
+0022400032,71,PT05M53.00S,1,1610612740,NOP,1628464,Theis,D. Theis,152,205,26,Missed,1,,,0,h,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0022400032,72,PT05M50.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+0022400032,73,PT05M44.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green P.FOUL (P1.T2) (S.Jelks),Foul,Personal,1,0,53
+0022400032,75,PT05M44.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,54
+0022400032,79,PT05M44.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Reeves FOR Murphy III,Substitution,,0,0,55
+0022400032,80,PT05M44.00S,1,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,SUB: Hield FOR Jackson-Davis,Substitution,,0,0,56
+0022400032,81,PT05M44.00S,1,1610612744,GSW,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,SUB: Payton II FOR Waters III,Substitution,,0,0,57
+0022400032,85,PT05M37.00S,1,1610612744,GSW,201939,Curry,S. Curry,-4,8,1,Made,1,23,23,46,v,Curry 1' Reverse Layup (5 PTS) (Green 1 AST),Made Shot,Reverse Layup Shot,1,2,58
+0022400032,87,PT05M19.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P2.T3) (S.Jelks),Foul,Personal,1,0,59
+0022400032,89,PT05M13.00S,1,1610612740,NOP,1630527,Boston,B. Boston,-72,252,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022400032,90,PT05M09.00S,1,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+0022400032,91,PT05M00.00S,1,1610612744,GSW,201939,Curry,S. Curry,-164,210,27,Missed,1,,,0,v,MISS Curry 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,62
+0022400032,92,PT04M58.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,63
+0022400032,93,PT04M39.00S,1,1610612740,NOP,1630527,Boston,B. Boston,7,10,1,Made,1,25,23,48,h,Boston Jr. 1' Driving Dunk (2 PTS) (Ingram 2 AST),Made Shot,Driving Dunk Shot,1,2,64
+0022400032,95,PT04M31.00S,1,1610612744,GSW,1627741,Hield,B. Hield,-225,78,24,Made,1,25,26,51,v,Hield 24' 3PT Jump Shot (3 PTS) (Curry 4 AST),Made Shot,Jump Shot,1,3,65
+0022400032,97,PT04M15.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green P.FOUL (P1.T4) (S.Wright),Foul,Personal,1,0,66
+0022400032,99,PT04M15.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Jemison FOR Theis,Substitution,,0,0,67
+0022400032,100,PT04M15.00S,1,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Looney FOR Wiggins,Substitution,,0,0,68
+0022400032,101,PT04M15.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Kuminga FOR Green,Substitution,,0,0,69
+0022400032,105,PT04M00.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-5,111,11,Made,1,27,26,53,h,Ingram 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,70
+0022400032,106,PT03M49.00S,1,1610612744,GSW,1627741,Hield,B. Hield,228,-9,0,Missed,1,,,0,v,MISS Hield 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022400032,107,PT03M47.00S,1,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022400032,108,PT03M43.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-54,171,18,Missed,1,,,0,h,MISS Ingram 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,73
+0022400032,109,PT03M39.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+0022400032,110,PT03M35.00S,1,1610612740,NOP,1630527,Boston,B. Boston,-230,46,0,Missed,1,,,0,h,MISS Boston Jr. 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,75
+0022400032,111,PT03M31.00S,1,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+0022400032,112,PT03M23.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,-223,130,26,Missed,1,,,0,v,MISS Payton II 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022400032,113,PT03M07.00S,1,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,78
+0022400032,114,PT03M07.00S,1,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,Missed,1,,,0,v,MISS Hield Putback Layup,Missed Shot,Putback Layup Shot,1,2,79
+0022400032,114,PT03M07.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. BLOCK (1 BLK),,,1,2,80
+0022400032,116,PT03M07.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,81
+0022400032,117,PT03M07.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,82
+0022400032,117,PT03M07.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (1 STL),,,1,0,83
+0022400032,125,PT03M02.00S,1,1610612744,GSW,1627741,Hield,B. Hield,9,62,6,Missed,1,,,0,v,MISS Hield 6' Running Layup,Missed Shot,Running Layup Shot,1,2,84
+0022400032,125,PT03M02.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green BLOCK (1 BLK),,,1,2,85
+0022400032,126,PT03M02.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,86
+0022400032,119,PT02M59.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,13,10,2,Made,1,27,28,55,v,Payton II 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,87
+0022400032,121,PT02M49.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0,88
+0022400032,123,PT02M49.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,89
+0022400032,124,PT02M49.00S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022400032,127,PT02M49.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,SUB: Hawkins FOR Green,Substitution,,0,0,91
+0022400032,128,PT02M49.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Murphy III FOR Ingram,Substitution,,0,0,92
+0022400032,129,PT02M49.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Podziemski FOR Curry,Substitution,,0,0,93
+0022400032,133,PT02M31.00S,1,1610612744,GSW,1627780,Payton II,G. Payton II,-12,13,2,Made,1,27,30,57,v,Payton II 2' Driving Layup (4 PTS) (Podziemski 1 AST),Made Shot,Driving Layup Shot,1,2,94
+0022400032,135,PT02M11.00S,1,1610612740,NOP,1641810,Reeves,A. Reeves,55,153,16,Missed,1,,,0,h,MISS Reeves 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,95
+0022400032,136,PT02M09.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022400032,137,PT02M01.00S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,29,6,3,Made,1,27,32,59,v,Podziemski 3' Layup (2 PTS) (Payton II 1 AST),Made Shot,Layup Shot,1,2,97
+0022400032,139,PT01M44.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-174,225,28,Made,1,30,32,62,h,Murphy III 28' 3PT Jump Shot (10 PTS) (Reeves 1 AST),Made Shot,Jump Shot,1,3,98
+0022400032,141,PT01M32.00S,1,1610612744,GSW,1627741,Hield,B. Hield,-43,251,25,Missed,1,,,0,v,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022400032,142,PT01M29.00S,1,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,100
+0022400032,143,PT01M14.00S,1,1610612740,NOP,1641810,Reeves,A. Reeves,237,100,26,Missed,1,,,0,h,MISS Reeves 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022400032,144,PT01M11.00S,1,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022400032,145,PT01M03.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III P.FOUL (P1.T3) (S.Jelks),Foul,Personal,1,0,103
+0022400032,147,PT01M03.00S,1,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,SUB: Payton FOR Reeves,Substitution,,0,0,104
+0022400032,149,PT00M54.80S,1,1610612744,GSW,1641764,Podziemski,B. Podziemski,-108,32,11,Made,1,30,34,64,v,Podziemski 11' Pullup Jump Shot (4 PTS) (Looney 1 AST),Made Shot,Pullup Jump shot,1,2,105
+0022400032,151,PT00M43.70S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,106
+0022400032,151,PT00M43.70S,1,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II STEAL (1 STL),,,1,0,107
+0022400032,153,PT00M32.70S,1,1610612744,GSW,1630228,Kuminga,J. Kuminga,32,146,15,Missed,1,,,0,v,MISS Kuminga 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,108
+0022400032,154,PT00M30.30S,1,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,109
+0022400032,156,PT00M12.30S,1,1610612740,NOP,203901,Payton,E. Payton,-32,100,10,Missed,1,,,0,h,MISS Payton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,110
+0022400032,157,PT00M11.90S,1,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,111
+0022400032,159,PT00M11.90S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,SUB: Green FOR Hawkins,Substitution,,0,0,112
+0022400032,160,PT00M11.90S,1,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Curry FOR Payton II,Substitution,,0,0,113
+0022400032,163,PT00M00.20S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,114
+0022400032,163,PT00M00.20S,1,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,115
+0022400032,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,34,64,,End of 1st Period (8:08 PM EST),period,end,1,0,116
+0022400032,172,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,34,64,,Start of 2nd Period (8:12 PM EST),period,start,0,0,117
+0022400032,173,PT11M43.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,-5,7,1,Made,1,30,36,66,v,Kuminga 1' Dunk (2 PTS) (Podziemski 2 AST),Made Shot,Dunk Shot,0,2,118
+0022400032,175,PT11M29.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,234,29,24,Missed,1,,,0,h,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,119
+0022400032,176,PT11M27.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,120
+0022400032,178,PT11M05.00S,2,1610612744,GSW,1627741,Hield,B. Hield,-227,123,26,Missed,1,,,0,v,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022400032,179,PT11M04.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,122
+0022400032,180,PT11M04.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,5,25,3,Made,1,30,38,68,v,Anderson 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,123
+0022400032,181,PT11M04.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,Hawkins S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,124
+0022400032,183,PT11M04.00S,2,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Robinson-Earl FOR Jemison,Substitution,,0,0,125
+0022400032,185,PT11M04.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,MISS Anderson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,126
+0022400032,186,PT11M01.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022400032,187,PT10M50.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-4,299,30,Made,1,33,38,71,h,Murphy III 30' 3PT Jump Shot (13 PTS) (Boston Jr. 1 AST),Made Shot,Jump Shot,1,3,128
+0022400032,189,PT10M36.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,129
+0022400032,189,PT10M36.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (1 STL),,,1,0,130
+0022400032,191,PT10M34.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,131
+0022400032,193,PT10M34.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,34,38,72,h,Hawkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,132
+0022400032,194,PT10M34.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,MISS Hawkins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,133
+0022400032,195,PT10M32.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0022400032,196,PT10M21.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,-53,252,26,Missed,1,,,0,v,MISS Kuminga 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,135
+0022400032,197,PT10M18.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+0022400032,198,PT10M01.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,49,79,9,Missed,1,,,0,h,MISS Murphy III 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,137
+0022400032,199,PT09M58.00S,2,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,138
+0022400032,200,PT09M55.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,-243,39,25,Missed,1,,,0,v,MISS Podziemski 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,139
+0022400032,201,PT09M52.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022400032,202,PT09M43.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,165,190,25,Missed,1,,,0,h,MISS Murphy III 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,141
+0022400032,203,PT09M39.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,142
+0022400032,204,PT09M37.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,6,22,2,Made,1,36,38,74,h,Murphy III 2' Driving Dunk (15 PTS) (Boston Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,143
+0022400032,206,PT09M36.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,144
+0022400032,208,PT09M19.00S,2,1610612744,GSW,1630541,Moody,M. Moody,235,46,24,Missed,1,,,0,v,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,145
+0022400032,209,PT09M19.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,146
+0022400032,211,PT09M15.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,147
+0022400032,212,PT09M05.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,12,22,3,Missed,1,,,0,h,MISS Robinson-Earl 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,148
+0022400032,212,PT09M05.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody BLOCK (1 BLK),,,1,2,149
+0022400032,214,PT09M05.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,150
+0022400032,216,PT08M54.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,-86,74,11,Missed,1,,,0,v,MISS Kuminga 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,151
+0022400032,217,PT08M49.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,152
+0022400032,218,PT08M37.00S,2,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,153
+0022400032,220,PT08M37.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,37,38,75,h,Robinson-Earl Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,154
+0022400032,221,PT08M37.00S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,SUB: Ingram FOR Payton,Substitution,,0,0,155
+0022400032,222,PT08M37.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Green FOR Murphy III,Substitution,,0,0,156
+0022400032,223,PT08M37.00S,2,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Wiggins FOR Hield,Substitution,,0,0,157
+0022400032,227,PT08M37.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,38,38,76,h,Robinson-Earl Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,158
+0022400032,228,PT08M24.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,Anderson Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,159
+0022400032,228,PT08M24.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl STEAL (1 STL),,,1,0,160
+0022400032,230,PT08M17.00S,2,1610612740,NOP,1629750,Green,J. Green,33,98,10,Made,1,40,38,78,h,Green 10' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,161
+0022400032,231,PT08M02.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,-157,222,27,Missed,1,,,0,v,MISS Podziemski 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+0022400032,232,PT07M59.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,163
+0022400032,233,PT07M58.00S,2,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,SUB: Curry FOR Kuminga,Substitution,,0,0,164
+0022400032,234,PT07M58.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Green FOR Podziemski,Substitution,,0,0,165
+0022400032,237,PT07M55.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Jump Ball Green vs. Moody: Tip to Ingram,Jump Ball,,1,0,166
+0022400032,240,PT07M45.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,230,77,24,Made,1,43,38,81,h,Hawkins 24' 3PT Jump Shot (4 PTS) (Green 2 AST),Made Shot,Jump Shot,1,3,167
+0022400032,242,PT07M32.00S,2,1610612744,GSW,203110,Green,D. Green,-37,248,25,Made,1,43,41,84,v,Green 25' 3PT Jump Shot (6 PTS) (Moody 1 AST),Made Shot,Jump Shot,1,3,168
+0022400032,244,PT07M16.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-1,13,1,Made,1,45,41,86,h,Robinson-Earl 1' Layup (4 PTS) (Boston Jr. 3 AST),Made Shot,Layup Shot,1,2,169
+0022400032,246,PT07M09.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green P.FOUL (P3.T2) (S.Wright),Foul,Personal,1,0,170
+0022400032,248,PT07M09.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,SUB: Murphy III FOR Green,Substitution,,0,0,171
+0022400032,249,PT07M09.00S,2,1610612744,GSW,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,SUB: Jackson-Davis FOR Anderson,Substitution,,0,0,172
+0022400032,252,PT07M03.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-2,63,6,Missed,1,,,0,v,MISS Wiggins 6' Layup,Missed Shot,Layup Shot,1,2,173
+0022400032,252,PT07M03.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (1 BLK),,,1,2,174
+0022400032,254,PT07M01.00S,2,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,175
+0022400032,256,PT06M56.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-4,18,2,Made,1,45,43,88,v,Wiggins 2' Dunk (15 PTS) (Green 2 AST),Made Shot,Dunk Shot,1,2,176
+0022400032,258,PT06M37.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,7,22,2,Missed,1,,,0,h,MISS Hawkins 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,177
+0022400032,258,PT06M37.00S,2,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis BLOCK (1 BLK),,,1,2,178
+0022400032,260,PT06M35.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,179
+0022400032,261,PT06M35.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,1,84,8,Missed,1,,,0,h,MISS Murphy III 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,180
+0022400032,262,PT06M35.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,181
+0022400032,264,PT06M31.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody P.FOUL (P2.T3) (K.Scott),Foul,Personal,1,0,182
+0022400032,266,PT06M21.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-1,22,2,Made,1,47,43,90,h,Ingram 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,183
+0022400032,267,PT06M11.00S,2,1610612744,GSW,203110,Green,D. Green,230,-10,0,Made,1,47,46,93,v,Green 3PT Jump Shot (9 PTS) (Curry 5 AST),Made Shot,Jump Shot,1,3,184
+0022400032,269,PT05M55.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P1.T4) (S.Jelks),Foul,Shooting,1,0,185
+0022400032,271,PT05M55.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,48,46,94,h,Boston Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,186
+0022400032,272,PT05M55.00S,2,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Waters III FOR Moody,Substitution,,0,0,187
+0022400032,274,PT05M55.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,49,46,95,h,Boston Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,188
+0022400032,275,PT05M43.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-162,199,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022400032,276,PT05M41.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,190
+0022400032,278,PT05M29.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-1,21,2,Made,1,51,46,97,h,Ingram 2' Driving Reverse Dunk Shot (10 PTS),Made Shot,Driving Reverse Dunk Shot,1,2,191
+0022400032,279,PT05M08.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-5,10,1,Missed,1,,,0,v,MISS Wiggins 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,192
+0022400032,280,PT05M02.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,193
+0022400032,281,PT05M02.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,Made,1,51,48,99,v,Wiggins Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,2,194
+0022400032,282,PT04M58.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. OFF.Foul (P1) (S.Jelks),Foul,Offensive,1,0,195
+0022400032,284,PT04M58.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,196
+0022400032,285,PT04M40.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl S.FOUL (P1.T3) (S.Jelks),Foul,Shooting,1,0,197
+0022400032,287,PT04M40.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,51,49,100,v,Wiggins Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,198
+0022400032,288,PT04M40.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,51,50,101,v,Wiggins Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022400032,289,PT04M27.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,200
+0022400032,289,PT04M27.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0,201
+0022400032,291,PT04M21.00S,2,1610612744,GSW,201939,Curry,S. Curry,192,184,27,Made,1,51,53,104,v,Curry 27' 3PT Running Jump Shot (8 PTS) (Wiggins 2 AST),Made Shot,Running Jump Shot,1,3,202
+0022400032,293,PT04M05.00S,2,1610612740,NOP,1630527,Boston,B. Boston,-55,159,17,Made,1,53,53,106,h,Boston Jr. 17' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,203
+0022400032,294,PT03M48.00S,2,1610612744,GSW,201939,Curry,S. Curry,92,167,19,Missed,1,,,0,v,MISS Curry 19' Jump Shot,Missed Shot,Jump Shot,1,2,204
+0022400032,295,PT03M46.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,205
+0022400032,296,PT03M31.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-10,21,2,Missed,1,,,0,h,MISS Murphy III 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,206
+0022400032,297,PT03M30.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022400032,298,PT03M30.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,2,19,2,Made,1,55,53,108,h,Robinson-Earl 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,208
+0022400032,299,PT03M28.00S,2,0,,1628228,,,0,0,0,,0,,,0,,Willie Green Foul:T.FOUL (K.Scott),Foul,Technical,1,0,209
+0022400032,300,PT03M28.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,55,54,109,v,Curry Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0,210
+0022400032,751,PT03M28.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,SUB: Payton FOR Hawkins,Substitution,,0,0,211
+0022400032,752,PT03M28.00S,2,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,212
+0022400032,303,PT03M17.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,-97,244,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,213
+0022400032,304,PT03M15.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,214
+0022400032,305,PT03M01.00S,2,1610612740,NOP,1630527,Boston,B. Boston,-70,257,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022400032,306,PT02M55.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,216
+0022400032,307,PT02M48.00S,2,1610612744,GSW,201939,Curry,S. Curry,-159,21,16,Missed,1,,,0,v,MISS Curry 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,217
+0022400032,308,PT02M41.00S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,218
+0022400032,309,PT02M38.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,15,6,2,Made,1,57,54,111,h,Robinson-Earl 2' Cutting Layup Shot (8 PTS) (Murphy III 2 AST),Made Shot,Cutting Layup Shot,1,2,219
+0022400032,311,PT02M17.00S,2,1610612744,GSW,203110,Green,D. Green,-235,22,24,Missed,1,,,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022400032,312,PT02M15.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,221
+0022400032,314,PT02M15.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,222
+0022400032,317,PT02M15.00S,2,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Kuminga FOR Wiggins,Substitution,,0,0,223
+0022400032,318,PT02M15.00S,2,1610612744,GSW,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,SUB: Podziemski FOR Waters III,Substitution,,0,0,224
+0022400032,321,PT01M52.00S,2,1610612740,NOP,1630527,Boston,B. Boston,91,8,9,Made,1,59,54,113,h,Boston Jr. 9' Turnaround Fadeaway (8 PTS) (Murphy III 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,225
+0022400032,323,PT01M33.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,226
+0022400032,324,PT01M19.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-238,13,24,Missed,1,,,0,h,MISS Robinson-Earl 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022400032,325,PT01M16.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,228
+0022400032,326,PT01M03.00S,2,1610612744,GSW,201939,Curry,S. Curry,-152,218,27,Made,1,59,57,116,v,Curry 27' 3PT Jump Shot (12 PTS) (Green 3 AST),Made Shot,Jump Shot,1,3,229
+0022400032,328,PT00M38.10S,2,1610612740,NOP,1630527,Boston,B. Boston,6,114,11,Made,1,61,57,118,h,Boston Jr. 11' Jump Shot (10 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,2,230
+0022400032,330,PT00M30.00S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,12,36,4,Missed,1,,,0,v,MISS Podziemski 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,231
+0022400032,330,PT00M30.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (2 BLK),,,1,2,232
+0022400032,332,PT00M29.40S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,233
+0022400032,333,PT00M29.40S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,-4,32,3,Made,1,61,59,120,v,Podziemski 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,234
+0022400032,334,PT00M29.40S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0,235
+0022400032,336,PT00M29.40S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,61,60,121,v,Podziemski Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,236
+0022400032,337,PT00M13.20S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,237
+0022400032,337,PT00M13.20S,2,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II STEAL (2 STL),,,1,0,238
+0022400032,339,PT00M09.70S,2,1610612744,GSW,1627780,Payton II,G. Payton II,11,17,2,Missed,1,,,0,v,MISS Payton II 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,239
+0022400032,340,PT00M06.20S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,240
+0022400032,341,PT00M06.20S,2,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,Made,1,61,62,123,v,Podziemski Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,241
+0022400032,342,PT00M01.00S,2,1610612740,NOP,203901,Payton,E. Payton,13,41,4,Missed,1,,,0,h,MISS Payton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,242
+0022400032,343,PT00M01.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,243
+0022400032,344,PT00M00.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,Made,1,63,62,125,h,Robinson-Earl Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,244
+0022400032,345,PT00M00.00S,2,0,,344,Barros,D. Barros,0,0,0,,0,63,62,125,,Instant Replay2nd Period (8:41 PM EST),Instant Replay,Support Ruling,0,0,245
+0022400032,346,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,62,125,,End of 2nd Period (8:45 PM EST),period,end,1,0,246
+0022400032,357,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,62,125,,Start of 3rd Period (8:57 PM EST),period,start,0,0,247
+0022400032,358,PT11M49.00S,3,1610612744,GSW,201939,Curry,S. Curry,-94,243,26,Missed,1,,,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022400032,359,PT11M46.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,0,0,249
+0022400032,361,PT11M23.00S,3,1610612740,NOP,203901,Payton,E. Payton,-4,73,7,Missed,1,,,0,h,MISS Payton 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,250
+0022400032,362,PT11M20.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,251
+0022400032,363,PT11M18.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,1,0,252
+0022400032,365,PT11M18.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,63,63,126,v,Jackson-Davis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+0022400032,366,PT11M18.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,MISS Jackson-Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,254
+0022400032,367,PT11M16.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,255
+0022400032,368,PT11M06.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,256
+0022400032,369,PT10M49.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,-13,31,3,Missed,1,,,0,v,MISS Jackson-Davis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,257
+0022400032,369,PT10M49.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis BLOCK (3 BLK),,,1,2,258
+0022400032,371,PT10M43.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,259
+0022400032,372,PT10M37.00S,3,1610612740,NOP,1629750,Green,J. Green,135,212,25,Missed,1,,,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022400032,373,PT10M35.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,261
+0022400032,374,PT10M21.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,262
+0022400032,375,PT10M01.00S,3,1610612740,NOP,1629750,Green,J. Green,-15,48,5,Made,1,65,63,128,h,Green 5' Fadeaway Jumper (11 PTS) (Ingram 4 AST),Made Shot,Fadeaway Jump Shot,1,2,263
+0022400032,377,PT09M47.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,10,45,5,Made,1,65,65,130,v,Wiggins 5' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,264
+0022400032,378,PT09M35.00S,3,1610612740,NOP,1628464,Theis,D. Theis,32,138,14,Missed,1,,,0,h,MISS Theis 14' Jump Shot,Missed Shot,Jump Shot,1,2,265
+0022400032,379,PT09M32.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,266
+0022400032,380,PT09M24.00S,3,1610612744,GSW,201939,Curry,S. Curry,13,100,10,Missed,1,,,0,v,MISS Curry 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,267
+0022400032,380,PT09M24.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III BLOCK (1 BLK),,,1,2,268
+0022400032,381,PT09M21.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,269
+0022400032,382,PT09M15.00S,3,1610612740,NOP,203901,Payton,E. Payton,6,106,11,Made,1,67,65,132,h,Payton 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,270
+0022400032,383,PT08M58.00S,3,1610612744,GSW,1630322,Waters III,L. Waters III,152,222,27,Missed,1,,,0,v,MISS Waters III 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022400032,384,PT08M55.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,272
+0022400032,385,PT08M46.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,25,17,3,Missed,1,,,0,h,MISS Murphy III 3' Layup,Missed Shot,Layup Shot,1,2,273
+0022400032,386,PT08M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,274
+0022400032,387,PT08M43.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton S.FOUL (P2.T2) (S.Wright),Foul,Shooting,1,0,275
+0022400032,389,PT08M43.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,67,66,133,v,Wiggins Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0022400032,390,PT08M43.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,67,67,134,v,Wiggins Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+0022400032,391,PT08M18.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,278
+0022400032,392,PT08M10.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,279
+0022400032,392,PT08M10.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,0,280
+0022400032,394,PT08M07.00S,3,1610612740,NOP,1629750,Green,J. Green,4,7,1,Made,1,69,67,136,h,Green 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,281
+0022400032,395,PT07M45.00S,3,1610612744,GSW,1630322,Waters III,L. Waters III,-200,167,26,Missed,1,,,0,v,MISS Waters III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022400032,396,PT07M41.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,283
+0022400032,397,PT07M40.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,232,9,0,Missed,1,,,0,v,MISS Jackson-Davis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+0022400032,398,PT07M40.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,285
+0022400032,400,PT07M39.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,286
+0022400032,401,PT07M23.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-225,86,24,Missed,1,,,0,h,MISS Ingram 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022400032,402,PT07M20.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,288
+0022400032,403,PT07M09.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,9,-2,1,Made,1,69,69,138,v,Jackson-Davis 1' Cutting Dunk Shot (5 PTS) (Curry 6 AST),Made Shot,Cutting Dunk Shot,1,2,289
+0022400032,405,PT06M56.00S,3,1610612740,NOP,1629750,Green,J. Green,230,-9,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022400032,406,PT06M53.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,291
+0022400032,407,PT06M46.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,292
+0022400032,408,PT06M46.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,293
+0022400032,410,PT06M46.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,SUB: Boston Jr. FOR Payton,Substitution,,0,0,294
+0022400032,411,PT06M46.00S,3,1610612744,GSW,1630322,Waters III,L. Waters III,0,0,0,,0,,,0,v,SUB: Moody FOR Waters III,Substitution,,0,0,295
+0022400032,412,PT06M46.00S,3,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,296
+0022400032,416,PT06M27.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,-233,10,0,Missed,1,,,0,h,MISS Murphy III 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0022400032,417,PT06M23.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,298
+0022400032,418,PT06M21.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,132,20,13,Made,1,71,69,140,h,Ingram 13' Fadeaway Jumper (12 PTS) (Theis 2 AST),Made Shot,Fadeaway Jump Shot,1,2,299
+0022400032,420,PT06M06.00S,3,1610612744,GSW,201939,Curry,S. Curry,179,210,28,Made,1,71,72,143,v,Curry 28' 3PT Pullup Jump Shot (15 PTS) (Wiggins 3 AST),Made Shot,Pullup Jump shot,1,3,300
+0022400032,422,PT05M48.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,212,133,25,Missed,1,,,0,h,MISS Murphy III 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022400032,423,PT05M43.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,302
+0022400032,424,PT05M41.00S,3,1610612744,GSW,1630541,Moody,M. Moody,22,8,2,Made,1,71,74,145,v,Moody 2' Running Reverse Layup (2 PTS) (Curry 7 AST),Made Shot,Running Reverse Layup Shot,1,2,303
+0022400032,426,PT05M41.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram S.FOUL (P2.T3) (K.Scott),Foul,Shooting,1,0,304
+0022400032,428,PT05M41.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Reeves FOR Murphy III,Substitution,,0,0,305
+0022400032,430,PT05M41.00S,3,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,71,75,146,v,Moody Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,306
+0022400032,431,PT05M14.00S,3,1610612740,NOP,1630527,Boston,B. Boston,-103,237,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022400032,432,PT05M13.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,Reeves REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,308
+0022400032,433,PT05M04.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,102,128,16,Missed,1,,,0,h,MISS Ingram 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,309
+0022400032,434,PT05M03.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,310
+0022400032,435,PT05M03.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,Green P.FOUL (P4.T4) (K.Scott),Foul,Personal,1,0,311
+0022400032,437,PT05M03.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,SUB: Robinson-Earl FOR Green,Substitution,,0,0,312
+0022400032,439,PT04M52.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis P.FOUL (P2.PN) (S.Jelks),Foul,Personal,1,0,313
+0022400032,441,PT04M52.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,71,76,147,v,Curry Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+0022400032,442,PT04M52.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,SUB: Looney FOR Green,Substitution,,0,0,315
+0022400032,444,PT04M52.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,71,77,148,v,Curry Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022400032,445,PT04M44.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,Payton II P.FOUL (P1.T1) (K.Scott),Foul,Personal,1,0,317
+0022400032,447,PT04M44.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Jemison FOR Theis,Substitution,,0,0,318
+0022400032,448,PT04M44.00S,3,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Kuminga FOR Wiggins,Substitution,,0,0,319
+0022400032,451,PT04M33.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,31,257,26,Made,1,74,77,151,h,Ingram 26' 3PT Jump Shot (15 PTS) (Boston Jr. 4 AST),Made Shot,Jump Shot,1,3,320
+0022400032,453,PT04M21.00S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,230,40,0,Missed,1,,,0,v,MISS Kuminga 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022400032,454,PT04M19.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,322
+0022400032,455,PT04M15.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,232,6,0,Missed,1,,,0,h,MISS Reeves 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,323
+0022400032,456,PT04M09.00S,3,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,324
+0022400032,457,PT04M07.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney P.FOUL (P1.T2) (K.Scott),Foul,Personal,1,0,325
+0022400032,459,PT03M57.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P2.T3) (K.Scott),Foul,Personal,1,0,326
+0022400032,461,PT03M44.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,-5,16,2,Missed,1,,,0,h,MISS Reeves 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,327
+0022400032,462,PT03M44.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,Reeves REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,328
+0022400032,463,PT03M44.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney S.FOUL (P2.T4) (S.Wright),Foul,Shooting,1,0,329
+0022400032,465,PT03M44.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,75,77,152,h,Reeves Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022400032,466,PT03M44.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,MISS Reeves Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,331
+0022400032,467,PT03M42.00S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,332
+0022400032,468,PT03M28.00S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,26,17,3,Made,1,75,79,154,v,Kuminga 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,333
+0022400032,469,PT03M12.00S,3,1610612740,NOP,1630527,Boston,B. Boston,-40,196,20,Missed,1,,,0,h,MISS Boston Jr. 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,334
+0022400032,469,PT03M12.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry BLOCK (1 BLK),,,1,2,335
+0022400032,471,PT03M11.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,336
+0022400032,472,PT03M09.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P3.PN) (S.Wright),Foul,Personal,1,0,337
+0022400032,474,PT03M09.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,338
+0022400032,475,PT03M09.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,339
+0022400032,476,PT03M09.00S,3,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,340
+0022400032,477,PT03M09.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Murphy III FOR Ingram,Substitution,,0,0,341
+0022400032,478,PT03M09.00S,3,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Hield FOR Payton II,Substitution,,0,0,342
+0022400032,479,PT03M09.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Podziemski FOR Curry,Substitution,,0,0,343
+0022400032,483,PT03M09.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,76,79,155,h,Boston Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,344
+0022400032,484,PT02M57.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,345
+0022400032,484,PT02M57.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl STEAL (2 STL),,,1,0,346
+0022400032,486,PT02M54.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-10,8,1,Missed,1,,,0,h,MISS Robinson-Earl 1' Running Layup,Missed Shot,Running Layup Shot,1,2,347
+0022400032,486,PT02M54.00S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga BLOCK (1 BLK),,,1,2,348
+0022400032,488,PT02M50.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+0022400032,489,PT02M45.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,Reeves S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,0,350
+0022400032,491,PT02M45.00S,3,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,76,80,156,v,Hield Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+0022400032,492,PT02M45.00S,3,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,SUB: Hawkins FOR Reeves,Substitution,,0,0,352
+0022400032,494,PT02M45.00S,3,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,76,81,157,v,Hield Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022400032,495,PT02M33.00S,3,1610612740,NOP,1630527,Boston,B. Boston,-36,-4,4,Missed,1,,,0,h,MISS Boston Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,354
+0022400032,496,PT02M31.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,355
+0022400032,497,PT02M22.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,10,101,10,Missed,1,,,0,h,MISS Hawkins 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+0022400032,498,PT02M15.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,357
+0022400032,499,PT01M58.00S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,120,226,26,Missed,1,,,0,v,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022400032,500,PT01M54.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,359
+0022400032,501,PT01M51.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,5,20,2,Made,1,78,81,159,h,Murphy III 2' Running Dunk (17 PTS) (Boston Jr. 5 AST),Made Shot,Running Dunk Shot,1,2,360
+0022400032,503,PT01M26.00S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,114,142,18,Missed,1,,,0,v,MISS Kuminga 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,361
+0022400032,504,PT01M22.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,362
+0022400032,505,PT01M22.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,Made,1,78,83,161,v,Looney Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,363
+0022400032,507,PT00M57.70S,3,1610612740,NOP,1641998,Jemison III,T. Jemison III,15,10,2,Made,1,80,83,163,h,Jemison 2' Driving Layup (2 PTS) (Boston Jr. 6 AST),Made Shot,Driving Layup Shot,1,2,364
+0022400032,509,PT00M57.70S,3,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,0,365
+0022400032,511,PT00M57.70S,3,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,MISS Jemison Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,366
+0022400032,512,PT00M55.80S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,367
+0022400032,513,PT00M47.60S,3,1610612744,GSW,1630228,Kuminga,J. Kuminga,20,8,2,Made,1,80,85,165,v,Kuminga 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,368
+0022400032,514,PT00M47.60S,3,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (S.Wright),Violation,Defensive Goaltending,1,0,369
+0022400032,515,PT00M36.50S,3,1610612740,NOP,1630527,Boston,B. Boston,109,133,17,Made,1,82,85,167,h,Boston Jr. 17' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,370
+0022400032,516,PT00M31.40S,3,1610612744,GSW,1626172,Looney,K. Looney,25,10,3,Made,1,82,87,169,v,Looney 3' Reverse Layup (4 PTS) (Kuminga 1 AST),Made Shot,Reverse Layup Shot,1,2,371
+0022400032,518,PT00M08.80S,3,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield S.FOUL (P3.PN) (K.Scott),Foul,Shooting,1,0,372
+0022400032,520,PT00M08.80S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,83,87,170,h,Robinson-Earl Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022400032,521,PT00M08.80S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,84,87,171,h,Robinson-Earl Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022400032,522,PT00M02.20S,3,1610612744,GSW,1641764,Podziemski,B. Podziemski,186,185,26,Missed,1,,,0,v,MISS Podziemski 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022400032,523,PT00M02.20S,3,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,376
+0022400032,524,PT00M00.00S,3,0,,0,,,0,0,0,,0,84,87,171,,End of 3rd Period (9:27 PM EST),period,end,1,0,377
+0022400032,529,PT12M00.00S,4,0,,0,,,0,0,0,,0,84,87,171,,Start of 4th Period (9:30 PM EST),period,start,0,0,378
+0022400032,530,PT11M39.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,103,118,16,Made,1,86,87,173,h,Hawkins 16' Pullup Jump Shot (6 PTS) (Payton 3 AST),Made Shot,Pullup Jump shot,1,2,379
+0022400032,532,PT11M29.00S,4,1610612744,GSW,1630541,Moody,M. Moody,207,41,21,Missed,1,,,0,v,MISS Moody 21' Jump Shot,Missed Shot,Jump Shot,1,2,380
+0022400032,533,PT11M26.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,381
+0022400032,534,PT11M22.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,29,103,11,Made,1,86,89,175,v,Podziemski 11' Floating Jump Shot (11 PTS) (Looney 2 AST),Made Shot,Floating Jump shot,1,2,382
+0022400032,535,PT11M06.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,-44,249,25,Missed,1,,,0,h,MISS Hawkins 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,383
+0022400032,536,PT11M04.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,1,0,384
+0022400032,537,PT11M04.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,1,0,385
+0022400032,539,PT10M48.00S,4,1610612744,GSW,1627741,Hield,B. Hield,5,31,3,Made,1,86,91,177,v,Hield 3' Driving Layup (7 PTS) (Kuminga 2 AST),Made Shot,Driving Layup Shot,1,2,386
+0022400032,541,PT10M32.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,387
+0022400032,542,PT10M25.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.T2) (K.Scott),Foul,Shooting,1,0,388
+0022400032,545,PT10M25.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,389
+0022400032,546,PT10M25.00S,4,0,,542,,,0,0,0,,0,86,91,177,,Instant Replay4th Period (9:33 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,390
+0022400032,548,PT10M25.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Theis FOR Jemison,Substitution,,0,0,391
+0022400032,550,PT10M25.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,MISS Kuminga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,392
+0022400032,551,PT10M25.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0,393
+0022400032,552,PT10M25.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,86,92,178,v,Kuminga Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022400032,553,PT10M13.00S,4,1610612740,NOP,1628464,Theis,D. Theis,-4,123,12,Missed,1,,,0,h,MISS Theis 12' Jump Shot,Missed Shot,Jump Shot,1,2,395
+0022400032,554,PT10M11.00S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,396
+0022400032,555,PT10M04.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,397
+0022400032,555,PT10M04.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,Hawkins STEAL (1 STL),,,1,0,398
+0022400032,557,PT09M58.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,172,210,27,Missed,1,,,0,h,MISS Hawkins 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,399
+0022400032,558,PT09M54.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,400
+0022400032,559,PT09M48.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,31,52,6,Missed,1,,,0,v,MISS Kuminga 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,401
+0022400032,559,PT09M48.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,Hawkins BLOCK (1 BLK),,,1,2,402
+0022400032,561,PT09M48.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,403
+0022400032,562,PT09M48.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,Kuminga L.B.FOUL (P1.T1) (S.Jelks),Foul,Loose Ball,1,0,404
+0022400032,564,PT09M24.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,-27,53,6,Missed,1,,,0,h,MISS Hawkins 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,405
+0022400032,565,PT09M20.00S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,406
+0022400032,566,PT09M11.00S,4,1610612744,GSW,1627741,Hield,B. Hield,-103,225,25,Missed,1,,,0,v,MISS Hield 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,407
+0022400032,567,PT09M09.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Unknown,1,0,408
+0022400032,569,PT09M09.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,SUB: Boston Jr. FOR Payton,Substitution,,0,0,409
+0022400032,570,PT09M09.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,SUB: Ingram FOR Murphy III,Substitution,,0,0,410
+0022400032,573,PT08M46.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,154,222,27,Made,1,89,92,181,h,Ingram 27' 3PT Jump Shot (18 PTS) (Boston Jr. 7 AST),Made Shot,Jump Shot,1,3,411
+0022400032,575,PT08M28.00S,4,1610612744,GSW,1630541,Moody,M. Moody,235,32,24,Missed,1,,,0,v,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+0022400032,576,PT08M24.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,413
+0022400032,577,PT08M08.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,-184,170,25,Missed,1,,,0,h,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022400032,578,PT08M03.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,Hawkins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,415
+0022400032,579,PT07M59.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,81,248,26,Missed,1,,,0,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022400032,580,PT07M56.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,417
+0022400032,581,PT07M52.00S,4,1610612744,GSW,1627741,Hield,B. Hield,-211,126,25,Made,1,89,95,184,v,Hield 25' 3PT Running Jump Shot (10 PTS) (Podziemski 3 AST),Made Shot,Running Jump Shot,1,3,418
+0022400032,583,PT07M28.00S,4,1610612740,NOP,1628464,Theis,D. Theis,-74,263,27,Missed,1,,,0,h,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022400032,584,PT07M24.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,420
+0022400032,585,PT07M18.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,22,37,4,Missed,1,,,0,v,MISS Kuminga 4' Running Layup,Missed Shot,Running Layup Shot,1,2,421
+0022400032,586,PT07M16.00S,4,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,422
+0022400032,587,PT07M08.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,225,6,0,Missed,1,,,0,h,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022400032,588,PT07M05.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,Looney REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,424
+0022400032,589,PT06M57.00S,4,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis P.FOUL (P3.T3) (K.Scott),Foul,Personal,1,0,425
+0022400032,591,PT06M57.00S,4,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Green FOR Theis,Substitution,,0,0,426
+0022400032,592,PT06M57.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,,,0,h,SUB: Robinson-Earl FOR Reeves,Substitution,,0,0,427
+0022400032,593,PT06M57.00S,4,1610612744,GSW,1630228,Kuminga,J. Kuminga,0,0,0,,0,,,0,v,SUB: Green FOR Kuminga,Substitution,,0,0,428
+0022400032,594,PT06M57.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Wiggins FOR Podziemski,Substitution,,0,0,429
+0022400032,595,PT06M57.00S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Curry FOR Moody,Substitution,,0,0,430
+0022400032,596,PT06M57.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,v,SUB: Jackson-Davis FOR Looney,Substitution,,0,0,431
+0022400032,603,PT06M51.00S,4,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,18,19,3,Made,1,89,97,186,v,Jackson-Davis 3' Cutting Dunk Shot (7 PTS) (Wiggins 4 AST),Made Shot,Cutting Dunk Shot,1,2,432
+0022400032,605,PT06M51.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,433
+0022400032,606,PT06M32.00S,4,1610612740,NOP,1629750,Green,J. Green,12,15,2,Missed,1,,,0,h,MISS Green 2' Layup,Missed Shot,Layup Shot,1,2,434
+0022400032,608,PT06M29.00S,4,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,Jackson-Davis REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,435
+0022400032,609,PT06M24.00S,4,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,7,31,3,Made,1,89,99,188,v,Jackson-Davis 3' Running Layup (9 PTS) (Green 4 AST),Made Shot,Running Layup Shot,1,2,436
+0022400032,611,PT06M08.00S,4,1610612740,NOP,1629750,Green,J. Green,-16,8,2,Made,1,91,99,190,h,Green 2' Driving Layup (15 PTS) (Ingram 5 AST),Made Shot,Driving Layup Shot,1,2,437
+0022400032,613,PT06M08.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green S.FOUL (P2.T2) (K.Scott),Foul,Shooting,1,0,438
+0022400032,615,PT06M08.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,,,0,h,SUB: Murphy III FOR Hawkins,Substitution,,0,0,439
+0022400032,617,PT06M08.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,440
+0022400032,618,PT06M06.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,441
+0022400032,619,PT05M48.00S,4,1610612744,GSW,1627741,Hield,B. Hield,-137,204,25,Missed,1,,,0,v,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022400032,620,PT05M45.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,443
+0022400032,621,PT05M28.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,86,252,27,Made,1,94,99,193,h,Robinson-Earl 27' 3PT Jump Shot (15 PTS) (Ingram 6 AST),Made Shot,Jump Shot,1,3,444
+0022400032,623,PT05M13.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,-69,117,14,Made,1,94,101,195,v,Wiggins 14' Driving Floating Jump Shot (25 PTS),Made Shot,Driving Floating Jump Shot,1,2,445
+0022400032,624,PT05M13.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl S.FOUL (P2.T4) (S.Jelks),Foul,Shooting,1,0,446
+0022400032,626,PT05M13.00S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Podziemski FOR Hield,Substitution,,0,0,447
+0022400032,628,PT05M13.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,,,0,h,SUB: Payton FOR Green,Substitution,,0,0,448
+0022400032,630,PT05M13.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,94,102,196,v,Wiggins Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,449
+0022400032,631,PT04M59.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,32,260,26,Missed,1,,,0,h,MISS Robinson-Earl 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+0022400032,632,PT04M55.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,451
+0022400032,633,PT04M43.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,238,20,24,Missed,1,,,0,v,MISS Podziemski 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022400032,634,PT04M40.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,453
+0022400032,635,PT04M30.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-12,12,2,Missed,1,,,0,h,MISS Ingram 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,454
+0022400032,636,PT04M23.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,455
+0022400032,637,PT04M23.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,Made,1,96,102,198,h,Robinson-Earl Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,2,456
+0022400032,638,PT04M06.00S,4,1610612744,GSW,201939,Curry,S. Curry,218,117,25,Missed,1,,,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022400032,639,PT04M03.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,458
+0022400032,640,PT03M58.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-99,257,28,Missed,1,,,0,h,MISS Ingram 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,459
+0022400032,641,PT03M54.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,460
+0022400032,642,PT03M51.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,461
+0022400032,643,PT03M51.00S,4,1610612744,GSW,1631218,Jackson-Davis,T. Jackson-Davis,0,0,0,,0,,,0,v,SUB: Payton II FOR Jackson-Davis,Substitution,,0,0,462
+0022400032,645,PT03M38.00S,4,1610612744,GSW,201939,Curry,S. Curry,43,74,9,Missed,1,,,0,v,MISS Curry 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,463
+0022400032,646,PT03M37.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,464
+0022400032,647,PT03M30.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,-34,206,21,Missed,1,,,0,v,MISS Wiggins 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,465
+0022400032,648,PT03M26.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,466
+0022400032,649,PT03M17.00S,4,1610612740,NOP,1630527,Boston,B. Boston,235,0,24,Made,1,99,102,201,h,Boston Jr. 24' 3PT Jump Shot (16 PTS) (Payton 4 AST),Made Shot,Jump Shot,1,3,467
+0022400032,651,PT02M53.00S,4,1610612744,GSW,201939,Curry,S. Curry,-7,1,1,Made,1,99,104,203,v,Curry 1' Reverse Layup (19 PTS) (Green 5 AST),Made Shot,Reverse Layup Shot,1,2,468
+0022400032,653,PT02M32.00S,4,1610612740,NOP,1630527,Boston,B. Boston,235,7,24,Missed,1,,,0,h,MISS Boston Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,469
+0022400032,654,PT02M29.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,470
+0022400032,655,PT02M26.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,471
+0022400032,656,PT02M11.00S,4,1610612740,NOP,203901,Payton,E. Payton,56,32,6,Missed,1,,,0,h,MISS Payton 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,472
+0022400032,657,PT02M08.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,Podziemski REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,473
+0022400032,658,PT01M59.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,Murphy III P.FOUL (P2.PN) (S.Wright),Foul,Personal,1,0,474
+0022400032,660,PT01M59.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,99,105,204,v,Wiggins Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+0022400032,661,PT01M59.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Moody FOR Podziemski,Substitution,,0,0,476
+0022400032,663,PT01M59.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,99,106,205,v,Wiggins Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+0022400032,664,PT01M40.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,478
+0022400032,664,PT01M40.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green STEAL (1 STL),,,1,0,479
+0022400032,666,PT01M28.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0,480
+0022400032,666,PT01M28.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton STEAL (2 STL),,,1,0,481
+0022400032,668,PT01M27.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,482
+0022400032,670,PT01M27.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,100,106,206,h,Murphy III Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,483
+0022400032,671,PT01M27.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,,,0,h,MISS Murphy III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,484
+0022400032,672,PT01M24.00S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,485
+0022400032,673,PT01M12.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,0,486
+0022400032,675,PT01M12.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,100,107,207,v,Wiggins Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022400032,676,PT01M12.00S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,100,108,208,v,Wiggins Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0022400032,677,PT01M01.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-124,221,25,Made,1,103,108,211,h,Murphy III 25' 3PT Pullup Jump Shot (21 PTS) (Robinson-Earl 1 AST),Made Shot,Pullup Jump shot,1,3,489
+0022400032,679,PT00M42.20S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,490
+0022400032,679,PT00M42.20S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton STEAL (3 STL),,,1,0,491
+0022400032,681,PT00M35.50S,4,1610612744,GSW,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P4.PN) (S.Wright),Foul,Personal,1,0,492
+0022400032,683,PT00M35.50S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,493
+0022400032,684,PT00M35.50S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Rebound,Rebound,Normal Rebound,1,0,494
+0022400032,685,PT00M35.50S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Hield FOR Payton II,Substitution,,0,0,495
+0022400032,687,PT00M35.50S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,496
+0022400032,688,PT00M33.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,497
+0022400032,689,PT00M31.10S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. P.FOUL (P3.PN) (K.Scott),Foul,Personal,1,0,498
+0022400032,691,PT00M31.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,499
+0022400032,692,PT00M31.10S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Normal Rebound,0,0,500
+0022400032,693,PT00M31.10S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Payton II FOR Moody,Substitution,,0,0,501
+0022400032,694,PT00M31.10S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Podziemski FOR Hield,Substitution,,0,0,502
+0022400032,697,PT00M31.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,503
+0022400032,698,PT00M27.50S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,504
+0022400032,699,PT00M20.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-206,16,21,Made,1,105,108,213,h,Robinson-Earl 21' Jump Shot (19 PTS) (Murphy III 4 AST),Made Shot,Jump Shot,1,2,505
+0022400032,701,PT00M20.00S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,506
+0022400032,702,PT00M20.00S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Hield FOR Payton II,Substitution,,0,0,507
+0022400032,703,PT00M20.00S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Moody FOR Podziemski,Substitution,,0,0,508
+0022400032,706,PT00M18.50S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. P.FOUL (P4.PN) (K.Scott),Foul,Personal,1,0,509
+0022400032,708,PT00M18.50S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,105,109,214,v,Hield Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,510
+0022400032,709,PT00M18.50S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,SUB: Jemison FOR Payton,Substitution,,0,0,511
+0022400032,710,PT00M18.50S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Payton II FOR Moody,Substitution,,0,0,512
+0022400032,713,PT00M18.50S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,105,110,215,v,Hield Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,513
+0022400032,714,PT00M18.50S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,514
+0022400032,715,PT00M18.50S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Payton FOR Jemison,Substitution,,0,0,515
+0022400032,716,PT00M18.50S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Podziemski FOR Hield,Substitution,,0,0,516
+0022400032,719,PT00M14.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-119,244,27,Made,1,108,110,218,h,Murphy III 27' 3PT Jump Shot (24 PTS) (Ingram 7 AST),Made Shot,Jump Shot,1,3,517
+0022400032,721,PT00M11.80S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,518
+0022400032,723,PT00M11.80S,4,1610612744,GSW,1627780,Payton II,G. Payton II,0,0,0,,0,,,0,v,SUB: Hield FOR Payton II,Substitution,,0,0,519
+0022400032,724,PT00M11.80S,4,1610612744,GSW,1641764,Podziemski,B. Podziemski,0,0,0,,0,,,0,v,SUB: Moody FOR Podziemski,Substitution,,0,0,520
+0022400032,727,PT00M10.60S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,521
+0022400032,727,PT00M10.60S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (2 STL),,,1,0,522
+0022400032,729,PT00M04.70S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-163,257,30,Missed,1,,,0,h,MISS Murphy III 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,523
+0022400032,730,PT00M02.90S,4,0,,1610612744,,,0,0,0,,0,,,0,v,Warriors Rebound,Rebound,Unknown,0,0,524
+0022400032,731,PT00M02.90S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl L.B.FOUL (P3.PN) (K.Scott),Foul,Loose Ball,1,0,525
+0022400032,743,PT00M02.90S,4,0,,1610612740,,,0,0,0,,0,,,0,h,PELICANS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,526
+0022400032,733,PT00M02.90S,4,0,,731,Ostertag,G. Ostertag,0,0,0,,0,108,110,218,,Instant Replay4th Period (10:08 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,527
+0022400032,734,PT00M02.90S,4,1610612744,GSW,1630541,Moody,M. Moody,0,0,0,,0,,,0,v,SUB: Podziemski FOR Moody,Substitution,,0,0,528
+0022400032,736,PT00M02.90S,4,1610612744,GSW,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Moody FOR Hield,Substitution,,0,0,529
+0022400032,738,PT00M02.90S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,108,111,219,v,Green Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,530
+0022400032,739,PT00M02.90S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,531
+0022400032,740,PT00M02.90S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,Green REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,532
+0022400032,741,PT00M00.40S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,,,0,h,Payton P.FOUL (P3.PN) (S.Jelks),Foul,Personal,1,0,533
+0022400032,744,PT00M00.40S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,108,112,220,v,Green Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,534
+0022400032,745,PT00M00.40S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,535
+0022400032,746,PT00M00.40S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,,,0,h,Robinson-Earl REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,536
+0022400032,747,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,112,220,,End of 4th Period (10:12 PM EST),period,end,1,0,537

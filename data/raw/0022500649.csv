@@ -1,0 +1,583 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500649,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:42 PM EST),period,start,1,0,1
+0022500649,4,PT12M00.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Jump Ball Nurkic vs. Adebayo: Tip to Mykhailiuk,Jump Ball,,1,0,2
+0022500649,7,PT11M46.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,-45,68,8,Made,1,2,0,2,h,Nurkic 8' Driving Hook Shot (2 PTS) (Bailey 1 AST),Made Shot,Driving Hook Shot,1,2,3
+0022500649,9,PT11M31.00S,1,1610612748,MIA,1626181,Powell,N. Powell,-31,229,23,Missed,1,,,0,v,MISS Powell 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,4
+0022500649,10,PT11M29.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022500649,11,PT11M20.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,-42,138,14,Made,1,4,0,4,h,Bailey 14' Pullup Jump Shot (2 PTS) (Nurkic 1 AST),Made Shot,Pullup Jump shot,1,2,6
+0022500649,12,PT11M08.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,60,250,26,Missed,1,,,0,v,MISS Jakucionis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022500649,13,PT11M07.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022500649,14,PT11M07.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,Made,1,4,2,6,v,Larsson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,9
+0022500649,15,PT10M54.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Violation:Kicked Ball (B.Schwab),Violation,Kicked Ball,0,0,10
+0022500649,17,PT10M51.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,16,10,2,Made,1,6,2,8,h,Bailey 2' Cutting Layup Shot (4 PTS) (George 1 AST),Made Shot,Cutting Layup Shot,1,2,11
+0022500649,19,PT10M43.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,-31,10,3,Made,1,6,4,10,v,Larsson 3' Cutting Layup Shot (4 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,1,2,12
+0022500649,21,PT10M33.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,0,13
+0022500649,23,PT10M29.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,0,14
+0022500649,25,PT10M20.00S,1,1610612762,UTA,1641718,George,K. George,11,94,9,Missed,1,,,0,h,MISS George 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,15
+0022500649,26,PT10M18.00S,1,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022500649,27,PT10M13.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,20,24,3,Missed,1,,,0,v,MISS Jakucionis 3' Running Layup,Missed Shot,Running Layup Shot,1,2,17
+0022500649,27,PT10M13.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,2,18
+0022500649,29,PT10M12.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022500649,30,PT10M06.00S,1,1610612762,UTA,1641718,George,K. George,-33,2,3,Made,1,8,4,12,h,George 3' Cutting Layup Shot (2 PTS) (Nurkic 2 AST),Made Shot,Cutting Layup Shot,1,2,20
+0022500649,32,PT10M06.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,21
+0022500649,34,PT10M06.00S,1,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Larsson,Substitution,,0,0,22
+0022500649,36,PT10M06.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,9,4,13,h,George Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,23
+0022500649,37,PT09M55.00S,1,1610612748,MIA,1626181,Powell,N. Powell,-66,245,25,Missed,1,,,0,v,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,24
+0022500649,38,PT09M53.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+0022500649,39,PT09M44.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,26
+0022500649,39,PT09M44.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George STEAL (1 STL),,,1,0,27
+0022500649,41,PT09M41.00S,1,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,28
+0022500649,43,PT09M41.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,10,4,14,h,Mykhailiuk Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,29
+0022500649,44,PT09M41.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,11,4,15,h,Mykhailiuk Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,30
+0022500649,45,PT09M28.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,31
+0022500649,45,PT09M28.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic STEAL (1 STL),,,1,0,32
+0022500649,47,PT09M21.00S,1,1610612762,UTA,1641718,George,K. George,-83,238,25,Missed,1,,,0,h,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022500649,48,PT09M18.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,34
+0022500649,49,PT09M18.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic L.B.FOUL (P1.T1) (D.Collins),Foul,Loose Ball,1,0,35
+0022500649,51,PT08M59.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,-143,224,27,Made,1,11,7,18,v,Wiggins 27' 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,1,3,36
+0022500649,53,PT08M46.00S,1,1610612762,UTA,1642262,Williams,C. Williams,-20,6,2,Made,1,13,7,20,h,Williams 2' Reverse Layup (2 PTS) (Nurkic 3 AST),Made Shot,Reverse Layup Shot,1,2,37
+0022500649,55,PT08M36.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,27,46,5,Missed,1,,,0,v,MISS Adebayo 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,38
+0022500649,56,PT08M34.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,39
+0022500649,57,PT08M34.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,13,9,22,v,Adebayo Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,40
+0022500649,58,PT08M32.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41
+0022500649,59,PT08M23.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,224,20,0,Missed,1,,,0,h,MISS Bailey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0022500649,60,PT08M21.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022500649,61,PT08M11.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-227,31,0,Made,1,13,12,25,v,Adebayo 3PT Jump Shot (5 PTS) (Powell 2 AST),Made Shot,Jump Shot,1,3,44
+0022500649,63,PT07M52.00S,1,1610612762,UTA,1642262,Williams,C. Williams,229,-13,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0022500649,64,PT07M50.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,46
+0022500649,65,PT07M50.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,Made,1,15,12,27,h,Mykhailiuk Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,47
+0022500649,66,PT07M41.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,17,32,4,Made,1,15,14,29,v,Wiggins 4' Cutting Dunk Shot (5 PTS) (Jaquez Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,48
+0022500649,68,PT07M25.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,-87,195,21,Made,1,17,14,31,h,Bailey 21' Pullup Jump Shot (6 PTS) (Nurkic 4 AST),Made Shot,Pullup Jump shot,1,2,49
+0022500649,70,PT07M11.00S,1,1610612748,MIA,1626181,Powell,N. Powell,-32,4,3,Made,1,17,16,33,v,Powell 3' Driving Finger Roll Layup (2 PTS) (Wiggins 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,50
+0022500649,72,PT06M50.00S,1,1610612762,UTA,1641718,George,K. George,-83,107,14,Missed,1,,,0,h,MISS George 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,51
+0022500649,73,PT06M49.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,52
+0022500649,74,PT06M45.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-29,5,3,Missed,1,,,0,v,MISS Jaquez Jr. 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,53
+0022500649,75,PT06M44.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,54
+0022500649,76,PT06M44.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Made,1,17,18,35,v,Adebayo Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,55
+0022500649,77,PT06M26.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,56
+0022500649,77,PT06M26.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. STEAL (1 STL),,,1,0,57
+0022500649,79,PT06M21.00S,1,1610612748,MIA,1626181,Powell,N. Powell,93,246,26,Missed,1,,,0,v,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,58
+0022500649,80,PT06M18.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+0022500649,81,PT06M11.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,214,134,25,Made,1,17,21,38,v,Jakucionis 25' 3PT Jump Shot (3 PTS) (Powell 3 AST),Made Shot,Jump Shot,1,3,60
+0022500649,83,PT05M58.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,26,17,3,Missed,1,,,0,h,MISS Nurkic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,61
+0022500649,84,PT05M56.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,62
+0022500649,85,PT05M52.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,63
+0022500649,85,PT05M52.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk STEAL (1 STL),,,1,0,64
+0022500649,87,PT05M50.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,-2,37,4,Made,1,19,21,40,h,Nurkic 4' Running Finger Roll Layup (4 PTS) (Mykhailiuk 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,65
+0022500649,89,PT05M42.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,33,25,4,Made,1,19,23,42,v,Jaquez Jr. 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,66
+0022500649,90,PT05M42.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,67
+0022500649,92,PT05M42.00S,1,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,SUB: Collier FOR Mykhailiuk,Substitution,,0,0,68
+0022500649,93,PT05M42.00S,1,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Filipowski FOR Bailey,Substitution,,0,0,69
+0022500649,94,PT05M42.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Jovic FOR Adebayo,Substitution,,0,0,70
+0022500649,98,PT05M42.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,19,24,43,v,Jaquez Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,71
+0022500649,99,PT05M23.00S,1,1610612762,UTA,1641718,George,K. George,-92,16,9,Missed,1,,,0,h,MISS George 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,72
+0022500649,100,PT05M21.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0,73
+0022500649,102,PT05M18.00S,1,1610612762,UTA,1641718,George,K. George,-230,39,0,Missed,1,,,0,h,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022500649,103,PT05M17.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022500649,104,PT05M11.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,22,46,5,Missed,1,,,0,v,MISS Wiggins 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,76
+0022500649,105,PT05M09.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022500649,106,PT05M00.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,-1,41,4,Made,1,21,24,45,h,Filipowski 4' Driving Layup (2 PTS) (Nurkic 5 AST),Made Shot,Driving Layup Shot,1,2,78
+0022500649,108,PT04M52.00S,1,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier S.FOUL (P1.T3) (D.Collins),Foul,Shooting,1,0,79
+0022500649,110,PT04M52.00S,1,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,21,25,46,v,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+0022500649,111,PT04M52.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,SUB: Anderson FOR George,Substitution,,0,0,81
+0022500649,112,PT04M52.00S,1,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Nurkic,Substitution,,0,0,82
+0022500649,115,PT04M52.00S,1,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,21,26,47,v,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,83
+0022500649,116,PT04M33.00S,1,1610612762,UTA,203937,Anderson,K. Anderson,11,83,8,Missed,1,,,0,h,MISS Anderson 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,84
+0022500649,117,PT04M30.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,85
+0022500649,118,PT04M25.00S,1,1610612748,MIA,1626181,Powell,N. Powell,-98,239,26,Missed,1,,,0,v,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,86
+0022500649,119,PT04M23.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0022500649,120,PT04M14.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-205,8,21,Missed,1,,,0,v,MISS Jovic 21' Jump Shot,Missed Shot,Jump Shot,1,2,88
+0022500649,121,PT04M13.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022500649,122,PT04M05.00S,1,1610612762,UTA,203937,Anderson,K. Anderson,26,12,3,Made,1,23,26,49,h,Anderson 3' Running Reverse Layup (2 PTS) (Collier 1 AST),Made Shot,Running Reverse Layup Shot,1,2,90
+0022500649,124,PT03M55.00S,1,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,91
+0022500649,126,PT03M55.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,MISS Jovic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,92
+0022500649,127,PT03M55.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,1,0,93
+0022500649,128,PT03M55.00S,1,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Wiggins,Substitution,,0,0,94
+0022500649,129,PT03M55.00S,1,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,SUB: Smith FOR Powell,Substitution,,0,0,95
+0022500649,130,PT03M55.00S,1,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,SUB: Adebayo FOR Jakucionis,Substitution,,0,0,96
+0022500649,134,PT03M55.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,23,27,50,v,Jovic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+0022500649,135,PT03M32.00S,1,1610612762,UTA,1642268,Collier,I. Collier,-88,28,9,Missed,1,,,0,h,MISS Collier 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,98
+0022500649,136,PT03M28.00S,1,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+0022500649,137,PT03M17.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,62,10,6,Missed,1,,,0,v,MISS Jaquez Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,100
+0022500649,137,PT03M17.00S,1,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier BLOCK (1 BLK),,,1,2,101
+0022500649,139,PT03M15.00S,1,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022500649,140,PT03M08.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,49,181,19,Missed,1,,,0,h,MISS Sensabaugh 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,103
+0022500649,141,PT03M06.00S,1,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022500649,142,PT02M57.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-23,83,9,Missed,1,,,0,v,MISS Jovic 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,105
+0022500649,143,PT02M56.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,106
+0022500649,145,PT02M56.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,107
+0022500649,146,PT02M56.00S,1,0,,144,,,0,0,0,,0,23,27,50,,Instant Replay1st Period (10:02 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,108
+0022500649,147,PT02M56.00S,1,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: George FOR Williams,Substitution,,0,0,109
+0022500649,149,PT02M44.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,110
+0022500649,149,PT02M44.00S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski STEAL (1 STL),,,1,0,111
+0022500649,151,PT02M40.00S,1,1610612762,UTA,1641718,George,K. George,6,22,2,Made,1,25,27,52,h,George 2' Running Dunk (5 PTS) (Filipowski 1 AST),Made Shot,Running Dunk Shot,1,2,112
+0022500649,153,PT02M24.00S,1,1610612748,MIA,1631107,Jović,N. Jović,-176,206,27,Missed,1,,,0,v,MISS Jovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022500649,154,PT02M20.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+0022500649,155,PT02M19.00S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,5,75,8,Made,1,25,29,54,v,Jaquez Jr. 8' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,2,115
+0022500649,156,PT02M05.00S,1,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,116
+0022500649,158,PT02M05.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,26,29,55,h,Sensabaugh Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,117
+0022500649,159,PT02M05.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,27,29,56,h,Sensabaugh Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,118
+0022500649,160,PT01M53.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-83,55,10,Made,1,27,31,58,v,Adebayo 10' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,119
+0022500649,161,PT01M41.00S,1,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,120
+0022500649,161,PT01M41.00S,1,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith STEAL (1 STL),,,1,0,121
+0022500649,163,PT01M37.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,122
+0022500649,165,PT01M37.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,27,32,59,v,Jovic Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,123
+0022500649,166,PT01M37.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,27,33,60,v,Jovic Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,124
+0022500649,167,PT01M20.00S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-43,74,9,Made,1,29,33,62,h,Sensabaugh 9' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,125
+0022500649,168,PT01M10.00S,1,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,126
+0022500649,170,PT01M10.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,29,34,63,v,Adebayo Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,127
+0022500649,171,PT01M10.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,29,35,64,v,Adebayo Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,128
+0022500649,172,PT01M01.00S,1,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,129
+0022500649,172,PT01M01.00S,1,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic STEAL (1 STL),,,1,0,130
+0022500649,174,PT00M56.30S,1,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-228,9,0,Missed,1,,,0,v,MISS Fontecchio 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,131
+0022500649,175,PT00M52.10S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022500649,176,PT00M50.00S,1,1610612762,UTA,1642268,Collier,I. Collier,-28,32,4,Made,1,31,35,66,h,Collier 4' Running Dunk (2 PTS) (Sensabaugh 1 AST),Made Shot,Running Dunk Shot,1,2,133
+0022500649,178,PT00M43.90S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-190,158,25,Missed,1,,,0,v,MISS Adebayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+0022500649,179,PT00M41.30S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,135
+0022500649,181,PT00M36.10S,1,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,227,91,24,Made,1,34,35,69,h,Sensabaugh 24' 3PT Jump Shot (7 PTS) (Collier 2 AST),Made Shot,Jump Shot,1,3,136
+0022500649,183,PT00M14.20S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,240,5,24,Missed,1,,,0,v,MISS Adebayo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022500649,184,PT00M10.40S,1,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,138
+0022500649,185,PT00M09.70S,1,1610612748,MIA,1631107,Jović,N. Jović,29,13,3,Missed,1,,,0,v,MISS Jovic 3' Layup,Missed Shot,Layup Shot,1,2,139
+0022500649,186,PT00M06.10S,1,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,140
+0022500649,187,PT00M06.10S,1,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,Missed,1,,,0,v,MISS Smith Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,141
+0022500649,188,PT00M06.10S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,142
+0022500649,189,PT00M05.70S,1,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,13,37,4,Missed,1,,,0,v,MISS Jaquez Jr. 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,143
+0022500649,190,PT00M03.70S,1,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022500649,191,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,35,69,,End of 1st Period (10:10 PM EST),period,end,1,0,145
+0022500649,198,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,35,69,,Start of 2nd Period (10:13 PM EST),period,start,1,0,146
+0022500649,199,PT11M36.00S,2,1610612748,MIA,1631107,Jović,N. Jović,-89,225,24,Made,1,34,38,72,v,Jovic 24' 3PT Jump Shot (6 PTS) (Gardner 1 AST),Made Shot,Jump Shot,1,3,147
+0022500649,202,PT11M15.00S,2,1610612762,UTA,1642268,Collier,I. Collier,-13,84,9,Missed,1,,,0,h,MISS Collier 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,148
+0022500649,202,PT11M15.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith BLOCK (1 BLK),,,1,2,149
+0022500649,204,PT11M14.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,150
+0022500649,205,PT11M10.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,1,0,151
+0022500649,209,PT11M10.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,MISS Gardner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,152
+0022500649,210,PT11M10.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,153
+0022500649,212,PT11M10.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,MISS Gardner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,154
+0022500649,213,PT11M09.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,155
+0022500649,214,PT11M05.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,159,218,27,Missed,1,,,0,v,MISS Fontecchio 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022500649,215,PT11M02.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022500649,216,PT10M49.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Heat T.Foul (Def. 3 Sec Gardner ) (D.Collins),Foul,Defense 3 Second,1,0,158
+0022500649,217,PT10M49.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,MISS Sensabaugh Free Throw Technical,Free Throw,Free Throw Technical,1,0,159
+0022500649,218,PT10M49.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,1,0,160
+0022500649,219,PT10M42.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,227,10,0,Missed,1,,,0,h,MISS Bailey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022500649,220,PT10M39.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+0022500649,221,PT10M29.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,163
+0022500649,221,PT10M29.00S,2,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson STEAL (1 STL),,,1,0,164
+0022500649,223,PT10M17.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,0,165
+0022500649,225,PT10M17.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Larsson FOR Jovic,Substitution,,0,0,166
+0022500649,227,PT10M09.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,167
+0022500649,227,PT10M09.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith STEAL (2 STL),,,1,0,168
+0022500649,229,PT10M05.00S,2,1610612748,MIA,1630696,Smith,D. Smith,20,42,5,Missed,1,,,0,v,MISS Smith 5' Running Layup,Missed Shot,Running Layup Shot,1,2,169
+0022500649,229,PT10M05.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. BLOCK (1 BLK),,,1,2,170
+0022500649,231,PT10M02.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,171
+0022500649,232,PT09M52.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,227,86,24,Missed,1,,,0,h,MISS Bailey 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,172
+0022500649,233,PT09M49.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,173
+0022500649,234,PT09M44.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-161,218,27,Made,1,34,41,75,v,Fontecchio 27' 3PT Running Jump Shot (3 PTS) (Smith 1 AST),Made Shot,Running Jump Shot,1,3,174
+0022500649,236,PT09M35.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith P.FOUL (P2.T2) (B.Schwab),Foul,Personal,1,0,175
+0022500649,238,PT09M32.00S,2,1610612762,UTA,1642268,Collier,I. Collier,25,16,3,Made,1,36,41,77,h,Collier 3' Cutting Layup Shot (4 PTS) (Clayton Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,176
+0022500649,240,PT09M21.00S,2,1610612748,MIA,1630696,Smith,D. Smith,175,177,25,Missed,1,,,0,v,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+0022500649,241,PT09M19.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,178
+0022500649,242,PT09M06.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,179
+0022500649,242,PT09M06.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. STEAL (1 STL),,,1,0,180
+0022500649,244,PT09M03.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,181
+0022500649,246,PT09M03.00S,2,0,,244,Brown,D. Brown,0,0,0,,0,36,41,77,,Instant Replay2nd Period (10:19 PM EST),Instant Replay,Support Ruling,0,0,182
+0022500649,247,PT09M03.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,37,41,78,h,Sensabaugh Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022500649,248,PT09M03.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,38,41,79,h,Sensabaugh Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+0022500649,249,PT08M54.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,-33,21,4,Made,1,38,43,81,v,Larsson 4' Driving Layup (6 PTS) (Gardner 2 AST),Made Shot,Driving Layup Shot,1,2,185
+0022500649,251,PT08M54.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,186
+0022500649,253,PT08M54.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,38,44,82,v,Larsson Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,187
+0022500649,254,PT08M42.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,93,231,25,Missed,1,,,0,h,MISS Bailey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,188
+0022500649,255,PT08M39.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,189
+0022500649,256,PT08M32.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,-153,200,25,Missed,1,,,0,v,MISS Gardner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022500649,257,PT08M29.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,191
+0022500649,258,PT08M25.00S,2,1610612748,MIA,1630696,Smith,D. Smith,39,29,5,Missed,1,,,0,v,MISS Smith 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,192
+0022500649,259,PT08M23.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,193
+0022500649,260,PT08M17.00S,2,1610612748,MIA,1630696,Smith,D. Smith,228,4,0,Missed,1,,,0,v,MISS Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0022500649,261,PT08M14.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,195
+0022500649,262,PT08M05.00S,2,1610612748,MIA,1630696,Smith,D. Smith,61,35,7,Made,1,38,46,84,v,Smith 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,196
+0022500649,263,PT07M47.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,43,248,25,Made,1,41,46,87,h,Clayton Jr. 25' 3PT Pullup Jump Shot (3 PTS) (Collier 3 AST),Made Shot,Pullup Jump shot,1,3,197
+0022500649,265,PT07M35.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-205,178,27,Missed,1,,,0,v,MISS Fontecchio 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022500649,266,PT07M33.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,199
+0022500649,267,PT07M27.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,238,-8,24,Missed,1,,,0,v,MISS Fontecchio 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022500649,268,PT07M24.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,201
+0022500649,269,PT07M20.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P3.T3) (D.Collins),Foul,Shooting,1,0,202
+0022500649,271,PT07M20.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,41,47,88,v,Larsson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0022500649,272,PT07M20.00S,2,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,SUB: George FOR Anderson,Substitution,,0,0,204
+0022500649,273,PT07M20.00S,2,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,SUB: Mykhailiuk FOR Collier,Substitution,,0,0,205
+0022500649,274,PT07M20.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Nurkic FOR Bailey,Substitution,,0,0,206
+0022500649,275,PT07M20.00S,2,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,SUB: Wiggins FOR Fontecchio,Substitution,,0,0,207
+0022500649,276,PT07M20.00S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,SUB: Jovic FOR Smith,Substitution,,0,0,208
+0022500649,277,PT07M20.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Powell FOR Adebayo,Substitution,,0,0,209
+0022500649,278,PT07M20.00S,2,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Gardner,Substitution,,0,0,210
+0022500649,286,PT07M20.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,41,48,89,v,Larsson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,211
+0022500649,287,PT07M06.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,28,8,3,Made,1,43,48,91,h,Nurkic 3' Cutting Layup Shot (6 PTS) (Clayton Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,212
+0022500649,289,PT06M52.00S,2,1610612748,MIA,1626181,Powell,N. Powell,44,252,26,Missed,1,,,0,v,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022500649,290,PT06M49.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,214
+0022500649,298,PT06M46.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,-228,22,0,Missed,1,,,0,v,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,0,3,215
+0022500649,299,PT06M46.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,216
+0022500649,296,PT06M46.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,217
+0022500649,297,PT06M46.00S,2,0,,293,Smith,C. Smith,0,0,0,,0,43,48,91,,Instant Replay2nd Period (10:26 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,218
+0022500649,300,PT06M46.00S,2,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,SUB: Williams FOR Sensabaugh,Substitution,,0,0,219
+0022500649,302,PT06M46.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Jump Ball (CC) Nurkic vs. Wiggins: Tip to Powell,Jump Ball,Coach Challenge,0,0,220
+0022500649,305,PT06M36.00S,2,1610612748,MIA,1631107,Jović,N. Jović,16,62,6,Made,1,43,50,93,v,Jovic 6' Driving Floating Jump Shot (8 PTS) (Wiggins 2 AST),Made Shot,Driving Floating Jump Shot,1,2,221
+0022500649,307,PT06M19.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,222
+0022500649,309,PT06M19.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,MISS Nurkic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,223
+0022500649,310,PT06M19.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,224
+0022500649,311,PT06M19.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,225
+0022500649,312,PT06M17.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,226
+0022500649,313,PT06M06.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,69,82,11,Made,1,43,52,95,v,Jaquez Jr. 11' Driving Floating Jump Shot (7 PTS) (Wiggins 3 AST),Made Shot,Driving Floating Jump Shot,1,2,227
+0022500649,314,PT05M46.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,228
+0022500649,314,PT05M46.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0,229
+0022500649,316,PT05M43.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George S.FOUL (P1.T4) (D.Collins),Foul,Shooting,1,0,230
+0022500649,318,PT05M43.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,MISS Jovic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+0022500649,319,PT05M43.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,232
+0022500649,320,PT05M43.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,43,53,96,v,Jovic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+0022500649,321,PT05M21.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,76,5,8,Missed,1,,,0,h,MISS Nurkic 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,234
+0022500649,322,PT05M18.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,235
+0022500649,323,PT05M15.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,236
+0022500649,323,PT05M15.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,237
+0022500649,325,PT05M12.00S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,238
+0022500649,326,PT04M56.00S,2,1610612748,MIA,1626181,Powell,N. Powell,-29,138,14,Made,1,43,55,98,v,Powell 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,239
+0022500649,327,PT04M38.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,240
+0022500649,328,PT04M29.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,73,7,Made,1,43,57,100,v,Jovic 7' Floating Jump Shot (11 PTS) (Powell 4 AST),Made Shot,Floating Jump shot,1,2,241
+0022500649,330,PT04M04.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,53,38,7,Missed,1,,,0,h,MISS Nurkic 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,242
+0022500649,331,PT04M03.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,243
+0022500649,332,PT03M58.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,1,0,244
+0022500649,333,PT03M46.00S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,1,0,245
+0022500649,335,PT03M46.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,246
+0022500649,336,PT03M46.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,247
+0022500649,337,PT03M46.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,44,57,101,h,George Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,248
+0022500649,338,PT03M36.00S,2,1610612748,MIA,1631107,Jović,N. Jović,228,24,0,Missed,1,,,0,v,MISS Jovic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0022500649,339,PT03M33.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,250
+0022500649,340,PT03M28.00S,2,1610612762,UTA,1641718,George,K. George,85,243,26,Missed,1,,,0,h,MISS George 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,251
+0022500649,341,PT03M26.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,252
+0022500649,343,PT03M18.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,253
+0022500649,345,PT03M18.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,44,58,102,v,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,254
+0022500649,346,PT03M18.00S,2,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,SUB: Bailey FOR Clayton Jr.,Substitution,,0,0,255
+0022500649,347,PT03M18.00S,2,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Adebayo FOR Jovic,Substitution,,0,0,256
+0022500649,350,PT03M18.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,44,59,103,v,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+0022500649,351,PT02M59.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-21,141,14,Missed,1,,,0,h,MISS Bailey 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,258
+0022500649,352,PT02M56.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,259
+0022500649,353,PT02M52.00S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,260
+0022500649,355,PT02M52.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,261
+0022500649,356,PT02M52.00S,2,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,SUB: Filipowski FOR Mykhailiuk,Substitution,,0,0,262
+0022500649,358,PT02M52.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,263
+0022500649,359,PT02M52.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,1,0,264
+0022500649,360,PT02M52.00S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,44,60,104,v,Powell Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,265
+0022500649,361,PT02M36.00S,2,1610612762,UTA,1641718,George,K. George,152,-9,15,Made,1,46,60,106,h,George 15' Pullup Jump Shot (8 PTS) (Filipowski 2 AST),Made Shot,Pullup Jump shot,1,2,266
+0022500649,363,PT02M20.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,-27,13,3,Made,1,46,62,108,v,Adebayo 3' Cutting Dunk Shot (13 PTS) (Larsson 1 AST),Made Shot,Cutting Dunk Shot,1,2,267
+0022500649,365,PT02M10.00S,2,1610612762,UTA,1642846,Bailey,A. Bailey,-6,53,5,Made,1,48,62,110,h,Bailey 5' Cutting Dunk Shot (8 PTS) (Nurkic 6 AST),Made Shot,Cutting Dunk Shot,1,2,268
+0022500649,367,PT01M50.00S,2,1610612748,MIA,1641796,Larsson,P. Larsson,-230,10,0,Made,1,48,65,113,v,Larsson 3PT Jump Shot (12 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,1,3,269
+0022500649,369,PT01M30.00S,2,1610612762,UTA,1641718,George,K. George,61,257,26,Missed,1,,,0,h,MISS George 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,270
+0022500649,370,PT01M27.00S,2,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,271
+0022500649,371,PT01M23.00S,2,1610612762,UTA,1642262,Williams,C. Williams,-12,53,5,Made,1,50,65,115,h,Williams 5' Cutting Dunk Shot (4 PTS) (Nurkic 7 AST),Made Shot,Cutting Dunk Shot,1,2,272
+0022500649,373,PT01M11.00S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,-225,11,0,Made,1,50,68,118,v,Wiggins 3PT Jump Shot (8 PTS) (Jaquez Jr. 2 AST),Made Shot,Jump Shot,1,3,273
+0022500649,375,PT00M57.60S,2,1610612762,UTA,1641718,George,K. George,-33,6,3,Made,1,52,68,120,h,George 3' Cutting Layup Shot (10 PTS) (Nurkic 8 AST),Made Shot,Cutting Layup Shot,1,2,274
+0022500649,377,PT00M42.60S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P4.PN) (D.Collins),Foul,Shooting,1,0,275
+0022500649,379,PT00M42.60S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,52,69,121,v,Wiggins Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0022500649,380,PT00M42.60S,2,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Bailey,Substitution,,0,0,277
+0022500649,381,PT00M42.60S,2,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Larsson,Substitution,,0,0,278
+0022500649,382,PT00M42.60S,2,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Jakucionis FOR Jaquez Jr.,Substitution,,0,0,279
+0022500649,386,PT00M42.60S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,52,70,122,v,Wiggins Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+0022500649,387,PT00M34.70S,2,1610612762,UTA,1641718,George,K. George,-92,131,16,Missed,1,,,0,h,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,281
+0022500649,388,PT00M31.60S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,282
+0022500649,389,PT00M18.50S,2,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,0,283
+0022500649,391,PT00M18.50S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,284
+0022500649,392,PT00M18.50S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,285
+0022500649,393,PT00M18.50S,2,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,SUB: Smith FOR Jakucionis,Substitution,,0,0,286
+0022500649,395,PT00M18.50S,2,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,52,71,123,v,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,287
+0022500649,397,PT00M06.20S,2,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,288
+0022500649,397,PT00M06.20S,2,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith STEAL (3 STL),,,1,0,289
+0022500649,399,PT00M03.50S,2,1610612748,MIA,1630696,Smith,D. Smith,-16,16,2,Missed,1,,,0,v,MISS Smith 2' Running Layup,Missed Shot,Running Layup Shot,1,2,290
+0022500649,400,PT00M02.30S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,291
+0022500649,401,PT00M02.30S,2,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,Made,1,52,73,125,v,Wiggins Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,1,2,292
+0022500649,402,PT00M00.00S,2,0,,0,,,0,0,0,,0,,,0,h,JAZZ Heave,Heave,Team Field Goal Attempt,1,0,293
+0022500649,403,PT00M00.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0,294
+0022500649,404,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,73,125,,End of 2nd Period (10:46 PM EST),period,end,1,0,295
+0022500649,414,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,73,125,,Start of 3rd Period (11:01 PM EST),period,start,1,0,296
+0022500649,415,PT11M46.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Jump Ball Nurkic vs. Adebayo: Tip to Larsson,Jump Ball,,0,0,297
+0022500649,418,PT11M39.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,298
+0022500649,419,PT11M30.00S,3,1610612762,UTA,1641718,George,K. George,-42,25,5,Made,1,54,73,127,h,George 5' Cutting Finger Roll Layup Shot (12 PTS) (Nurkic 9 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,299
+0022500649,421,PT11M23.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic P.FOUL (P2.T1) (D.Collins),Foul,Personal,1,0,300
+0022500649,423,PT11M13.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-219,196,29,Missed,1,,,0,v,MISS Wiggins 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022500649,424,PT11M10.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0,302
+0022500649,425,PT10M59.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,303
+0022500649,427,PT10M56.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,17,45,5,Made,1,56,73,129,h,Bailey 5' Cutting Dunk Shot (10 PTS) (Nurkic 10 AST),Made Shot,Cutting Dunk Shot,1,2,304
+0022500649,429,PT10M44.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,-194,168,26,Missed,1,,,0,v,MISS Larsson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022500649,430,PT10M43.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+0022500649,431,PT10M39.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,307
+0022500649,432,PT10M34.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,1,0,308
+0022500649,434,PT10M34.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,56,74,130,v,Jakucionis Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+0022500649,435,PT10M34.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,56,75,131,v,Jakucionis Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,310
+0022500649,436,PT10M22.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,55,52,8,Made,1,58,75,133,h,Bailey 8' Cutting Dunk Shot (12 PTS) (Nurkic 11 AST),Made Shot,Cutting Dunk Shot,1,2,311
+0022500649,438,PT10M16.00S,3,1610612748,MIA,1626181,Powell,N. Powell,-33,17,4,Missed,1,,,0,v,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,312
+0022500649,438,PT10M16.00S,3,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams BLOCK (2 BLK),,,1,2,313
+0022500649,440,PT10M15.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,314
+0022500649,441,PT10M09.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,32,27,4,Made,1,60,75,135,h,Nurkic 4' Running Layup (8 PTS) (George 2 AST),Made Shot,Running Layup Shot,1,2,315
+0022500649,443,PT10M09.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,316
+0022500649,444,PT09M57.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,317
+0022500649,444,PT09M57.00S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George STEAL (2 STL),,,1,0,318
+0022500649,446,PT09M55.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P2.T2) (B.Schwab),Foul,Personal,1,0,319
+0022500649,448,PT09M42.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,-25,155,16,Missed,1,,,0,h,MISS Bailey 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,320
+0022500649,449,PT09M40.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,321
+0022500649,450,PT09M31.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,173,200,26,Made,1,60,78,138,v,Jakucionis 26' 3PT Jump Shot (8 PTS) (Powell 5 AST),Made Shot,Jump Shot,1,3,322
+0022500649,452,PT09M22.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,10,58,6,Made,1,62,78,140,h,Mykhailiuk 6' Driving Floating Jump Shot (6 PTS) (George 3 AST),Made Shot,Driving Floating Jump Shot,1,2,323
+0022500649,454,PT09M14.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,47,42,6,Made,1,62,80,142,v,Jakucionis 6' Driving Layup (10 PTS) (Larsson 2 AST),Made Shot,Driving Layup Shot,1,2,324
+0022500649,457,PT08M48.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,-25,41,5,Missed,1,,,0,h,MISS Mykhailiuk 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022500649,458,PT08M46.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,326
+0022500649,459,PT08M41.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-16,67,7,Missed,1,,,0,v,MISS Wiggins 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,327
+0022500649,459,PT08M41.00S,3,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams BLOCK (3 BLK),,,1,2,328
+0022500649,461,PT08M40.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,329
+0022500649,463,PT08M39.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,330
+0022500649,465,PT08M26.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,-11,73,7,Missed,1,,,0,v,MISS Larsson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,331
+0022500649,465,PT08M26.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey BLOCK (1 BLK),,,1,2,332
+0022500649,467,PT08M25.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,333
+0022500649,468,PT08M25.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-230,32,0,Missed,1,,,0,v,MISS Adebayo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022500649,469,PT08M25.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,0,335
+0022500649,470,PT08M25.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,336
+0022500649,471,PT08M18.00S,3,1610612762,UTA,1641718,George,K. George,-120,224,25,Missed,1,,,0,h,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,337
+0022500649,472,PT08M16.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,338
+0022500649,473,PT08M12.00S,3,1610612748,MIA,1626181,Powell,N. Powell,66,31,7,Missed,1,,,0,v,MISS Powell 7' Running Layup,Missed Shot,Running Layup Shot,1,2,339
+0022500649,474,PT08M11.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,340
+0022500649,475,PT08M04.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,109,223,25,Missed,1,,,0,v,MISS Larsson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022500649,476,PT08M02.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,342
+0022500649,477,PT07M55.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,21,32,4,Missed,1,,,0,h,MISS Bailey 4' Running Layup,Missed Shot,Running Layup Shot,1,2,343
+0022500649,478,PT07M53.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,344
+0022500649,479,PT07M48.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-239,4,24,Missed,1,,,0,v,MISS Wiggins 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,345
+0022500649,480,PT07M47.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,1,0,346
+0022500649,481,PT07M47.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo L.B.FOUL (P1.T3) (J.Van Duyne),Foul,Loose Ball,1,0,347
+0022500649,483,PT07M40.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,-21,15,3,Made,1,64,80,144,h,Nurkic 3' Cutting Layup Shot (10 PTS) (George 4 AST),Made Shot,Cutting Layup Shot,1,2,348
+0022500649,485,PT07M26.00S,3,1610612748,MIA,1626181,Powell,N. Powell,-67,132,15,Made,1,64,82,146,v,Powell 15' Driving Floating Jump Shot (12 PTS) (Jakucionis 1 AST),Made Shot,Driving Floating Jump Shot,1,2,349
+0022500649,487,PT07M18.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,Jakucionis P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,1,0,350
+0022500649,489,PT07M16.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,233,36,24,Missed,1,,,0,h,MISS Bailey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+0022500649,490,PT07M14.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,352
+0022500649,491,PT07M05.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-50,59,8,Missed,1,,,0,v,MISS Adebayo 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,353
+0022500649,492,PT07M03.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,Mykhailiuk REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,354
+0022500649,493,PT06M59.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,31,27,4,Made,1,66,82,148,h,Mykhailiuk 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,355
+0022500649,494,PT06M44.00S,3,1610612748,MIA,1626181,Powell,N. Powell,32,58,7,Missed,1,,,0,v,MISS Powell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,356
+0022500649,494,PT06M44.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey BLOCK (2 BLK),,,1,2,357
+0022500649,496,PT06M43.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,358
+0022500649,497,PT06M38.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,-5,26,3,Made,1,66,84,150,v,Jakucionis 3' Driving Layup (12 PTS) (Wiggins 4 AST),Made Shot,Driving Layup Shot,1,2,359
+0022500649,499,PT06M15.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,-70,67,10,Made,1,68,84,152,h,Nurkic 10' Turnaround Jump Shot (12 PTS) (Bailey 2 AST),Made Shot,Turnaround Jump Shot,1,2,360
+0022500649,501,PT06M03.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-118,228,26,Made,1,68,87,155,v,Adebayo 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,361
+0022500649,502,PT05M40.00S,3,1610612762,UTA,1641718,George,K. George,-29,26,4,Missed,1,,,0,h,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+0022500649,502,PT05M40.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (1 BLK),,,1,2,363
+0022500649,504,PT05M38.00S,3,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,364
+0022500649,505,PT05M34.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,210,147,26,Made,1,68,90,158,v,Larsson 26' 3PT Running Jump Shot (15 PTS) (Wiggins 5 AST),Made Shot,Running Jump Shot,1,3,365
+0022500649,507,PT05M32.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,366
+0022500649,508,PT05M32.00S,3,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Anderson FOR Nurkic,Substitution,,0,0,367
+0022500649,509,PT05M32.00S,3,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Collier FOR Bailey,Substitution,,0,0,368
+0022500649,510,PT05M32.00S,3,1610612762,UTA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,,,0,h,SUB: Filipowski FOR Mykhailiuk,Substitution,,0,0,369
+0022500649,511,PT05M32.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Jovic FOR Adebayo,Substitution,,0,0,370
+0022500649,512,PT05M32.00S,3,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Larsson,Substitution,,0,0,371
+0022500649,518,PT05M16.00S,3,1610612762,UTA,1641718,George,K. George,45,46,6,Made,1,70,90,160,h,George 6' Driving Layup (14 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,2,372
+0022500649,520,PT05M01.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,-18,23,3,Made,1,70,92,162,v,Wiggins 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,373
+0022500649,521,PT04M50.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,62,38,7,Made,1,72,92,164,h,Filipowski 7' Driving Floating Bank Jump Shot (4 PTS) (Collier 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,374
+0022500649,523,PT04M39.00S,3,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,375
+0022500649,525,PT04M39.00S,3,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,72,93,165,v,Powell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,376
+0022500649,526,PT04M39.00S,3,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Williams,Substitution,,0,0,377
+0022500649,527,PT04M39.00S,3,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,SUB: Smith FOR Jakucionis,Substitution,,0,0,378
+0022500649,530,PT04M39.00S,3,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,379
+0022500649,531,PT04M37.00S,3,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,380
+0022500649,532,PT04M23.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-175,187,26,Made,1,75,93,168,h,Sensabaugh 26' 3PT Jump Shot (12 PTS) (George 5 AST),Made Shot,Jump Shot,1,3,381
+0022500649,534,PT04M11.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,61,49,8,Missed,1,,,0,v,MISS Jaquez Jr. 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+0022500649,535,PT04M10.00S,3,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,383
+0022500649,536,PT04M10.00S,3,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,Missed,1,,,0,v,MISS Smith Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,384
+0022500649,537,PT04M09.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,385
+0022500649,538,PT04M05.00S,3,1610612762,UTA,1642268,Collier,I. Collier,-42,29,5,Made,1,77,93,170,h,Collier 5' Running Layup (6 PTS) (Filipowski 3 AST),Made Shot,Running Layup Shot,1,2,386
+0022500649,540,PT03M47.00S,3,1610612748,MIA,1631107,Jović,N. Jović,-224,128,26,Made,1,77,96,173,v,Jovic 26' 3PT Jump Shot (14 PTS) (Wiggins 6 AST),Made Shot,Jump Shot,1,3,387
+0022500649,542,PT03M33.00S,3,1610612762,UTA,1641718,George,K. George,-86,227,24,Missed,1,,,0,h,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022500649,543,PT03M30.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,389
+0022500649,544,PT03M17.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,33,26,4,Missed,1,,,0,v,MISS Wiggins 4' Layup,Missed Shot,Layup Shot,1,2,390
+0022500649,544,PT03M17.00S,3,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson BLOCK (1 BLK),,,1,2,391
+0022500649,546,PT03M15.00S,3,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,392
+0022500649,547,PT03M11.00S,3,1610612762,UTA,1642268,Collier,I. Collier,-32,16,4,Made,1,79,96,175,h,Collier 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,393
+0022500649,548,PT02M58.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,4,64,6,Missed,1,,,0,v,MISS Jaquez Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,394
+0022500649,549,PT02M56.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,395
+0022500649,550,PT02M47.00S,3,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,61,6,Made,1,81,96,177,h,Filipowski 6' Pullup Jump Shot (6 PTS) (Collier 5 AST),Made Shot,Pullup Jump shot,1,2,396
+0022500649,552,PT02M32.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,32,3,Made,1,81,98,179,v,Wiggins 3' Cutting Layup Shot (16 PTS) (Powell 6 AST),Made Shot,Cutting Layup Shot,1,2,397
+0022500649,554,PT02M32.00S,3,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,1,0,398
+0022500649,556,PT02M32.00S,3,1610612748,MIA,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Powell,Substitution,,0,0,399
+0022500649,558,PT02M32.00S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,81,99,180,v,Wiggins Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,400
+0022500649,559,PT02M19.00S,3,1610612762,UTA,203937,Anderson,K. Anderson,0,0,0,,0,,,0,h,Anderson Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,401
+0022500649,559,PT02M19.00S,3,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith STEAL (4 STL),,,1,0,402
+0022500649,561,PT02M14.00S,3,1610612748,MIA,1631107,Jović,N. Jović,32,6,3,Made,1,81,101,182,v,Jovic 3' Running Alley Oop Layup Shot (16 PTS) (Jaquez Jr. 3 AST),Made Shot,Running Alley Oop Layup Shot,1,2,403
+0022500649,563,PT01M53.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-113,232,26,Made,1,84,101,185,h,Sensabaugh 26' 3PT Step Back Jump Shot (15 PTS) (Collier 6 AST),Made Shot,Step Back Jump shot,1,3,404
+0022500649,564,PT01M38.00S,3,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-234,49,24,Made,1,84,104,188,v,Fontecchio 24' 3PT Jump Shot (6 PTS) (Jaquez Jr. 4 AST),Made Shot,Jump Shot,1,3,405
+0022500649,566,PT01M25.00S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,62,256,26,Made,1,87,104,191,h,Sensabaugh 26' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,3,406
+0022500649,567,PT01M04.00S,3,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-28,16,3,Made,1,87,106,193,v,Jaquez Jr. 3' Cutting Layup Shot (9 PTS) (Smith 2 AST),Made Shot,Cutting Layup Shot,1,2,407
+0022500649,569,PT00M46.50S,3,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,408
+0022500649,571,PT00M46.50S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,88,106,194,h,George Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+0022500649,572,PT00M46.50S,3,1610612748,MIA,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Gardner FOR Wiggins,Substitution,,0,0,410
+0022500649,574,PT00M46.50S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,89,106,195,h,George Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,411
+0022500649,575,PT00M43.90S,3,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,412
+0022500649,576,PT00M43.90S,3,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,SUB: Bailey FOR George,Substitution,,0,0,413
+0022500649,578,PT00M35.20S,3,1610612762,UTA,1642268,Collier,I. Collier,-7,58,6,Missed,1,,,0,h,MISS Collier 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,414
+0022500649,578,PT00M35.20S,3,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner BLOCK (1 BLK),,,1,2,415
+0022500649,579,PT00M33.10S,3,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,416
+0022500649,580,PT00M32.10S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-234,0,0,Missed,1,,,0,h,MISS Sensabaugh 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022500649,581,PT00M28.60S,3,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,418
+0022500649,582,PT00M26.20S,3,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,32,33,5,Made,1,89,108,197,v,Fontecchio 5' Running Layup (8 PTS) (Gardner 3 AST),Made Shot,Running Layup Shot,1,2,419
+0022500649,584,PT00M15.30S,3,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,62,134,15,Missed,1,,,0,h,MISS Sensabaugh 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,420
+0022500649,585,PT00M11.60S,3,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,421
+0022500649,587,PT00M00.90S,3,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,183,196,27,Missed,1,,,0,v,MISS Fontecchio 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022500649,588,PT00M00.30S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,0,423
+0022500649,589,PT00M00.00S,3,0,,0,,,0,0,0,,0,89,108,197,,End of 3rd Period (11:27 PM EST),period,end,1,0,424
+0022500649,596,PT12M00.00S,4,0,,0,,,0,0,0,,0,89,108,197,,Start of 4th Period (11:30 PM EST),period,start,1,0,425
+0022500649,597,PT11M50.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner S.FOUL (P3.T1) (D.Collins),Foul,Shooting,1,0,426
+0022500649,599,PT11M50.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,90,108,198,h,Clayton Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,427
+0022500649,600,PT11M50.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,91,108,199,h,Clayton Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022500649,601,PT11M35.00S,4,1610612748,MIA,1631107,Jović,N. Jović,4,256,26,Missed,1,,,0,v,MISS Jovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+0022500649,602,PT11M31.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,430
+0022500649,603,PT11M28.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,1,0,431
+0022500649,605,PT11M28.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,MISS Collier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,432
+0022500649,606,PT11M28.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,433
+0022500649,607,PT11M28.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,92,108,200,h,Collier Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,434
+0022500649,608,PT11M12.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,104,238,26,Missed,1,,,0,v,MISS Adebayo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022500649,609,PT11M09.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,436
+0022500649,610,PT11M05.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,34,21,4,Missed,1,,,0,h,MISS Sensabaugh 4' Running Dunk,Missed Shot,Running Dunk Shot,1,2,437
+0022500649,611,PT11M04.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,438
+0022500649,612,PT11M01.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,439
+0022500649,612,PT11M01.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio STEAL (1 STL),,,1,0,440
+0022500649,614,PT10M57.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic S.FOUL (P3.T1) (D.Collins),Foul,Shooting,1,0,441
+0022500649,617,PT10M57.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,92,109,201,v,Adebayo Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0022500649,618,PT10M57.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,SUB: Larsson FOR Gardner,Substitution,,0,0,443
+0022500649,620,PT10M57.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,92,110,202,v,Adebayo Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+0022500649,621,PT10M41.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,232,11,0,Missed,1,,,0,h,MISS Clayton Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022500649,622,PT10M38.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,446
+0022500649,623,PT10M30.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-29,17,3,Missed,1,,,0,v,MISS Adebayo 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,447
+0022500649,624,PT10M29.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:7 Def:6),Rebound,Unknown,1,0,448
+0022500649,625,PT10M29.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,Missed,1,,,0,v,MISS Adebayo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,449
+0022500649,626,PT10M28.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,450
+0022500649,627,PT10M18.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,-132,210,25,Made,1,95,110,205,h,Nurkic 25' 3PT Jump Shot (15 PTS) (Collier 7 AST),Made Shot,Jump Shot,1,3,451
+0022500649,630,PT10M10.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey S.FOUL (P5.T2) (B.Schwab),Foul,Shooting,1,0,452
+0022500649,632,PT10M10.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,95,111,206,v,Jovic Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,453
+0022500649,633,PT10M10.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,SUB: Williams FOR Bailey,Substitution,,0,0,454
+0022500649,635,PT10M10.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,95,112,207,v,Jovic Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022500649,636,PT09M57.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,11,69,7,Missed,1,,,0,h,MISS Nurkic 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,456
+0022500649,637,PT09M56.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,457
+0022500649,638,PT09M56.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,Made,1,97,112,209,h,Nurkic Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,2,458
+0022500649,639,PT09M43.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-233,54,24,Made,1,97,115,212,v,Adebayo 24' 3PT Jump Shot (21 PTS) (Jovic 1 AST),Made Shot,Jump Shot,1,3,459
+0022500649,641,PT09M17.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,Sensabaugh Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,460
+0022500649,641,PT09M17.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith STEAL (5 STL),,,1,0,461
+0022500649,643,PT09M00.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,1,0,462
+0022500649,645,PT09M00.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR Jovic,Substitution,,0,0,463
+0022500649,647,PT08M56.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-229,115,26,Missed,1,,,0,v,MISS Adebayo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022500649,648,PT08M54.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,465
+0022500649,649,PT08M45.00S,4,1610612762,UTA,1642262,Williams,C. Williams,4,67,7,Missed,1,,,0,h,MISS Williams 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+0022500649,649,PT08M45.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson BLOCK (1 BLK),,,1,2,467
+0022500649,651,PT08M44.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,468
+0022500649,652,PT08M30.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,-237,5,24,Made,1,97,118,215,v,Larsson 24' 3PT Jump Shot (18 PTS) (Jaquez Jr. 5 AST),Made Shot,Jump Shot,1,3,469
+0022500649,654,PT08M15.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,28,95,10,Missed,1,,,0,h,MISS Nurkic 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,470
+0022500649,655,PT08M13.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:7 Def:7),Rebound,Unknown,1,0,471
+0022500649,656,PT08M05.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-22,260,26,Missed,1,,,0,v,MISS Adebayo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022500649,657,PT08M04.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,473
+0022500649,658,PT07M57.00S,4,1610612762,UTA,1642268,Collier,I. Collier,-27,22,3,Made,1,99,118,217,h,Collier 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,474
+0022500649,659,PT07M41.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,-69,81,11,Missed,1,,,0,v,MISS Jaquez Jr. 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,475
+0022500649,660,PT07M38.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,476
+0022500649,661,PT07M30.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,-74,37,8,Made,1,101,118,219,h,Sensabaugh 8' Driving Floating Bank Jump Shot (20 PTS) (Collier 8 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,477
+0022500649,663,PT07M30.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,478
+0022500649,665,PT07M30.00S,4,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: George FOR Williams,Substitution,,0,0,479
+0022500649,667,PT07M30.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,102,118,220,h,Sensabaugh Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,480
+0022500649,668,PT07M27.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,481
+0022500649,670,PT07M21.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic S.FOUL (P4.T4) (J.Van Duyne),Foul,Shooting,1,0,482
+0022500649,672,PT07M21.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,102,119,221,v,Adebayo Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,483
+0022500649,673,PT07M21.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,102,120,222,v,Adebayo Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,484
+0022500649,674,PT07M07.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,-60,180,19,Missed,1,,,0,h,MISS Clayton Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,485
+0022500649,675,PT07M04.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,486
+0022500649,676,PT06M59.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,22,20,3,Missed,1,,,0,v,MISS Adebayo 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,487
+0022500649,677,PT06M58.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,488
+0022500649,678,PT06M49.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,54,55,8,Missed,1,,,0,v,MISS Fontecchio 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,489
+0022500649,678,PT06M49.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,Clayton Jr. BLOCK (2 BLK),,,1,2,490
+0022500649,680,PT06M47.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,491
+0022500649,681,PT06M36.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,Collier Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,492
+0022500649,681,PT06M36.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio STEAL (2 STL),,,1,0,493
+0022500649,683,PT06M30.00S,4,1610612748,MIA,1630696,Smith,D. Smith,39,31,5,Made,1,102,122,224,v,Smith 5' Running Layup (4 PTS) (Fontecchio 1 AST),Made Shot,Running Layup Shot,1,2,494
+0022500649,684,PT06M13.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,223,130,26,Missed,1,,,0,h,MISS Sensabaugh 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,495
+0022500649,685,PT06M11.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,Larsson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,496
+0022500649,687,PT06M03.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-205,137,25,Made,1,102,125,227,v,Adebayo 25' 3PT Step Back Jump Shot (26 PTS) (Larsson 3 AST),Made Shot,Step Back Jump shot,1,3,497
+0022500649,688,PT05M48.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,61,122,14,Missed,1,,,0,h,MISS Sensabaugh 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,498
+0022500649,689,PT05M45.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:7 Def:8),Rebound,Unknown,1,0,499
+0022500649,690,PT05M40.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-27,34,4,Missed,1,,,0,v,MISS Fontecchio 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,500
+0022500649,690,PT05M40.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic BLOCK (1 BLK),,,1,2,501
+0022500649,692,PT05M38.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,502
+0022500649,695,PT05M38.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Jovic FOR Adebayo,Substitution,,0,0,503
+0022500649,706,PT05M38.00S,4,1610612762,UTA,1642383,Clayton Jr.,W. Clayton Jr.,0,0,0,,0,,,0,h,SUB: Bailey FOR Clayton Jr.,Substitution,,0,0,504
+0022500649,698,PT05M30.00S,4,1610612762,UTA,1642268,Collier,I. Collier,-26,22,3,Made,1,104,125,229,h,Collier 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,505
+0022500649,699,PT05M22.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-219,160,27,Made,1,104,128,232,v,Fontecchio 27' 3PT Jump Shot (11 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,3,506
+0022500649,701,PT05M06.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,1,26,3,Made,1,106,128,234,h,Sensabaugh 3' Cutting Layup Shot (23 PTS) (Nurkic 12 AST),Made Shot,Cutting Layup Shot,1,2,507
+0022500649,703,PT04M55.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,-159,205,26,Missed,1,,,0,v,MISS Larsson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,508
+0022500649,704,PT04M53.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,509
+0022500649,707,PT04M46.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,33,13,4,Missed,1,,,0,h,MISS Sensabaugh 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,510
+0022500649,708,PT04M44.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,511
+0022500649,709,PT04M38.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,-21,42,5,Made,1,106,130,236,v,Larsson 5' Running Alley Oop Layup Shot (20 PTS) (Smith 4 AST),Made Shot,Running Alley Oop Layup Shot,1,2,512
+0022500649,711,PT04M17.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,82,247,26,Missed,1,,,0,h,MISS Sensabaugh 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,513
+0022500649,712,PT04M13.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,514
+0022500649,713,PT04M06.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,Jaquez Jr. Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,515
+0022500649,713,PT04M06.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey STEAL (1 STL),,,1,0,516
+0022500649,716,PT04M03.00S,4,1610612762,UTA,1641729,Sensabaugh,B. Sensabaugh,0,0,0,,0,,,0,h,SUB: Williams FOR Sensabaugh,Substitution,,0,0,517
+0022500649,718,PT03M49.00S,4,1610612762,UTA,1642262,Williams,C. Williams,-20,16,3,Missed,1,,,0,h,MISS Williams 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,518
+0022500649,718,PT03M49.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,Jovic BLOCK (1 BLK),,,1,2,519
+0022500649,719,PT03M46.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,520
+0022500649,720,PT03M37.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic FLAGRANT.FOUL.TYPE1 (P5.PN) (J.Van Duyne),Foul,Flagrant Type 1,1,0,521
+0022500649,725,PT03M37.00S,4,1610612748,MIA,1631170,Jaquez Jr.,J. Jaquez Jr.,0,0,0,,0,,,0,v,SUB: Jakucionis FOR Jaquez Jr.,Substitution,,0,0,522
+0022500649,722,PT03M37.00S,4,0,,720,Rencher,T. Rencher,0,0,0,,0,106,130,236,,Instant Replay4th Period (11:48 PM EST),Instant Replay,Overturn Ruling,0,0,523
+0022500649,724,PT03M37.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,106,131,237,v,Jovic Free Throw Flagrant 1 of 3 (19 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,524
+0022500649,727,PT03M37.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,106,132,238,v,Jovic Free Throw Flagrant 2 of 3 (20 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,525
+0022500649,728,PT03M37.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,MISS Jovic Free Throw Flagrant 3 of 3,Free Throw,Free Throw Flagrant 3 of 3,1,0,526
+0022500649,729,PT03M37.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,0,527
+0022500649,730,PT03M37.00S,4,1610612748,MIA,1641796,Larsson,P. Larsson,0,0,0,,0,,,0,v,SUB: Gardner FOR Larsson,Substitution,,0,0,528
+0022500649,732,PT03M27.00S,4,1610612748,MIA,1631107,Jović,N. Jović,-91,241,26,Made,1,106,135,241,v,Jovic 26' 3PT Jump Shot (23 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,1,3,529
+0022500649,734,PT03M08.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P4.T4) (D.Collins),Foul,Shooting,1,0,530
+0022500649,736,PT03M08.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,107,135,242,h,George Free Throw 1 of 3 (17 PTS),Free Throw,Free Throw 1 of 3,1,0,531
+0022500649,737,PT03M08.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,108,135,243,h,George Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,0,532
+0022500649,738,PT03M08.00S,4,1610612748,MIA,1631107,Jović,N. Jović,0,0,0,,0,,,0,v,SUB: Johnson FOR Jovic,Substitution,,0,0,533
+0022500649,740,PT03M08.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,109,135,244,h,George Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,1,0,534
+0022500649,741,PT02M59.00S,4,1610612748,MIA,1642352,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,535
+0022500649,742,PT02M59.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,536
+0022500649,744,PT02M52.00S,4,1610612762,UTA,1641718,George,K. George,230,73,24,Missed,1,,,0,h,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,537
+0022500649,745,PT02M49.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,538
+0022500649,746,PT02M37.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,-45,253,26,Made,1,109,138,247,v,Fontecchio 26' 3PT Jump Shot (14 PTS) (Smith 5 AST),Made Shot,Jump Shot,1,3,539
+0022500649,748,PT02M32.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner Personal Take Foul (P4.PN) (D.Collins),Foul,Personal Take,1,0,540
+0022500649,750,PT02M32.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,541
+0022500649,751,PT02M32.00S,4,1610612748,MIA,1642857,Jakučionis,K. Jakučionis,0,0,0,,0,,,0,v,SUB: Jovic FOR Jakucionis,Substitution,,0,0,542
+0022500649,753,PT02M32.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,,,0,h,MISS Collier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,543
+0022500649,754,PT02M32.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,0,544
+0022500649,755,PT02M32.00S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,110,138,248,h,Collier Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,545
+0022500649,756,PT02M15.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,25,13,3,Missed,1,,,0,v,MISS Gardner 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,546
+0022500649,757,PT02M14.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,547
+0022500649,758,PT02M14.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,Made,1,110,140,250,v,Gardner Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,548
+0022500649,759,PT02M02.00S,4,1610612748,MIA,1642352,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,549
+0022500649,761,PT02M02.00S,4,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,550
+0022500649,762,PT02M02.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,1,0,551
+0022500649,763,PT02M02.00S,4,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,111,140,251,h,Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,552
+0022500649,764,PT01M50.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,2,37,4,Missed,1,,,0,v,MISS Gardner 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,553
+0022500649,765,PT01M48.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,554
+0022500649,766,PT01M35.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,Nurkic Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,555
+0022500649,767,PT01M35.00S,4,1610612762,UTA,203994,Nurkić,J. Nurkić,0,0,0,,0,,,0,h,SUB: Filipowski FOR Nurkic,Substitution,,0,0,556
+0022500649,769,PT01M25.00S,4,1610612748,MIA,1630696,Smith,D. Smith,32,34,5,Missed,1,,,0,v,MISS Smith 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,557
+0022500649,770,PT01M23.00S,4,1610612762,UTA,1641718,George,K. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,558
+0022500649,771,PT01M15.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,40,55,7,Missed,1,,,0,h,MISS Filipowski 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,559
+0022500649,772,PT01M14.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,560
+0022500649,773,PT01M14.00S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,Missed,1,,,0,h,MISS Filipowski Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,561
+0022500649,774,PT01M13.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,,0,,,0,h,Bailey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,562
+0022500649,775,PT01M13.00S,4,1610612762,UTA,1642846,Bailey,A. Bailey,0,0,0,Missed,1,,,0,h,MISS Bailey Putback Layup,Missed Shot,Putback Layup Shot,1,2,563
+0022500649,776,PT01M10.00S,4,1610612748,MIA,1631323,Fontecchio,S. Fontecchio,0,0,0,,0,,,0,v,Fontecchio REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,564
+0022500649,777,PT01M07.00S,4,1610612762,UTA,1642262,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,565
+0022500649,779,PT01M07.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,111,141,252,v,Smith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,566
+0022500649,780,PT01M07.00S,4,1610612748,MIA,1630696,Smith,D. Smith,0,0,0,,0,111,142,253,v,Smith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,567
+0022500649,781,PT00M53.90S,4,1610612762,UTA,1641718,George,K. George,103,246,27,Missed,1,,,0,h,MISS George 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,568
+0022500649,782,PT00M51.10S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,569
+0022500649,783,PT00M43.00S,4,1610612748,MIA,1642352,Johnson,K. Johnson,227,89,24,Made,1,111,145,256,v,Johnson 24' 3PT Jump Shot (3 PTS) (Gardner 4 AST),Made Shot,Jump Shot,1,3,570
+0022500649,785,PT00M32.90S,4,1610612748,MIA,1642352,Johnson,K. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,571
+0022500649,787,PT00M32.90S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,112,145,257,h,Collier Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,572
+0022500649,788,PT00M32.90S,4,1610612762,UTA,1642268,Collier,I. Collier,0,0,0,,0,113,145,258,h,Collier Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,573
+0022500649,789,PT00M09.10S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,0,0,0,,0,,,0,h,Filipowski S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,574
+0022500649,791,PT00M09.10S,4,1610612748,MIA,1642352,Johnson,K. Johnson,0,0,0,,0,113,146,259,v,Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,575
+0022500649,792,PT00M09.10S,4,1610612748,MIA,1642352,Johnson,K. Johnson,0,0,0,,0,113,147,260,v,Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,576
+0022500649,793,PT00M03.00S,4,1610612762,UTA,1642268,Collier,I. Collier,9,47,5,Missed,1,,,0,h,MISS Collier 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,577
+0022500649,793,PT00M03.00S,4,1610612748,MIA,1642066,Gardner,M. Gardner,0,0,0,,0,,,0,v,Gardner BLOCK (2 BLK),,,1,2,578
+0022500649,795,PT00M02.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,0,579
+0022500649,797,PT00M00.60S,4,1610612762,UTA,1642271,Filipowski,K. Filipowski,-168,219,28,Made,1,116,147,263,h,Filipowski 28' 3PT Jump Shot (9 PTS) (Collier 9 AST),Made Shot,Jump Shot,1,3,580
+0022500649,801,PT00M00.00S,4,0,,797,,,0,0,0,,0,116,147,263,,Instant Replay4th Period (12:04 AM EST),Instant Replay,Support Ruling,0,0,581
+0022500649,799,PT00M00.00S,4,0,,0,,,0,0,0,,0,116,147,263,,End of 4th Period (12:04 AM EST),period,end,1,0,582

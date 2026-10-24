@@ -1,0 +1,478 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500782,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,1,0,1
+0022500782,4,PT12M00.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Jump Ball Smith Jr. vs. Lopez: Tip to Jones Jr.,Jump Ball,,1,0,2
+0022500782,7,PT11M42.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-40,180,18,Missed,1,,,0,v,MISS Leonard 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,3
+0022500782,8,PT11M41.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022500782,9,PT11M26.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-9,75,8,Missed,1,,,0,h,MISS Sengun 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,5
+0022500782,10,PT11M25.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022500782,11,PT11M19.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,31,10,3,Made,1,0,2,2,v,Leonard 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,7
+0022500782,12,PT10M54.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,-6,11,1,Made,1,2,2,4,h,Thompson 1' Dunk (2 PTS) (Durant 1 AST),Made Shot,Dunk Shot,1,2,8
+0022500782,14,PT10M31.00S,1,1610612746,LAC,1628381,Collins,J. Collins,-62,27,7,Made,1,2,4,6,v,Collins 7' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,9
+0022500782,15,PT10M21.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-9,35,4,Made,1,4,4,8,h,Sengun 4' Cutting Dunk Shot (2 PTS) (Thompson 1 AST),Made Shot,Cutting Dunk Shot,1,2,10
+0022500782,17,PT10M02.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,11
+0022500782,17,PT10M02.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,12
+0022500782,19,PT10M01.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,13
+0022500782,21,PT09M51.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-237,6,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022500782,22,PT09M48.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022500782,23,PT09M43.00S,1,1610612745,HOU,201142,Durant,K. Durant,18,273,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022500782,24,PT09M42.00S,1,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,17
+0022500782,25,PT09M36.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,23,26,3,Made,1,6,4,10,h,Thompson 3' Alley Oop Layup (4 PTS) (Durant 2 AST),Made Shot,Alley Oop Layup shot,1,2,18
+0022500782,27,PT09M15.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,113,243,27,Missed,1,,,0,v,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0022500782,28,PT09M14.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,20
+0022500782,29,PT09M00.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,-2,26,3,Made,1,8,4,12,h,Thompson 3' Cutting Dunk Shot (6 PTS) (Sengun 1 AST),Made Shot,Cutting Dunk Shot,1,2,21
+0022500782,31,PT08M31.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,48,107,12,Missed,1,,,0,v,MISS Dunn 12' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,22
+0022500782,32,PT08M30.00S,1,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+0022500782,33,PT08M18.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,229,27,0,Made,1,11,4,15,h,Smith Jr. 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,1,3,24
+0022500782,35,PT08M05.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,-190,173,26,Made,1,11,7,18,v,Dunn 26' 3PT Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Jump Shot,1,3,25
+0022500782,37,PT07M49.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,227,47,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+0022500782,38,PT07M48.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+0022500782,39,PT07M45.00S,1,1610612745,HOU,1631106,Eason,T. Eason,-196,171,26,Missed,1,,,0,h,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0022500782,40,PT07M45.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,29
+0022500782,41,PT07M40.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,1,0,30
+0022500782,42,PT07M29.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,11,86,9,Missed,1,,,0,v,MISS Leonard 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,31
+0022500782,43,PT07M28.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,32
+0022500782,44,PT07M12.00S,1,1610612745,HOU,201142,Durant,K. Durant,78,262,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022500782,45,PT07M11.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022500782,46,PT07M05.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-12,22,3,Made,1,11,9,20,v,Jones Jr. 3' Running Layup (2 PTS) (Dunn 1 AST),Made Shot,Running Layup Shot,1,2,35
+0022500782,48,PT06M47.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-33,26,4,Made,1,13,9,22,h,Smith Jr. 4' Driving Finger Roll Layup (5 PTS) (Sengun 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,36
+0022500782,50,PT06M29.00S,1,1610612746,LAC,201572,Lopez,B. Lopez,-221,15,0,Made,1,13,12,25,v,Lopez 3PT Jump Shot (3 PTS) (Dunn 2 AST),Made Shot,Jump Shot,1,3,37
+0022500782,52,PT06M07.00S,1,1610612745,HOU,1631106,Eason,T. Eason,21,25,3,Made,1,15,12,27,h,Eason 3' Driving Layup (2 PTS) (Thompson 2 AST),Made Shot,Driving Layup Shot,1,2,38
+0022500782,54,PT05M56.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,39
+0022500782,55,PT05M56.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022500782,56,PT05M56.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Sheppard FOR Thompson,Substitution,,0,0,41
+0022500782,57,PT05M56.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Tate FOR Smith Jr.,Substitution,,0,0,42
+0022500782,58,PT05M56.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Capela FOR Sengun,Substitution,,0,0,43
+0022500782,59,PT05M56.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Mathurin FOR Leonard,Substitution,,0,0,44
+0022500782,64,PT05M56.00S,1,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Niederhauser FOR Lopez,Substitution,,0,0,45
+0022500782,66,PT05M35.00S,1,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,46
+0022500782,66,PT05M35.00S,1,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins STEAL (1 STL),,,1,0,47
+0022500782,68,PT05M31.00S,1,1610612746,LAC,1628381,Collins,J. Collins,16,27,3,Made,1,15,14,29,v,Collins 3' Running Reverse Dunk Shot (4 PTS),Made Shot,Running Reverse Dunk Shot,1,2,48
+0022500782,69,PT05M09.00S,1,1610612745,HOU,1631106,Eason,T. Eason,-2,26,3,Missed,1,,,0,h,MISS Eason 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,49
+0022500782,69,PT05M09.00S,1,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser BLOCK (1 BLK),,,1,2,50
+0022500782,70,PT05M08.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,51
+0022500782,71,PT05M06.00S,1,1610612745,HOU,203991,Capela,C. Capela,10,27,3,Made,1,17,14,31,h,Capela 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,52
+0022500782,72,PT04M48.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,62,264,27,Made,1,17,17,34,v,Jones Jr. 27' 3PT Jump Shot (5 PTS) (Mathurin 1 AST),Made Shot,Jump Shot,1,3,53
+0022500782,74,PT04M34.00S,1,1610612745,HOU,1642263,Sheppard,R. Sheppard,100,247,27,Made,1,20,17,37,h,Sheppard 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,54
+0022500782,75,PT04M11.00S,1,1610612746,LAC,1628381,Collins,J. Collins,40,57,7,Missed,1,,,0,v,MISS Collins 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,55
+0022500782,76,PT04M10.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,56
+0022500782,77,PT04M02.00S,1,1610612745,HOU,201142,Durant,K. Durant,-34,24,4,Missed,1,,,0,h,MISS Durant 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,57
+0022500782,78,PT04M01.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,58
+0022500782,79,PT03M54.00S,1,1610612746,LAC,1631097,Mathurin,B. Mathurin,87,254,27,Made,1,20,20,40,v,Mathurin 27' 3PT Pullup Jump Shot (3 PTS) (Jones Jr. 1 AST),Made Shot,Pullup Jump shot,1,3,59
+0022500782,81,PT03M37.00S,1,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,60
+0022500782,82,PT03M37.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Thompson FOR Eason,Substitution,,0,0,61
+0022500782,83,PT03M37.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Miller FOR Dunn,Substitution,,0,0,62
+0022500782,86,PT03M15.00S,1,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,63
+0022500782,86,PT03M15.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (1 STL),,,1,0,64
+0022500782,88,PT03M10.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,65
+0022500782,88,PT03M10.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. STEAL (1 STL),,,1,0,66
+0022500782,90,PT03M01.00S,1,1610612746,LAC,1628381,Collins,J. Collins,195,180,27,Missed,1,,,0,v,MISS Collins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022500782,91,PT03M00.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,68
+0022500782,92,PT02M51.00S,1,1610612745,HOU,1641708,Thompson,A. Thompson,83,146,17,Made,1,22,20,42,h,Thompson 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,69
+0022500782,93,PT02M49.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,70
+0022500782,96,PT02M49.00S,1,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Durant,Substitution,,0,0,71
+0022500782,97,PT02M49.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Sanders FOR Jones Jr.,Substitution,,0,0,72
+0022500782,100,PT02M29.00S,1,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,73
+0022500782,101,PT02M19.00S,1,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,74
+0022500782,103,PT02M19.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,23,20,43,h,Smith Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,75
+0022500782,104,PT02M19.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Sengun FOR Tate,Substitution,,0,0,76
+0022500782,106,PT02M19.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,24,20,44,h,Smith Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,77
+0022500782,107,PT01M59.00S,1,1610612746,LAC,1631097,Mathurin,B. Mathurin,176,202,27,Missed,1,,,0,v,MISS Mathurin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022500782,108,PT01M58.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,79
+0022500782,110,PT01M39.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-107,255,28,Made,1,27,20,47,h,Smith Jr. 28' 3PT Jump Shot (10 PTS) (Sheppard 1 AST),Made Shot,Jump Shot,1,3,80
+0022500782,112,PT01M18.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,81
+0022500782,113,PT01M18.00S,1,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Dunn FOR Collins,Substitution,,0,0,82
+0022500782,117,PT01M03.00S,1,1610612746,LAC,1641757,Miller,J. Miller,-197,190,27,Missed,1,,,0,v,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022500782,117,PT01M03.00S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (1 BLK),,,1,3,84
+0022500782,119,PT01M03.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,85
+0022500782,120,PT01M03.00S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,86
+0022500782,121,PT00M56.90S,1,1610612745,HOU,1642263,Sheppard,R. Sheppard,-78,273,28,Missed,1,,,0,h,MISS Sheppard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+0022500782,122,PT00M54.50S,1,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,88
+0022500782,124,PT00M44.90S,1,1610612746,LAC,1642920,Sanders,K. Sanders,44,16,5,Missed,1,,,0,v,MISS Sanders 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,89
+0022500782,124,PT00M44.90S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (1 BLK),,,1,2,90
+0022500782,126,PT00M42.60S,1,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,91
+0022500782,127,PT00M41.00S,1,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,11,31,3,Missed,1,,,0,v,MISS Niederhauser 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,92
+0022500782,128,PT00M39.70S,1,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,93
+0022500782,129,PT00M31.10S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,94
+0022500782,129,PT00M31.10S,1,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,,,0,v,Sanders STEAL (1 STL),,,1,0,95
+0022500782,131,PT00M26.80S,1,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,96
+0022500782,133,PT00M26.80S,1,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,27,21,48,v,Sanders Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,97
+0022500782,134,PT00M26.80S,1,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,27,22,49,v,Sanders Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+0022500782,135,PT00M05.50S,1,1610612745,HOU,1630578,Sengun,A. Sengun,9,37,4,Made,1,29,22,51,h,Sengun 4' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,99
+0022500782,136,PT00M05.50S,1,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,0,0,100
+0022500782,137,PT00M00.30S,1,1610612746,LAC,1641757,Miller,J. Miller,-17,21,3,Missed,1,,,0,v,MISS Miller 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,101
+0022500782,138,PT00M00.20S,1,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,102
+0022500782,139,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,22,51,,End of 1st Period (8:36 PM EST),period,end,1,0,103
+0022500782,146,PT12M00.00S,2,0,,0,,,0,0,0,,0,29,22,51,,Start of 2nd Period (8:38 PM EST),period,start,1,0,104
+0022500782,147,PT11M40.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,33,269,27,Made,1,32,22,54,h,Sheppard 27' 3PT Jump Shot (6 PTS) (Sengun 3 AST),Made Shot,Jump Shot,1,3,105
+0022500782,149,PT11M27.00S,2,1610612746,LAC,1641757,Miller,J. Miller,-29,16,3,Made,1,32,24,56,v,Miller 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,106
+0022500782,151,PT11M03.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,218,127,25,Missed,1,,,0,h,MISS Sengun 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022500782,152,PT11M02.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022500782,153,PT10M46.00S,2,1610612746,LAC,1642920,Sanders,K. Sanders,2,31,3,Missed,1,,,0,v,MISS Sanders 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,109
+0022500782,153,PT10M46.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (2 BLK),,,1,2,110
+0022500782,155,PT10M45.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,111
+0022500782,156,PT10M39.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-16,67,7,Missed,1,,,0,h,MISS Sengun 7' Running Layup,Missed Shot,Running Layup Shot,1,2,112
+0022500782,158,PT10M37.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,113
+0022500782,159,PT10M35.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-5,19,2,Made,1,34,24,58,h,Sengun 2' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,1,2,114
+0022500782,160,PT10M23.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,69,173,19,Missed,1,,,0,v,MISS Mathurin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,115
+0022500782,161,PT10M22.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,116
+0022500782,162,PT10M10.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,-9,272,27,Made,1,37,24,61,h,Sheppard 27' 3PT Jump Shot (9 PTS) (Sengun 4 AST),Made Shot,Jump Shot,1,3,117
+0022500782,165,PT09M43.00S,2,1610612746,LAC,201572,Lopez,B. Lopez,-39,37,5,Made,1,37,26,63,v,Lopez 5' Driving Floating Jump Shot (5 PTS) (Mathurin 2 AST),Made Shot,Driving Floating Jump Shot,1,2,118
+0022500782,167,PT09M23.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,-21,266,27,Missed,1,,,0,h,MISS Sheppard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,119
+0022500782,168,PT09M22.00S,2,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,,,0,v,Sanders REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022500782,169,PT09M15.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,-15,18,2,Made,1,37,28,65,v,Mathurin 2' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,121
+0022500782,170,PT09M01.00S,2,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,,,0,v,Sanders P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,122
+0022500782,172,PT09M01.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Eason FOR Thompson,Substitution,,0,0,123
+0022500782,173,PT09M01.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Capela FOR Sengun,Substitution,,0,0,124
+0022500782,174,PT09M01.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,SUB: Dunn FOR Mathurin,Substitution,,0,0,125
+0022500782,178,PT08M49.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-238,5,24,Missed,1,,,0,h,MISS Eason 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022500782,179,PT08M48.00S,2,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022500782,180,PT08M28.00S,2,1610612746,LAC,1641757,Miller,J. Miller,59,100,12,Missed,1,,,0,v,MISS Miller 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,128
+0022500782,181,PT08M27.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022500782,182,PT08M15.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,-40,24,5,Made,1,39,28,67,h,Sheppard 5' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,130
+0022500782,183,PT07M56.00S,2,1610612746,LAC,201572,Lopez,B. Lopez,217,175,28,Missed,1,,,0,v,MISS Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022500782,184,PT07M54.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,132
+0022500782,186,PT07M47.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,-18,17,2,Made,1,39,30,69,v,Dunn 2' Driving Reverse Layup (5 PTS) (Lopez 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,133
+0022500782,188,PT07M47.00S,2,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,Okogie S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,134
+0022500782,190,PT07M47.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Durant FOR Smith Jr.,Substitution,,0,0,135
+0022500782,192,PT07M47.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,136
+0022500782,193,PT07M45.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,137
+0022500782,195,PT07M32.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,2,271,27,Made,1,42,30,72,h,Sheppard 27' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,138
+0022500782,196,PT07M30.00S,2,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,139
+0022500782,197,PT07M30.00S,2,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Sanders,Substitution,,0,0,140
+0022500782,198,PT07M30.00S,2,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,SUB: Collins FOR Miller,Substitution,,0,0,141
+0022500782,201,PT07M13.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,93,247,26,Made,1,42,33,75,v,Dunn 26' 3PT Jump Shot (8 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,3,142
+0022500782,203,PT06M46.00S,2,1610612745,HOU,201142,Durant,K. Durant,-17,20,3,Made,1,44,33,77,h,Durant 3' Cutting Dunk Shot (2 PTS) (Sheppard 2 AST),Made Shot,Cutting Dunk Shot,1,2,143
+0022500782,205,PT06M29.00S,2,1610612746,LAC,201572,Lopez,B. Lopez,78,38,9,Made,1,44,35,79,v,Lopez 9' Floating Jump Shot (7 PTS) (Dunn 3 AST),Made Shot,Floating Jump shot,1,2,144
+0022500782,208,PT06M16.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,37,268,27,Missed,1,,,0,h,MISS Sheppard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,145
+0022500782,209,PT06M15.00S,2,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022500782,210,PT06M00.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-4,28,3,Made,1,44,37,81,v,Leonard 3' Cutting Layup Shot (4 PTS) (Dunn 4 AST),Made Shot,Cutting Layup Shot,1,2,147
+0022500782,212,PT05M33.00S,2,1610612745,HOU,1631106,Eason,T. Eason,228,66,24,Made,1,47,37,84,h,Eason 24' 3PT Jump Shot (5 PTS) (Sheppard 3 AST),Made Shot,Jump Shot,1,3,148
+0022500782,214,PT05M23.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,149
+0022500782,215,PT05M23.00S,2,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,SUB: Thompson FOR Okogie,Substitution,,0,0,150
+0022500782,216,PT05M23.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Mathurin FOR Leonard,Substitution,,0,0,151
+0022500782,219,PT05M07.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,-96,71,12,Missed,1,,,0,v,MISS Mathurin 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,152
+0022500782,219,PT05M07.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard BLOCK (1 BLK),,,1,2,153
+0022500782,220,PT05M05.00S,2,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,154
+0022500782,221,PT04M52.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,155
+0022500782,221,PT04M52.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin STEAL (1 STL),,,1,0,156
+0022500782,223,PT04M38.00S,2,1610612746,LAC,1628381,Collins,J. Collins,65,32,7,Missed,1,,,0,v,MISS Collins 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,157
+0022500782,224,PT04M36.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,158
+0022500782,225,PT04M14.00S,2,1610612745,HOU,201142,Durant,K. Durant,-55,274,28,Made,1,50,37,87,h,Durant 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,159
+0022500782,226,PT04M02.00S,2,1610612746,LAC,1628381,Collins,J. Collins,55,18,6,Missed,1,,,0,v,MISS Collins 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,160
+0022500782,226,PT04M02.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (2 BLK),,,1,2,161
+0022500782,228,PT04M01.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,162
+0022500782,229,PT03M54.00S,2,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,163
+0022500782,229,PT03M54.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin STEAL (2 STL),,,1,0,164
+0022500782,231,PT03M49.00S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,-22,5,2,Missed,1,,,0,v,MISS Mathurin 2' Running Layup,Missed Shot,Running Layup Shot,1,2,165
+0022500782,231,PT03M49.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (3 BLK),,,1,2,166
+0022500782,233,PT03M49.00S,2,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,1,0,167
+0022500782,235,PT03M48.00S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Sheppard,Substitution,,0,0,168
+0022500782,238,PT03M48.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Inbound Turnover (P1.T6),Turnover,Inbound Turnover,1,0,169
+0022500782,239,PT03M34.00S,2,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,170
+0022500782,239,PT03M34.00S,2,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez STEAL (1 STL),,,1,0,171
+0022500782,241,PT03M32.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,-2,18,2,Made,1,50,39,89,v,Dunn 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,172
+0022500782,242,PT03M14.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,173
+0022500782,244,PT03M14.00S,2,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,174
+0022500782,245,PT03M14.00S,2,0,,242,,,0,0,0,,0,50,39,89,,Instant Replay2nd Period (8:55 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,175
+0022500782,246,PT03M14.00S,2,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Sengun FOR Capela,Substitution,,0,0,176
+0022500782,248,PT03M14.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,51,39,90,h,Thompson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,177
+0022500782,249,PT03M14.00S,2,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,52,39,91,h,Thompson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,178
+0022500782,250,PT03M01.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-13,26,3,Missed,1,,,0,v,MISS Jones Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,179
+0022500782,251,PT03M00.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,180
+0022500782,253,PT02M43.00S,2,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,181
+0022500782,253,PT02M43.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,182
+0022500782,255,PT02M31.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-191,176,26,Missed,1,,,0,v,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022500782,256,PT02M29.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,184
+0022500782,257,PT02M16.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-1,36,4,Made,1,54,39,93,h,Eason 4' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,1,2,185
+0022500782,259,PT01M54.00S,2,1610612746,LAC,1628381,Collins,J. Collins,2,23,2,Made,1,54,41,95,v,Collins 2' Driving Dunk (6 PTS) (Mathurin 3 AST),Made Shot,Driving Dunk Shot,1,2,186
+0022500782,261,PT01M27.00S,2,1610612745,HOU,201142,Durant,K. Durant,-80,-7,8,Made,1,56,41,97,h,Durant 8' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,187
+0022500782,262,PT00M57.30S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-188,184,26,Made,1,56,44,100,v,Jones Jr. 26' 3PT Jump Shot (8 PTS) (Dunn 5 AST),Made Shot,Jump Shot,1,3,188
+0022500782,264,PT00M41.30S,2,1610612745,HOU,201142,Durant,K. Durant,-58,266,27,Missed,1,,,0,h,MISS Durant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,189
+0022500782,265,PT00M38.60S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,190
+0022500782,268,PT00M31.20S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,191
+0022500782,270,PT00M31.20S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,56,45,101,v,Mathurin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,192
+0022500782,271,PT00M31.20S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Sheppard FOR Eason,Substitution,,0,0,193
+0022500782,273,PT00M31.20S,2,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,56,46,102,v,Mathurin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,194
+0022500782,274,PT00M12.50S,2,1610612745,HOU,1642263,Sheppard,R. Sheppard,-234,6,0,Missed,1,,,0,h,MISS Sheppard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022500782,274,PT00M12.50S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. BLOCK (1 BLK),,,1,3,196
+0022500782,276,PT00M12.50S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,197
+0022500782,278,PT00M09.30S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,203,161,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022500782,279,PT00M07.40S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,199
+0022500782,282,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,46,102,,End of 2nd Period (9:04 PM EST),period,end,1,0,200
+0022500782,283,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,46,102,,Instant Replay2nd Period (9:04 PM EST),Instant Replay,Support Ruling,0,0,201
+0022500782,288,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,46,102,,Start of 3rd Period (9:18 PM EST),period,start,1,0,202
+0022500782,289,PT11M47.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. P.FOUL (P2.T1) (M.Davis),Foul,Personal,1,0,203
+0022500782,291,PT11M34.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,21,157,16,Missed,1,,,0,h,MISS Sengun 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,204
+0022500782,292,PT11M32.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,205
+0022500782,293,PT11M19.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,-148,226,27,Missed,1,,,0,v,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0022500782,294,PT11M18.00S,3,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022500782,295,PT11M09.00S,3,1610612745,HOU,1631106,Eason,T. Eason,244,64,25,Missed,1,,,0,h,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022500782,296,PT11M06.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,209
+0022500782,297,PT11M06.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P1.T2) (J.Butler),Foul,Shooting,1,0,210
+0022500782,299,PT11M06.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,211
+0022500782,300,PT11M06.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,212
+0022500782,301,PT11M06.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,57,46,103,h,Sengun Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,213
+0022500782,302,PT10M43.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,-239,9,24,Made,1,57,49,106,v,Lopez 24' 3PT Jump Shot (10 PTS) (Dunn 6 AST),Made Shot,Jump Shot,1,3,214
+0022500782,304,PT10M30.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,215
+0022500782,304,PT10M30.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard STEAL (1 STL),,,1,0,216
+0022500782,306,PT10M26.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-13,14,2,Made,1,57,51,108,v,Leonard 2' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,2,217
+0022500782,307,PT10M08.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (J.Butler),Foul,Personal,1,0,218
+0022500782,309,PT09M53.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,92,39,10,Made,1,59,51,110,h,Sengun 10' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,2,219
+0022500782,310,PT09M43.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,-22,269,27,Missed,1,,,0,v,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022500782,311,PT09M42.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,221
+0022500782,312,PT09M27.00S,3,1610612745,HOU,1631106,Eason,T. Eason,240,20,24,Missed,1,,,0,h,MISS Eason 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022500782,313,PT09M26.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,223
+0022500782,314,PT09M23.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,15,15,2,Made,1,61,51,112,h,Smith Jr. 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,224
+0022500782,316,PT09M03.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-12,193,19,Missed,1,,,0,v,MISS Leonard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,225
+0022500782,317,PT09M02.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,226
+0022500782,318,PT08M49.00S,3,1610612745,HOU,1631106,Eason,T. Eason,203,167,26,Made,1,64,51,115,h,Eason 26' 3PT Pullup Jump Shot (10 PTS) (Sengun 5 AST),Made Shot,Pullup Jump shot,1,3,227
+0022500782,319,PT08M24.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,234,43,24,Made,1,64,54,118,v,Dunn 24' 3PT Jump Shot (13 PTS) (Collins 1 AST),Made Shot,Jump Shot,1,3,228
+0022500782,321,PT08M02.00S,3,1610612745,HOU,1631106,Eason,T. Eason,245,21,25,Missed,1,,,0,h,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022500782,322,PT08M00.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,230
+0022500782,323,PT07M57.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,21,15,3,Made,1,64,56,120,v,Jones Jr. 3' Running Alley Oop Dunk Shot (10 PTS) (Leonard 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,231
+0022500782,325,PT07M43.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,-227,39,0,Missed,1,,,0,h,MISS Thompson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0022500782,326,PT07M41.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,233
+0022500782,327,PT07M34.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-233,6,0,Missed,1,,,0,v,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0022500782,328,PT07M33.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,235
+0022500782,329,PT07M23.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,48,164,17,Missed,1,,,0,h,MISS Sengun 17' Jump Shot,Missed Shot,Jump Shot,1,2,236
+0022500782,330,PT07M22.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,237
+0022500782,331,PT07M12.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-38,34,5,Missed,1,,,0,v,MISS Jones Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,238
+0022500782,331,PT07M12.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (3 BLK),,,1,2,239
+0022500782,333,PT07M10.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,240
+0022500782,334,PT07M10.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P2.T1) (J.Butler),Foul,Shooting,1,0,241
+0022500782,336,PT07M10.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,64,57,121,v,Leonard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,242
+0022500782,337,PT07M10.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,64,58,122,v,Leonard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,243
+0022500782,338,PT06M47.00S,3,1610612745,HOU,201142,Durant,K. Durant,118,247,27,Missed,1,,,0,h,MISS Durant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,244
+0022500782,339,PT06M46.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,245
+0022500782,340,PT06M34.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,-241,80,25,Made,1,64,61,125,v,Dunn 25' 3PT Step Back Jump Shot (16 PTS) (Lopez 3 AST),Made Shot,Step Back Jump shot,1,3,246
+0022500782,343,PT06M22.00S,3,1610612745,HOU,201142,Durant,K. Durant,241,38,24,Made,1,67,61,128,h,Durant 24' 3PT Jump Shot (10 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,3,247
+0022500782,345,PT06M03.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-13,261,26,Missed,1,,,0,v,MISS Leonard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022500782,346,PT06M02.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,249
+0022500782,347,PT05M59.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,250
+0022500782,347,PT05M59.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard STEAL (2 STL),,,1,0,251
+0022500782,349,PT05M50.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,34,87,9,Missed,1,,,0,v,MISS Leonard 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,252
+0022500782,350,PT05M49.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,253
+0022500782,351,PT05M34.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-18,70,7,Missed,1,,,0,h,MISS Sengun 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,254
+0022500782,352,PT05M32.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,255
+0022500782,353,PT05M27.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,-112,210,24,Missed,1,,,0,v,MISS Leonard 24' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,256
+0022500782,354,PT05M25.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,257
+0022500782,355,PT05M21.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,42,29,5,Missed,1,,,0,h,MISS Thompson 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,258
+0022500782,356,PT05M19.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,259
+0022500782,357,PT05M11.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P1.T4) (M.Davis),Foul,Shooting,1,0,260
+0022500782,359,PT05M11.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,261
+0022500782,362,PT05M11.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,SUB: Tate FOR Thompson,Substitution,,0,0,262
+0022500782,363,PT05M11.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Sheppard FOR Smith Jr.,Substitution,,0,0,263
+0022500782,364,PT05M11.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Capela FOR Sengun,Substitution,,0,0,264
+0022500782,368,PT05M11.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,68,61,129,h,Eason Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,1,0,265
+0022500782,369,PT05M11.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,69,61,130,h,Eason Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,1,0,266
+0022500782,370,PT05M11.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,70,61,131,h,Eason Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,1,0,267
+0022500782,371,PT04M49.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,232,24,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+0022500782,372,PT04M47.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,269
+0022500782,373,PT04M42.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Offensive Charge Foul (P1) (M.Davis),Foul,Offensive Charge,1,0,270
+0022500782,375,PT04M42.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,271
+0022500782,376,PT04M42.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Mathurin FOR Dunn,Substitution,,0,0,272
+0022500782,377,PT04M42.00S,3,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Niederhauser FOR Lopez,Substitution,,0,0,273
+0022500782,380,PT04M20.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-2,63,6,Missed,1,,,0,h,MISS Tate 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,274
+0022500782,381,PT04M19.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,275
+0022500782,382,PT04M19.00S,3,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser L.B.FOUL (P1.PN) (J.Butler),Foul,Loose Ball,1,0,276
+0022500782,384,PT04M19.00S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,MISS Capela Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,277
+0022500782,385,PT04M19.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,278
+0022500782,386,PT04M19.00S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,71,61,132,h,Capela Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+0022500782,387,PT04M10.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,280
+0022500782,387,PT04M10.00S,3,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard STEAL (1 STL),,,1,0,281
+0022500782,389,PT04M05.00S,3,1610612745,HOU,1631106,Eason,T. Eason,230,133,27,Missed,1,,,0,h,MISS Eason 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,282
+0022500782,390,PT04M03.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,283
+0022500782,391,PT03M57.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,284
+0022500782,392,PT03M57.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Thompson FOR Eason,Substitution,,0,0,285
+0022500782,394,PT03M49.00S,3,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant OFF.Foul (P1) (J.Butler),Foul,Offensive,1,0,286
+0022500782,396,PT03M49.00S,3,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Offensive Foul Turnover (P6.T12),Turnover,Offensive Foul Turnover,1,0,287
+0022500782,397,PT03M49.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Miller FOR Leonard,Substitution,,0,0,288
+0022500782,399,PT03M39.00S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,33,30,4,Missed,1,,,0,v,MISS Mathurin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,289
+0022500782,399,PT03M39.00S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (4 BLK),,,1,2,290
+0022500782,401,PT03M38.00S,3,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,291
+0022500782,402,PT03M24.00S,3,1610612745,HOU,201142,Durant,K. Durant,56,113,13,Missed,1,,,0,h,MISS Durant 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,292
+0022500782,403,PT03M22.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,293
+0022500782,404,PT03M11.00S,3,1610612745,HOU,1642263,Sheppard,R. Sheppard,32,196,20,Missed,1,,,0,h,MISS Sheppard 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,294
+0022500782,404,PT03M11.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,Jones Jr. BLOCK (2 BLK),,,1,2,295
+0022500782,406,PT03M09.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,296
+0022500782,408,PT03M05.00S,3,1610612745,HOU,1642263,Sheppard,R. Sheppard,243,22,24,Made,1,74,61,135,h,Sheppard 24' 3PT Jump Shot (17 PTS) (Thompson 4 AST),Made Shot,Jump Shot,1,3,297
+0022500782,410,PT02M53.00S,3,1610612746,LAC,1628381,Collins,J. Collins,-44,43,6,Made,1,74,63,137,v,Collins 6' Cutting Layup Shot (8 PTS) (Jones Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,298
+0022500782,412,PT02M32.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,1,18,2,Made,1,76,63,139,h,Thompson 2' Cutting Finger Roll Layup Shot (12 PTS) (Durant 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,299
+0022500782,414,PT02M26.00S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,62,253,26,Missed,1,,,0,v,MISS Mathurin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,300
+0022500782,415,PT02M25.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,301
+0022500782,416,PT02M21.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,302
+0022500782,417,PT02M21.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,303
+0022500782,418,PT02M21.00S,3,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Durant,Substitution,,0,0,304
+0022500782,419,PT02M21.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Sanders FOR Jones Jr.,Substitution,,0,0,305
+0022500782,422,PT02M05.00S,3,1610612746,LAC,1628381,Collins,J. Collins,118,117,17,Made,1,76,65,141,v,Collins 17' Turnaround Jump Shot (10 PTS) (Sanders 1 AST),Made Shot,Turnaround Jump Shot,1,2,306
+0022500782,424,PT01M40.00S,3,1610612745,HOU,1642263,Sheppard,R. Sheppard,-26,23,3,Missed,1,,,0,h,MISS Sheppard 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,307
+0022500782,424,PT01M40.00S,3,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser BLOCK (2 BLK),,,1,2,308
+0022500782,426,PT01M39.00S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+0022500782,427,PT01M31.00S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela S.FOUL (P1.T2) (J.Butler),Foul,Shooting,1,0,310
+0022500782,429,PT01M31.00S,3,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,76,66,142,v,Sanders Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+0022500782,430,PT01M31.00S,3,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Dunn FOR Collins,Substitution,,0,0,312
+0022500782,432,PT01M31.00S,3,1610612746,LAC,1642920,Sanders,K. Sanders,0,0,0,,0,,,0,v,MISS Sanders Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,313
+0022500782,433,PT01M31.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,314
+0022500782,434,PT01M17.00S,3,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,315
+0022500782,435,PT01M05.00S,3,1610612746,LAC,1641757,Miller,J. Miller,-37,9,4,Made,1,76,68,144,v,Miller 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,316
+0022500782,437,PT00M40.30S,3,1610612745,HOU,203991,Capela,C. Capela,40,29,5,Missed,1,,,0,h,MISS Capela 5' Reverse Dunk,Missed Shot,Reverse Dunk Shot,1,2,317
+0022500782,438,PT00M40.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,318
+0022500782,440,PT00M38.20S,3,1610612745,HOU,1642263,Sheppard,R. Sheppard,-232,5,0,Missed,1,,,0,h,MISS Sheppard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022500782,441,PT00M37.40S,3,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,Niederhauser REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,320
+0022500782,442,PT00M25.90S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,1,0,321
+0022500782,444,PT00M25.90S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,76,69,145,v,Mathurin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+0022500782,445,PT00M25.90S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Sengun FOR Tate,Substitution,,0,0,323
+0022500782,446,PT00M25.90S,3,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Durant FOR Capela,Substitution,,0,0,324
+0022500782,447,PT00M25.90S,3,1610612746,LAC,1642949,Niederhäuser,Y. Niederhäuser,0,0,0,,0,,,0,v,SUB: Lopez FOR Niederhauser,Substitution,,0,0,325
+0022500782,451,PT00M25.90S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,76,70,146,v,Mathurin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+0022500782,452,PT00M03.20S,3,1610612745,HOU,1630578,Sengun,A. Sengun,4,80,8,Missed,1,,,0,h,MISS Sengun 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,327
+0022500782,453,PT00M02.60S,3,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,328
+0022500782,454,PT00M00.00S,3,0,,0,,,0,0,0,,0,,,0,v,CLIPPERS Heave,Heave,Team Field Goal Attempt,1,0,329
+0022500782,455,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,330
+0022500782,456,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,70,146,,End of 3rd Period (9:46 PM EST),period,end,1,0,331
+0022500782,461,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,70,146,,Start of 4th Period (9:49 PM EST),period,start,1,0,332
+0022500782,462,PT11M48.00S,4,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,Okogie P.FOUL (P2.T1) (M.Davis),Foul,Personal,1,0,333
+0022500782,464,PT11M34.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,-181,220,28,Made,1,76,73,149,v,Lopez 28' 3PT Jump Shot (13 PTS) (Leonard 3 AST),Made Shot,Jump Shot,1,3,334
+0022500782,466,PT11M16.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,214,162,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022500782,467,PT11M14.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,336
+0022500782,468,PT11M08.00S,4,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,Okogie Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,337
+0022500782,468,PT11M08.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin STEAL (3 STL),,,1,0,338
+0022500782,470,PT11M04.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,-23,14,3,Made,1,76,75,151,v,Mathurin 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,339
+0022500782,471,PT10M58.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,12,17,2,Made,1,78,75,153,h,Smith Jr. 2' Cutting Dunk Shot (14 PTS) (Sengun 6 AST),Made Shot,Cutting Dunk Shot,1,2,340
+0022500782,473,PT10M43.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,-4,287,29,Missed,1,,,0,v,MISS Lopez 29' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,341
+0022500782,474,PT10M40.00S,4,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,342
+0022500782,475,PT10M36.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,343
+0022500782,476,PT10M17.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,22,20,3,Made,1,80,75,155,h,Sengun 3' Cutting Layup Shot (11 PTS) (Thompson 5 AST),Made Shot,Cutting Layup Shot,1,2,344
+0022500782,478,PT10M08.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,86,250,26,Made,1,80,78,158,v,Leonard 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,345
+0022500782,479,PT09M53.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,33,18,4,Missed,1,,,0,h,MISS Sengun 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,346
+0022500782,479,PT09M53.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin BLOCK (1 BLK),,,1,2,347
+0022500782,481,PT09M51.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,348
+0022500782,482,PT09M45.00S,4,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,Okogie S.FOUL (P3.T2) (R.Hussey),Foul,Shooting,1,0,349
+0022500782,484,PT09M45.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,MISS Mathurin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,350
+0022500782,485,PT09M45.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Normal Rebound,1,0,351
+0022500782,486,PT09M45.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Dunn,Substitution,,0,0,352
+0022500782,488,PT09M45.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,80,79,159,v,Mathurin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022500782,489,PT09M33.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,243,21,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022500782,490,PT09M32.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,355
+0022500782,491,PT09M23.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-28,17,3,Made,1,80,81,161,v,Leonard 3' Finger Roll Layup (13 PTS),Made Shot,Finger Roll Layup Shot,1,2,356
+0022500782,492,PT09M05.00S,4,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,Sheppard Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,357
+0022500782,492,PT09M05.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez STEAL (2 STL),,,1,0,358
+0022500782,494,PT09M02.00S,4,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,Okogie S.FOUL (P4.T3) (M.Davis),Foul,Shooting,1,0,359
+0022500782,496,PT09M02.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,80,82,162,v,Jones Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022500782,497,PT09M02.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,SUB: Durant FOR Smith Jr.,Substitution,,0,0,361
+0022500782,498,PT09M02.00S,4,1610612745,HOU,1629006,Okogie,J. Okogie,0,0,0,,0,,,0,h,SUB: Eason FOR Okogie,Substitution,,0,0,362
+0022500782,501,PT09M02.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,80,83,163,v,Jones Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022500782,502,PT08M47.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,364
+0022500782,502,PT08M47.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard STEAL (3 STL),,,1,0,365
+0022500782,504,PT08M43.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,20,24,3,Made,1,80,85,165,v,Leonard 3' Running Layup (15 PTS) (Jones Jr. 3 AST),Made Shot,Running Layup Shot,1,2,366
+0022500782,506,PT08M41.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,367
+0022500782,507,PT08M24.00S,4,1610612745,HOU,1631106,Eason,T. Eason,42,38,6,Missed,1,,,0,h,MISS Eason 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0022500782,507,PT08M24.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,2,369
+0022500782,509,PT08M24.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,370
+0022500782,511,PT08M21.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun OFF.Foul (P3) (M.Davis),Foul,Offensive,1,0,371
+0022500782,513,PT08M21.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,1,0,372
+0022500782,514,PT08M21.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,373
+0022500782,515,PT08M21.00S,4,0,,511,Booker,M. Booker,0,0,0,,0,80,85,165,,Instant Replay4th Period (9:59 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,374
+0022500782,516,PT08M11.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason S.FOUL (P1.T4) (M.Davis),Foul,Shooting,1,0,375
+0022500782,518,PT08M11.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,80,86,166,v,Leonard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,376
+0022500782,519,PT08M11.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,80,87,167,v,Leonard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,377
+0022500782,521,PT07M51.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,6,20,2,Made,1,82,87,169,h,Sengun 2' Driving Layup (13 PTS) (Sheppard 4 AST),Made Shot,Driving Layup Shot,1,2,378
+0022500782,524,PT07M29.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,22,87,9,Made,1,82,89,171,v,Leonard 9' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,379
+0022500782,525,PT07M04.00S,4,1610612745,HOU,201142,Durant,K. Durant,118,246,27,Missed,1,,,0,h,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022500782,526,PT07M03.00S,4,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,381
+0022500782,527,PT06M55.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,27,32,4,Missed,1,,,0,v,MISS Leonard 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,382
+0022500782,527,PT06M55.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant BLOCK (1 BLK),,,1,2,383
+0022500782,528,PT06M53.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,384
+0022500782,529,PT06M48.00S,4,1610612745,HOU,201142,Durant,K. Durant,-55,64,8,Made,1,84,89,173,h,Durant 8' Running Pull-Up Jump Shot (12 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,385
+0022500782,531,PT06M48.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,386
+0022500782,532,PT06M48.00S,4,1610612745,HOU,1642263,Sheppard,R. Sheppard,0,0,0,,0,,,0,h,SUB: Tate FOR Sheppard,Substitution,,0,0,387
+0022500782,533,PT06M48.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Sengun,Substitution,,0,0,388
+0022500782,534,PT06M48.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,SUB: Dunn FOR Leonard,Substitution,,0,0,389
+0022500782,535,PT06M48.00S,4,1610612746,LAC,1641757,Miller,J. Miller,0,0,0,,0,,,0,v,SUB: Collins FOR Miller,Substitution,,0,0,390
+0022500782,541,PT06M32.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Leonard FOR Jones Jr.,Substitution,,0,0,391
+0022500782,543,PT06M24.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,392
+0022500782,544,PT06M20.00S,4,1610612745,HOU,201142,Durant,K. Durant,-51,164,17,Made,1,86,89,175,h,Durant 17' Pullup Jump Shot (14 PTS) (Tate 1 AST),Made Shot,Pullup Jump shot,1,2,393
+0022500782,546,PT06M20.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.T1) (R.Hussey),Foul,Shooting,1,0,394
+0022500782,548,PT06M20.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,87,89,176,h,Durant Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,395
+0022500782,549,PT06M07.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,-235,6,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022500782,550,PT06M05.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,397
+0022500782,551,PT06M02.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-1,89,9,Made,1,87,91,178,v,Leonard 9' Turnaround Jump Shot (21 PTS),Made Shot,Turnaround Jump Shot,1,2,398
+0022500782,552,PT05M50.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P4.T2) (R.Hussey),Foul,Personal,1,0,399
+0022500782,554,PT05M42.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P5.T3) (J.Butler),Foul,Shooting,1,0,400
+0022500782,556,PT05M42.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,88,91,179,h,Durant Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0022500782,557,PT05M42.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,89,91,180,h,Durant Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022500782,558,PT05M22.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,66,246,25,Missed,1,,,0,v,MISS Leonard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,403
+0022500782,559,PT05M22.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Unknown,0,0,404
+0022500782,561,PT05M16.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,17,106,11,Missed,1,,,0,v,MISS Dunn 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,405
+0022500782,562,PT05M14.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,406
+0022500782,563,PT05M02.00S,4,1610612745,HOU,1630256,Tate,J. Tate,-25,16,3,Made,1,91,91,182,h,Tate 3' Cutting Layup Shot (2 PTS) (Durant 4 AST),Made Shot,Cutting Layup Shot,1,2,407
+0022500782,565,PT04M39.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-147,-5,15,Missed,1,,,0,v,MISS Leonard 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,408
+0022500782,566,PT04M38.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,409
+0022500782,567,PT04M30.00S,4,1610612745,HOU,1630256,Tate,J. Tate,13,29,3,Made,1,93,91,184,h,Tate 3' Driving Layup (4 PTS) (Eason 2 AST),Made Shot,Driving Layup Shot,1,2,410
+0022500782,569,PT04M30.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,411
+0022500782,571,PT04M12.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,100,3,10,Made,1,93,93,186,v,Lopez 10' Turnaround Hook Shot (15 PTS),Made Shot,Turnaround Hook Shot,1,2,412
+0022500782,572,PT03M58.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Out of Bounds - Bad Pass Turnover Turnover (P7.T19),Turnover,Out of Bounds - Bad Pass Turnover,1,0,413
+0022500782,573,PT03M49.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,-51,124,13,Missed,1,,,0,v,MISS Mathurin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,414
+0022500782,574,PT03M47.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,415
+0022500782,575,PT03M29.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,28,13,3,Made,1,95,93,188,h,Smith Jr. 3' Driving Floating Bank Jump Shot (16 PTS) (Durant 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,416
+0022500782,578,PT03M10.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,417
+0022500782,580,PT03M10.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,95,94,189,v,Mathurin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+0022500782,663,PT03M10.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Lopez,Substitution,,0,0,419
+0022500782,583,PT03M10.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,95,95,190,v,Mathurin Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+0022500782,600,PT03M03.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P3.T20),Turnover,Offensive Foul Turnover,1,0,421
+0022500782,584,PT03M03.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P2.PN) (J.Butler),Foul,Loose Ball,1,0,422
+0022500782,587,PT03M03.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,95,96,191,v,Mathurin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+0022500782,588,PT03M03.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Sengun FOR Tate,Substitution,,0,0,424
+0022500782,589,PT03M03.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Lopez FOR Jones Jr.,Substitution,,0,0,425
+0022500782,592,PT03M03.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,95,97,192,v,Mathurin Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+0022500782,593,PT02M46.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant Bad Pass Turnover (P8.T21),Turnover,Bad Pass,1,0,427
+0022500782,593,PT02M46.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard STEAL (4 STL),,,1,0,428
+0022500782,595,PT02M37.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P4.PN) (J.Butler),Foul,Shooting,1,0,429
+0022500782,597,PT02M37.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,MISS Leonard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,430
+0022500782,598,PT02M37.00S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Rebound,Rebound,Normal Rebound,0,0,431
+0022500782,599,PT02M37.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,95,98,193,v,Leonard Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022500782,601,PT02M19.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-50,190,20,Missed,1,,,0,h,MISS Smith Jr. 20' Jump Shot,Missed Shot,Jump Shot,1,2,433
+0022500782,602,PT02M17.00S,4,1610612745,HOU,1641708,Thompson,A. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,434
+0022500782,603,PT02M14.00S,4,1610612745,HOU,201142,Durant,K. Durant,243,15,24,Made,1,98,98,196,h,Durant 24' 3PT Jump Shot (20 PTS) (Eason 3 AST),Made Shot,Jump Shot,1,3,435
+0022500782,606,PT01M58.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun P.FOUL (P5.PN) (M.Davis),Foul,Personal,1,0,436
+0022500782,608,PT01M58.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,98,99,197,v,Leonard Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+0022500782,609,PT01M58.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,98,100,198,v,Leonard Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+0022500782,610,PT01M44.00S,4,1610612745,HOU,201142,Durant,K. Durant,167,202,26,Missed,1,,,0,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022500782,611,PT01M43.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,440
+0022500782,612,PT01M41.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-27,15,3,Missed,1,,,0,h,MISS Sengun 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,441
+0022500782,612,PT01M41.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (2 BLK),,,1,2,442
+0022500782,614,PT01M41.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,443
+0022500782,615,PT01M39.00S,4,1610612746,LAC,1628381,Collins,J. Collins,-12,50,5,Made,1,98,102,200,v,Collins 5' Running Dunk (12 PTS) (Leonard 4 AST),Made Shot,Running Dunk Shot,1,2,444
+0022500782,617,PT01M23.00S,4,1610612746,LAC,1631097,Mathurin,B. Mathurin,0,0,0,,0,,,0,v,Mathurin S.FOUL (P1.T4) (M.Davis),Foul,Shooting,1,0,445
+0022500782,619,PT01M23.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,99,102,201,h,Durant Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+0022500782,620,PT01M23.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Tate FOR Sengun,Substitution,,0,0,447
+0022500782,621,PT01M23.00S,4,1610612746,LAC,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Lopez,Substitution,,0,0,448
+0022500782,624,PT01M23.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,MISS Durant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,449
+0022500782,625,PT01M23.00S,4,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,450
+0022500782,626,PT01M01.00S,4,1610612746,LAC,1628381,Collins,J. Collins,-81,256,27,Missed,1,,,0,v,MISS Collins 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022500782,627,PT01M00.00S,4,1610612745,HOU,201142,Durant,K. Durant,0,0,0,,0,,,0,h,Durant REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,452
+0022500782,628,PT00M47.10S,4,1610612745,HOU,1641708,Thompson,A. Thompson,42,17,5,Missed,1,,,0,h,MISS Thompson 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,453
+0022500782,629,PT00M47.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,454
+0022500782,631,PT00M47.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Sengun FOR Tate,Substitution,,0,0,455
+0022500782,632,PT00M47.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,,,0,v,SUB: Lopez FOR Jones Jr.,Substitution,,0,0,456
+0022500782,635,PT00M42.70S,4,1610612745,HOU,1630578,Sengun,A. Sengun,37,12,4,Made,1,101,102,203,h,Sengun 4' Driving Finger Roll Layup (15 PTS) (Durant 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,457
+0022500782,637,PT00M18.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-239,5,24,Missed,1,,,0,v,MISS Leonard 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,458
+0022500782,638,PT00M16.50S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,459
+0022500782,639,PT00M11.20S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,460
+0022500782,640,PT00M07.20S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,1,0,461
+0022500782,642,PT00M07.20S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,102,102,204,h,Sengun Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022500782,643,PT00M07.20S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,463
+0022500782,644,PT00M07.20S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,464
+0022500782,645,PT00M06.90S,4,0,,1610612746,,,0,0,0,,0,,,0,v,Clippers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,465
+0022500782,646,PT00M06.90S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Tate FOR Sengun,Substitution,,0,0,466
+0022500782,648,PT00M02.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,56,116,13,Made,1,102,104,206,v,Leonard 13' Turnaround Fadeaway (26 PTS),Made Shot,Turnaround Fadeaway shot,1,2,467
+0022500782,649,PT00M02.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,468
+0022500782,651,PT00M02.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,,,0,h,SUB: Sengun FOR Eason,Substitution,,0,0,469
+0022500782,652,PT00M02.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Capela FOR Tate,Substitution,,0,0,470
+0022500782,655,PT00M02.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,102,105,207,v,Leonard Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,1,0,471
+0022500782,656,PT00M02.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,472
+0022500782,657,PT00M02.00S,4,1610612745,HOU,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Eason FOR Capela,Substitution,,0,0,473
+0022500782,658,PT00M02.00S,4,1610612746,LAC,1628381,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Collins,Substitution,,0,0,474
+0022500782,661,PT00M00.00S,4,1610612745,HOU,1631106,Eason,T. Eason,213,80,23,Missed,1,,,0,h,MISS Eason 23' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,475
+0022500782,662,PT00M00.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,0,476
+0022500782,665,PT00M00.00S,4,0,,0,,,0,0,0,,0,102,105,207,,End of 4th Period (10:31 PM EST),period,end,1,0,477

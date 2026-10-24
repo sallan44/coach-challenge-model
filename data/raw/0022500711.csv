@@ -1,0 +1,490 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022500711,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:43 PM EST),period,start,1,0,1
+0022500711,4,PT12M00.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Holmgren: Tip to Wallace,Jump Ball,,1,0,2
+0022500711,7,PT11M46.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022500711,7,PT11M46.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson STEAL (1 STL),,,1,0,4
+0022500711,9,PT11M38.00S,1,1610612743,DEN,1631212,Watson,P. Watson,13,24,3,Missed,1,,,0,h,MISS Watson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,5
+0022500711,9,PT11M38.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander BLOCK (1 BLK),,,1,2,6
+0022500711,11,PT11M35.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022500711,12,PT11M22.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-150,222,27,Made,1,0,3,3,v,Wallace 27' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,3,8
+0022500711,14,PT11M01.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,-27,13,3,Made,1,2,3,5,h,Pickett 3' Cutting Layup Shot (2 PTS) (Murray 1 AST),Made Shot,Cutting Layup Shot,1,2,9
+0022500711,16,PT10M44.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,140,228,27,Missed,1,,,0,v,MISS Holmgren 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+0022500711,17,PT10M42.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022500711,18,PT10M37.00S,1,1610612743,DEN,1631212,Watson,P. Watson,134,222,26,Missed,1,,,0,h,MISS Watson 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,12
+0022500711,19,PT10M34.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022500711,20,PT10M14.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,-134,55,14,Missed,1,,,0,v,MISS Holmgren 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,14
+0022500711,21,PT10M13.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,15
+0022500711,22,PT10M12.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Made,1,2,5,7,v,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,16
+0022500711,23,PT09M59.00S,1,1610612743,DEN,1627750,Murray,J. Murray,1,111,11,Made,1,4,5,9,h,Murray 11' Pullup Jump Shot (2 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,1,2,17
+0022500711,25,PT09M41.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-232,27,0,Made,1,4,8,12,v,Wallace 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,18
+0022500711,27,PT09M23.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-118,-4,12,Made,1,6,8,14,h,Murray 12' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,19
+0022500711,28,PT09M12.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-140,-15,14,Made,1,6,10,16,v,Gilgeous-Alexander 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,20
+0022500711,29,PT08M52.00S,1,1610612743,DEN,1631212,Watson,P. Watson,212,135,25,Made,1,9,10,19,h,Watson 25' 3PT Jump Shot (3 PTS) (Pickett 1 AST),Made Shot,Jump Shot,1,3,21
+0022500711,31,PT08M37.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-229,122,26,Made,1,9,13,22,v,Dort 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,22
+0022500711,33,PT08M16.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-172,182,25,Missed,1,,,0,h,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+0022500711,34,PT08M13.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022500711,35,PT07M52.00S,1,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,25
+0022500711,37,PT07M52.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,9,14,23,v,Holmgren Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+0022500711,38,PT07M52.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,9,15,24,v,Holmgren Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+0022500711,39,PT07M39.00S,1,1610612743,DEN,1631212,Watson,P. Watson,2,4,0,Made,1,11,15,26,h,Watson Cutting Dunk Shot (5 PTS) (Jokic 2 AST),Made Shot,Cutting Dunk Shot,1,2,28
+0022500711,41,PT07M24.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-1,115,12,Made,1,11,17,28,v,Gilgeous-Alexander 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,29
+0022500711,42,PT07M08.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,30
+0022500711,44,PT07M08.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,31
+0022500711,45,PT07M08.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,32
+0022500711,46,PT07M08.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,SUB: Wiggins FOR Gilgeous-Alexander,Substitution,,0,0,33
+0022500711,48,PT07M08.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,12,17,29,h,Murray Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,34
+0022500711,49,PT06M43.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-34,128,13,Made,1,12,19,31,v,Wiggins 13' Driving Floating Jump Shot (2 PTS) (Holmgren 1 AST),Made Shot,Driving Floating Jump Shot,1,2,35
+0022500711,51,PT06M21.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-232,-2,0,Missed,1,,,0,h,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022500711,52,PT06M18.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,37
+0022500711,53,PT06M08.00S,1,1610612743,DEN,1631212,Watson,P. Watson,88,211,23,Missed,1,,,0,h,MISS Watson 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,38
+0022500711,54,PT06M04.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,39
+0022500711,55,PT06M03.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,40
+0022500711,55,PT06M03.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (1 STL),,,1,0,41
+0022500711,57,PT05M57.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,33,138,14,Missed,1,,,0,v,MISS Hartenstein 14' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,42
+0022500711,58,PT05M53.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022500711,59,PT05M44.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,44
+0022500711,59,PT05M44.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (1 STL),,,1,0,45
+0022500711,61,PT05M42.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,Pickett Violation:Kicked Ball (T.Maddox),Violation,Kicked Ball,0,0,46
+0022500711,62,PT05M42.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+0022500711,63,PT05M42.00S,1,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Pickett,Substitution,,0,0,48
+0022500711,64,PT05M42.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hartenstein,Substitution,,0,0,49
+0022500711,67,PT05M30.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,-107,233,26,Missed,1,,,0,v,MISS Holmgren 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,50
+0022500711,68,PT05M27.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022500711,69,PT05M10.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-11,70,7,Made,1,14,19,33,h,Jokic 7' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,52
+0022500711,71,PT04M54.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,121,226,26,Missed,1,,,0,v,MISS Wallace 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,53
+0022500711,72,PT04M53.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+0022500711,73,PT04M50.00S,1,1610612760,OKC,1631119,Williams,J. Williams,-17,258,26,Missed,1,,,0,v,MISS J. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022500711,74,PT04M47.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,56
+0022500711,75,PT04M43.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-175,176,25,Missed,1,,,0,h,MISS Hardaway Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,57
+0022500711,76,PT04M40.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+0022500711,77,PT04M26.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,78,257,27,Made,1,14,22,36,v,Wiggins 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,59
+0022500711,78,PT04M09.00S,1,1610612743,DEN,1642461,Jones,S. Jones,-240,-21,24,Made,1,17,22,39,h,Jones 24' 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,1,3,60
+0022500711,80,PT03M56.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,61
+0022500711,82,PT03M56.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,17,23,40,v,Wallace Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,62
+0022500711,83,PT03M56.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Jokic,Substitution,,0,0,63
+0022500711,84,PT03M56.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: K. Williams FOR Dort,Substitution,,0,0,64
+0022500711,85,PT03M56.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Joe FOR Holmgren,Substitution,,0,0,65
+0022500711,89,PT03M56.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,17,24,41,v,Wallace Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,66
+0022500711,90,PT03M46.00S,1,1610612743,DEN,1631212,Watson,P. Watson,16,79,8,Made,1,19,24,43,h,Watson 8' Pullup Jump Shot (7 PTS) (Murray 2 AST),Made Shot,Pullup Jump shot,1,2,67
+0022500711,92,PT03M30.00S,1,1610612760,OKC,1629026,Williams,K. Williams,49,44,7,Missed,1,,,0,v,MISS K. Williams 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+0022500711,93,PT03M28.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,69
+0022500711,94,PT03M26.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-12,253,25,Missed,1,,,0,v,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022500711,95,PT03M25.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,71
+0022500711,96,PT03M24.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,Missed,1,,,0,v,MISS K. Williams Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,72
+0022500711,97,PT03M23.00S,1,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022500711,98,PT03M22.00S,1,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,74
+0022500711,98,PT03M22.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams STEAL (1 STL),,,1,0,75
+0022500711,100,PT03M22.00S,1,1610612760,OKC,1629026,Williams,K. Williams,-48,122,13,Made,1,19,26,45,v,K. Williams 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,76
+0022500711,101,PT03M22.00S,1,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,1,0,77
+0022500711,103,PT03M22.00S,1,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,SUB: Brown FOR Jones,Substitution,,0,0,78
+0022500711,105,PT03M22.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,19,27,46,v,K. Williams Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,79
+0022500711,106,PT03M07.00S,1,1610612743,DEN,1631212,Watson,P. Watson,232,40,24,Made,1,22,27,49,h,Watson 24' 3PT Jump Shot (10 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,1,3,80
+0022500711,108,PT03M05.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0022500711,109,PT02M40.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-223,27,0,Missed,1,,,0,v,MISS Wallace 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022500711,110,PT02M37.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,83
+0022500711,111,PT02M34.00S,1,1610612760,OKC,1630198,Joe,I. Joe,230,17,0,Missed,1,,,0,v,MISS Joe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022500711,112,PT02M30.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,85
+0022500711,113,PT02M29.00S,1,1610612760,OKC,1630198,Joe,I. Joe,245,33,25,Missed,1,,,0,v,MISS Joe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+0022500711,114,PT02M28.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0022500711,115,PT02M27.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,Missed,1,,,0,v,MISS Wiggins Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,88
+0022500711,116,PT02M26.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,89
+0022500711,117,PT02M19.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,90
+0022500711,117,PT02M19.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams STEAL (1 STL),,,1,0,91
+0022500711,119,PT02M13.00S,1,1610612760,OKC,1629026,Williams,K. Williams,66,253,26,Missed,1,,,0,v,MISS K. Williams 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,92
+0022500711,120,PT02M11.00S,1,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,1,0,93
+0022500711,121,PT02M11.00S,1,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas L.B.FOUL (P2.T4) (M.Ervin),Foul,Loose Ball,1,0,94
+0022500711,123,PT02M11.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Strawther FOR Murray,Substitution,,0,0,95
+0022500711,125,PT02M11.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Wallace,Substitution,,0,0,96
+0022500711,127,PT02M02.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,6,46,5,Missed,1,,,0,v,MISS Gilgeous-Alexander 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,97
+0022500711,128,PT02M00.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0022500711,129,PT01M59.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,99
+0022500711,129,PT01M59.00S,1,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther STEAL (1 STL),,,1,0,100
+0022500711,131,PT01M51.00S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-77,247,26,Missed,1,,,0,h,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,101
+0022500711,132,PT01M49.00S,1,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022500711,133,PT01M41.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,103
+0022500711,135,PT01M41.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,22,28,50,v,Gilgeous-Alexander Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,104
+0022500711,136,PT01M41.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,22,29,51,v,Gilgeous-Alexander Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+0022500711,137,PT01M26.00S,1,1610612743,DEN,1631124,Strawther,J. Strawther,17,19,3,Missed,1,,,0,h,MISS Strawther 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,106
+0022500711,138,PT01M25.00S,1,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,107
+0022500711,139,PT01M24.00S,1,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,24,29,53,h,Valanciunas Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,108
+0022500711,140,PT01M02.00S,1,1610612760,OKC,1631119,Williams,J. Williams,230,27,0,Made,1,24,32,56,v,J. Williams 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,1,3,109
+0022500711,142,PT00M51.40S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,110
+0022500711,144,PT00M46.80S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,75,74,11,Missed,1,,,0,h,MISS Hardaway Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,111
+0022500711,145,PT00M45.20S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,112
+0022500711,146,PT00M45.20S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams L.B.FOUL (P2.PN) (B.Schwab),Foul,Loose Ball,1,0,113
+0022500711,148,PT00M45.20S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,25,32,57,h,Hardaway Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,114
+0022500711,149,PT00M45.20S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,26,32,58,h,Hardaway Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,115
+0022500711,150,PT00M30.60S,1,1610612760,OKC,1631119,Williams,J. Williams,-29,20,4,Missed,1,,,0,v,MISS J. Williams 4' Dunk,Missed Shot,Dunk Shot,1,2,116
+0022500711,150,PT00M30.60S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. BLOCK (1 BLK),,,1,2,117
+0022500711,152,PT00M29.70S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,118
+0022500711,153,PT00M19.30S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,-120,147,19,Missed,1,,,0,h,MISS Hardaway Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,119
+0022500711,154,PT00M15.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,120
+0022500711,155,PT00M02.60S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,121
+0022500711,155,PT00M02.60S,1,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. STEAL (1 STL),,,1,0,122
+0022500711,157,PT00M00.40S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,123
+0022500711,157,PT00M00.40S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander STEAL (1 STL),,,1,0,124
+0022500711,159,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,32,58,,End of 1st Period (10:09 PM EST),period,end,1,0,125
+0022500711,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,32,58,,Start of 2nd Period (10:12 PM EST),period,start,0,0,126
+0022500711,163,PT11M41.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,4,73,7,Missed,1,,,0,h,MISS Valanciunas 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,127
+0022500711,164,PT11M41.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,128
+0022500711,165,PT11M41.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,1,0,129
+0022500711,167,PT11M41.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,130
+0022500711,168,PT11M41.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,131
+0022500711,169,PT11M41.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,27,32,59,h,Brown Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,132
+0022500711,170,PT11M27.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,133
+0022500711,170,PT11M27.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. STEAL (2 STL),,,1,0,134
+0022500711,172,PT11M23.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,135
+0022500711,172,PT11M23.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams STEAL (2 STL),,,1,0,136
+0022500711,174,PT11M19.00S,2,1610612760,OKC,1629026,Williams,K. Williams,12,21,2,Made,1,27,34,61,v,K. Williams 2' Running Finger Roll Layup (5 PTS) (J. Williams 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,137
+0022500711,176,PT10M58.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-230,8,0,Made,1,30,34,64,h,Valanciunas 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,138
+0022500711,178,PT10M47.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P1.T1) (B.Schwab),Foul,Personal,1,0,139
+0022500711,180,PT10M39.00S,2,1610612760,OKC,1630198,Joe,I. Joe,157,222,27,Made,1,30,37,67,v,Joe 27' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,1,3,140
+0022500711,182,PT10M19.00S,2,1610612743,DEN,1628971,Brown,B. Brown,65,122,14,Missed,1,,,0,h,MISS Brown 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,141
+0022500711,183,PT10M16.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,142
+0022500711,184,PT10M11.00S,2,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,1,0,143
+0022500711,186,PT10M11.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,144
+0022500711,187,PT10M11.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,145
+0022500711,188,PT10M11.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,30,38,68,v,Gilgeous-Alexander Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+0022500711,189,PT09M59.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,43,77,9,Made,1,32,38,70,h,Strawther 9' Driving Floating Jump Shot (2 PTS) (Valanciunas 2 AST),Made Shot,Driving Floating Jump Shot,1,2,147
+0022500711,190,PT09M49.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-17,48,5,Made,1,32,40,72,v,Gilgeous-Alexander 5' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,148
+0022500711,191,PT09M28.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,61,124,14,Missed,1,,,0,h,MISS Valanciunas 14' Jump Shot,Missed Shot,Jump Shot,1,2,149
+0022500711,192,PT09M26.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,150
+0022500711,193,PT09M18.00S,2,1610612760,OKC,1629026,Williams,K. Williams,119,239,27,Missed,1,,,0,v,MISS K. Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022500711,194,PT09M14.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+0022500711,195,PT09M08.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Jump Ball Valanciunas vs. J. Williams: Tip to Joe,Jump Ball,,0,0,153
+0022500711,198,PT09M08.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,154
+0022500711,200,PT08M50.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-124,70,14,Made,1,32,42,74,v,Gilgeous-Alexander 14' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,155
+0022500711,201,PT08M50.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022500711,202,PT08M50.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Murray FOR Hardaway Jr.,Substitution,,0,0,157
+0022500711,203,PT08M50.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Dort FOR Wiggins,Substitution,,0,0,158
+0022500711,207,PT08M31.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-31,9,3,Missed,1,,,0,h,MISS Valanciunas 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,159
+0022500711,207,PT08M31.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams BLOCK (1 BLK),,,1,2,160
+0022500711,209,PT08M30.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,161
+0022500711,210,PT08M29.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-5,8,1,Made,1,34,42,76,h,Valanciunas 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,162
+0022500711,211,PT08M12.00S,2,1610612760,OKC,1630198,Joe,I. Joe,-172,202,27,Made,1,34,45,79,v,Joe 27' 3PT Jump Shot (6 PTS) (K. Williams 1 AST),Made Shot,Jump Shot,1,3,163
+0022500711,213,PT07M57.00S,2,1610612743,DEN,1627750,Murray,J. Murray,110,268,29,Missed,1,,,0,h,MISS Murray 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,164
+0022500711,214,PT07M54.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+0022500711,215,PT07M48.00S,2,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P3.T3) (T.Maddox),Foul,Shooting,1,0,166
+0022500711,217,PT07M48.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,34,46,80,v,Gilgeous-Alexander Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,167
+0022500711,218,PT07M48.00S,2,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,SUB: Watson FOR Jones,Substitution,,0,0,168
+0022500711,220,PT07M48.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,34,47,81,v,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,169
+0022500711,221,PT07M28.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,2,40,4,Made,1,36,47,83,h,Valanciunas 4' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,2,170
+0022500711,222,PT07M16.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,K. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,171
+0022500711,223,PT07M16.00S,2,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,SUB: Jokic FOR Valanciunas,Substitution,,0,0,172
+0022500711,225,PT07M09.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,173
+0022500711,227,PT07M09.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Holmgren FOR J. Williams,Substitution,,0,0,174
+0022500711,229,PT06M59.00S,2,1610612743,DEN,1627750,Murray,J. Murray,20,15,3,Made,1,38,47,85,h,Murray 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,175
+0022500711,230,PT06M45.00S,2,1610612760,OKC,1630198,Joe,I. Joe,154,231,28,Made,1,38,50,88,v,Joe 28' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,1,3,176
+0022500711,232,PT06M31.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,-6,263,26,Made,1,41,50,91,h,Strawther 26' 3PT Jump Shot (5 PTS) (Jokic 4 AST),Made Shot,Jump Shot,1,3,177
+0022500711,234,PT06M20.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-154,226,27,Made,1,41,53,94,v,Dort 27' 3PT Jump Shot (6 PTS) (Joe 1 AST),Made Shot,Jump Shot,1,3,178
+0022500711,236,PT06M02.00S,2,1610612743,DEN,1631212,Watson,P. Watson,54,108,12,Missed,1,,,0,h,MISS Watson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,179
+0022500711,237,PT06M01.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,180
+0022500711,238,PT05M54.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,26,13,3,Made,1,41,55,96,v,Gilgeous-Alexander 3' Running Reverse Layup (15 PTS),Made Shot,Running Reverse Layup Shot,1,2,181
+0022500711,239,PT05M38.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,-230,3,0,Made,1,44,55,99,h,Strawther 3PT Jump Shot (8 PTS) (Jokic 5 AST),Made Shot,Jump Shot,1,3,182
+0022500711,241,PT05M19.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,10,6,1,Made,1,44,57,101,v,Holmgren 1' Cutting Finger Roll Layup Shot (4 PTS) (K. Williams 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,183
+0022500711,243,PT05M04.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-163,193,25,Made,1,47,57,104,h,Murray 25' 3PT Step Back Jump Shot (10 PTS) (Jokic 6 AST),Made Shot,Step Back Jump shot,1,3,184
+0022500711,245,PT05M03.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,185
+0022500711,246,PT05M03.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Brown,Substitution,,0,0,186
+0022500711,247,PT05M03.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,SUB: Hartenstein FOR Gilgeous-Alexander,Substitution,,0,0,187
+0022500711,248,PT05M03.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,SUB: Wiggins FOR K. Williams,Substitution,,0,0,188
+0022500711,252,PT04M44.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,189
+0022500711,252,PT04M44.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray STEAL (1 STL),,,1,0,190
+0022500711,254,PT04M40.00S,2,1610612743,DEN,1627750,Murray,J. Murray,32,29,4,Missed,1,,,0,h,MISS Murray 4' Running Layup,Missed Shot,Running Layup Shot,1,2,191
+0022500711,255,PT04M40.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,192
+0022500711,257,PT04M24.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,2,116,12,Made,1,47,59,106,v,Holmgren 12' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,193
+0022500711,258,PT04M09.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0,194
+0022500711,260,PT04M03.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,195
+0022500711,262,PT03M47.00S,2,1610612760,OKC,1630198,Joe,I. Joe,195,163,25,Missed,1,,,0,v,MISS Joe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+0022500711,263,PT03M43.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,197
+0022500711,264,PT03M37.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic OFF.Foul (P1) (T.Maddox),Foul,Offensive,1,0,198
+0022500711,266,PT03M37.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,199
+0022500711,267,PT03M23.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,200
+0022500711,267,PT03M23.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. STEAL (3 STL),,,1,0,201
+0022500711,269,PT03M21.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,202
+0022500711,271,PT03M21.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,MISS Hardaway Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,203
+0022500711,272,PT03M21.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,204
+0022500711,273,PT03M21.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,48,59,107,h,Hardaway Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+0022500711,274,PT03M01.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-147,34,15,Missed,1,,,0,v,MISS Dort 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,206
+0022500711,274,PT03M01.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray BLOCK (1 BLK),,,1,2,207
+0022500711,276,PT02M59.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,208
+0022500711,277,PT02M58.00S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,209
+0022500711,277,PT02M58.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic STEAL (1 STL),,,1,0,210
+0022500711,279,PT02M54.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,-191,171,26,Missed,1,,,0,h,MISS Strawther 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,211
+0022500711,280,PT02M51.00S,2,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Unknown,0,0,212
+0022500711,282,PT02M34.00S,2,1610612760,OKC,1629652,Dort,L. Dort,238,79,25,Missed,1,,,0,v,MISS Dort 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022500711,283,PT02M31.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,214
+0022500711,284,PT02M24.00S,2,1610612743,DEN,1631212,Watson,P. Watson,-25,14,3,Made,1,50,59,109,h,Watson 3' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,215
+0022500711,285,PT02M13.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,216
+0022500711,285,PT02M13.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther STEAL (2 STL),,,1,0,217
+0022500711,287,PT02M02.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-53,260,27,Missed,1,,,0,h,MISS Murray 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,218
+0022500711,288,PT01M58.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,219
+0022500711,291,PT01M58.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,220
+0022500711,292,PT01M58.00S,2,0,,289,Eackles,L. Eackles,0,0,0,,0,50,59,109,,Instant Replay2nd Period (10:37 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,221
+0022500711,294,PT01M58.00S,2,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,SUB: Brown FOR Strawther,Substitution,,0,0,222
+0022500711,295,PT01M58.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: K. Williams FOR Holmgren,Substitution,,0,0,223
+0022500711,296,PT01M58.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Wallace FOR Joe,Substitution,,0,0,224
+0022500711,297,PT01M58.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Wiggins,Substitution,,0,0,225
+0022500711,302,PT01M48.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-78,247,26,Missed,1,,,0,h,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,226
+0022500711,303,PT01M44.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,227
+0022500711,304,PT01M36.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-174,209,27,Missed,1,,,0,v,MISS Dort 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022500711,305,PT01M33.00S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,229
+0022500711,306,PT01M20.00S,2,1610612743,DEN,1628971,Brown,B. Brown,-27,-6,3,Missed,1,,,0,h,MISS Brown 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,230
+0022500711,307,PT01M18.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,231
+0022500711,308,PT01M04.00S,2,1610612760,OKC,1629652,Dort,L. Dort,-56,183,19,Missed,1,,,0,v,MISS Dort 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,232
+0022500711,309,PT01M02.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,233
+0022500711,310,PT01M02.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace P.FOUL (P1.PN) (M.Ervin),Foul,Personal,1,0,234
+0022500711,312,PT01M02.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,51,59,110,h,Watson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+0022500711,313,PT01M02.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,,,0,v,SUB: Holmgren FOR K. Williams,Substitution,,0,0,236
+0022500711,315,PT01M02.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,MISS Watson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,237
+0022500711,316,PT01M01.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,238
+0022500711,317,PT01M01.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein L.B.FOUL (P2.PN) (B.Schwab),Foul,Loose Ball,1,0,239
+0022500711,319,PT01M01.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,52,59,111,h,Jokic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,240
+0022500711,320,PT01M01.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,53,59,112,h,Jokic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,241
+0022500711,321,PT00M51.20S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-108,241,26,Missed,1,,,0,v,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,242
+0022500711,322,PT00M47.40S,2,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,243
+0022500711,323,PT00M38.40S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic OFF.Foul (P2) (B.Schwab),Foul,Offensive,1,0,244
+0022500711,325,PT00M38.40S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Offensive Foul Turnover (P4.T10),Turnover,Offensive Foul Turnover,1,0,245
+0022500711,326,PT00M31.70S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander OFF.Foul (P2) (T.Maddox),Foul,Offensive,1,0,246
+0022500711,328,PT00M31.70S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0,247
+0022500711,329,PT00M21.70S,2,1610612743,DEN,203999,Jokić,N. Jokić,-13,56,6,Made,1,55,59,114,h,Jokic 6' Floating Jump Shot (6 PTS) (Murray 3 AST),Made Shot,Floating Jump shot,1,2,248
+0022500711,331,PT00M04.90S,2,1610612760,OKC,1641717,Wallace,C. Wallace,-224,44,0,Made,1,55,62,117,v,Wallace 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,1,3,249
+0022500711,333,PT00M00.20S,2,1610612743,DEN,1627750,Murray,J. Murray,7,339,34,Missed,1,,,0,h,MISS Murray 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,250
+0022500711,334,PT00M00.10S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,251
+0022500711,335,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,62,117,,End of 2nd Period (10:45 PM EST),period,end,1,0,252
+0022500711,340,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,62,117,,Start of 3rd Period (11:01 PM EST),period,start,0,0,253
+0022500711,341,PT11M48.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-2,185,19,Made,1,57,62,119,h,Jokic 19' Jump Shot (8 PTS) (Murray 4 AST),Made Shot,Jump Shot,1,2,254
+0022500711,343,PT11M31.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,222,114,25,Missed,1,,,0,v,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022500711,344,PT11M28.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,256
+0022500711,345,PT11M25.00S,3,1610612743,DEN,1627750,Murray,J. Murray,33,11,3,Missed,1,,,0,h,MISS Murray 3' Running Layup,Missed Shot,Running Layup Shot,1,2,257
+0022500711,345,PT11M25.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren BLOCK (1 BLK),,,1,2,258
+0022500711,347,PT11M24.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,259
+0022500711,349,PT11M01.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,200,164,26,Made,1,57,65,122,v,Wallace 26' 3PT Jump Shot (14 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,1,3,260
+0022500711,352,PT10M43.00S,3,1610612743,DEN,1627750,Murray,J. Murray,245,16,25,Missed,1,,,0,h,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022500711,353,PT10M38.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,262
+0022500711,354,PT10M26.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-25,80,8,Missed,1,,,0,v,MISS Dort 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,263
+0022500711,355,PT10M24.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,264
+0022500711,357,PT10M04.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-62,191,20,Missed,1,,,0,h,MISS Murray 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,265
+0022500711,358,PT10M03.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,266
+0022500711,359,PT10M03.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,267
+0022500711,361,PT09M51.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-80,151,17,Made,1,57,67,124,v,Gilgeous-Alexander 17' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,268
+0022500711,362,PT09M35.00S,3,1610612743,DEN,1629618,Pickett,J. Pickett,207,18,21,Made,1,59,67,126,h,Pickett 21' Jump Shot (4 PTS) (Watson 1 AST),Made Shot,Jump Shot,1,2,269
+0022500711,364,PT09M20.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,21,20,3,Made,1,59,69,128,v,Hartenstein 3' Cutting Layup Shot (4 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Cutting Layup Shot,1,2,270
+0022500711,366,PT09M10.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-169,138,22,Missed,1,,,0,h,MISS Jokic 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,271
+0022500711,367,PT09M07.00S,3,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,272
+0022500711,368,PT09M02.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,273
+0022500711,370,PT09M02.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,MISS Jokic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,274
+0022500711,371,PT09M02.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,275
+0022500711,372,PT09M02.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,60,69,129,h,Jokic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,276
+0022500711,373,PT08M50.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,221,145,26,Made,1,60,72,132,v,Wallace 26' 3PT Jump Shot (17 PTS) (Gilgeous-Alexander 9 AST),Made Shot,Jump Shot,1,3,277
+0022500711,375,PT08M33.00S,3,1610612743,DEN,1631212,Watson,P. Watson,-37,260,26,Made,1,63,72,135,h,Watson 26' 3PT Jump Shot (16 PTS) (Jokic 7 AST),Made Shot,Jump Shot,1,3,278
+0022500711,377,PT08M17.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,143,110,18,Made,1,63,74,137,v,Gilgeous-Alexander 18' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,2,279
+0022500711,378,PT07M59.00S,3,1610612743,DEN,1631212,Watson,P. Watson,103,115,15,Made,1,65,74,139,h,Watson 15' Pullup Jump Shot (18 PTS) (Murray 5 AST),Made Shot,Pullup Jump shot,1,2,280
+0022500711,380,PT07M40.00S,3,1610612760,OKC,1629652,Dort,L. Dort,158,204,26,Missed,1,,,0,v,MISS Dort 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+0022500711,381,PT07M37.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,282
+0022500711,382,PT07M22.00S,3,1610612743,DEN,1627750,Murray,J. Murray,6,79,8,Missed,1,,,0,h,MISS Murray 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,283
+0022500711,382,PT07M22.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren BLOCK (2 BLK),,,1,2,284
+0022500711,384,PT07M21.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,285
+0022500711,385,PT07M20.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,Made,1,67,74,141,h,Jokic Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,286
+0022500711,386,PT07M05.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-31,11,3,Missed,1,,,0,v,MISS Gilgeous-Alexander 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,287
+0022500711,387,PT07M03.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,288
+0022500711,388,PT06M59.00S,3,1610612743,DEN,1629618,Pickett,J. Pickett,-233,17,0,Made,1,70,74,144,h,Pickett 3PT Running Jump Shot (7 PTS) (Watson 2 AST),Made Shot,Running Jump Shot,1,3,289
+0022500711,390,PT06M58.00S,3,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,290
+0022500711,391,PT06M48.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein OFF.Foul (P3) (M.Ervin),Foul,Offensive,1,0,291
+0022500711,393,PT06M48.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0,292
+0022500711,394,PT06M39.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,1,0,293
+0022500711,396,PT06M39.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,294
+0022500711,397,PT06M39.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,295
+0022500711,398,PT06M39.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hartenstein,Substitution,,0,0,296
+0022500711,400,PT06M39.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,71,74,145,h,Watson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+0022500711,401,PT06M18.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,229,34,0,Made,1,71,77,148,v,Holmgren 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 10 AST),Made Shot,Jump Shot,1,3,298
+0022500711,403,PT06M02.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,110,233,26,Made,1,74,77,151,h,Jokic 26' 3PT Jump Shot (14 PTS) (Murray 6 AST),Made Shot,Jump Shot,1,3,299
+0022500711,405,PT05M50.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,232,110,26,Made,1,74,80,154,v,Wallace 26' 3PT Jump Shot (20 PTS) (J. Williams 2 AST),Made Shot,Jump Shot,1,3,300
+0022500711,407,PT05M29.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-81,67,11,Missed,1,,,0,h,MISS Jokic 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,301
+0022500711,407,PT05M29.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren BLOCK (3 BLK),,,1,2,302
+0022500711,409,PT05M26.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,303
+0022500711,410,PT05M17.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,228,64,24,Made,1,74,83,157,v,Wallace 24' 3PT Jump Shot (23 PTS) (J. Williams 3 AST),Made Shot,Jump Shot,1,3,304
+0022500711,412,PT05M15.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,305
+0022500711,413,PT05M15.00S,3,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Jones,Substitution,,0,0,306
+0022500711,415,PT05M01.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-85,243,26,Missed,1,,,0,h,MISS Jokic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022500711,416,PT04M58.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,308
+0022500711,417,PT04M50.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,85,246,26,Made,1,74,86,160,v,Gilgeous-Alexander 26' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3,309
+0022500711,418,PT04M39.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams P.FOUL (P3.T3) (M.Ervin),Foul,Personal,1,0,310
+0022500711,420,PT04M39.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Jokic,Substitution,,0,0,311
+0022500711,422,PT04M39.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Wiggins FOR Holmgren,Substitution,,0,0,312
+0022500711,424,PT04M31.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-47,41,6,Missed,1,,,0,h,MISS Valanciunas 6' Layup,Missed Shot,Layup Shot,1,2,313
+0022500711,424,PT04M31.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins BLOCK (1 BLK),,,1,2,314
+0022500711,426,PT04M30.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+0022500711,427,PT04M20.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,6,117,12,Missed,1,,,0,v,MISS Gilgeous-Alexander 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,316
+0022500711,428,PT04M19.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,317
+0022500711,429,PT04M18.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,Missed,1,,,0,v,MISS Wallace Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,318
+0022500711,429,PT04M18.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas BLOCK (1 BLK),,,1,2,319
+0022500711,430,PT04M17.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,320
+0022500711,431,PT04M05.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,136,236,27,Made,1,74,89,163,v,Wiggins 27' 3PT Jump Shot (8 PTS) (Dort 1 AST),Made Shot,Jump Shot,1,3,321
+0022500711,433,PT03M55.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-2,33,3,Made,1,76,89,165,h,Valanciunas 3' Cutting Finger Roll Layup Shot (11 PTS) (Murray 7 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,322
+0022500711,435,PT03M42.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,154,209,26,Missed,1,,,0,v,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022500711,436,PT03M38.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,324
+0022500711,437,PT03M31.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-86,237,25,Missed,1,,,0,h,MISS Valanciunas 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+0022500711,438,PT03M29.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,326
+0022500711,439,PT03M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,5,119,12,Made,1,76,91,167,v,Gilgeous-Alexander 12' Turnaround Fadeaway (24 PTS),Made Shot,Turnaround Fadeaway shot,1,2,327
+0022500711,440,PT03M22.00S,3,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,1,0,328
+0022500711,442,PT03M22.00S,3,1610612743,DEN,1629618,Pickett,J. Pickett,0,0,0,,0,,,0,h,SUB: Brown FOR Pickett,Substitution,,0,0,329
+0022500711,443,PT03M22.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: K. Williams FOR Wallace,Substitution,,0,0,330
+0022500711,446,PT03M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,76,92,168,v,Gilgeous-Alexander Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,331
+0022500711,447,PT03M06.00S,3,1610612743,DEN,1628971,Brown,B. Brown,-227,70,24,Made,1,79,92,171,h,Brown 24' 3PT Jump Shot (4 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,332
+0022500711,449,PT02M54.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,21,29,4,Missed,1,,,0,v,MISS Gilgeous-Alexander 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,333
+0022500711,449,PT02M54.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson BLOCK (1 BLK),,,1,2,334
+0022500711,451,PT02M53.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,335
+0022500711,452,PT02M52.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P2.T4) (M.Ervin),Foul,Personal,1,0,336
+0022500711,454,PT02M42.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,337
+0022500711,454,PT02M42.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams STEAL (2 STL),,,1,0,338
+0022500711,456,PT02M22.00S,3,1610612760,OKC,1631119,Williams,J. Williams,11,253,25,Made,1,79,95,174,v,J. Williams 25' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 11 AST),Made Shot,Jump Shot,1,3,339
+0022500711,459,PT02M05.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort P.FOUL (P3.PN) (B.Schwab),Foul,Personal,1,0,340
+0022500711,461,PT02M05.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,80,95,175,h,Murray Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+0022500711,462,PT02M05.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: Wallace FOR Dort,Substitution,,0,0,342
+0022500711,464,PT02M05.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,81,95,176,h,Murray Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+0022500711,465,PT01M50.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,-185,176,26,Missed,1,,,0,v,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022500711,466,PT01M45.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,345
+0022500711,467,PT01M36.00S,3,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,346
+0022500711,467,PT01M36.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins STEAL (2 STL),,,1,0,347
+0022500711,470,PT01M26.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-21,17,3,Made,1,81,97,178,v,Wiggins 3' Driving Layup (10 PTS) (J. Williams 4 AST),Made Shot,Driving Layup Shot,1,2,348
+0022500711,472,PT01M11.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,349
+0022500711,472,PT01M11.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams STEAL (3 STL),,,1,0,350
+0022500711,474,PT01M08.00S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,,,0,h,Valanciunas S.FOUL (P3.T3) (B.Schwab),Foul,Shooting,1,0,351
+0022500711,476,PT01M08.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,81,98,179,v,Gilgeous-Alexander Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0022500711,477,PT01M08.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Strawther FOR Murray,Substitution,,0,0,353
+0022500711,479,PT01M08.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,81,99,180,v,Gilgeous-Alexander Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,354
+0022500711,480,PT00M54.70S,3,1610612743,DEN,202685,Valančiūnas,J. Valančiūnas,-7,23,2,Made,1,83,99,182,h,Valanciunas 2' Cutting Layup Shot (13 PTS) (Watson 3 AST),Made Shot,Cutting Layup Shot,1,2,355
+0022500711,482,PT00M36.00S,3,1610612760,OKC,1631119,Williams,J. Williams,-66,5,7,Made,1,83,101,184,v,J. Williams 7' Floating Jump Shot (8 PTS) (Gilgeous-Alexander 12 AST),Made Shot,Floating Jump shot,1,2,356
+0022500711,484,PT00M27.70S,3,1610612743,DEN,1631212,Watson,P. Watson,-4,80,8,Made,1,85,101,186,h,Watson 8' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,357
+0022500711,485,PT00M07.20S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-138,211,25,Missed,1,,,0,v,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022500711,486,PT00M03.40S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,359
+0022500711,487,PT00M01.00S,3,0,,0,,,0,0,0,,0,,,0,h,NUGGETS Heave,Heave,Team Field Goal Attempt,0,0,360
+0022500711,488,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,0,361
+0022500711,489,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,101,186,,End of 3rd Period (11:27 PM EST),period,end,1,0,362
+0022500711,499,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,101,186,,Start of 4th Period (11:30 PM EST),period,start,1,0,363
+0022500711,500,PT11M44.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,-113,222,25,Missed,1,,,0,v,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0022500711,501,PT11M40.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,365
+0022500711,502,PT11M29.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,125,228,26,Missed,1,,,0,h,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022500711,503,PT11M25.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,367
+0022500711,504,PT11M14.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,-22,269,27,Missed,1,,,0,v,MISS Holmgren 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022500711,505,PT11M10.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,369
+0022500711,506,PT11M03.00S,4,1610612743,DEN,1628971,Brown,B. Brown,-125,226,26,Missed,1,,,0,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022500711,507,PT11M00.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,371
+0022500711,508,PT10M57.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,-36,22,4,Made,1,85,103,188,v,Wallace 4' Running Layup (25 PTS),Made Shot,Running Layup Shot,1,2,372
+0022500711,510,PT10M57.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,1,0,373
+0022500711,512,PT10M57.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,MISS Wallace Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,374
+0022500711,513,PT10M55.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,375
+0022500711,514,PT10M36.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,240,42,24,Missed,1,,,0,h,MISS Hardaway Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022500711,515,PT10M33.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,J. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,377
+0022500711,516,PT10M20.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,378
+0022500711,517,PT10M11.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,Holmgren S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,1,0,379
+0022500711,519,PT10M11.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,86,103,189,h,Brown Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022500711,520,PT10M11.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,87,103,190,h,Brown Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+0022500711,521,PT09M53.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-229,63,24,Missed,1,,,0,v,MISS Joe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022500711,522,PT09M50.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,383
+0022500711,523,PT09M36.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,1,91,9,Made,1,89,103,192,h,Jokic 9' Driving Floating Jump Shot (16 PTS) (Strawther 1 AST),Made Shot,Driving Floating Jump Shot,1,2,384
+0022500711,525,PT09M12.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,-47,257,26,Made,1,89,106,195,v,Wiggins 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,385
+0022500711,526,PT08M46.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins P.FOUL (P3.T2) (T.Maddox),Foul,Personal,1,0,386
+0022500711,528,PT08M46.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,SUB: Murray FOR Strawther,Substitution,,0,0,387
+0022500711,529,PT08M46.00S,4,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,SUB: Watson FOR Jones,Substitution,,0,0,388
+0022500711,532,PT08M39.00S,4,1610612743,DEN,1631212,Watson,P. Watson,-233,58,24,Made,1,92,106,198,h,Watson 24' 3PT Jump Shot (24 PTS) (Murray 9 AST),Made Shot,Jump Shot,1,3,389
+0022500711,534,PT08M26.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,1,0,390
+0022500711,536,PT08M26.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,92,107,199,v,Holmgren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022500711,537,PT08M26.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,92,108,200,v,Holmgren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+0022500711,538,PT08M09.00S,4,1610612743,DEN,1628971,Brown,B. Brown,230,44,0,Made,1,95,108,203,h,Brown 3PT Jump Shot (9 PTS) (Murray 10 AST),Made Shot,Jump Shot,1,3,393
+0022500711,540,PT08M01.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,394
+0022500711,541,PT08M01.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Jones FOR Jokic,Substitution,,0,0,395
+0022500711,542,PT08M01.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Hartenstein FOR J. Williams,Substitution,,0,0,396
+0022500711,543,PT08M01.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Holmgren,Substitution,,0,0,397
+0022500711,544,PT08M01.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: Dort FOR Wallace,Substitution,,0,0,398
+0022500711,549,PT07M54.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,1,0,399
+0022500711,551,PT07M54.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,95,109,204,v,Gilgeous-Alexander Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+0022500711,552,PT07M54.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,95,110,205,v,Gilgeous-Alexander Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,401
+0022500711,553,PT07M37.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-62,38,7,Missed,1,,,0,h,MISS Murray 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,402
+0022500711,554,PT07M35.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,403
+0022500711,555,PT07M24.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,180,193,26,Missed,1,,,0,v,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022500711,556,PT07M20.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,405
+0022500711,557,PT07M14.00S,4,1610612760,OKC,1630198,Joe,I. Joe,119,268,29,Missed,1,,,0,v,MISS Joe 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0022500711,558,PT07M11.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,Hardaway Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,407
+0022500711,559,PT07M04.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,408
+0022500711,560,PT06M48.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,409
+0022500711,560,PT06M48.00S,4,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones STEAL (1 STL),,,1,0,410
+0022500711,562,PT06M41.00S,4,1610612743,DEN,1628971,Brown,B. Brown,130,232,27,Missed,1,,,0,h,MISS Brown 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,411
+0022500711,563,PT06M38.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,412
+0022500711,564,PT06M27.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,116,138,18,Made,1,95,112,207,v,Gilgeous-Alexander 18' Step Back Jump Shot (31 PTS),Made Shot,Step Back Jump shot,1,2,413
+0022500711,565,PT06M12.00S,4,1610612743,DEN,1642461,Jones,S. Jones,-2,265,27,Made,1,98,112,210,h,Jones 27' 3PT Jump Shot (6 PTS) (Murray 11 AST),Made Shot,Jump Shot,1,3,414
+0022500711,567,PT05M53.00S,4,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P4.T4) (B.Schwab),Foul,Shooting,1,0,415
+0022500711,569,PT05M53.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,MISS Wiggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,416
+0022500711,570,PT05M53.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,417
+0022500711,571,PT05M53.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,418
+0022500711,572,PT05M53.00S,4,1610612743,DEN,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,h,SUB: Strawther FOR Hardaway Jr.,Substitution,,0,0,419
+0022500711,573,PT05M53.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Jokic FOR Brown,Substitution,,0,0,420
+0022500711,574,PT05M53.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,SUB: Wallace FOR Joe,Substitution,,0,0,421
+0022500711,578,PT05M53.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,98,113,211,v,Wiggins Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+0022500711,579,PT05M40.00S,4,1610612743,DEN,1631212,Watson,P. Watson,44,31,5,Missed,1,,,0,h,MISS Watson 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,423
+0022500711,580,PT05M36.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,424
+0022500711,581,PT05M32.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,21,19,3,Missed,1,,,0,v,MISS Hartenstein 3' Running Layup,Missed Shot,Running Layup Shot,1,2,425
+0022500711,582,PT05M30.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,426
+0022500711,583,PT05M26.00S,4,1610612743,DEN,1631212,Watson,P. Watson,10,21,2,Made,1,100,113,213,h,Watson 2' Running Finger Roll Layup (26 PTS) (Jokic 8 AST),Made Shot,Running Finger Roll Layup Shot,1,2,427
+0022500711,585,PT05M02.00S,4,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P5.PN) (M.Ervin),Foul,Shooting,1,0,428
+0022500711,587,PT05M02.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,429
+0022500711,588,PT05M02.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,430
+0022500711,589,PT05M02.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,SUB: Holmgren FOR Wiggins,Substitution,,0,0,431
+0022500711,591,PT05M02.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,100,114,214,v,Gilgeous-Alexander Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022500711,592,PT04M54.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,433
+0022500711,592,PT04M54.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (2 STL),,,1,0,434
+0022500711,594,PT04M51.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P3.PN) (B.Schwab),Foul,Shooting,1,0,435
+0022500711,596,PT04M51.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,100,115,215,v,Holmgren Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,436
+0022500711,597,PT04M51.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,100,116,216,v,Holmgren Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,437
+0022500711,598,PT04M40.00S,4,1610612743,DEN,1631212,Watson,P. Watson,157,196,25,Made,1,103,116,219,h,Watson 25' 3PT Jump Shot (29 PTS) (Murray 12 AST),Made Shot,Jump Shot,1,3,438
+0022500711,600,PT04M21.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-58,176,19,Made,1,103,118,221,v,Gilgeous-Alexander 19' Step Back Jump Shot (34 PTS),Made Shot,Step Back Jump shot,1,2,439
+0022500711,601,PT04M09.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P5.T16),Turnover,Bad Pass,1,0,440
+0022500711,601,PT04M09.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,Hartenstein STEAL (1 STL),,,1,0,441
+0022500711,603,PT03M55.00S,4,1610612760,OKC,1629652,Dort,L. Dort,141,245,28,Missed,1,,,0,v,MISS Dort 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022500711,604,PT03M52.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,443
+0022500711,605,PT03M45.00S,4,1610612743,DEN,1631212,Watson,P. Watson,85,262,28,Missed,1,,,0,h,MISS Watson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022500711,606,PT03M42.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,Dort REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,445
+0022500711,607,PT03M42.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Dort: Tip to Gilgeous-Alexander,Jump Ball,,1,0,446
+0022500711,610,PT03M23.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,-238,-7,24,Missed,1,,,0,v,MISS Holmgren 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022500711,611,PT03M20.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,448
+0022500711,612,PT03M15.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,Jokic Lost Ball Turnover (P6.T17),Turnover,Lost Ball,1,0,449
+0022500711,612,PT03M15.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,Gilgeous-Alexander STEAL (2 STL),,,1,0,450
+0022500711,614,PT03M11.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,15,2,Made,1,103,120,223,v,Wallace 2' Running Dunk (27 PTS) (Gilgeous-Alexander 13 AST),Made Shot,Running Dunk Shot,1,2,451
+0022500711,616,PT03M11.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,452
+0022500711,617,PT03M11.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,,,0,h,SUB: Pickett FOR Watson,Substitution,,0,0,453
+0022500711,618,PT03M11.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,,,0,h,SUB: Holmes II FOR Jokic,Substitution,,0,0,454
+0022500711,619,PT03M11.00S,4,1610612743,DEN,1642461,Jones,S. Jones,0,0,0,,0,,,0,h,SUB: Nnaji FOR Jones,Substitution,,0,0,455
+0022500711,620,PT03M11.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Tyson FOR Murray,Substitution,,0,0,456
+0022500711,621,PT03M11.00S,4,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hartenstein,Substitution,,0,0,457
+0022500711,627,PT02M48.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,192,58,20,Missed,1,,,0,h,MISS Nnaji 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+0022500711,628,PT02M47.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,459
+0022500711,629,PT02M47.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,1,0,460
+0022500711,630,PT02M33.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,461
+0022500711,632,PT02M33.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,462
+0022500711,633,PT02M33.00S,4,0,,1610612760,,,0,0,0,,0,,,0,v,Thunder Rebound,Rebound,Normal Rebound,0,0,463
+0022500711,634,PT02M33.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,v,SUB: Joe FOR Gilgeous-Alexander,Substitution,,0,0,464
+0022500711,635,PT02M33.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,v,SUB: Barnhizer FOR Dort,Substitution,,0,0,465
+0022500711,636,PT02M33.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,v,SUB: K. Williams FOR Wallace,Substitution,,0,0,466
+0022500711,640,PT02M33.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,103,121,224,v,Holmgren Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,467
+0022500711,641,PT02M31.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe Personal Take Foul (P1.T3) (T.Maddox),Foul,Personal Take,1,0,468
+0022500711,643,PT02M31.00S,4,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,v,SUB: Dieng FOR Holmgren,Substitution,,0,0,469
+0022500711,645,PT02M18.00S,4,1610612743,DEN,1641747,Holmes II,D. Holmes II,134,29,14,Made,1,105,121,226,h,Holmes II 14' Jump Shot (2 PTS) (Strawther 2 AST),Made Shot,Jump Shot,1,2,470
+0022500711,647,PT02M00.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-66,246,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+0022500711,648,PT01M57.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,Strawther REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,472
+0022500711,649,PT01M45.00S,4,1610612743,DEN,1641816,Tyson,H. Tyson,-153,210,26,Made,1,108,121,229,h,Tyson 26' 3PT Jump Shot (3 PTS) (Strawther 3 AST),Made Shot,Jump Shot,1,3,473
+0022500711,651,PT01M30.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,129,117,17,Missed,1,,,0,v,MISS Dieng 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,474
+0022500711,652,PT01M27.00S,4,1610612743,DEN,1641816,Tyson,H. Tyson,0,0,0,,0,,,0,h,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,475
+0022500711,653,PT01M12.00S,4,1610612743,DEN,1631124,Strawther,J. Strawther,28,269,27,Missed,1,,,0,h,MISS Strawther 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,476
+0022500711,654,PT01M10.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,v,Joe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,477
+0022500711,655,PT00M56.30S,4,1610612760,OKC,1630198,Joe,I. Joe,37,289,29,Missed,1,,,0,v,MISS Joe 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022500711,656,PT00M55.10S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,0,479
+0022500711,658,PT00M39.60S,4,1610612760,OKC,1642964,Barnhizer,B. Barnhizer,0,0,0,,0,,,0,v,Barnhizer S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,1,0,480
+0022500711,660,PT00M39.60S,4,1610612743,DEN,1641816,Tyson,H. Tyson,0,0,0,,0,109,121,230,h,Tyson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,481
+0022500711,661,PT00M39.60S,4,1610612743,DEN,1641816,Tyson,H. Tyson,0,0,0,,0,110,121,231,h,Tyson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,482
+0022500711,662,PT00M22.30S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-221,132,26,Missed,1,,,0,v,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,483
+0022500711,663,PT00M18.90S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,484
+0022500711,664,PT00M12.80S,4,1610612760,OKC,1642964,Barnhizer,B. Barnhizer,0,0,0,,0,,,0,v,Barnhizer S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,1,0,485
+0022500711,666,PT00M12.80S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,,,0,h,MISS Strawther Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,486
+0022500711,667,PT00M12.80S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,487
+0022500711,668,PT00M12.80S,4,1610612743,DEN,1631124,Strawther,J. Strawther,0,0,0,,0,111,121,232,h,Strawther Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0022500711,669,PT00M00.00S,4,0,,0,,,0,0,0,,0,111,121,232,,End of 4th Period (12:01 AM EST),period,end,1,0,489

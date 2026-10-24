@@ -1,0 +1,498 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400163,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:16 PM EST),period,start,0,0,1
+0022400163,4,PT12M00.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Jump Ball Holmgren vs. Bitadze: Tip to Gilgeous-Alexander,Jump Ball,,1,0,2
+0022400163,7,PT11M41.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-157,188,24,Made,1,3,0,3,h,Williams 24' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,3,3
+0022400163,9,PT11M22.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,-227,96,25,Missed,1,,,0,v,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0022400163,10,PT11M19.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022400163,11,PT11M08.00S,1,1610612760,OKC,1631114,Williams,J. Williams,10,10,1,Made,1,5,0,5,h,Williams 1' Driving Layup (5 PTS) (Holmgren 1 AST),Made Shot,Driving Layup Shot,1,2,6
+0022400163,13,PT10M51.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-86,116,14,Missed,1,,,0,v,MISS Suggs 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,7
+0022400163,14,PT10M46.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022400163,15,PT10M46.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,Made,1,5,2,7,v,Bitadze Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,9
+0022400163,16,PT10M40.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,-115,227,25,Made,1,8,2,10,h,Holmgren 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,10
+0022400163,18,PT10M20.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,11
+0022400163,18,PT10M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,12
+0022400163,20,PT10M14.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,13
+0022400163,20,PT10M14.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner STEAL (1 STL),,,1,0,14
+0022400163,22,PT10M10.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,-17,13,2,Made,1,8,4,12,v,da Silva 2' Running Alley Oop Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,15
+0022400163,24,PT09M58.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-227,-20,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022400163,25,PT09M58.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,17
+0022400163,26,PT09M40.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,18,6,2,Missed,1,,,0,v,MISS F. Wagner 2' Layup,Missed Shot,Layup Shot,1,2,18
+0022400163,27,PT09M38.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022400163,28,PT09M32.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,-21,-7,2,Missed,1,,,0,h,MISS Wallace 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,20
+0022400163,29,PT09M30.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,21
+0022400163,30,PT09M10.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,80,38,9,Made,1,8,6,14,v,Suggs 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,22
+0022400163,31,PT08M49.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-25,258,26,Made,1,11,6,17,h,Williams 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,23
+0022400163,32,PT08M29.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,16,6,2,Missed,1,,,0,v,MISS F. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,24
+0022400163,32,PT08M29.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (1 BLK),,,1,2,25
+0022400163,34,PT08M26.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0022400163,35,PT08M17.00S,1,1610612760,OKC,1631114,Williams,J. Williams,26,140,14,Made,1,13,6,19,h,Williams 14' Floating Jump Shot (10 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Floating Jump shot,1,2,27
+0022400163,37,PT08M07.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,7,5,1,Made,1,13,8,21,v,Suggs 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,28
+0022400163,38,PT07M55.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,61,48,8,Made,1,15,8,23,h,Holmgren 8' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,29
+0022400163,40,PT07M55.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,30
+0022400163,42,PT07M55.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,16,8,24,h,Holmgren Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,31
+0022400163,43,PT07M42.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,32
+0022400163,45,PT07M42.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,16,9,25,v,F. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,33
+0022400163,46,PT07M42.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,16,10,26,v,F. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,34
+0022400163,47,PT07M36.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-114,36,12,Made,1,18,10,28,h,Williams 12' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,2,35
+0022400163,48,PT07M26.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,-16,6,2,Made,1,18,12,30,v,da Silva 2' Cutting Layup Shot (4 PTS) (Suggs 1 AST),Made Shot,Cutting Layup Shot,1,2,36
+0022400163,50,PT07M26.00S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022400163,51,PT07M07.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,9,1,1,Made,1,20,12,32,h,Wallace 1' Reverse Layup (2 PTS) (Williams 1 AST),Made Shot,Reverse Layup Shot,1,2,38
+0022400163,53,PT06M52.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort P.FOUL (P1.T2) (D.Scott),Foul,Personal,1,0,39
+0022400163,55,PT06M52.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,40
+0022400163,57,PT06M43.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,199,158,25,Missed,1,,,0,v,MISS da Silva 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,41
+0022400163,58,PT06M39.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+0022400163,59,PT06M30.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,43
+0022400163,59,PT06M30.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner STEAL (1 STL),,,1,0,44
+0022400163,61,PT06M26.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,4,4,1,Missed,1,,,0,v,MISS da Silva 1' Running Layup,Missed Shot,Running Layup Shot,1,2,45
+0022400163,61,PT06M26.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren BLOCK (2 BLK),,,1,2,46
+0022400163,63,PT06M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,47
+0022400163,65,PT06M26.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: Caruso FOR Holmgren,Substitution,,0,0,48
+0022400163,67,PT06M26.00S,1,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso P.FOUL (P1.T3) (A.Nagy),Foul,Personal,1,0,49
+0022400163,69,PT06M17.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,50
+0022400163,69,PT06M17.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams STEAL (2 STL),,,1,0,51
+0022400163,71,PT06M10.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,52
+0022400163,72,PT05M55.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,18,2,Missed,1,,,0,v,MISS M. Wagner 2' Layup,Missed Shot,Layup Shot,1,2,53
+0022400163,73,PT05M52.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+0022400163,74,PT05M44.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope S.FOUL (P1.T2) (D.Scott),Foul,Shooting,1,0,55
+0022400163,76,PT05M44.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,21,12,33,h,Gilgeous-Alexander Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,56
+0022400163,77,PT05M44.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,SUB: Howard FOR Suggs,Substitution,,0,0,57
+0022400163,79,PT05M44.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,22,12,34,h,Gilgeous-Alexander Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,58
+0022400163,80,PT05M32.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,-7,17,2,Made,1,22,14,36,v,da Silva 2' Cutting Dunk Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Cutting Dunk Shot,1,2,59
+0022400163,82,PT05M19.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-87,122,15,Made,1,24,14,38,h,Williams 15' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,60
+0022400163,83,PT05M06.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-185,197,27,Made,1,24,17,41,v,F. Wagner 27' 3PT Jump Shot (5 PTS) (da Silva 1 AST),Made Shot,Jump Shot,1,3,61
+0022400163,85,PT04M44.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-61,251,26,Missed,1,,,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0022400163,86,PT04M41.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022400163,88,PT04M38.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,64
+0022400163,88,PT04M38.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort STEAL (1 STL),,,1,0,65
+0022400163,90,PT04M33.00S,1,1610612760,OKC,1629652,Dort,L. Dort,163,197,26,Made,1,27,17,44,h,Dort 26' 3PT Jump Shot (3 PTS) (Caruso 1 AST),Made Shot,Jump Shot,1,3,66
+0022400163,92,PT04M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T4) (D.Scott),Foul,Shooting,1,0,67
+0022400163,94,PT04M20.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,27,18,45,v,Caldwell-Pope Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,68
+0022400163,95,PT04M20.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,27,19,46,v,Caldwell-Pope Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,69
+0022400163,96,PT04M20.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Wiggins FOR Williams,Substitution,,0,0,70
+0022400163,97,PT04M20.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Jones FOR Wallace,Substitution,,0,0,71
+0022400163,98,PT04M20.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,SUB: Isaac FOR da Silva,Substitution,,0,0,72
+0022400163,102,PT04M20.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,27,20,47,v,Caldwell-Pope Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,73
+0022400163,103,PT04M05.00S,1,1610612760,OKC,1629652,Dort,L. Dort,-32,256,26,Missed,1,,,0,h,MISS Dort 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022400163,104,PT04M02.00S,1,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,75
+0022400163,106,PT04M02.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Black FOR Caldwell-Pope,Substitution,,0,0,76
+0022400163,109,PT03M47.00S,1,1610612760,OKC,1641794,Jones,D. Jones,43,14,5,Made,1,29,20,49,h,Jones 5' Driving Layup (2 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Driving Layup Shot,1,2,77
+0022400163,111,PT03M29.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,178,173,25,Missed,1,,,0,v,MISS F. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022400163,112,PT03M26.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,79
+0022400163,113,PT03M21.00S,1,1610612753,ORL,1641710,Black,A. Black,229,-16,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022400163,114,PT03M21.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,81
+0022400163,115,PT03M21.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander L.B.FOUL (P2.PN) (A.Nagy),Foul,Loose Ball,1,0,82
+0022400163,117,PT03M21.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,29,21,50,v,Isaac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0022400163,118,PT03M21.00S,1,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Joe FOR Dort,Substitution,,0,0,84
+0022400163,120,PT03M21.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,29,22,51,v,Isaac Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,85
+0022400163,121,PT03M13.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-82,134,16,Made,1,31,22,53,h,Gilgeous-Alexander 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,86
+0022400163,123,PT02M58.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,9,21,2,Made,1,31,24,55,v,Isaac 2' Cutting Dunk Shot (4 PTS) (Black 1 AST),Made Shot,Cutting Dunk Shot,1,2,87
+0022400163,125,PT02M32.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,80,231,24,Missed,1,,,0,h,MISS Gilgeous-Alexander 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,88
+0022400163,126,PT02M30.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,89
+0022400163,127,PT02M23.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,26,6,3,Made,1,31,26,57,v,F. Wagner 3' Layup (7 PTS),Made Shot,Layup Shot,1,2,90
+0022400163,128,PT02M10.00S,1,1610612760,OKC,1627936,Caruso,A. Caruso,230,63,24,Made,1,34,26,60,h,Caruso 24' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,1,3,91
+0022400163,130,PT02M00.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Offensive Charge Foul (P1) (A.Nagy),Foul,Offensive Charge,1,0,92
+0022400163,132,PT02M00.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,1,0,93
+0022400163,133,PT02M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+0022400163,134,PT02M00.00S,1,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: Holmgren FOR Jones,Substitution,,0,0,95
+0022400163,135,PT02M00.00S,1,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Houstan FOR Howard,Substitution,,0,0,96
+0022400163,136,PT02M00.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,SUB: Suggs FOR F. Wagner,Substitution,,0,0,97
+0022400163,140,PT01M50.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-235,-7,24,Made,1,37,26,63,h,Wiggins 24' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,1,3,98
+0022400163,142,PT01M32.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,99
+0022400163,142,PT01M32.00S,1,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso STEAL (1 STL),,,1,0,100
+0022400163,144,PT01M26.00S,1,1610612760,OKC,1630198,Joe,I. Joe,-67,83,11,Made,1,39,26,65,h,Joe 11' Step Back Jump Shot (2 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Step Back Jump shot,1,2,101
+0022400163,146,PT01M04.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,227,6,0,Missed,1,,,0,v,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022400163,147,PT01M02.00S,1,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022400163,148,PT00M54.40S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,104
+0022400163,148,PT00M54.40S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner STEAL (2 STL),,,1,0,105
+0022400163,150,PT00M40.70S,1,1610612753,ORL,1631216,Houstan,C. Houstan,-203,170,26,Missed,1,,,0,v,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022400163,151,PT00M36.30S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022400163,152,PT00M16.60S,1,1610612760,OKC,1627936,Caruso,A. Caruso,-13,10,2,Missed,1,,,0,h,MISS Caruso 2' Layup,Missed Shot,Layup Shot,1,2,108
+0022400163,153,PT00M14.20S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022400163,154,PT00M04.10S,1,1610612753,ORL,1628371,Isaac,J. Isaac,-232,-27,0,Missed,1,,,0,v,MISS Isaac 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022400163,155,PT00M04.10S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,111
+0022400163,156,PT00M00.00S,1,0,,0,,,0,0,0,,0,39,26,65,,End of 1st Period (9:41 PM EST),period,end,1,0,112
+0022400163,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,39,26,65,,Start of 2nd Period (9:43 PM EST),period,start,0,0,113
+0022400163,163,PT11M38.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-112,263,29,Missed,1,,,0,v,MISS Suggs 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022400163,164,PT11M33.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022400163,165,PT11M25.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,29,103,11,Made,1,41,26,67,h,Wiggins 11' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,116
+0022400163,166,PT11M16.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,127,-15,13,Missed,1,,,0,v,MISS Suggs 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,117
+0022400163,167,PT11M12.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,118
+0022400163,168,PT11M07.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,,,0,v,Isaac S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,119
+0022400163,170,PT11M07.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,42,26,68,h,Holmgren Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022400163,171,PT11M07.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,MISS Holmgren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,121
+0022400163,172,PT11M04.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,122
+0022400163,173,PT11M01.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-83,40,9,Made,1,44,26,70,h,Holmgren 9' Jump Shot (9 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,2,123
+0022400163,175,PT10M47.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,124
+0022400163,175,PT10M47.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins STEAL (1 STL),,,1,0,125
+0022400163,177,PT10M44.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,-2,-2,0,Missed,1,,,0,h,MISS Wiggins Running Layup,Missed Shot,Running Layup Shot,1,2,126
+0022400163,179,PT10M44.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,127
+0022400163,181,PT10M38.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,12,121,12,Missed,1,,,0,h,MISS Holmgren 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,128
+0022400163,182,PT10M35.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,129
+0022400163,183,PT10M28.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,36,4,4,Made,1,44,28,72,v,Suggs 4' Layup (6 PTS),Made Shot,Layup Shot,1,2,130
+0022400163,184,PT10M21.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,-168,210,27,Missed,1,,,0,h,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022400163,185,PT10M19.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,132
+0022400163,187,PT10M19.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,,,0,v,SUB: da Silva FOR Isaac,Substitution,,0,0,133
+0022400163,189,PT09M57.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,228,5,0,Missed,1,,,0,v,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+0022400163,190,PT09M54.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022400163,191,PT09M42.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-69,131,15,Made,1,46,28,74,h,Williams 15' Pullup Jump Shot (16 PTS) (Mitchell 1 AST),Made Shot,Pullup Jump shot,1,2,136
+0022400163,193,PT09M26.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,-228,68,24,Missed,1,,,0,v,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022400163,194,PT09M23.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,138
+0022400163,195,PT09M14.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,104,246,27,Missed,1,,,0,h,MISS Holmgren 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022400163,196,PT09M11.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,v,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022400163,197,PT09M02.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-1,36,4,Missed,1,,,0,v,MISS da Silva 4' Layup,Missed Shot,Layup Shot,1,2,141
+0022400163,198,PT08M57.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,142
+0022400163,199,PT08M54.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-21,16,3,Missed,1,,,0,v,MISS da Silva 3' Layup,Missed Shot,Layup Shot,1,2,143
+0022400163,201,PT08M51.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022400163,202,PT08M48.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,225,95,24,Missed,1,,,0,h,MISS Wiggins 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,145
+0022400163,203,PT08M45.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+0022400163,204,PT08M33.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,-18,8,2,Made,1,46,30,76,v,M. Wagner 2' Layup (2 PTS) (Suggs 2 AST),Made Shot,Layup Shot,1,2,147
+0022400163,206,PT08M19.00S,2,1610612760,OKC,1631114,Williams,J. Williams,77,253,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,148
+0022400163,207,PT08M16.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,149
+0022400163,208,PT08M08.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,0,150
+0022400163,210,PT08M08.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,46,31,77,v,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,151
+0022400163,211,PT08M08.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: Dieng FOR Holmgren,Substitution,,0,0,152
+0022400163,212,PT08M08.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Houstan,Substitution,,0,0,153
+0022400163,213,PT08M08.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Suggs,Substitution,,0,0,154
+0022400163,217,PT08M08.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,46,32,78,v,M. Wagner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+0022400163,218,PT07M57.00S,2,1610612760,OKC,1630198,Joe,I. Joe,93,256,27,Missed,1,,,0,h,MISS Joe 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,156
+0022400163,219,PT07M53.00S,2,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022400163,220,PT07M41.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,25,25,4,Made,1,46,34,80,v,M. Wagner 4' Layup (6 PTS),Made Shot,Layup Shot,1,2,158
+0022400163,221,PT07M41.00S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,159
+0022400163,222,PT07M41.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: Caruso FOR Joe,Substitution,,0,0,160
+0022400163,223,PT07M41.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Wallace FOR Wiggins,Substitution,,0,0,161
+0022400163,224,PT07M41.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,SUB: Bitadze FOR M. Wagner,Substitution,,0,0,162
+0022400163,228,PT07M25.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,58,56,8,Missed,1,,,0,h,MISS Mitchell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,163
+0022400163,229,PT07M23.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+0022400163,230,PT07M07.00S,2,1610612753,ORL,1641710,Black,A. Black,167,188,25,Missed,1,,,0,v,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022400163,231,PT07M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,166
+0022400163,232,PT07M06.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace L.B.FOUL (P1.T2) (D.Scott),Foul,Loose Ball,1,0,167
+0022400163,234,PT06M55.00S,2,1610612753,ORL,1641710,Black,A. Black,60,-9,6,Missed,1,,,0,v,MISS Black 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,168
+0022400163,235,PT06M52.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+0022400163,236,PT06M49.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,170
+0022400163,236,PT06M49.00S,2,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (1 STL),,,1,0,171
+0022400163,238,PT06M39.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,184,169,25,Missed,1,,,0,v,MISS da Silva 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,172
+0022400163,239,PT06M36.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,173
+0022400163,240,PT06M23.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,0,0,0,,0,,,0,h,Mitchell Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,174
+0022400163,240,PT06M23.00S,2,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (2 STL),,,1,0,175
+0022400163,242,PT06M06.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,5,31,3,Made,1,46,36,82,v,Bitadze 3' Layup (4 PTS) (Black 2 AST),Made Shot,Layup Shot,1,2,176
+0022400163,244,PT05M50.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,177
+0022400163,244,PT05M50.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,178
+0022400163,246,PT05M45.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,2,7,1,Missed,1,,,0,v,MISS F. Wagner 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,179
+0022400163,246,PT05M45.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,2,180
+0022400163,248,PT05M42.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+0022400163,249,PT05M35.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,38,74,8,Missed,1,,,0,h,MISS Wallace 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,182
+0022400163,250,PT05M32.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,183
+0022400163,251,PT05M12.00S,2,1610612753,ORL,1641710,Black,A. Black,230,8,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0022400163,252,PT05M10.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,185
+0022400163,253,PT04M56.00S,2,1610612760,OKC,1631114,Williams,J. Williams,-183,187,26,Made,1,49,36,85,h,Williams 26' 3PT Jump Shot (19 PTS) (Dieng 1 AST),Made Shot,Jump Shot,1,3,186
+0022400163,255,PT04M28.00S,2,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,-229,1,0,Missed,1,,,0,v,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0022400163,256,PT04M25.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,188
+0022400163,257,PT04M09.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,83,120,15,Made,1,51,36,87,h,Mitchell 15' Step Back Jump Shot (2 PTS) (Wallace 1 AST),Made Shot,Step Back Jump shot,1,2,189
+0022400163,259,PT04M07.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,190
+0022400163,260,PT04M07.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Williams,Substitution,,0,0,191
+0022400163,261,PT04M07.00S,2,1610612760,OKC,1642349,Mitchell,A. Mitchell,0,0,0,,0,,,0,h,SUB: Dort FOR Mitchell,Substitution,,0,0,192
+0022400163,262,PT04M07.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,193
+0022400163,266,PT03M52.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,29,3,Made,1,51,38,89,v,Bitadze 3' Cutting Dunk Shot (6 PTS) (F. Wagner 2 AST),Made Shot,Cutting Dunk Shot,1,2,194
+0022400163,268,PT03M38.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-64,237,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022400163,269,PT03M36.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,196
+0022400163,270,PT03M27.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-234,-19,0,Missed,1,,,0,v,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0022400163,271,PT03M24.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,198
+0022400163,272,PT03M16.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-6,5,1,Missed,1,,,0,h,MISS Dieng 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,199
+0022400163,272,PT03M16.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze BLOCK (1 BLK),,,1,2,200
+0022400163,274,PT03M12.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+0022400163,275,PT03M04.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,202
+0022400163,275,PT03M04.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (1 STL),,,1,0,203
+0022400163,277,PT02M58.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-91,239,26,Missed,1,,,0,h,MISS Gilgeous-Alexander 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,204
+0022400163,278,PT02M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,205
+0022400163,280,PT02M57.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Holmgren FOR Dieng,Substitution,,0,0,206
+0022400163,282,PT02M40.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,10,65,7,Missed,1,,,0,v,MISS F. Wagner 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,207
+0022400163,283,PT02M39.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,208
+0022400163,285,PT02M35.00S,2,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,77,172,19,Missed,1,,,0,v,MISS Caldwell-Pope 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,209
+0022400163,286,PT02M32.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+0022400163,287,PT02M26.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,211
+0022400163,289,PT02M26.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,52,38,90,h,Gilgeous-Alexander Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,212
+0022400163,290,PT02M26.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Williams FOR Caruso,Substitution,,0,0,213
+0022400163,292,PT02M26.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,53,38,91,h,Gilgeous-Alexander Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+0022400163,293,PT02M09.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-16,17,2,Made,1,53,40,93,v,F. Wagner 2' Driving Layup (9 PTS) (Bitadze 2 AST),Made Shot,Driving Layup Shot,1,2,215
+0022400163,294,PT02M00.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,216
+0022400163,294,PT02M00.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze STEAL (1 STL),,,1,0,217
+0022400163,296,PT01M55.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-7,4,1,Made,1,53,42,95,v,F. Wagner 1' Running Dunk (11 PTS) (da Silva 2 AST),Made Shot,Running Dunk Shot,1,2,218
+0022400163,299,PT01M31.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-10,78,8,Missed,1,,,0,h,MISS Holmgren 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,219
+0022400163,300,PT01M28.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,220
+0022400163,301,PT01M22.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,124,232,26,Missed,1,,,0,v,MISS Bitadze 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+0022400163,302,PT01M16.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,222
+0022400163,303,PT01M11.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,77,253,26,Made,1,56,42,98,h,Gilgeous-Alexander 26' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,223
+0022400163,304,PT00M53.30S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,1,0,224
+0022400163,306,PT00M53.30S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,MISS F. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,225
+0022400163,307,PT00M53.30S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,226
+0022400163,308,PT00M53.30S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Joe FOR Wallace,Substitution,,0,0,227
+0022400163,310,PT00M53.30S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,56,43,99,v,F. Wagner Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,228
+0022400163,311,PT00M33.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,11,4,1,Made,1,58,43,101,h,Holmgren 1' Dunk (11 PTS),Made Shot,Dunk Shot,1,2,229
+0022400163,313,PT00M13.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,230
+0022400163,313,PT00M13.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander STEAL (1 STL),,,1,0,231
+0022400163,315,PT00M05.90S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,1,0,232
+0022400163,317,PT00M05.90S,2,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Caruso FOR Dort,Substitution,,0,0,233
+0022400163,318,PT00M05.90S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,SUB: Isaac FOR da Silva,Substitution,,0,0,234
+0022400163,321,PT00M02.20S,2,1610612760,OKC,1630198,Joe,I. Joe,-134,242,28,Missed,1,,,0,h,MISS Joe 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,235
+0022400163,322,PT00M02.20S,2,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,0,0,236
+0022400163,323,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,43,101,,End of 2nd Period (10:08 PM EST),period,end,1,0,237
+0022400163,330,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,43,101,,Start of 3rd Period (10:23 PM EST),period,start,0,0,238
+0022400163,331,PT11M41.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,-91,180,20,Missed,1,,,0,v,MISS Caldwell-Pope 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,239
+0022400163,332,PT11M38.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,240
+0022400163,333,PT11M21.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-137,127,19,Missed,1,,,0,h,MISS Dort 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,241
+0022400163,334,PT11M17.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,242
+0022400163,335,PT11M10.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,180,187,26,Missed,1,,,0,v,MISS Suggs 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022400163,336,PT11M08.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,244
+0022400163,338,PT10M54.00S,3,1610612760,OKC,1631114,Williams,J. Williams,26,34,4,Missed,1,,,0,h,MISS Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,245
+0022400163,338,PT10M54.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs BLOCK (1 BLK),,,1,2,246
+0022400163,340,PT10M51.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,247
+0022400163,341,PT10M49.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,9,9,1,Missed,1,,,0,v,MISS Caldwell-Pope 1' Running Layup,Missed Shot,Running Layup Shot,1,2,248
+0022400163,341,PT10M49.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace BLOCK (1 BLK),,,1,2,249
+0022400163,343,PT10M49.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,250
+0022400163,344,PT10M37.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,-15,53,6,Made,1,60,43,103,h,Wallace 6' Turnaround Jump Shot (4 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Turnaround Jump Shot,1,2,251
+0022400163,346,PT10M13.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,234,46,24,Made,1,60,46,106,v,da Silva 24' 3PT Jump Shot (9 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,1,3,252
+0022400163,348,PT09M59.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,56,15,6,Missed,1,,,0,h,MISS Holmgren 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,253
+0022400163,349,PT09M58.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,254
+0022400163,350,PT09M42.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,44,29,5,Missed,1,,,0,v,MISS Bitadze 5' Layup,Missed Shot,Layup Shot,1,2,255
+0022400163,352,PT09M39.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,256
+0022400163,353,PT09M33.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-54,55,8,Made,1,62,46,108,h,Gilgeous-Alexander 8' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,257
+0022400163,354,PT09M07.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-31,52,6,Missed,1,,,0,v,MISS F. Wagner 6' Layup,Missed Shot,Layup Shot,1,2,258
+0022400163,355,PT09M04.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,259
+0022400163,357,PT08M56.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,-18,-4,2,Missed,1,,,0,h,MISS Wallace 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,260
+0022400163,358,PT08M54.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,261
+0022400163,359,PT08M51.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P2.T1) (D.Scott),Foul,Personal,1,0,262
+0022400163,361,PT08M41.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-69,55,9,Missed,1,,,0,v,MISS Suggs 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,263
+0022400163,362,PT08M40.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,264
+0022400163,363,PT08M35.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,-20,4,2,Missed,1,,,0,v,MISS Bitadze 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,265
+0022400163,364,PT08M33.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,266
+0022400163,366,PT08M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,43,25,5,Made,1,64,46,110,h,Gilgeous-Alexander 5' Jump Bank Shot (13 PTS),Made Shot,Jump Bank Shot,1,2,267
+0022400163,367,PT08M17.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,28,16,3,Missed,1,,,0,v,MISS da Silva 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,268
+0022400163,368,PT08M16.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,269
+0022400163,370,PT08M07.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,17,140,14,Missed,1,,,0,v,MISS Suggs 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,270
+0022400163,371,PT08M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,271
+0022400163,372,PT08M05.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort P.FOUL (P3.T2) (B.Kennedy),Foul,Personal,1,0,272
+0022400163,374,PT07M59.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,159,218,27,Made,1,64,49,113,v,Suggs 27' 3PT Jump Shot (9 PTS) (Bitadze 3 AST),Made Shot,Jump Shot,1,3,273
+0022400163,376,PT07M40.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,83,147,17,Missed,1,,,0,h,MISS Gilgeous-Alexander 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,274
+0022400163,377,PT07M38.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,275
+0022400163,378,PT07M33.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander P.FOUL (P3.T3) (D.Scott),Foul,Personal,1,0,276
+0022400163,380,PT07M19.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-93,40,10,Missed,1,,,0,v,MISS F. Wagner 10' Layup,Missed Shot,Layup Shot,1,2,277
+0022400163,381,PT07M18.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,278
+0022400163,420,PT07M16.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner Out of Bounds Lost Ball Turnover (P5.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,279
+0022400163,386,PT07M06.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-13,5,1,Missed,1,,,0,h,MISS Gilgeous-Alexander 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,280
+0022400163,387,PT07M06.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,281
+0022400163,388,PT06M52.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace S.FOUL (P2.T4) (A.Nagy),Foul,Shooting,1,0,282
+0022400163,390,PT06M52.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,283
+0022400163,391,PT06M52.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Suggs,Substitution,,0,0,284
+0022400163,392,PT06M52.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,SUB: Black FOR Bitadze,Substitution,,0,0,285
+0022400163,395,PT06M52.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,64,50,114,v,F. Wagner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022400163,396,PT06M52.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,64,51,115,v,F. Wagner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,287
+0022400163,397,PT06M33.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-1,25,3,Missed,1,,,0,h,MISS Dort 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,288
+0022400163,398,PT06M31.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,289
+0022400163,399,PT06M26.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,27,3,3,Missed,1,,,0,v,MISS da Silva 3' Running Layup,Missed Shot,Running Layup Shot,1,2,290
+0022400163,400,PT06M23.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,291
+0022400163,401,PT06M23.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,292
+0022400163,401,PT06M23.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (3 STL),,,1,0,293
+0022400163,403,PT06M14.00S,3,1610612753,ORL,1641710,Black,A. Black,17,38,4,Made,1,64,53,117,v,Black 4' Driving Layup (2 PTS) (Caldwell-Pope 2 AST),Made Shot,Driving Layup Shot,1,2,294
+0022400163,405,PT06M00.00S,3,1610612760,OKC,1631114,Williams,J. Williams,11,176,18,Made,1,66,53,119,h,Williams 18' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,295
+0022400163,406,PT05M43.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,119,136,18,Made,1,66,55,121,v,F. Wagner 18' Pullup Jump Shot (16 PTS) (M. Wagner 1 AST),Made Shot,Pullup Jump shot,1,2,296
+0022400163,408,PT05M27.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,10,27,3,Missed,1,,,0,h,MISS Holmgren 3' Layup,Missed Shot,Layup Shot,1,2,297
+0022400163,409,PT05M25.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,298
+0022400163,410,PT05M25.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner S.FOUL (P2.T1) (B.Kennedy),Foul,Shooting,1,0,299
+0022400163,412,PT05M25.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,300
+0022400163,413,PT05M25.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,301
+0022400163,414,PT05M25.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Wiggins FOR Wallace,Substitution,,0,0,302
+0022400163,416,PT05M25.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,67,55,122,h,Holmgren Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,303
+0022400163,417,PT05M12.00S,3,1610612753,ORL,1641710,Black,A. Black,37,108,11,Missed,1,,,0,v,MISS Black 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2,304
+0022400163,418,PT05M09.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,305
+0022400163,419,PT05M06.00S,3,1610612760,OKC,1631114,Williams,J. Williams,23,5,2,Missed,1,,,0,h,MISS Williams 2' Running Layup,Missed Shot,Running Layup Shot,1,2,306
+0022400163,421,PT05M01.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,Holmgren REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,307
+0022400163,422,PT05M01.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,Made,1,69,55,124,h,Holmgren Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,1,2,308
+0022400163,468,PT04M53.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,309
+0022400163,468,PT04M53.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams STEAL (3 STL),,,1,0,310
+0022400163,423,PT04M53.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,311
+0022400163,424,PT04M53.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,,,0,h,SUB: Caruso FOR Holmgren,Substitution,,0,0,312
+0022400163,425,PT04M53.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,SUB: Isaac FOR da Silva,Substitution,,0,0,313
+0022400163,428,PT04M46.00S,3,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso OFF.Foul (P2) (D.Scott),Foul,Offensive,1,0,314
+0022400163,430,PT04M46.00S,3,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,315
+0022400163,431,PT04M46.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,SUB: Suggs FOR F. Wagner,Substitution,,0,0,316
+0022400163,433,PT04M36.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,317
+0022400163,434,PT04M27.00S,3,1610612760,OKC,1629652,Dort,L. Dort,-229,25,0,Missed,1,,,0,h,MISS Dort 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022400163,435,PT04M23.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,319
+0022400163,436,PT04M15.00S,3,1610612753,ORL,1641710,Black,A. Black,-234,-21,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022400163,437,PT04M14.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,321
+0022400163,438,PT04M14.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner L.B.FOUL (P1.T2) (B.Kennedy),Foul,Loose Ball,1,0,322
+0022400163,440,PT04M14.00S,3,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Jones FOR Dort,Substitution,,0,0,323
+0022400163,441,PT04M14.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Joe FOR Williams,Substitution,,0,0,324
+0022400163,442,PT04M14.00S,3,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Howard FOR Caldwell-Pope,Substitution,,0,0,325
+0022400163,446,PT04M01.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,25,6,3,Made,1,71,55,126,h,Gilgeous-Alexander 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,326
+0022400163,447,PT03M38.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,327
+0022400163,447,PT03M38.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins STEAL (2 STL),,,1,0,328
+0022400163,449,PT03M33.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,16,6,2,Missed,1,,,0,h,MISS Wiggins 2' Running Layup,Missed Shot,Running Layup Shot,1,2,329
+0022400163,449,PT03M33.00S,3,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard BLOCK (1 BLK),,,1,2,330
+0022400163,451,PT03M33.00S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,331
+0022400163,453,PT03M32.00S,3,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,Jones Traveling Turnover (P1.T11),Turnover,Traveling,1,0,332
+0022400163,454,PT03M24.00S,3,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,1,0,333
+0022400163,456,PT03M24.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,71,56,127,v,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+0022400163,457,PT03M24.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,71,57,128,v,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022400163,458,PT03M15.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,336
+0022400163,458,PT03M15.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (2 STL),,,1,0,337
+0022400163,460,PT03M04.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,227,32,0,Missed,1,,,0,v,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022400163,461,PT03M01.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,,,0,v,Isaac REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,339
+0022400163,462,PT03M00.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,,,0,v,Isaac Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,340
+0022400163,463,PT02M47.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-5,15,2,Missed,1,,,0,h,MISS Gilgeous-Alexander 2' Layup,Missed Shot,Layup Shot,1,2,341
+0022400163,464,PT02M47.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,342
+0022400163,465,PT02M47.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,1,0,343
+0022400163,467,PT02M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,344
+0022400163,470,PT02M47.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,72,57,129,h,Wiggins Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,345
+0022400163,471,PT02M47.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,73,57,130,h,Wiggins Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,346
+0022400163,472,PT02M30.00S,3,1610612753,ORL,1641724,Howard,J. Howard,72,247,26,Missed,1,,,0,v,MISS Howard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0022400163,473,PT02M25.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,348
+0022400163,474,PT02M19.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-196,183,27,Made,1,76,57,133,h,Joe 27' 3PT Jump Shot (5 PTS) (Caruso 2 AST),Made Shot,Jump Shot,1,3,349
+0022400163,476,PT02M02.00S,3,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,350
+0022400163,478,PT02M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,351
+0022400163,479,PT02M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,352
+0022400163,480,PT02M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,76,58,134,v,Black Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022400163,481,PT01M47.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-184,183,26,Made,1,79,58,137,h,Joe 26' 3PT Jump Shot (8 PTS) (Caruso 3 AST),Made Shot,Jump Shot,1,3,354
+0022400163,483,PT01M26.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,-230,-31,0,Missed,1,,,0,v,MISS Isaac 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022400163,484,PT01M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,356
+0022400163,485,PT01M15.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-228,-17,0,Made,1,82,58,140,h,Joe 3PT Jump Shot (11 PTS) (Caruso 4 AST),Made Shot,Jump Shot,1,3,357
+0022400163,487,PT01M02.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,136,231,27,Missed,1,,,0,v,MISS Suggs 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,358
+0022400163,488,PT00M59.90S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,359
+0022400163,489,PT00M51.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-31,27,4,Made,1,84,58,142,h,Wiggins 4' Layup (9 PTS) (Gilgeous-Alexander 9 AST),Made Shot,Layup Shot,1,2,360
+0022400163,491,PT00M35.50S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner OFF.Foul (P2) (D.Scott),Foul,Offensive,1,0,361
+0022400163,497,PT00M35.50S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,362
+0022400163,526,PT00M35.50S,3,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,363
+0022400163,494,PT00M35.50S,3,0,,491,,,0,0,0,,0,84,58,142,,Instant Replay3rd Period (10:51 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,364
+0022400163,495,PT00M26.80S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,33,22,4,Missed,1,,,0,h,MISS Gilgeous-Alexander 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,365
+0022400163,496,PT00M24.60S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,366
+0022400163,498,PT00M09.70S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner Traveling Turnover (P3.T15),Turnover,Traveling,1,0,367
+0022400163,499,PT00M05.10S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs P.FOUL (P2.T4) (A.Nagy),Foul,Personal,1,0,368
+0022400163,501,PT00M00.40S,3,1610612760,OKC,1630198,Joe,I. Joe,175,-25,18,Missed,1,,,0,h,MISS Joe 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,369
+0022400163,502,PT00M00.40S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,370
+0022400163,503,PT00M00.00S,3,0,,0,,,0,0,0,,0,84,58,142,,End of 3rd Period (10:56 PM EST),period,end,1,0,371
+0022400163,514,PT12M00.00S,4,0,,0,,,0,0,0,,0,84,58,142,,Start of 4th Period (10:58 PM EST),period,start,0,0,372
+0022400163,515,PT11M36.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,-211,147,26,Missed,1,,,0,h,MISS Caruso 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,373
+0022400163,516,PT11M36.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,0,0,374
+0022400163,517,PT11M36.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,375
+0022400163,518,PT11M25.00S,4,1610612760,OKC,1642349,Mitchell,A. Mitchell,0,0,0,,0,,,0,h,THUNDER T.Foul (Def. 3 Sec Mitchell ) (B.Kennedy),Foul,Defense 3 Second,1,0,376
+0022400163,519,PT11M25.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,84,59,143,v,Suggs Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,377
+0022400163,520,PT11M12.00S,4,1610612753,ORL,1641710,Black,A. Black,112,231,26,Missed,1,,,0,v,MISS Black 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,378
+0022400163,521,PT11M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,379
+0022400163,522,PT11M12.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins L.B.FOUL (P1.T1) (A.Nagy),Foul,Loose Ball,1,0,380
+0022400163,524,PT11M07.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,381
+0022400163,524,PT11M07.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,Wiggins STEAL (3 STL),,,1,0,382
+0022400163,527,PT10M59.00S,4,1610612760,OKC,1631114,Williams,J. Williams,-67,76,10,Missed,1,,,0,h,MISS Williams 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,383
+0022400163,528,PT10M55.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,384
+0022400163,530,PT10M49.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,Caruso P.FOUL (P4.T2) (D.Scott),Foul,Personal,1,0,385
+0022400163,532,PT10M43.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,15,1,2,Made,1,84,61,145,v,F. Wagner 2' Layup (18 PTS),Made Shot,Layup Shot,1,2,386
+0022400163,533,PT10M34.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,-9,18,2,Made,1,86,61,147,h,Wiggins 2' Layup (11 PTS) (Caruso 5 AST),Made Shot,Layup Shot,1,2,387
+0022400163,535,PT10M10.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-4,0,0,Made,1,86,63,149,v,Bitadze Dunk (8 PTS) (Suggs 3 AST),Made Shot,Dunk Shot,1,2,388
+0022400163,537,PT10M10.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,389
+0022400163,538,PT10M10.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,SUB: Dort FOR Joe,Substitution,,0,0,390
+0022400163,539,PT10M10.00S,4,1610612760,OKC,1642349,Mitchell,A. Mitchell,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Mitchell,Substitution,,0,0,391
+0022400163,540,PT10M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Black,Substitution,,0,0,392
+0022400163,544,PT09M53.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,64,11,6,Missed,1,,,0,h,MISS Wiggins 6' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,393
+0022400163,545,PT09M51.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+0022400163,547,PT09M44.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,219,130,25,Made,1,86,66,152,v,Caldwell-Pope 25' 3PT Jump Shot (6 PTS) (Suggs 4 AST),Made Shot,Jump Shot,1,3,395
+0022400163,549,PT09M22.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,-227,7,0,Missed,1,,,0,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022400163,550,PT09M19.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,397
+0022400163,551,PT09M15.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,10,6,1,Made,1,86,68,154,v,Suggs 1' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,398
+0022400163,552,PT08M58.00S,4,1610612760,OKC,1631114,Williams,J. Williams,12,257,26,Missed,1,,,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022400163,553,PT08M56.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,400
+0022400163,554,PT08M39.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,Gilgeous-Alexander S.FOUL (P4.T3) (D.Scott),Foul,Shooting,1,0,401
+0022400163,556,PT08M39.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,86,69,155,v,Suggs Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,1,0,402
+0022400163,557,PT08M39.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,86,70,156,v,Suggs Free Throw 2 of 3 (14 PTS),Free Throw,Free Throw 2 of 3,1,0,403
+0022400163,558,PT08M39.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,,,0,h,SUB: Wallace FOR Wiggins,Substitution,,0,0,404
+0022400163,560,PT08M39.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,86,71,157,v,Suggs Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,1,0,405
+0022400163,561,PT08M25.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-81,105,13,Made,1,88,71,159,h,Gilgeous-Alexander 13' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,406
+0022400163,562,PT08M02.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,407
+0022400163,562,PT08M02.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort STEAL (2 STL),,,1,0,408
+0022400163,564,PT07M59.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,409
+0022400163,564,PT07M59.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope STEAL (4 STL),,,1,0,410
+0022400163,566,PT07M50.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,1,0,411
+0022400163,568,PT07M50.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,88,72,160,v,Bitadze Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,412
+0022400163,569,PT07M50.00S,4,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,,,0,h,SUB: Joe FOR Caruso,Substitution,,0,0,413
+0022400163,571,PT07M50.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,MISS Bitadze Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,414
+0022400163,572,PT07M47.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,415
+0022400163,573,PT07M37.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,13,4,1,Made,1,90,72,162,h,Gilgeous-Alexander 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,416
+0022400163,574,PT07M24.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-23,6,2,Made,1,90,74,164,v,F. Wagner 2' Layup (20 PTS) (Bitadze 4 AST),Made Shot,Layup Shot,1,2,417
+0022400163,576,PT07M10.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,54,44,7,Missed,1,,,0,h,MISS Gilgeous-Alexander 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,418
+0022400163,577,PT07M08.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,419
+0022400163,578,PT06M56.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-42,10,4,Made,1,90,76,166,v,F. Wagner 4' Layup (22 PTS) (Suggs 5 AST),Made Shot,Layup Shot,1,2,420
+0022400163,580,PT06M43.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,21,15,3,Missed,1,,,0,h,MISS Gilgeous-Alexander 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,421
+0022400163,580,PT06M43.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,Caldwell-Pope BLOCK (1 BLK),,,1,2,422
+0022400163,582,PT06M43.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,0,0,423
+0022400163,584,PT06M36.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0,424
+0022400163,584,PT06M36.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,F. Wagner STEAL (2 STL),,,1,0,425
+0022400163,586,PT06M31.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,180,199,27,Missed,1,,,0,v,MISS F. Wagner 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,426
+0022400163,587,PT06M28.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,427
+0022400163,588,PT06M19.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs S.FOUL (P3.T1) (B.Kennedy),Foul,Shooting,1,0,428
+0022400163,590,PT06M19.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,MISS Joe Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,429
+0022400163,591,PT06M19.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,1,0,430
+0022400163,592,PT06M19.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,91,76,167,h,Joe Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,1,0,431
+0022400163,593,PT06M19.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,92,76,168,h,Joe Free Throw 3 of 3 (13 PTS),Free Throw,Free Throw 3 of 3,1,0,432
+0022400163,594,PT06M02.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-11,5,1,Made,1,92,78,170,v,Bitadze 1' Dunk (11 PTS) (Suggs 6 AST),Made Shot,Dunk Shot,1,2,433
+0022400163,596,PT06M02.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,434
+0022400163,617,PT05M33.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,0,435
+0022400163,599,PT05M07.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,124,243,27,Missed,1,,,0,v,MISS F. Wagner 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,436
+0022400163,600,PT05M07.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,,,0,h,Joe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,437
+0022400163,601,PT04M53.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-15,10,2,Made,1,94,78,172,h,Gilgeous-Alexander 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,438
+0022400163,602,PT04M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,439
+0022400163,683,PT04M51.00S,4,0,,617,,,0,0,0,,0,94,78,172,,Instant Replay4th Period (11:18 PM EST),Instant Replay,Replay Center,0,0,440
+0022400163,603,PT04M42.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,162,215,27,Missed,1,,,0,v,MISS Caldwell-Pope 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022400163,604,PT04M40.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Unknown,1,0,442
+0022400163,605,PT04M40.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,Bitadze L.B.FOUL (P2.T2) (A.Nagy),Foul,Loose Ball,1,0,443
+0022400163,608,PT04M21.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,Suggs P.FOUL (P4.T3) (B.Kennedy),Foul,Personal,1,0,444
+0022400163,610,PT04M12.00S,4,1610612760,OKC,1629652,Dort,L. Dort,235,11,24,Made,1,97,78,175,h,Dort 24' 3PT Jump Shot (6 PTS) (Joe 1 AST),Made Shot,Jump Shot,1,3,445
+0022400163,612,PT03M50.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,156,173,23,Made,1,97,80,177,v,Suggs 23' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,446
+0022400163,613,PT03M32.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,227,52,0,Missed,1,,,0,h,MISS Wallace 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,447
+0022400163,614,PT03M29.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,Dort REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,448
+0022400163,615,PT03M26.00S,4,1610612760,OKC,1631114,Williams,J. Williams,13,2,1,Made,1,99,80,179,h,Williams 1' Driving Finger Roll Layup (23 PTS) (Dort 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,449
+0022400163,618,PT03M13.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,Wallace P.FOUL (P3.PN) (A.Nagy),Foul,Personal,1,0,450
+0022400163,620,PT03M13.00S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,451
+0022400163,621,PT03M13.00S,4,0,,618,,,0,0,0,,0,99,80,179,,Instant Replay4th Period (11:22 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,452
+0022400163,622,PT03M13.00S,4,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,,,0,h,SUB: Jones FOR Gilgeous-Alexander,Substitution,,0,0,453
+0022400163,623,PT03M13.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,,,0,h,SUB: Dieng FOR Williams,Substitution,,0,0,454
+0022400163,624,PT03M13.00S,4,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,v,SUB: Houstan FOR Caldwell-Pope,Substitution,,0,0,455
+0022400163,625,PT03M13.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,,,0,v,SUB: Joseph FOR F. Wagner,Substitution,,0,0,456
+0022400163,626,PT03M13.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,,,0,v,SUB: Howard FOR da Silva,Substitution,,0,0,457
+0022400163,627,PT03M13.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,458
+0022400163,634,PT03M13.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,99,81,180,v,Suggs Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0022400163,635,PT03M13.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,99,82,181,v,Suggs Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022400163,636,PT03M10.00S,4,1610612753,ORL,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph Personal Take Foul (P1.T4) (D.Scott),Foul,Personal Take,1,0,461
+0022400163,638,PT03M10.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,,,0,v,SUB: Anthony FOR Suggs,Substitution,,0,0,462
+0022400163,640,PT02M58.00S,4,1610612760,OKC,1641794,Jones,D. Jones,228,-15,0,Missed,1,,,0,h,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463
+0022400163,641,PT02M55.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,464
+0022400163,643,PT02M42.00S,4,1610612760,OKC,1629652,Dort,L. Dort,0,0,0,,0,,,0,h,SUB: Leons FOR Dort,Substitution,,0,0,465
+0022400163,644,PT02M42.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,,,0,h,SUB: Mitchell FOR Wallace,Substitution,,0,0,466
+0022400163,647,PT02M32.00S,4,1610612753,ORL,202709,Joseph,C. Joseph,-181,178,25,Missed,1,,,0,v,MISS Joseph 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022400163,648,PT02M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,468
+0022400163,649,PT02M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,1,0,469
+0022400163,650,PT02M21.00S,4,1610612760,OKC,1641794,Jones,D. Jones,-21,26,3,Missed,1,,,0,h,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,470
+0022400163,650,PT02M21.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner BLOCK (1 BLK),,,1,2,471
+0022400163,652,PT02M18.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,472
+0022400163,653,PT02M12.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-34,-2,3,Missed,1,,,0,v,MISS Anthony 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,473
+0022400163,654,PT02M10.00S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,474
+0022400163,655,PT02M03.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-228,27,0,Missed,1,,,0,h,MISS Joe 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,475
+0022400163,656,PT02M01.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,476
+0022400163,657,PT01M42.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,M. Wagner Lost Ball Turnover (P4.T19),Turnover,Lost Ball,1,0,477
+0022400163,657,PT01M42.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (2 STL),,,1,0,478
+0022400163,659,PT01M37.00S,4,1610612760,OKC,1642502,Leons,M. Leons,0,0,0,,0,,,0,h,Leons Lost Ball Turnover (P1.T17),Turnover,Lost Ball,1,0,479
+0022400163,659,PT01M37.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony STEAL (1 STL),,,1,0,480
+0022400163,661,PT01M33.00S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P2.PN) (D.Scott),Foul,Shooting,1,0,481
+0022400163,663,PT01M33.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,,,0,v,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,482
+0022400163,664,PT01M33.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,483
+0022400163,665,PT01M33.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,99,83,182,v,M. Wagner Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,484
+0022400163,666,PT01M16.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-31,36,5,Missed,1,,,0,h,MISS Dieng 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,485
+0022400163,667,PT01M13.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,,,0,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,486
+0022400163,668,PT01M07.00S,4,1610612753,ORL,202709,Joseph,C. Joseph,-158,200,25,Made,1,99,86,185,v,Joseph 25' 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,487
+0022400163,670,PT00M50.00S,4,1610612760,OKC,1642349,Mitchell,A. Mitchell,-16,10,2,Made,1,101,86,187,h,Mitchell 2' Driving Layup (4 PTS) (Dieng 2 AST),Made Shot,Driving Layup Shot,1,2,488
+0022400163,672,PT00M43.50S,4,1610612753,ORL,1641724,Howard,J. Howard,-230,-17,0,Missed,1,,,0,v,MISS Howard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022400163,673,PT00M39.90S,4,1610612760,OKC,1642502,Leons,M. Leons,0,0,0,,0,,,0,h,Leons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,490
+0022400163,674,PT00M36.50S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,,,0,v,Houstan P.FOUL (P1.PN) (A.Nagy),Foul,Personal,1,0,491
+0022400163,676,PT00M36.50S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,492
+0022400163,677,PT00M36.50S,4,0,,1610612760,,,0,0,0,,0,,,0,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,493
+0022400163,678,PT00M36.50S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,102,86,188,h,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,494
+0022400163,679,PT00M23.50S,4,1610612753,ORL,1630175,Anthony,C. Anthony,82,251,26,Missed,1,,,0,v,MISS Anthony 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,495
+0022400163,680,PT00M19.90S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,496
+0022400163,681,PT00M00.00S,4,0,,0,,,0,0,0,,0,102,86,188,,End of 4th Period (11:31 PM EST),period,end,1,0,497

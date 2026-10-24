@@ -1,0 +1,503 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022301158,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+0022301158,4,PT12M00.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Jump Ball Allen vs. Jemison: Tip to Garland,Jump Ball,,1,0,2
+0022301158,7,PT11M46.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-20,19,3,Missed,1,,,0,h,MISS Strus 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,3
+0022301158,8,PT11M44.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0022301158,9,PT11M44.00S,1,1610612739,CLE,1628386,Allen,J. Allen,2,9,1,Missed,1,,,0,h,MISS Allen 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,5
+0022301158,9,PT11M44.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (1 BLK),,,1,2,6
+0022301158,11,PT11M42.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,7
+0022301158,12,PT11M39.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-9,40,4,Missed,1,,,0,h,MISS Allen 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,8
+0022301158,12,PT11M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,9
+0022301158,14,PT11M38.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301158,15,PT11M23.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-191,196,27,Missed,1,,,0,v,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022301158,16,PT11M20.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+0022301158,17,PT11M15.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,21,130,13,Missed,1,,,0,v,MISS Stevens 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,13
+0022301158,18,PT11M12.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022301158,19,PT11M04.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,115,150,19,Made,1,2,0,2,h,Mitchell 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,15
+0022301158,20,PT10M40.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,4,-3,1,Made,1,2,2,4,v,Stevens 1' Driving Layup (2 PTS) (LaRavia 1 AST),Made Shot,Driving Layup Shot,1,2,16
+0022301158,22,PT10M26.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-132,210,25,Made,1,5,2,7,h,Mitchell 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,17
+0022301158,24,PT10M00.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,18
+0022301158,25,PT09M49.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-5,243,24,Missed,1,,,0,h,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0022301158,26,PT09M47.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+0022301158,27,PT09M38.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,278,28,Made,1,5,5,10,v,LaRavia 28' 3PT Pullup Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Pullup Jump shot,1,3,21
+0022301158,29,PT09M27.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-140,239,28,Made,1,8,5,13,h,Mitchell 28' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,22
+0022301158,30,PT09M10.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,23
+0022301158,32,PT09M10.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,8,6,14,v,Stevens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+0022301158,33,PT09M10.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,8,7,15,v,Stevens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+0022301158,34,PT08M54.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-235,11,24,Made,1,11,7,18,h,E. Mobley 24' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,1,3,26
+0022301158,36,PT08M34.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,56,146,16,Missed,1,,,0,v,MISS LaRavia 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,27
+0022301158,37,PT08M32.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+0022301158,39,PT08M16.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-7,67,7,Made,1,13,7,20,h,Garland 7' Driving Floating Jump Shot (2 PTS) (Mitchell 1 AST),Made Shot,Driving Floating Jump Shot,1,2,29
+0022301158,41,PT07M51.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,-199,36,20,Made,1,13,9,22,v,Stevens 20' Jump Shot (6 PTS),Made Shot,Jump Shot,1,2,30
+0022301158,42,PT07M37.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,11,1,Made,1,15,9,24,h,Allen 1' Cutting Dunk Shot (2 PTS) (Mitchell 2 AST),Made Shot,Cutting Dunk Shot,1,2,31
+0022301158,44,PT07M17.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-11,258,26,Made,1,15,12,27,v,Jackson 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,32
+0022301158,45,PT07M05.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,230,9,0,Made,1,18,12,30,h,E. Mobley 3PT Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,33
+0022301158,47,PT07M03.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,34
+0022301158,48,PT06M38.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,170,199,26,Made,1,18,15,33,v,LaRavia 26' 3PT Jump Shot (6 PTS) (Pippen Jr. 1 AST),Made Shot,Jump Shot,1,3,35
+0022301158,50,PT06M14.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-207,159,26,Missed,1,,,0,h,MISS E. Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022301158,51,PT06M12.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,37
+0022301158,52,PT06M03.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-213,185,28,Made,1,18,18,36,v,LaRavia 28' 3PT Jump Shot (9 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,1,3,38
+0022301158,54,PT05M51.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-13,8,2,Missed,1,,,0,h,MISS Mitchell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+0022301158,55,PT05M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,40
+0022301158,56,PT05M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,125,226,26,Made,1,18,21,39,v,LaRavia 26' 3PT Running Jump Shot (12 PTS) (Pippen Jr. 3 AST),Made Shot,Running Jump Shot,1,3,41
+0022301158,58,PT05M25.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen OFF.Foul (P1) (B.Barnaky),Foul,Offensive,1,0,42
+0022301158,60,PT05M25.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,43
+0022301158,61,PT05M25.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Niang FOR E. Mobley,Substitution,,0,0,44
+0022301158,62,PT05M25.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: LeVert FOR Garland,Substitution,,0,0,45
+0022301158,65,PT05M11.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,46
+0022301158,67,PT04M56.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,5,15,2,Made,1,18,23,41,v,Jackson 2' Cutting Dunk Shot (5 PTS) (Jemison 1 AST),Made Shot,Cutting Dunk Shot,1,2,47
+0022301158,69,PT04M41.00S,1,1610612739,CLE,1627777,Niang,G. Niang,97,93,13,Missed,1,,,0,h,MISS Niang 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,48
+0022301158,70,PT04M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,49
+0022301158,71,PT04M37.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,-1,1,Made,1,18,25,43,v,LaRavia 1' Running Dunk (14 PTS) (Pippen Jr. 4 AST),Made Shot,Running Dunk Shot,1,2,50
+0022301158,73,PT04M37.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022301158,74,PT04M37.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,SUB: Okoro FOR Strus,Substitution,,0,0,52
+0022301158,75,PT04M37.00S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Allen FOR Stevens,Substitution,,0,0,53
+0022301158,79,PT04M17.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,54
+0022301158,81,PT04M17.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,19,25,44,h,Mitchell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,55
+0022301158,82,PT04M17.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,20,25,45,h,Mitchell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,56
+0022301158,83,PT03M59.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,22,2,2,Missed,1,,,0,v,MISS Jemison 2' Layup,Missed Shot,Layup Shot,1,2,57
+0022301158,84,PT03M57.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+0022301158,85,PT03M50.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-114,229,26,Missed,1,,,0,h,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022301158,86,PT03M46.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,60
+0022301158,87,PT03M37.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-93,125,16,Made,1,20,27,47,v,Pippen Jr. 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,61
+0022301158,88,PT03M22.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-77,74,11,Missed,1,,,0,h,MISS LeVert 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,62
+0022301158,89,PT03M19.00S,1,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022301158,90,PT03M09.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,64
+0022301158,92,PT03M09.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,20,28,48,v,Jackson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,65
+0022301158,93,PT03M09.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Garland FOR Allen,Substitution,,0,0,66
+0022301158,94,PT03M09.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: E. Mobley FOR Mitchell,Substitution,,0,0,67
+0022301158,95,PT03M09.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Simpson FOR Pippen Jr.,Substitution,,0,0,68
+0022301158,99,PT03M09.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,20,29,49,v,Jackson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,69
+0022301158,100,PT02M55.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,227,26,0,Missed,1,,,0,h,MISS Okoro 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022301158,101,PT02M52.00S,1,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301158,102,PT02M44.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-186,191,27,Missed,1,,,0,v,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022301158,103,PT02M41.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022301158,104,PT02M30.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,232,6,0,Made,1,23,29,52,h,Okoro 3PT Jump Shot (3 PTS) (E. Mobley 1 AST),Made Shot,Jump Shot,1,3,74
+0022301158,106,PT02M18.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-118,33,12,Missed,1,,,0,v,MISS Jackson 12' Driving Layup,Missed Shot,Driving Layup Shot,0,2,75
+0022301158,106,PT02M18.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley BLOCK (1 BLK),,,0,2,76
+0022301158,108,PT02M18.00S,1,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,77
+0022301158,109,PT02M18.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Jump Ball E. Mobley vs. Jackson: Tip to LeVert,Jump Ball,,1,0,78
+0022301158,114,PT02M06.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,65,84,11,Made,1,25,29,54,h,E. Mobley 11' Turnaround Hook Shot (8 PTS) (LeVert 1 AST),Made Shot,Turnaround Hook Shot,1,2,79
+0022301158,116,PT01M44.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-58,131,14,Missed,1,,,0,v,MISS Jackson 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,80
+0022301158,117,PT01M41.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+0022301158,118,PT01M37.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-2,0,0,Made,1,27,29,56,h,Garland Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,82
+0022301158,119,PT01M21.00S,1,1610612763,MEM,1641851,Allen,T. Allen,55,113,13,Missed,1,,,0,v,MISS Allen 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,83
+0022301158,120,PT01M17.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022301158,121,PT01M10.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,7,34,3,Missed,1,,,0,h,MISS E. Mobley 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,85
+0022301158,121,PT01M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (2 BLK),,,1,2,86
+0022301158,123,PT01M06.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,87
+0022301158,124,PT01M04.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-47,245,25,Missed,1,,,0,h,MISS E. Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022301158,125,PT01M02.00S,1,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,89
+0022301158,126,PT00M53.40S,1,1610612763,MEM,1641713,Jackson,G. Jackson,-107,137,17,Missed,1,,,0,v,MISS Jackson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,90
+0022301158,127,PT00M51.10S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,91
+0022301158,128,PT00M44.90S,1,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,92
+0022301158,130,PT00M44.90S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,28,29,57,h,LeVert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,93
+0022301158,131,PT00M44.90S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,SUB: White FOR Jackson,Substitution,,0,0,94
+0022301158,132,PT00M44.90S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Stevens FOR Jemison,Substitution,,0,0,95
+0022301158,135,PT00M44.90S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,29,29,58,h,LeVert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,96
+0022301158,136,PT00M24.70S,1,1610612763,MEM,1630205,Stevens,L. Stevens,-50,127,14,Missed,1,,,0,v,MISS Stevens 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,97
+0022301158,136,PT00M24.70S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley BLOCK (2 BLK),,,1,2,98
+0022301158,138,PT00M21.80S,1,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,99
+0022301158,139,PT00M20.90S,1,1610612763,MEM,1630205,Stevens,L. Stevens,-210,165,27,Missed,1,,,0,v,MISS Stevens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022301158,140,PT00M20.90S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,101
+0022301158,141,PT00M20.90S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,102
+0022301158,142,PT00M20.90S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: Mitchell FOR Okoro,Substitution,,0,0,103
+0022301158,144,PT00M20.90S,1,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,,"Double Technical - Stevens, Niang (K.Scott)",Foul,Double Technical,1,0,104
+0022301158,145,PT00M03.20S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-17,29,3,Made,1,31,29,60,h,Mitchell 3' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,105
+0022301158,146,PT00M03.20S,1,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,106
+0022301158,148,PT00M03.20S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: Okoro FOR Garland,Substitution,,0,0,107
+0022301158,150,PT00M03.20S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,32,29,61,h,Mitchell Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,108
+0022301158,151,PT00M00.00S,1,1610612763,MEM,1630285,Simpson,Z. Simpson,104,298,32,Missed,1,,,0,v,MISS Simpson 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,109
+0022301158,151,PT00M00.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley BLOCK (3 BLK),,,1,3,110
+0022301158,153,PT00M00.00S,1,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,111
+0022301158,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,29,61,,End of 1st Period (7:37 PM EST),period,end,1,0,112
+0022301158,160,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,29,61,,Start of 2nd Period (7:40 PM EST),period,start,0,0,113
+0022301158,161,PT11M39.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,114
+0022301158,161,PT11M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley STEAL (1 STL),,,1,0,115
+0022301158,163,PT11M35.00S,2,1610612739,CLE,1629636,Garland,D. Garland,211,152,26,Missed,1,,,0,h,MISS Garland 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,116
+0022301158,164,PT11M32.00S,2,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022301158,165,PT11M23.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-214,160,27,Made,1,32,32,64,v,Pippen Jr. 27' 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,118
+0022301158,167,PT11M03.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,-238,-1,24,Missed,1,,,0,h,MISS Okoro 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022301158,168,PT11M01.00S,2,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,120
+0022301158,169,PT10M54.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland P.FOUL (P2.T1) (N.Green),Foul,Personal,1,0,121
+0022301158,171,PT10M39.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-17,97,10,Missed,1,,,0,v,MISS Pippen Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022301158,172,PT10M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,123
+0022301158,173,PT10M31.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang OFF.Foul (P2) (N.Green),Foul,Offensive,1,0,124
+0022301158,175,PT10M31.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,125
+0022301158,236,PT10M07.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,49,46,7,Missed,1,,,0,v,MISS Simpson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+0022301158,236,PT10M07.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland BLOCK (1 BLK),,,1,2,127
+0022301158,238,PT10M07.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,128
+0022301158,178,PT09M45.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,17,30,3,Missed,1,,,0,h,MISS E. Mobley 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,129
+0022301158,178,PT09M45.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (2 BLK),,,1,2,130
+0022301158,180,PT09M40.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,131
+0022301158,183,PT09M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,11,36,4,Missed,1,,,0,h,MISS E. Mobley 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,132
+0022301158,184,PT09M37.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022301158,185,PT09M34.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,6,1,1,Missed,1,,,0,v,MISS Pippen Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,134
+0022301158,185,PT09M34.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,Niang BLOCK (1 BLK),,,1,2,135
+0022301158,187,PT09M34.00S,2,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,0,0,136
+0022301158,189,PT09M34.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Allen FOR E. Mobley,Substitution,,0,0,137
+0022301158,190,PT09M34.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: Strus FOR Niang,Substitution,,0,0,138
+0022301158,193,PT09M30.00S,2,1610612763,MEM,1631298,White,J. White,7,-5,1,Missed,1,,,0,v,MISS White 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,139
+0022301158,194,PT09M28.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301158,195,PT09M20.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,48,98,11,Missed,1,,,0,h,MISS LeVert 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,141
+0022301158,196,PT09M18.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+0022301158,197,PT09M11.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,11,6,1,Missed,1,,,0,v,MISS Stevens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+0022301158,198,PT09M09.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+0022301158,199,PT09M00.00S,2,1610612739,CLE,1629622,Strus,M. Strus,-4,13,1,Made,1,34,32,66,h,Strus 1' Driving Finger Roll Layup (2 PTS) (Garland 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,145
+0022301158,200,PT09M00.00S,2,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,146
+0022301158,202,PT09M00.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,MISS Strus Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,147
+0022301158,203,PT08M57.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022301158,204,PT08M43.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,54,25,6,Missed,1,,,0,v,MISS Pippen Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,149
+0022301158,205,PT08M41.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,150
+0022301158,206,PT08M37.00S,2,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P2.T2) (K.Scott),Foul,Shooting,1,0,151
+0022301158,208,PT08M37.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,152
+0022301158,209,PT08M37.00S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,1,0,153
+0022301158,210,PT08M37.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: Mitchell FOR Garland,Substitution,,0,0,154
+0022301158,212,PT08M37.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,35,32,67,h,Okoro Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+0022301158,213,PT08M10.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,-121,190,23,Missed,1,,,0,v,MISS Stevens 23' Jump Shot,Missed Shot,Jump Shot,1,2,156
+0022301158,214,PT08M08.00S,2,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,157
+0022301158,215,PT08M07.00S,2,1610612763,MEM,1631298,White,J. White,12,15,2,Missed,1,,,0,v,MISS White 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,158
+0022301158,216,PT08M07.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,159
+0022301158,217,PT07M47.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-50,245,25,Missed,1,,,0,h,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,160
+0022301158,218,PT07M44.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0022301158,219,PT07M28.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,-233,17,0,Missed,1,,,0,v,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022301158,220,PT07M26.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022301158,221,PT07M15.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,164
+0022301158,221,PT07M15.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens STEAL (1 STL),,,1,0,165
+0022301158,223,PT07M09.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,6,2,1,Made,1,35,34,69,v,Pippen Jr. 1' Running Layup (7 PTS) (Stevens 1 AST),Made Shot,Running Layup Shot,1,2,166
+0022301158,224,PT06M58.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,232,31,0,Missed,1,,,0,h,MISS Okoro 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0022301158,225,PT06M54.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,168
+0022301158,226,PT06M51.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-191,183,26,Made,1,35,37,72,v,Pippen Jr. 26' 3PT Running Jump Shot (10 PTS) (Allen 1 AST),Made Shot,Running Jump Shot,1,3,169
+0022301158,228,PT06M30.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,80,83,12,Missed,1,,,0,h,MISS LeVert 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,170
+0022301158,229,PT06M29.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,171
+0022301158,230,PT06M27.00S,2,1610612739,CLE,1628386,Allen,J. Allen,7,30,3,Missed,1,,,0,h,MISS Allen 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,172
+0022301158,230,PT06M27.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (3 BLK),,,1,2,173
+0022301158,232,PT06M27.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,174
+0022301158,233,PT06M27.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P1.T3) (N.Green),Foul,Personal,1,0,175
+0022301158,235,PT06M27.00S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,176
+0022301158,239,PT06M27.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,SUB: LaRavia FOR Simpson,Substitution,,0,0,177
+0022301158,240,PT06M27.00S,2,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,SUB: Jackson FOR White,Substitution,,0,0,178
+0022301158,241,PT06M27.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Jemison FOR Stevens,Substitution,,0,0,179
+0022301158,246,PT06M15.00S,2,1610612739,CLE,1629622,Strus,M. Strus,141,300,33,Missed,1,,,0,h,MISS Strus 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022301158,247,PT06M12.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,181
+0022301158,248,PT05M58.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-140,28,14,Missed,1,,,0,v,MISS LaRavia 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,182
+0022301158,249,PT05M55.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,183
+0022301158,250,PT05M51.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,184
+0022301158,252,PT05M51.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,35,38,73,v,Jackson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+0022301158,255,PT05M51.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,35,39,74,v,Jackson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+0022301158,253,PT05M51.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Garland FOR LeVert,Substitution,,0,0,187
+0022301158,256,PT05M38.00S,2,1610612739,CLE,1628386,Allen,J. Allen,17,53,6,Missed,1,,,0,h,MISS Allen 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,188
+0022301158,256,PT05M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (3 BLK),,,1,2,189
+0022301158,257,PT05M35.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+0022301158,258,PT05M25.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,68,8,Missed,1,,,0,v,MISS LaRavia 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,191
+0022301158,259,PT05M23.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,192
+0022301158,260,PT05M13.00S,2,1610612739,CLE,1629622,Strus,M. Strus,-18,255,26,Made,1,38,39,77,h,Strus 26' 3PT Jump Shot (5 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,3,193
+0022301158,263,PT04M56.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-26,99,10,Missed,1,,,0,v,MISS Jemison 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,194
+0022301158,264,PT04M55.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,195
+0022301158,265,PT04M52.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-28,85,9,Missed,1,,,0,v,MISS Pippen Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,196
+0022301158,266,PT04M50.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,197
+0022301158,267,PT04M38.00S,2,1610612739,CLE,1628386,Allen,J. Allen,1,27,3,Missed,1,,,0,h,MISS Allen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,198
+0022301158,267,PT04M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (4 BLK),,,1,2,199
+0022301158,269,PT04M37.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,200
+0022301158,271,PT04M35.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: E. Mobley FOR Okoro,Substitution,,0,0,201
+0022301158,273,PT04M22.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,219,144,26,Missed,1,,,0,v,MISS Jackson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+0022301158,274,PT04M20.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,203
+0022301158,275,PT04M15.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-51,32,6,Missed,1,,,0,h,MISS Garland 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,204
+0022301158,275,PT04M15.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson BLOCK (1 BLK),,,1,2,205
+0022301158,277,PT04M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,206
+0022301158,278,PT04M03.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,18,76,8,Made,1,38,41,79,v,Pippen Jr. 8' Jump Shot (12 PTS) (Jemison 2 AST),Made Shot,Jump Shot,1,2,207
+0022301158,280,PT03M52.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-189,174,26,Made,1,41,41,82,h,Mitchell 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,208
+0022301158,281,PT03M40.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,209
+0022301158,283,PT03M40.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,210
+0022301158,284,PT03M40.00S,2,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,211
+0022301158,285,PT03M40.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,41,42,83,v,LaRavia Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0022301158,286,PT03M31.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-58,69,9,Made,1,43,42,85,h,Garland 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,213
+0022301158,287,PT03M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia OFF.Foul (P1) (K.Scott),Foul,Offensive,1,0,214
+0022301158,289,PT03M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,215
+0022301158,290,PT03M11.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell Traveling Turnover (P2.T4),Turnover,Traveling,1,0,216
+0022301158,291,PT02M52.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,6,309,31,Missed,1,,,0,v,MISS Jackson 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0022301158,292,PT02M47.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,218
+0022301158,293,PT02M45.00S,2,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P3.T4) (K.Scott),Foul,Shooting,1,0,219
+0022301158,295,PT02M45.00S,2,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,220
+0022301158,296,PT02M45.00S,2,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,SUB: Simpson FOR Allen,Substitution,,0,0,221
+0022301158,297,PT02M45.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Stevens FOR Pippen Jr.,Substitution,,0,0,222
+0022301158,300,PT02M45.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,44,42,86,h,Garland Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+0022301158,302,PT02M45.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,45,42,87,h,Garland Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+0022301158,303,PT02M26.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,127,189,23,Missed,1,,,0,v,MISS LaRavia 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,225
+0022301158,304,PT02M22.00S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,226
+0022301158,305,PT02M16.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,-142,228,27,Made,1,45,45,90,v,Jackson 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,227
+0022301158,306,PT01M57.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-173,191,26,Missed,1,,,0,h,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022301158,307,PT01M56.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,229
+0022301158,308,PT01M48.00S,2,1610612739,CLE,1629636,Garland,D. Garland,224,5,0,Missed,1,,,0,h,MISS Garland 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022301158,309,PT01M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,231
+0022301158,310,PT01M42.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,232
+0022301158,310,PT01M42.00S,2,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson STEAL (1 STL),,,1,0,233
+0022301158,312,PT01M34.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,7,0,1,Missed,1,,,0,v,MISS Jackson 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,234
+0022301158,313,PT01M32.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,235
+0022301158,314,PT01M27.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,236
+0022301158,314,PT01M27.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,237
+0022301158,316,PT01M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-211,184,28,Made,1,45,48,93,v,LaRavia 28' 3PT Running Jump Shot (18 PTS) (Simpson 1 AST),Made Shot,Running Jump Shot,1,3,238
+0022301158,319,PT00M56.40S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: LeVert FOR Garland,Substitution,,0,0,239
+0022301158,318,PT00M55.40S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,240
+0022301158,321,PT00M32.50S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-74,31,8,Missed,1,,,0,v,MISS LaRavia 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,241
+0022301158,322,PT00M30.10S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,242
+0022301158,323,PT00M27.40S,2,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,243
+0022301158,325,PT00M27.40S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,244
+0022301158,326,PT00M27.40S,2,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,245
+0022301158,327,PT00M27.40S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,46,48,94,h,Mitchell Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+0022301158,328,PT00M07.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-208,199,29,Made,1,46,51,97,v,LaRavia 29' 3PT Step Back Jump Shot (21 PTS) (Simpson 2 AST),Made Shot,Step Back Jump shot,1,3,247
+0022301158,330,PT00M00.70S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-7,26,3,Missed,1,,,0,h,MISS Mitchell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,248
+0022301158,331,PT00M00.70S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,249
+0022301158,332,PT00M00.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,Made,1,48,51,99,h,Mitchell Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,250
+0022301158,335,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,51,99,,End of 2nd Period (8:06 PM EST),period,end,1,0,251
+0022301158,342,PT12M00.00S,3,0,,0,,,0,0,0,,0,48,51,99,,Start of 3rd Period (8:22 PM EST),period,start,0,0,252
+0022301158,343,PT11M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,253
+0022301158,343,PT11M36.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (1 STL),,,1,0,254
+0022301158,345,PT11M34.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,255
+0022301158,347,PT11M34.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,49,51,100,h,E. Mobley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+0022301158,348,PT11M34.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,50,51,101,h,E. Mobley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+0022301158,349,PT11M18.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,258
+0022301158,349,PT11M18.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus STEAL (1 STL),,,1,0,259
+0022301158,351,PT11M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-185,196,27,Missed,1,,,0,h,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+0022301158,352,PT11M07.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,261
+0022301158,353,PT11M04.00S,3,1610612739,CLE,1629636,Garland,D. Garland,195,167,26,Missed,1,,,0,h,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022301158,354,PT11M01.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,263
+0022301158,355,PT10M54.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,13,1,Missed,1,,,0,v,MISS Jemison 1' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,264
+0022301158,356,PT10M51.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,265
+0022301158,357,PT10M48.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,1,0,Made,1,50,53,103,v,Jackson Cutting Dunk Shot (14 PTS) (Pippen Jr. 5 AST),Made Shot,Cutting Dunk Shot,1,2,266
+0022301158,359,PT10M32.00S,3,1610612739,CLE,1629636,Garland,D. Garland,175,176,25,Missed,1,,,0,h,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0022301158,360,PT10M29.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+0022301158,361,PT10M24.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,277,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022301158,362,PT10M20.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,270
+0022301158,363,PT10M00.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-184,209,28,Missed,1,,,0,h,MISS Mitchell 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022301158,364,PT09M57.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,272
+0022301158,365,PT09M43.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,-47,287,29,Missed,1,,,0,v,MISS Jackson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+0022301158,366,PT09M40.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,274
+0022301158,367,PT09M33.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,275
+0022301158,367,PT09M33.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison STEAL (1 STL),,,1,0,276
+0022301158,369,PT09M12.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,-7,279,28,Made,1,50,56,106,v,Stevens 28' 3PT Jump Shot (9 PTS) (Pippen Jr. 6 AST),Made Shot,Jump Shot,1,3,277
+0022301158,371,PT09M00.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. P.FOUL (P1.T2) (K.Scott),Foul,Personal,1,0,278
+0022301158,373,PT08M53.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-2,-5,1,Made,1,52,56,108,h,Allen 1' Alley Oop Dunk (4 PTS) (Strus 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,279
+0022301158,375,PT08M32.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. Backcourt Turnover (P1.T7),Turnover,Backcourt Turnover,1,0,280
+0022301158,376,PT08M16.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,83,239,25,Made,1,55,56,111,h,Mitchell 25' 3PT Step Back Jump Shot (22 PTS) (Garland 3 AST),Made Shot,Step Back Jump shot,1,3,281
+0022301158,378,PT07M57.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,-7,24,3,Missed,1,,,0,v,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,282
+0022301158,378,PT07M57.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen BLOCK (1 BLK),,,1,2,283
+0022301158,380,PT07M52.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,284
+0022301158,381,PT07M51.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,174,192,26,Missed,1,,,0,v,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+0022301158,382,PT07M49.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,286
+0022301158,383,PT07M37.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,-2,30,3,Missed,1,,,0,v,MISS Jackson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,287
+0022301158,383,PT07M37.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen BLOCK (2 BLK),,,1,2,288
+0022301158,385,PT07M34.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,289
+0022301158,386,PT07M28.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,290
+0022301158,386,PT07M28.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. STEAL (1 STL),,,1,0,291
+0022301158,388,PT07M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,292
+0022301158,390,PT07M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,55,57,112,v,LaRavia Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+0022301158,391,PT07M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,55,58,113,v,LaRavia Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,294
+0022301158,392,PT07M03.00S,3,1610612739,CLE,1629636,Garland,D. Garland,120,221,25,Missed,1,,,0,h,MISS Garland 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,295
+0022301158,393,PT07M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,296
+0022301158,394,PT06M57.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,297
+0022301158,394,PT06M57.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (2 STL),,,1,0,298
+0022301158,396,PT06M50.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,299
+0022301158,396,PT06M50.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (2 STL),,,1,0,300
+0022301158,398,PT06M44.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-17,31,4,Missed,1,,,0,v,MISS Pippen Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,301
+0022301158,398,PT06M44.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell BLOCK (1 BLK),,,1,2,302
+0022301158,400,PT06M40.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,303
+0022301158,401,PT06M38.00S,3,1610612739,CLE,1628386,Allen,J. Allen,4,4,1,Made,1,57,58,115,h,Allen 1' Running Dunk (6 PTS) (Garland 4 AST),Made Shot,Running Dunk Shot,1,2,304
+0022301158,404,PT06M36.00S,3,1610612739,CLE,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. T.FOUL (P0.T1) (N.Green),Foul,Technical,1,0,305
+0022301158,405,PT06M36.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,306
+0022301158,406,PT06M36.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: LeVert FOR Garland,Substitution,,0,0,307
+0022301158,408,PT06M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,57,59,116,v,LaRavia Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,1,0,308
+0022301158,409,PT06M18.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,37,51,6,Missed,1,,,0,v,MISS Jackson 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,309
+0022301158,410,PT06M16.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,310
+0022301158,411,PT06M10.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,311
+0022301158,411,PT06M10.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (1 STL),,,1,0,312
+0022301158,413,PT06M03.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,199,257,33,Missed,1,,,0,v,MISS Jackson 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+0022301158,414,PT06M00.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,314
+0022301158,415,PT05M51.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-163,211,27,Missed,1,,,0,h,MISS LeVert 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022301158,416,PT05M48.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,316
+0022301158,417,PT05M42.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-81,44,9,Made,1,59,59,118,h,Allen 9' Turnaround Hook Shot (8 PTS) (Mitchell 4 AST),Made Shot,Turnaround Hook Shot,1,2,317
+0022301158,419,PT05M22.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,318
+0022301158,419,PT05M22.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (3 STL),,,1,0,319
+0022301158,421,PT05M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Violation:Kicked Ball (N.Green),Violation,Kicked Ball,0,0,320
+0022301158,422,PT05M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Niang FOR E. Mobley,Substitution,,0,0,321
+0022301158,423,PT05M20.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Allen FOR Stevens,Substitution,,0,0,322
+0022301158,426,PT05M09.00S,3,1610612739,CLE,1628386,Allen,J. Allen,7,96,10,Made,1,61,59,120,h,Allen 10' Driving Floating Jump Shot (10 PTS) (LeVert 2 AST),Made Shot,Driving Floating Jump Shot,1,2,323
+0022301158,428,PT05M09.00S,3,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P4.T3) (K.Scott),Foul,Shooting,1,0,324
+0022301158,430,PT05M09.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,62,59,121,h,Allen Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,325
+0022301158,431,PT04M48.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,326
+0022301158,431,PT04M48.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert STEAL (1 STL),,,1,0,327
+0022301158,433,PT04M39.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-228,132,26,Made,1,65,59,124,h,Mitchell 26' 3PT Jump Shot (25 PTS) (Allen 2 AST),Made Shot,Jump Shot,1,3,328
+0022301158,435,PT04M39.00S,3,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,329
+0022301158,436,PT04M39.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,SUB: Okoro FOR Strus,Substitution,,0,0,330
+0022301158,437,PT04M39.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Simpson FOR LaRavia,Substitution,,0,0,331
+0022301158,438,PT04M39.00S,3,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,SUB: White FOR Allen,Substitution,,0,0,332
+0022301158,442,PT04M23.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-6,25,3,Made,1,65,61,126,v,Jemison 3' Driving Layup (2 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,1,2,333
+0022301158,444,PT04M01.00S,3,1610612739,CLE,1628386,Allen,J. Allen,7,13,1,Made,1,67,61,128,h,Allen 1' Layup (13 PTS) (Mitchell 5 AST),Made Shot,Layup Shot,1,2,334
+0022301158,446,PT04M01.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson S.FOUL (P2.T4) (K.Scott),Foul,Shooting,1,0,335
+0022301158,448,PT04M01.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,68,61,129,h,Allen Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,336
+0022301158,449,PT03M40.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,-248,-12,25,Missed,1,,,0,v,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+0022301158,450,PT03M37.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,338
+0022301158,451,PT03M33.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison P.FOUL (P2.PN) (N.Green),Foul,Personal,1,0,339
+0022301158,453,PT03M33.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,69,61,130,h,Mitchell Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,340
+0022301158,454,PT03M33.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,70,61,131,h,Mitchell Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0022301158,455,PT03M12.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,21,99,10,Missed,1,,,0,v,MISS Pippen Jr. 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,342
+0022301158,456,PT03M09.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,343
+0022301158,457,PT03M01.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-241,-6,24,Missed,1,,,0,h,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022301158,458,PT02M57.00S,3,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,345
+0022301158,459,PT02M38.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-5,19,2,Made,1,70,63,133,v,Pippen Jr. 2' Driving Layup (14 PTS) (Jemison 3 AST),Made Shot,Driving Layup Shot,1,2,346
+0022301158,461,PT02M23.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-136,27,14,Missed,1,,,0,h,MISS LeVert 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,347
+0022301158,462,PT02M20.00S,3,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,348
+0022301158,464,PT02M12.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: E. Mobley FOR Allen,Substitution,,0,0,349
+0022301158,465,PT02M12.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: Garland FOR Mitchell,Substitution,,0,0,350
+0022301158,466,PT02M12.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,SUB: Stevens FOR Jackson,Substitution,,0,0,351
+0022301158,467,PT02M12.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: LaRavia FOR Jemison,Substitution,,0,0,352
+0022301158,472,PT01M58.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,59,157,17,Missed,1,,,0,v,MISS Stevens 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,353
+0022301158,473,PT01M54.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,354
+0022301158,474,PT01M46.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,355
+0022301158,474,PT01M46.00S,3,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White STEAL (1 STL),,,1,0,356
+0022301158,476,PT01M43.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert S.FOUL (P2.T2) (N.Green),Foul,Shooting,1,0,357
+0022301158,478,PT01M43.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,70,64,134,v,Stevens Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+0022301158,479,PT01M43.00S,3,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,70,65,135,v,Stevens Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+0022301158,480,PT01M27.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,237,80,25,Made,1,73,65,138,h,LeVert 25' 3PT Jump Shot (5 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,3,360
+0022301158,482,PT01M04.00S,3,1610612763,MEM,1631298,White,J. White,195,157,25,Missed,1,,,0,v,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0022301158,483,PT01M02.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,362
+0022301158,484,PT00M57.70S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,363
+0022301158,486,PT00M57.70S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,74,65,139,h,Garland Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,364
+0022301158,487,PT00M57.70S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Jackson FOR Pippen Jr.,Substitution,,0,0,365
+0022301158,489,PT00M57.70S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,75,65,140,h,Garland Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,366
+0022301158,490,PT00M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-148,213,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,367
+0022301158,491,PT00M32.40S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,Garland REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,368
+0022301158,492,PT00M26.10S,3,1610612739,CLE,1629636,Garland,D. Garland,-97,283,30,Made,1,78,65,143,h,Garland 30' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,3,369
+0022301158,493,PT00M03.70S,3,1610612763,MEM,1630285,Simpson,Z. Simpson,85,46,10,Made,1,78,67,145,v,Simpson 10' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,1,2,370
+0022301158,494,PT00M00.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,185,277,33,Missed,1,,,0,h,MISS LeVert 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022301158,495,PT00M00.00S,3,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,372
+0022301158,496,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,67,145,,End of 3rd Period (8:48 PM EST),period,end,1,0,373
+0022301158,499,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,67,145,,Start of 4th Period (8:51 PM EST),period,start,0,0,374
+0022301158,500,PT11M46.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,10,31,3,Missed,1,,,0,h,MISS E. Mobley 3' Layup,Missed Shot,Layup Shot,1,2,375
+0022301158,500,PT11M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (1 BLK),,,1,2,376
+0022301158,502,PT11M44.00S,4,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,377
+0022301158,503,PT11M35.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,27,88,9,Missed,1,,,0,v,MISS Simpson 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,378
+0022301158,504,PT11M33.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,379
+0022301158,505,PT11M33.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,Jump Ball E. Mobley vs. Stevens: Tip to LeVert,Jump Ball,,1,0,380
+0022301158,510,PT11M20.00S,4,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P5.T1) (N.Green),Foul,Shooting,1,0,381
+0022301158,512,PT11M20.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,MISS Niang Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,382
+0022301158,513,PT11M20.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,383
+0022301158,514,PT11M20.00S,4,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,SUB: Jemison FOR Allen,Substitution,,0,0,384
+0022301158,516,PT11M20.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,79,67,146,h,Niang Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,385
+0022301158,517,PT11M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,386
+0022301158,517,PT11M08.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro STEAL (1 STL),,,1,0,387
+0022301158,519,PT11M04.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,21,5,2,Missed,1,,,0,h,MISS LeVert 2' Running Layup,Missed Shot,Running Layup Shot,1,2,388
+0022301158,520,PT11M01.00S,4,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,389
+0022301158,521,PT10M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-65,273,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,390
+0022301158,522,PT10M53.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,391
+0022301158,523,PT10M50.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P3.T2) (K.Scott),Foul,Shooting,1,0,392
+0022301158,525,PT10M50.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,393
+0022301158,526,PT10M50.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,394
+0022301158,527,PT10M50.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,80,67,147,h,Okoro Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,395
+0022301158,528,PT10M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,8,1,Made,1,80,69,149,v,LaRavia 1' Driving Finger Roll Layup (26 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,396
+0022301158,529,PT10M28.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-211,180,28,Made,1,83,69,152,h,Niang 28' 3PT Jump Shot (4 PTS) (Garland 6 AST),Made Shot,Jump Shot,1,3,397
+0022301158,531,PT10M17.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,398
+0022301158,531,PT10M17.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley STEAL (2 STL),,,1,0,399
+0022301158,533,PT10M09.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,-234,7,0,Made,1,86,69,155,h,LeVert 3PT Jump Shot (8 PTS) (Garland 7 AST),Made Shot,Jump Shot,1,3,400
+0022301158,535,PT10M08.00S,4,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,401
+0022301158,538,PT10M08.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Simpson,Substitution,,0,0,402
+0022301158,539,PT10M08.00S,4,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,SUB: Jackson FOR White,Substitution,,0,0,403
+0022301158,542,PT09M56.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,Okoro P.FOUL (P1.T1) (K.Scott),Foul,Personal,1,0,404
+0022301158,544,PT09M42.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,224,157,27,Made,1,86,72,158,v,LaRavia 27' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,3,405
+0022301158,545,PT09M22.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,406
+0022301158,545,PT09M22.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. STEAL (2 STL),,,1,0,407
+0022301158,547,PT09M18.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,408
+0022301158,547,PT09M18.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert STEAL (2 STL),,,1,0,409
+0022301158,549,PT09M09.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,5,7,1,Made,1,88,72,160,h,E. Mobley 1' Alley Oop Dunk (12 PTS) (Garland 8 AST),Made Shot,Alley Oop Dunk Shot,1,2,410
+0022301158,551,PT08M54.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: Mitchell FOR Garland,Substitution,,0,0,411
+0022301158,553,PT08M52.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h, ,Jump Ball,,0,0,412
+0022301158,558,PT08M41.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,-241,-8,24,Missed,1,,,0,v,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022301158,559,PT08M39.00S,4,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Rebound,Rebound,Unknown,1,0,414
+0022301158,561,PT08M34.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,16,16,2,Missed,1,,,0,v,MISS Jemison 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,415
+0022301158,561,PT08M34.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley BLOCK (4 BLK),,,1,2,416
+0022301158,563,PT08M30.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,417
+0022301158,564,PT08M27.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-156,220,27,Missed,1,,,0,h,MISS Mitchell 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,418
+0022301158,565,PT08M27.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,419
+0022301158,566,PT08M20.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-6,1,1,Made,1,88,74,162,v,Pippen Jr. 1' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,420
+0022301158,567,PT08M03.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-6,10,1,Missed,1,,,0,h,MISS Mitchell 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,421
+0022301158,567,PT08M03.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (4 BLK),,,1,2,422
+0022301158,569,PT07M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,423
+0022301158,570,PT07M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,424
+0022301158,570,PT07M55.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,E. Mobley STEAL (3 STL),,,1,0,425
+0022301158,572,PT07M51.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,1,4,0,Made,1,90,74,164,h,LeVert Running Dunk (10 PTS) (Niang 1 AST),Made Shot,Running Dunk Shot,1,2,426
+0022301158,574,PT07M38.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,37,127,13,Made,1,90,76,166,v,Jackson 13' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,1,2,427
+0022301158,575,PT07M27.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,7,11,1,Made,1,92,76,168,h,LeVert 1' Driving Reverse Layup (12 PTS) (Mitchell 6 AST),Made Shot,Driving Reverse Layup Shot,1,2,428
+0022301158,576,PT07M14.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert P.FOUL (P3.T2) (N.Green),Foul,Personal,1,0,429
+0022301158,578,PT07M14.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Allen FOR E. Mobley,Substitution,,0,0,430
+0022301158,579,PT07M14.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,,,0,h,SUB: Strus FOR Niang,Substitution,,0,0,431
+0022301158,582,PT07M06.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-96,231,25,Missed,1,,,0,v,MISS Pippen Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+0022301158,583,PT07M03.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,433
+0022301158,584,PT06M53.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,Pippen Jr. P.FOUL (P3.T3) (K.Scott),Foul,Personal,1,0,434
+0022301158,586,PT06M42.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-168,231,29,Made,1,95,76,171,h,Strus 29' 3PT Jump Shot (8 PTS) (Allen 3 AST),Made Shot,Jump Shot,1,3,435
+0022301158,588,PT06M24.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus S.FOUL (P2.T3) (K.Scott),Foul,Shooting,1,0,436
+0022301158,590,PT06M24.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,95,77,172,v,Stevens Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+0022301158,591,PT06M24.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,,,0,v,SUB: Simpson FOR Pippen Jr.,Substitution,,0,0,438
+0022301158,593,PT06M24.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,95,78,173,v,Stevens Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+0022301158,594,PT06M04.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,5,6,1,Made,1,97,78,175,h,LeVert 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,440
+0022301158,595,PT05M50.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,4,1,Made,1,97,80,177,v,Jemison 1' Cutting Dunk Shot (4 PTS) (Stevens 2 AST),Made Shot,Cutting Dunk Shot,1,2,441
+0022301158,597,PT05M30.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,LeVert Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,442
+0022301158,597,PT05M30.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,Jackson STEAL (2 STL),,,1,0,443
+0022301158,599,PT05M27.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,2,13,1,Made,1,97,82,179,v,Jackson 1' Running Dunk (18 PTS),Made Shot,Running Dunk Shot,1,2,444
+0022301158,600,PT05M20.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,1,5,1,Made,1,99,82,181,h,Okoro 1' Driving Layup (7 PTS) (Mitchell 7 AST),Made Shot,Driving Layup Shot,1,2,445
+0022301158,602,PT05M01.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,11,1,Missed,1,,,0,v,MISS Jemison 1' Layup,Missed Shot,Layup Shot,1,2,446
+0022301158,602,PT05M01.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,Allen BLOCK (3 BLK),,,1,2,447
+0022301158,604,PT04M57.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,Strus REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,448
+0022301158,605,PT04M54.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P4.T4) (K.Scott),Foul,Shooting,1,0,449
+0022301158,607,PT04M54.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,450
+0022301158,608,PT04M54.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,0,451
+0022301158,609,PT04M54.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Garland FOR LeVert,Substitution,,0,0,452
+0022301158,611,PT04M54.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,MISS Okoro Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,453
+0022301158,612,PT04M51.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,454
+0022301158,613,PT04M40.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,Mitchell S.FOUL (P2.T4) (K.Scott),Foul,Shooting,1,0,455
+0022301158,615,PT04M40.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,99,83,182,v,Jackson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,456
+0022301158,618,PT04M40.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,99,84,183,v,Jackson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,457
+0022301158,619,PT04M23.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-44,75,9,Made,1,101,84,185,h,Allen 9' Floating Jump Shot (16 PTS) (Garland 9 AST),Made Shot,Floating Jump shot,1,2,458
+0022301158,622,PT03M59.00S,4,0,,1610612763,,,0,0,0,,0,,,0,v,Grizzlies Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,459
+0022301158,623,PT03M49.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-27,263,26,Made,1,104,84,188,h,Garland 26' 3PT Pullup Jump Shot (16 PTS) (Mitchell 8 AST),Made Shot,Pullup Jump shot,1,3,460
+0022301158,625,PT03M49.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson S.FOUL (P5.PN) (K.Scott),Foul,Shooting,1,0,461
+0022301158,627,PT03M49.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,MISS Garland Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,462
+0022301158,628,PT03M47.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,463
+0022301158,629,PT03M37.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,-4,13,1,Made,1,104,86,190,v,Jackson 1' Driving Dunk (22 PTS),Made Shot,Driving Dunk Shot,1,2,464
+0022301158,630,PT03M12.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-126,92,16,Made,1,106,86,192,h,Mitchell 16' Step Back Jump Shot (29 PTS) (Allen 4 AST),Made Shot,Step Back Jump shot,1,2,465
+0022301158,632,PT02M54.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,466
+0022301158,634,PT02M54.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,h,SUB: LeVert FOR Mitchell,Substitution,,0,0,467
+0022301158,635,PT02M54.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,h,SUB: E. Mobley FOR Garland,Substitution,,0,0,468
+0022301158,636,PT02M54.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,,,0,v,SUB: Allen FOR Jackson,Substitution,,0,0,469
+0022301158,637,PT02M54.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Jemison,Substitution,,0,0,470
+0022301158,642,PT02M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,177,29,Made,1,106,89,195,v,LaRavia 29' 3PT Fadeaway Jumper (32 PTS) (Stevens 3 AST),Made Shot,Fadeaway Jump Shot,1,3,471
+0022301158,644,PT02M31.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,6,10,1,Made,1,108,89,197,h,LeVert 1' Cutting Dunk Shot (16 PTS) (Allen 5 AST),Made Shot,Cutting Dunk Shot,1,2,472
+0022301158,646,PT02M18.00S,4,1610612763,MEM,1630205,Stevens,L. Stevens,-97,226,25,Made,1,108,92,200,v,Stevens 25' 3PT Jump Shot (16 PTS) (Simpson 3 AST),Made Shot,Jump Shot,1,3,473
+0022301158,648,PT02M00.00S,4,1610612739,CLE,1628386,Allen,J. Allen,227,-6,0,Missed,1,,,0,h,MISS Allen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022301158,649,PT01M58.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,0,0,0,,0,,,0,v,Simpson REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,475
+0022301158,650,PT01M55.00S,4,1610612763,MEM,1641851,Allen,T. Allen,-6,17,2,Made,1,108,94,202,v,Allen 2' Running Finger Roll Layup (2 PTS) (Simpson 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,476
+0022301158,652,PT01M50.00S,4,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,Allen P.FOUL (P6.PN) (K.Scott),Foul,Personal,1,0,477
+0022301158,654,PT01M50.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,,,0,h,SUB: Nance FOR Strus,Substitution,,0,0,478
+0022301158,655,PT01M50.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Allen,Substitution,,0,0,479
+0022301158,656,PT01M50.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,h,SUB: I. Mobley FOR Okoro,Substitution,,0,0,480
+0022301158,657,PT01M50.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,h,SUB: Bates FOR E. Mobley,Substitution,,0,0,481
+0022301158,658,PT01M50.00S,4,1610612763,MEM,1641851,Allen,T. Allen,0,0,0,,0,,,0,v,SUB: White FOR Allen,Substitution,,0,0,482
+0022301158,664,PT01M50.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,109,94,203,h,LeVert Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,483
+0022301158,665,PT01M50.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,110,94,204,h,LeVert Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,484
+0022301158,666,PT01M35.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,485
+0022301158,668,PT01M35.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,110,95,205,v,Pippen Jr. Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,486
+0022301158,669,PT01M35.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,h,SUB: Jones FOR LeVert,Substitution,,0,0,487
+0022301158,671,PT01M35.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,110,96,206,v,Pippen Jr. Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0022301158,672,PT01M12.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,74,122,14,Missed,1,,,0,h,MISS I. Mobley 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,489
+0022301158,673,PT01M11.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Rebound,Rebound,Unknown,0,0,490
+0022301158,674,PT01M11.00S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,0,491
+0022301158,675,PT01M04.00S,4,1610612763,MEM,1630285,Simpson,Z. Simpson,-5,19,2,Made,1,110,98,208,v,Simpson 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,492
+0022301158,676,PT00M47.80S,4,1610612739,CLE,1631250,Nance,P. Nance,65,47,8,Missed,1,,,0,h,MISS Nance 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,493
+0022301158,677,PT00M42.70S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,494
+0022301158,678,PT00M42.70S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,Missed,1,,,0,h,MISS I. Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,495
+0022301158,679,PT00M42.70S,4,1610612763,MEM,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,496
+0022301158,680,PT00M31.60S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-234,-11,0,Missed,1,,,0,v,MISS Pippen Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,497
+0022301158,681,PT00M28.10S,4,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,498
+0022301158,682,PT00M25.60S,4,1610612763,MEM,1631298,White,J. White,0,0,0,,0,,,0,v,White Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,499
+0022301158,682,PT00M25.60S,4,1610612739,CLE,1631250,Nance,P. Nance,0,0,0,,0,,,0,h,Nance STEAL (1 STL),,,1,0,500
+0022301158,684,PT00M03.70S,4,0,,1610612739,,,0,0,0,,0,,,0,h,CAVALIERS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,0,501
+0022301158,685,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,98,208,,End of 4th Period (9:21 PM EST),period,end,1,0,502

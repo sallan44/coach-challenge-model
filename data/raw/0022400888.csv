@@ -1,0 +1,479 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022400888,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:41 PM EST),period,start,0,0,1
+0022400888,4,PT12M00.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Jump Ball Biyombo vs. Claxton: Tip to Fox,Jump Ball,,1,0,2
+0022400888,7,PT11M37.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022400888,7,PT11M37.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton STEAL (1 STL),,,1,0,4
+0022400888,9,PT11M32.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,227,17,0,Missed,1,,,0,v,MISS C. Johnson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,5
+0022400888,10,PT11M28.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022400888,11,PT11M19.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,-31,91,10,Made,1,2,0,2,h,Biyombo 10' Driving Hook Shot (2 PTS) (Fox 1 AST),Made Shot,Driving Hook Shot,1,2,7
+0022400888,13,PT10M59.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-54,250,26,Missed,1,,,0,v,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,8
+0022400888,14,PT10M57.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022400888,15,PT10M42.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-210,138,25,Made,1,5,0,5,h,Vassell 25' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,10
+0022400888,17,PT10M29.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,222,120,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022400888,18,PT10M26.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,12
+0022400888,19,PT10M16.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,78,120,14,Made,1,7,0,7,h,Vassell 14' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,1,2,13
+0022400888,20,PT10M06.00S,1,1610612751,BKN,1626156,Russell,D. Russell,4,74,7,Made,1,7,2,9,v,Russell 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,14
+0022400888,21,PT09M48.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,223,-10,0,Made,1,10,2,12,h,Barnes 3PT Jump Shot (3 PTS) (Fox 2 AST),Made Shot,Jump Shot,1,3,15
+0022400888,23,PT09M33.00S,1,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,Russell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,16
+0022400888,23,PT09M33.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,17
+0022400888,25,PT09M29.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,18
+0022400888,25,PT09M29.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson STEAL (1 STL),,,1,0,19
+0022400888,27,PT09M25.00S,1,1610612751,BKN,1626156,Russell,D. Russell,-192,151,24,Missed,1,,,0,v,MISS Russell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,20
+0022400888,28,PT09M22.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022400888,29,PT09M18.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,22
+0022400888,30,PT09M03.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-228,35,0,Made,1,10,5,15,v,C. Johnson 3PT Jump Shot (3 PTS) (Thomas 1 AST),Made Shot,Jump Shot,1,3,23
+0022400888,32,PT08M49.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,192,175,26,Made,1,13,5,18,h,Vassell 26' 3PT Jump Shot (8 PTS) (Fox 3 AST),Made Shot,Jump Shot,1,3,24
+0022400888,34,PT08M34.00S,1,1610612751,BKN,1626156,Russell,D. Russell,218,129,25,Missed,1,,,0,v,MISS Russell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0022400888,35,PT08M31.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+0022400888,36,PT08M25.00S,1,1610612759,SAS,1628368,Fox,D. Fox,-230,37,0,Missed,1,,,0,h,MISS Fox 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022400888,37,PT08M25.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,28
+0022400888,158,PT08M23.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,9,11,1,Missed,1,,,0,h,MISS Biyombo 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,29
+0022400888,159,PT08M22.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022400888,38,PT08M10.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-225,27,0,Missed,1,,,0,v,MISS Thomas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022400888,39,PT08M07.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,32
+0022400888,40,PT08M07.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,33
+0022400888,42,PT08M07.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,13,6,19,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+0022400888,43,PT08M07.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: K. Johnson FOR Thomas,Substitution,,0,0,35
+0022400888,45,PT08M07.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,13,7,20,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,36
+0022400888,46,PT07M54.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,37
+0022400888,46,PT07M54.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson STEAL (1 STL),,,1,0,38
+0022400888,48,PT07M48.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton Traveling Turnover (P1.T2),Turnover,Traveling,1,0,39
+0022400888,49,PT07M42.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,40
+0022400888,50,PT07M31.00S,1,1610612759,SAS,1628368,Fox,D. Fox,100,248,27,Missed,1,,,0,h,MISS Fox 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,41
+0022400888,51,PT07M28.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+0022400888,52,PT07M20.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,-224,-7,0,Missed,1,,,0,v,MISS K. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022400888,53,PT07M16.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,44
+0022400888,54,PT07M11.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,-229,0,0,Missed,1,,,0,h,MISS Barnes 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,45
+0022400888,55,PT07M09.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,46
+0022400888,56,PT06M55.00S,1,1610612751,BKN,1626156,Russell,D. Russell,-72,50,9,Made,1,13,9,22,v,Russell 9' Driving Floating Jump Shot (4 PTS) (K. Johnson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,47
+0022400888,58,PT06M54.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022400888,59,PT06M54.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Castle FOR Fox,Substitution,,0,0,49
+0022400888,60,PT06M54.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Johnson FOR Barnes,Substitution,,0,0,50
+0022400888,61,PT06M54.00S,1,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,SUB: Martin FOR Russell,Substitution,,0,0,51
+0022400888,65,PT06M36.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,-6,17,2,Missed,1,,,0,h,MISS Biyombo 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,52
+0022400888,66,PT06M35.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+0022400888,67,PT06M20.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,54
+0022400888,67,PT06M20.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul STEAL (1 STL),,,1,0,55
+0022400888,69,PT06M16.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,2,17,2,Made,1,15,9,24,h,Johnson 2' Running Alley Oop Dunk Shot (2 PTS) (Paul 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,56
+0022400888,71,PT05M50.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-71,3,7,Missed,1,,,0,v,MISS Claxton 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,57
+0022400888,72,PT05M48.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,58
+0022400888,73,PT05M42.00S,1,1610612759,SAS,1642264,Castle,S. Castle,66,-1,7,Missed,1,,,0,h,MISS Castle 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,59
+0022400888,74,PT05M38.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,60
+0022400888,75,PT05M35.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,61
+0022400888,76,PT05M30.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-189,179,26,Made,1,18,9,27,h,Johnson 26' 3PT Jump Shot (5 PTS) (Castle 1 AST),Made Shot,Jump Shot,1,3,62
+0022400888,78,PT05M28.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,63
+0022400888,79,PT05M08.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,15,4,2,Made,1,18,11,29,v,C. Johnson 2' Reverse Layup (5 PTS) (Martin 1 AST),Made Shot,Reverse Layup Shot,1,2,64
+0022400888,81,PT05M02.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,65
+0022400888,81,PT05M02.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton STEAL (2 STL),,,1,0,66
+0022400888,83,PT04M58.00S,1,1610612751,BKN,1631213,Martin,T. Martin,-2,15,2,Made,1,18,13,31,v,Martin 2' Running Dunk (2 PTS) (Williams 1 AST),Made Shot,Running Dunk Shot,1,2,67
+0022400888,85,PT04M39.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-233,-1,0,Missed,1,,,0,h,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022400888,86,PT04M37.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022400888,87,PT04M29.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,-15,8,2,Made,1,18,15,33,v,K. Johnson 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,70
+0022400888,88,PT04M29.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T2) (S.Jelks),Foul,Shooting,1,0,71
+0022400888,90,PT04M29.00S,1,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Sochan FOR Biyombo,Substitution,,0,0,72
+0022400888,91,PT04M29.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Sharpe FOR C. Johnson,Substitution,,0,0,73
+0022400888,92,PT04M29.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Wilson FOR Claxton,Substitution,,0,0,74
+0022400888,96,PT04M29.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,18,16,34,v,K. Johnson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,75
+0022400888,97,PT04M20.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T1) (S.Jelks),Foul,Personal,1,0,76
+0022400888,99,PT04M10.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-40,91,10,Made,1,20,16,36,h,Vassell 10' Driving Floating Jump Shot (10 PTS) (Sochan 1 AST),Made Shot,Driving Floating Jump Shot,1,2,77
+0022400888,101,PT03M59.00S,1,1610612751,BKN,1631213,Martin,T. Martin,-233,82,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022400888,102,PT03M58.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,79
+0022400888,103,PT03M55.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0,80
+0022400888,105,PT03M55.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,21,16,37,h,Johnson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+0022400888,106,PT03M55.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Champagnie FOR Paul,Substitution,,0,0,82
+0022400888,107,PT03M55.00S,1,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,SUB: Watford FOR Williams,Substitution,,0,0,83
+0022400888,110,PT03M55.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,22,16,38,h,Johnson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,84
+0022400888,111,PT03M39.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,206,150,25,Made,1,22,19,41,v,Wilson 25' 3PT Jump Shot (3 PTS) (Watford 1 AST),Made Shot,Jump Shot,1,3,85
+0022400888,113,PT03M22.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,86
+0022400888,114,PT03M04.00S,1,1610612751,BKN,1631213,Martin,T. Martin,127,237,27,Missed,1,,,0,v,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022400888,115,PT03M02.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,88
+0022400888,116,PT03M02.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T3) (N.Buchert),Foul,Personal,1,0,89
+0022400888,118,PT02M45.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,1,0,90
+0022400888,120,PT02M45.00S,1,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Thomas FOR K. Johnson,Substitution,,0,0,91
+0022400888,122,PT02M37.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-229,13,0,Made,1,25,19,44,h,Champagnie 3PT Jump Shot (3 PTS) (Castle 2 AST),Made Shot,Jump Shot,1,3,92
+0022400888,124,PT02M20.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,93
+0022400888,125,PT02M20.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Fox FOR Vassell,Substitution,,0,0,94
+0022400888,127,PT02M07.00S,1,1610612759,SAS,1642264,Castle,S. Castle,12,62,6,Made,1,27,19,46,h,Castle 6' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,95
+0022400888,128,PT01M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,100,235,26,Missed,1,,,0,v,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022400888,129,PT01M45.00S,1,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,97
+0022400888,130,PT01M42.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,1,0,98
+0022400888,132,PT01M42.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,27,20,47,v,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022400888,133,PT01M42.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,27,21,48,v,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022400888,134,PT01M30.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,18,17,2,Made,1,29,21,50,h,Johnson 2' Driving Layup (9 PTS) (Castle 3 AST),Made Shot,Driving Layup Shot,1,2,101
+0022400888,136,PT01M20.00S,1,1610612751,BKN,1630570,Watford,T. Watford,16,13,2,Made,1,29,23,52,v,Watford 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,102
+0022400888,137,PT01M09.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,7,32,3,Missed,1,,,0,h,MISS Champagnie 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,103
+0022400888,138,PT01M09.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022400888,139,PT01M01.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-27,10,3,Missed,1,,,0,v,MISS Wilson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,105
+0022400888,140,PT00M58.40S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022400888,141,PT00M55.60S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-232,-9,0,Missed,1,,,0,h,MISS Champagnie 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,107
+0022400888,142,PT00M53.10S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,108
+0022400888,144,PT00M38.60S,1,1610612751,BKN,1630560,Thomas,C. Thomas,12,4,1,Made,1,29,25,54,v,Thomas 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,109
+0022400888,145,PT00M29.70S,1,1610612759,SAS,1642264,Castle,S. Castle,165,210,27,Missed,1,,,0,h,MISS Castle 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022400888,146,PT00M25.20S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022400888,147,PT00M06.70S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-77,246,26,Missed,1,,,0,v,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,112
+0022400888,148,PT00M04.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022400888,149,PT00M01.20S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-4,11,1,Made,1,31,25,56,h,Sochan 1' Dunk (2 PTS) (Champagnie 1 AST),Made Shot,Dunk Shot,1,2,114
+0022400888,151,PT00M00.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-173,614,64,Missed,1,,,0,v,MISS Wilson 64' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022400888,152,PT00M00.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,116
+0022400888,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,25,56,,End of 1st Period (9:05 PM EST),period,end,1,0,117
+0022400888,156,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,25,56,,Start of 2nd Period (9:08 PM EST),period,start,0,0,118
+0022400888,160,PT11M43.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0,119
+0022400888,162,PT11M34.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,-4,16,2,Made,1,31,27,58,v,Sharpe 2' Cutting Finger Roll Layup Shot (2 PTS) (Thomas 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,120
+0022400888,164,PT11M23.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie Traveling Turnover (P1.T7),Turnover,Traveling,1,0,121
+0022400888,165,PT11M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,122
+0022400888,165,PT11M08.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle STEAL (1 STL),,,1,0,123
+0022400888,167,PT11M02.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,221,125,25,Missed,1,,,0,h,MISS Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,124
+0022400888,168,PT11M00.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,125
+0022400888,169,PT10M58.00S,2,1610612759,SAS,1642264,Castle,S. Castle,222,-6,0,Missed,1,,,0,h,MISS Castle 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022400888,170,PT10M53.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0022400888,171,PT10M47.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,223,47,0,Made,1,31,30,61,v,Thomas 3PT Running Jump Shot (7 PTS) (Watford 2 AST),Made Shot,Running Jump Shot,1,3,128
+0022400888,173,PT10M32.00S,2,1610612759,SAS,1628368,Fox,D. Fox,-150,104,18,Missed,1,,,0,h,MISS Fox 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,129
+0022400888,174,PT10M32.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,130
+0022400888,175,PT10M13.00S,2,1610612751,BKN,1630570,Watford,T. Watford,1,29,3,Made,1,31,32,63,v,Watford 3' Floating Jump Shot (4 PTS) (Thomas 3 AST),Made Shot,Floating Jump shot,1,2,131
+0022400888,177,PT10M00.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,132
+0022400888,177,PT10M00.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,133
+0022400888,179,PT09M50.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-116,216,25,Missed,1,,,0,v,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,134
+0022400888,180,PT09M45.00S,2,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,Russell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,135
+0022400888,181,PT09M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,13,256,26,Made,1,31,35,66,v,Watford 26' 3PT Jump Shot (7 PTS) (Wilson 1 AST),Made Shot,Jump Shot,1,3,136
+0022400888,183,PT09M43.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,137
+0022400888,184,PT09M43.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Barnes FOR Johnson,Substitution,,0,0,138
+0022400888,186,PT09M21.00S,2,1610612759,SAS,1642264,Castle,S. Castle,10,68,7,Made,1,33,35,68,h,Castle 7' Driving Floating Bank Jump Shot (4 PTS) (Champagnie 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,139
+0022400888,188,PT09M21.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,1,0,140
+0022400888,190,PT09M21.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,141
+0022400888,192,PT09M21.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,142
+0022400888,193,PT09M17.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,143
+0022400888,194,PT09M02.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,144
+0022400888,195,PT09M02.00S,2,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Biyombo FOR Fox,Substitution,,0,0,145
+0022400888,196,PT09M02.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,SUB: Paul FOR Sochan,Substitution,,0,0,146
+0022400888,199,PT08M50.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,-58,52,8,Made,1,35,35,70,h,Biyombo 8' Turnaround Hook Shot (4 PTS) (Castle 4 AST),Made Shot,Turnaround Hook Shot,1,2,147
+0022400888,200,PT08M37.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,6,11,1,Made,1,35,37,72,v,Thomas 1' Driving Layup (9 PTS) (Watford 3 AST),Made Shot,Driving Layup Shot,1,2,148
+0022400888,202,PT08M28.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,-235,23,24,Missed,1,,,0,h,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0022400888,203,PT08M24.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,150
+0022400888,227,PT08M19.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: C. Johnson FOR Thomas,Substitution,,0,0,151
+0022400888,204,PT08M19.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Jump Ball Paul vs. Watford: Tip to Wilson,Jump Ball,,1,0,152
+0022400888,207,PT08M13.00S,2,1610612751,BKN,1626156,Russell,D. Russell,-129,216,25,Made,1,35,40,75,v,Russell 25' 3PT Jump Shot (7 PTS) (C. Johnson 1 AST),Made Shot,Jump Shot,1,3,153
+0022400888,209,PT07M54.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton P.FOUL (P1.T2) (N.Buchert),Foul,Personal,1,0,154
+0022400888,211,PT07M47.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,155
+0022400888,211,PT07M47.00S,2,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,Russell STEAL (1 STL),,,1,0,156
+0022400888,213,PT07M43.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-203,138,25,Made,1,35,43,78,v,Wilson 25' 3PT Running Jump Shot (6 PTS) (Russell 1 AST),Made Shot,Running Jump Shot,1,3,157
+0022400888,215,PT07M27.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Traveling Turnover (P3.T10),Turnover,Traveling,1,0,158
+0022400888,216,PT07M27.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Vassell FOR Champagnie,Substitution,,0,0,159
+0022400888,217,PT07M27.00S,2,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,SUB: Martin FOR Russell,Substitution,,0,0,160
+0022400888,218,PT07M27.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Williams FOR Watford,Substitution,,0,0,161
+0022400888,222,PT07M11.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,162
+0022400888,222,PT07M11.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul STEAL (2 STL),,,1,0,163
+0022400888,224,PT07M04.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-173,190,26,Made,1,38,43,81,h,Castle 26' 3PT Jump Shot (7 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,164
+0022400888,226,PT07M04.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,165
+0022400888,230,PT06M41.00S,2,1610612751,BKN,1631213,Martin,T. Martin,4,40,4,Made,1,38,45,83,v,Martin 4' Driving Floating Jump Shot (4 PTS) (Claxton 1 AST),Made Shot,Driving Floating Jump Shot,1,2,166
+0022400888,232,PT06M27.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,-16,69,7,Made,1,40,45,85,h,Biyombo 7' Hook Shot (6 PTS) (Paul 2 AST),Made Shot,Hook Shot,1,2,167
+0022400888,234,PT06M16.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,51,16,5,Missed,1,,,0,v,MISS Claxton 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,168
+0022400888,235,PT06M14.00S,2,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,169
+0022400888,236,PT06M12.00S,2,1610612751,BKN,1630533,Williams,Z. Williams,18,14,2,Missed,1,,,0,v,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,170
+0022400888,238,PT06M12.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,171
+0022400888,239,PT06M11.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Missed,1,,,0,v,MISS Claxton Putback Layup,Missed Shot,Putback Layup Shot,1,2,172
+0022400888,239,PT06M11.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell BLOCK (1 BLK),,,1,2,173
+0022400888,241,PT06M10.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,174
+0022400888,242,PT06M04.00S,2,1610612759,SAS,101108,Paul,C. Paul,-172,195,26,Made,1,43,45,88,h,Paul 26' 3PT Running Jump Shot (3 PTS) (Vassell 1 AST),Made Shot,Running Jump Shot,1,3,175
+0022400888,245,PT05M48.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Johnson FOR Castle,Substitution,,0,0,176
+0022400888,246,PT05M48.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: K. Johnson FOR Wilson,Substitution,,0,0,177
+0022400888,249,PT05M37.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-125,52,14,Made,1,43,47,90,v,Claxton 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,178
+0022400888,250,PT05M18.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,145,215,26,Missed,1,,,0,h,MISS Vassell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,179
+0022400888,251,PT05M18.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,180
+0022400888,252,PT05M18.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson L.B.FOUL (P1.T3) (D.Guthrie),Foul,Loose Ball,1,0,181
+0022400888,254,PT05M05.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,-5,10,1,Made,1,45,47,92,h,Biyombo 1' Cutting Dunk Shot (8 PTS) (Paul 3 AST),Made Shot,Cutting Dunk Shot,1,2,182
+0022400888,256,PT04M45.00S,2,1610612751,BKN,1630533,Williams,Z. Williams,-233,-18,0,Made,1,45,50,95,v,Williams 3PT Jump Shot (5 PTS) (Claxton 2 AST),Made Shot,Jump Shot,1,3,183
+0022400888,258,PT04M27.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,72,7,7,Made,1,47,50,97,h,Barnes 7' Driving Floating Jump Shot (5 PTS) (Paul 4 AST),Made Shot,Driving Floating Jump Shot,1,2,184
+0022400888,260,PT04M27.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T4) (S.Jelks),Foul,Shooting,1,0,185
+0022400888,262,PT04M27.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,48,50,98,h,Barnes Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,186
+0022400888,263,PT04M13.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,187
+0022400888,263,PT04M13.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell STEAL (1 STL),,,1,0,188
+0022400888,265,PT04M11.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-1,8,1,Made,1,50,50,100,h,Vassell 1' Running Dunk (12 PTS) (Paul 5 AST),Made Shot,Running Dunk Shot,1,2,189
+0022400888,267,PT04M11.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,190
+0022400888,269,PT04M11.00S,2,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,SUB: Thomas FOR Williams,Substitution,,0,0,191
+0022400888,270,PT04M11.00S,2,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,SUB: Watford FOR Martin,Substitution,,0,0,192
+0022400888,271,PT04M11.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Russell FOR K. Johnson,Substitution,,0,0,193
+0022400888,275,PT04M11.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,51,50,101,h,Vassell Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,194
+0022400888,276,PT03M49.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-108,229,25,Missed,1,,,0,v,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,195
+0022400888,277,PT03M49.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,196
+0022400888,279,PT03M37.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,197
+0022400888,279,PT03M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (2 STL),,,1,0,198
+0022400888,281,PT03M32.00S,2,1610612751,BKN,1626156,Russell,D. Russell,-176,187,26,Missed,1,,,0,v,MISS Russell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,199
+0022400888,282,PT03M29.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,200
+0022400888,283,PT03M18.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-2,91,9,Missed,1,,,0,h,MISS Johnson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,201
+0022400888,284,PT03M17.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,202
+0022400888,285,PT03M14.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,221,-19,0,Missed,1,,,0,h,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022400888,286,PT03M14.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,204
+0022400888,287,PT03M08.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,205
+0022400888,289,PT03M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,51,51,102,v,Watford Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,206
+0022400888,290,PT03M08.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Fox FOR Barnes,Substitution,,0,0,207
+0022400888,292,PT03M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,208
+0022400888,293,PT03M05.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,209
+0022400888,294,PT02M48.00S,2,1610612759,SAS,1628368,Fox,D. Fox,-60,67,9,Made,1,53,51,104,h,Fox 9' Driving Hook Shot (2 PTS) (Paul 6 AST),Made Shot,Driving Hook Shot,1,2,210
+0022400888,296,PT02M37.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-9,8,1,Made,1,53,53,106,v,Claxton 1' Alley Oop Layup (4 PTS) (Russell 2 AST),Made Shot,Alley Oop Layup shot,1,2,211
+0022400888,298,PT02M23.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,18,17,2,Made,1,55,53,108,h,Biyombo 2' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,1,2,212
+0022400888,300,PT02M05.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-116,-13,12,Made,1,55,55,110,v,Thomas 12' Pullup Jump Shot (11 PTS) (Claxton 3 AST),Made Shot,Pullup Jump shot,1,2,213
+0022400888,303,PT01M52.00S,2,1610612759,SAS,1628368,Fox,D. Fox,-233,-4,0,Made,1,58,55,113,h,Fox 3PT Jump Shot (5 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,1,3,214
+0022400888,305,PT01M22.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,34,4,3,Missed,1,,,0,v,MISS C. Johnson 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,215
+0022400888,305,PT01M22.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,216
+0022400888,307,PT01M20.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,217
+0022400888,308,PT01M20.00S,2,1610612751,BKN,1626156,Russell,D. Russell,-130,226,26,Missed,1,,,0,v,MISS Russell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022400888,309,PT01M18.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,219
+0022400888,310,PT01M10.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,13,42,4,Missed,1,,,0,h,MISS Johnson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,220
+0022400888,311,PT01M08.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,221
+0022400888,312,PT01M07.00S,2,1610612751,BKN,1630570,Watford,T. Watford,13,9,2,Missed,1,,,0,v,MISS Watford 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,222
+0022400888,312,PT01M07.00S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (2 BLK),,,1,2,223
+0022400888,313,PT01M04.00S,2,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,224
+0022400888,314,PT00M56.80S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,225
+0022400888,314,PT00M56.80S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (3 STL),,,1,0,226
+0022400888,316,PT00M52.20S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,Paul S.FOUL (P1.T3) (S.Jelks),Foul,Shooting,1,0,227
+0022400888,319,PT00M52.20S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,58,56,114,v,Thomas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,228
+0022400888,320,PT00M52.20S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,58,57,115,v,Thomas Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+0022400888,321,PT00M29.40S,2,1610612759,SAS,1630170,Vassell,D. Vassell,96,52,11,Missed,1,,,0,h,MISS Vassell 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,230
+0022400888,322,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,231
+0022400888,323,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,Missed,1,,,0,h,MISS Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,232
+0022400888,324,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,233
+0022400888,325,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,Missed,1,,,0,h,MISS Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,234
+0022400888,326,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,235
+0022400888,327,PT00M28.50S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,Made,1,60,57,117,h,Johnson Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,236
+0022400888,328,PT00M07.50S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-48,100,11,Missed,1,,,0,v,MISS Thomas 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,237
+0022400888,329,PT00M06.30S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,238
+0022400888,331,PT00M06.30S,2,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Champagnie FOR Biyombo,Substitution,,0,0,239
+0022400888,333,PT00M06.30S,2,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,SUB: Martin FOR Russell,Substitution,,0,0,240
+0022400888,334,PT00M06.30S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: K. Johnson FOR C. Johnson,Substitution,,0,0,241
+0022400888,335,PT00M06.30S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Wilson FOR Watford,Substitution,,0,0,242
+0022400888,336,PT00M06.30S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Williams FOR Thomas,Substitution,,0,0,243
+0022400888,341,PT00M00.30S,2,1610612759,SAS,1628368,Fox,D. Fox,7,5,1,Made,1,62,57,119,h,Fox 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,244
+0022400888,342,PT00M00.00S,2,0,,0,,,0,0,0,,0,62,57,119,,End of 2nd Period (9:35 PM EST),period,end,1,0,245
+0022400888,353,PT12M00.00S,3,0,,0,,,0,0,0,,0,62,57,119,,Start of 3rd Period (9:50 PM EST),period,start,0,0,246
+0022400888,354,PT11M42.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,247
+0022400888,354,PT11M42.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell STEAL (2 STL),,,1,0,248
+0022400888,356,PT11M29.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,-9,22,2,Missed,1,,,0,h,MISS Biyombo 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,249
+0022400888,358,PT11M27.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,250
+0022400888,359,PT11M25.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,Made,1,64,57,121,h,Vassell Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1,2,251
+0022400888,360,PT11M04.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,1,0,252
+0022400888,362,PT11M04.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,64,58,122,v,C. Johnson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+0022400888,363,PT11M04.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,64,59,123,v,C. Johnson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+0022400888,364,PT10M51.00S,3,1610612759,SAS,1628368,Fox,D. Fox,-36,96,10,Missed,1,,,0,h,MISS Fox 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,255
+0022400888,365,PT10M48.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,256
+0022400888,366,PT10M38.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,-42,67,8,Missed,1,,,0,v,MISS Thomas 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,257
+0022400888,367,PT10M36.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,258
+0022400888,368,PT10M31.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,1,0,259
+0022400888,370,PT10M31.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,65,59,124,h,Biyombo Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+0022400888,371,PT10M31.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,261
+0022400888,372,PT10M30.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,262
+0022400888,373,PT10M11.00S,3,1610612751,BKN,1626156,Russell,D. Russell,-39,248,25,Missed,1,,,0,v,MISS Russell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022400888,375,PT10M10.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,264
+0022400888,376,PT10M09.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,265
+0022400888,377,PT10M02.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,11,13,2,Missed,1,,,0,v,MISS Claxton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,266
+0022400888,378,PT09M59.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,267
+0022400888,379,PT09M53.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,229,5,0,Missed,1,,,0,h,MISS Barnes 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,268
+0022400888,380,PT09M50.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,269
+0022400888,381,PT09M47.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,224,106,25,Missed,1,,,0,v,MISS Williams 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,270
+0022400888,382,PT09M44.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,271
+0022400888,383,PT09M31.00S,3,1610612759,SAS,1628368,Fox,D. Fox,-20,3,2,Missed,1,,,0,h,MISS Fox 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,272
+0022400888,384,PT09M27.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,273
+0022400888,385,PT09M27.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,h,MISS Biyombo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,274
+0022400888,386,PT09M24.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,275
+0022400888,387,PT09M24.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,Made,1,67,59,126,h,Fox Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,276
+0022400888,388,PT09M10.00S,3,1610612751,BKN,1626156,Russell,D. Russell,-162,206,26,Made,1,67,62,129,v,Russell 26' 3PT Jump Shot (10 PTS) (Thomas 4 AST),Made Shot,Jump Shot,1,3,277
+0022400888,390,PT08M55.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,278
+0022400888,391,PT08M49.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,7,6,1,Made,1,69,62,131,h,Biyombo 1' Alley Oop Dunk (13 PTS) (Fox 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,279
+0022400888,393,PT08M20.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,-116,232,26,Missed,1,,,0,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+0022400888,394,PT08M17.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,281
+0022400888,395,PT08M14.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams Violation:Kicked Ball (S.Jelks),Violation,Kicked Ball,0,0,282
+0022400888,396,PT08M02.00S,3,1610612759,SAS,101108,Paul,C. Paul,-2,124,12,Made,1,71,62,133,h,Paul 12' Driving Floating Jump Shot (5 PTS) (Biyombo 2 AST),Made Shot,Driving Floating Jump Shot,1,2,283
+0022400888,397,PT07M43.00S,3,1610612751,BKN,1626156,Russell,D. Russell,15,12,2,Missed,1,,,0,v,MISS Russell 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,284
+0022400888,398,PT07M42.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,285
+0022400888,399,PT07M39.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,189,162,25,Made,1,74,62,136,h,Vassell 25' 3PT Running Pull-Up Jump Shot (18 PTS) (Paul 7 AST),Made Shot,Running Pull-Up Jump Shot,1,3,286
+0022400888,401,PT07M37.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,287
+0022400888,403,PT07M37.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: Martin FOR Thomas,Substitution,,0,0,288
+0022400888,404,PT07M37.00S,3,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,SUB: K. Johnson FOR Russell,Substitution,,0,0,289
+0022400888,407,PT07M24.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-56,263,27,Missed,1,,,0,v,MISS C. Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022400888,408,PT07M20.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,291
+0022400888,409,PT07M03.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-112,234,26,Made,1,77,62,139,h,Vassell 26' 3PT Jump Shot (21 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,3,292
+0022400888,412,PT06M35.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,-16,34,4,Made,1,77,64,141,v,Williams 4' Driving Hook Shot (7 PTS) (Martin 2 AST),Made Shot,Driving Hook Shot,1,2,293
+0022400888,414,PT06M09.00S,3,1610612759,SAS,101108,Paul,C. Paul,-5,166,17,Missed,1,,,0,h,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,294
+0022400888,415,PT06M07.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,295
+0022400888,416,PT06M00.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T2) (S.Jelks),Foul,Shooting,1,0,296
+0022400888,418,PT06M00.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,297
+0022400888,419,PT06M00.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,0,298
+0022400888,420,PT06M00.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Sochan FOR Fox,Substitution,,0,0,299
+0022400888,421,PT06M00.00S,3,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Castle FOR Biyombo,Substitution,,0,0,300
+0022400888,422,PT06M00.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Johnson FOR Barnes,Substitution,,0,0,301
+0022400888,426,PT06M00.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,302
+0022400888,427,PT05M57.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,303
+0022400888,428,PT05M41.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-234,5,0,Made,1,80,64,144,h,Vassell 3PT Jump Shot (24 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,304
+0022400888,430,PT05M29.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,224,4,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022400888,431,PT05M26.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,306
+0022400888,433,PT05M19.00S,3,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,SUB: Sharpe FOR Williams,Substitution,,0,0,307
+0022400888,434,PT05M19.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Wilson FOR Claxton,Substitution,,0,0,308
+0022400888,437,PT05M11.00S,3,1610612759,SAS,101108,Paul,C. Paul,-225,58,0,Made,1,83,64,147,h,Paul 3PT Jump Shot (8 PTS) (Vassell 2 AST),Made Shot,Jump Shot,1,3,309
+0022400888,439,PT04M54.00S,3,1610612751,BKN,1631213,Martin,T. Martin,150,209,26,Missed,1,,,0,v,MISS Martin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,310
+0022400888,440,PT04M50.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,311
+0022400888,441,PT04M45.00S,3,1610612759,SAS,1642264,Castle,S. Castle,37,10,4,Made,1,85,64,149,h,Castle 4' Driving Floating Bank Jump Shot (9 PTS) (Vassell 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,312
+0022400888,443,PT04M45.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.T2) (S.Jelks),Foul,Shooting,1,0,313
+0022400888,445,PT04M45.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,314
+0022400888,446,PT04M45.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Champagnie FOR Paul,Substitution,,0,0,315
+0022400888,447,PT04M45.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Watford FOR C. Johnson,Substitution,,0,0,316
+0022400888,450,PT04M45.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,317
+0022400888,451,PT04M41.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,318
+0022400888,452,PT04M29.00S,3,1610612759,SAS,1642264,Castle,S. Castle,82,263,28,Missed,1,,,0,h,MISS Castle 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022400888,453,PT04M28.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,320
+0022400888,454,PT04M28.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan L.B.FOUL (P2.T3) (D.Guthrie),Foul,Loose Ball,1,0,321
+0022400888,456,PT04M09.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan S.FOUL (P3.T4) (S.Jelks),Foul,Shooting,1,0,322
+0022400888,458,PT04M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,85,65,150,v,Wilson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,323
+0022400888,459,PT04M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,85,66,151,v,Wilson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+0022400888,460,PT03M48.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,-37,5,4,Missed,1,,,0,h,MISS Sochan 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,325
+0022400888,460,PT03M48.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,326
+0022400888,462,PT03M45.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,327
+0022400888,463,PT03M45.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,1,0,328
+0022400888,465,PT03M45.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,85,67,152,v,K. Johnson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,329
+0022400888,466,PT03M45.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,85,68,153,v,K. Johnson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+0022400888,467,PT03M31.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,83,241,25,Made,1,88,68,156,h,Vassell 25' 3PT Jump Shot (27 PTS) (Castle 5 AST),Made Shot,Jump Shot,1,3,331
+0022400888,469,PT03M10.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,332
+0022400888,469,PT03M10.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell STEAL (3 STL),,,1,0,333
+0022400888,471,PT03M05.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-81,243,26,Made,1,91,68,159,h,Vassell 26' 3PT Running Pull-Up Jump Shot (30 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,334
+0022400888,472,PT03M05.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,335
+0022400888,473,PT03M05.00S,3,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,SUB: Thomas FOR Martin,Substitution,,0,0,336
+0022400888,474,PT03M05.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Russell FOR K. Johnson,Substitution,,0,0,337
+0022400888,477,PT02M50.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-26,16,3,Made,1,91,70,161,v,Wilson 3' Driving Finger Roll Layup (10 PTS) (Thomas 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,338
+0022400888,479,PT02M28.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,13,-5,1,Made,1,93,70,163,h,Johnson 1' Cutting Layup Shot (13 PTS) (Vassell 4 AST),Made Shot,Cutting Layup Shot,1,2,339
+0022400888,481,PT02M02.00S,3,1610612751,BKN,1630570,Watford,T. Watford,98,54,11,Missed,1,,,0,v,MISS Watford 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+0022400888,482,PT02M00.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022400888,483,PT02M00.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Missed,1,,,0,v,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,342
+0022400888,484,PT01M58.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,343
+0022400888,485,PT01M49.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,-10,14,2,Missed,1,,,0,h,MISS Sochan 2' Layup,Missed Shot,Layup Shot,1,2,344
+0022400888,485,PT01M49.00S,3,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,Russell BLOCK (1 BLK),,,1,2,345
+0022400888,487,PT01M49.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,346
+0022400888,489,PT01M49.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Fox FOR Vassell,Substitution,,0,0,347
+0022400888,491,PT01M46.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-2,9,1,Made,1,95,70,165,h,Castle 1' Dunk (11 PTS),Made Shot,Dunk Shot,0,2,348
+0022400888,492,PT01M44.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie P.FOUL (P1.PN) (N.Buchert),Foul,Personal,1,0,349
+0022400888,494,PT01M44.00S,3,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,95,71,166,v,Russell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+0022400888,495,PT01M44.00S,3,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,95,72,167,v,Russell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+0022400888,496,PT01M31.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,229,21,0,Missed,1,,,0,h,MISS Sochan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022400888,497,PT01M26.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,353
+0022400888,498,PT01M12.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,174,188,26,Made,1,95,75,170,v,Wilson 26' 3PT Jump Shot (13 PTS) (Watford 4 AST),Made Shot,Jump Shot,1,3,354
+0022400888,500,PT00M51.80S,3,1610612759,SAS,1642264,Castle,S. Castle,-9,4,1,Made,1,97,75,172,h,Castle 1' Driving Reverse Layup (13 PTS) (Sochan 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,355
+0022400888,502,PT00M43.80S,3,1610612751,BKN,1630560,Thomas,C. Thomas,13,6,1,Made,1,97,77,174,v,Thomas 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,356
+0022400888,503,PT00M37.50S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P4.T3) (N.Buchert),Foul,Shooting,1,0,357
+0022400888,505,PT00M37.50S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,358
+0022400888,506,PT00M37.50S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,359
+0022400888,507,PT00M37.50S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,360
+0022400888,508,PT00M33.70S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,361
+0022400888,509,PT00M26.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,136,230,27,Made,1,97,80,177,v,Thomas 27' 3PT Jump Shot (18 PTS) (Russell 3 AST),Made Shot,Jump Shot,1,3,362
+0022400888,511,PT00M06.40S,3,1610612759,SAS,1628368,Fox,D. Fox,-10,26,3,Made,1,99,80,179,h,Fox 3' Driving Layup (11 PTS) (Castle 6 AST),Made Shot,Driving Layup Shot,1,2,363
+0022400888,512,PT00M00.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,5,253,25,Missed,1,,,0,v,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+0022400888,512,PT00M00.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan BLOCK (1 BLK),,,1,3,365
+0022400888,514,PT00M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,366
+0022400888,515,PT00M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-13,32,3,Missed,1,,,0,v,MISS Watford 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,367
+0022400888,516,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,0,368
+0022400888,517,PT00M00.00S,3,0,,0,,,0,0,0,,0,99,80,179,,End of 3rd Period (10:19 PM EST),period,end,1,0,369
+0022400888,521,PT12M00.00S,4,0,,0,,,0,0,0,,0,99,80,179,,Start of 4th Period (10:22 PM EST),period,start,0,0,370
+0022400888,522,PT11M38.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-1,9,1,Made,1,101,80,181,h,Johnson 1' Driving Dunk (15 PTS) (Fox 5 AST),Made Shot,Driving Dunk Shot,1,2,371
+0022400888,524,PT11M18.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,162,197,26,Made,1,101,83,184,v,Thomas 26' 3PT Jump Shot (21 PTS) (C. Johnson 2 AST),Made Shot,Jump Shot,1,3,372
+0022400888,526,PT11M06.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,121,215,25,Made,1,104,83,187,h,Champagnie 25' 3PT Jump Shot (6 PTS) (Fox 6 AST),Made Shot,Jump Shot,1,3,373
+0022400888,528,PT10M50.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,1,0,374
+0022400888,530,PT10M46.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,-173,216,28,Missed,1,,,0,v,MISS C. Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022400888,531,PT10M42.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+0022400888,532,PT10M39.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,228,4,0,Missed,1,,,0,h,MISS Champagnie 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,377
+0022400888,533,PT10M34.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,378
+0022400888,534,PT10M31.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-164,215,27,Missed,1,,,0,v,MISS Thomas 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,379
+0022400888,535,PT10M28.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,380
+0022400888,536,PT10M16.00S,4,1610612759,SAS,1642264,Castle,S. Castle,1,8,1,Made,1,106,83,189,h,Castle 1' Alley Oop Dunk (15 PTS) (Sochan 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,381
+0022400888,538,PT10M02.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,199,160,26,Made,1,106,86,192,v,Thomas 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,382
+0022400888,539,PT09M59.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,383
+0022400888,540,PT09M59.00S,4,0,,538,,,0,0,0,,0,106,86,192,,Instant Replay4th Period (10:27 PM EST),Instant Replay,Replay Center,0,0,384
+0022400888,541,PT09M59.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,SUB: Claxton FOR Sharpe,Substitution,,0,0,385
+0022400888,543,PT09M39.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,230,42,0,Missed,1,,,0,h,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022400888,544,PT09M35.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,387
+0022400888,545,PT09M31.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-148,198,25,Missed,1,,,0,h,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022400888,546,PT09M30.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,389
+0022400888,548,PT09M30.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P2.T1) (D.Guthrie),Foul,Loose Ball,1,0,390
+0022400888,550,PT09M22.00S,4,1610612759,SAS,1628368,Fox,D. Fox,74,215,23,Made,1,108,86,194,h,Fox 23' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,391
+0022400888,551,PT09M05.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,-237,-9,24,Made,1,108,89,197,v,C. Johnson 24' 3PT Jump Shot (10 PTS) (Russell 4 AST),Made Shot,Jump Shot,1,3,392
+0022400888,553,PT08M52.00S,4,1610612759,SAS,1642264,Castle,S. Castle,-17,13,2,Missed,1,,,0,h,MISS Castle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,393
+0022400888,554,PT08M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,394
+0022400888,555,PT08M47.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-225,125,26,Missed,1,,,0,v,MISS Thomas 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,395
+0022400888,556,PT08M42.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,C. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+0022400888,557,PT08M40.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,223,41,0,Missed,1,,,0,v,MISS Thomas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022400888,558,PT08M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,398
+0022400888,559,PT08M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,11,4,1,Made,1,108,91,199,v,Watford 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,399
+0022400888,560,PT08M20.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,9,0,1,Made,1,110,91,201,h,Champagnie 1' Cutting Finger Roll Layup Shot (8 PTS) (Fox 7 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,400
+0022400888,562,PT08M11.00S,4,1610612751,BKN,1626156,Russell,D. Russell,38,257,26,Missed,1,,,0,v,MISS Russell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+0022400888,563,PT08M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,402
+0022400888,564,PT08M05.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,-6,7,1,Made,1,110,93,203,v,Claxton 1' Cutting Dunk Shot (6 PTS) (Thomas 6 AST),Made Shot,Cutting Dunk Shot,1,2,403
+0022400888,566,PT08M05.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,404
+0022400888,567,PT08M05.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Barnes FOR Johnson,Substitution,,0,0,405
+0022400888,568,PT08M05.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Vassell FOR Fox,Substitution,,0,0,406
+0022400888,569,PT08M05.00S,4,1610612751,BKN,1626156,Russell,D. Russell,0,0,0,,0,,,0,v,SUB: Martin FOR Russell,Substitution,,0,0,407
+0022400888,570,PT08M05.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,v,SUB: K. Johnson FOR Thomas,Substitution,,0,0,408
+0022400888,575,PT07M50.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-188,156,24,Missed,1,,,0,h,MISS Champagnie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0022400888,576,PT07M48.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,410
+0022400888,577,PT07M42.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,-17,2,2,Made,1,110,95,205,v,C. Johnson 2' Running Reverse Layup (12 PTS) (Watford 5 AST),Made Shot,Running Reverse Layup Shot,1,2,411
+0022400888,578,PT07M23.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-17,167,17,Made,1,112,95,207,h,Vassell 17' Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,2,412
+0022400888,580,PT07M00.00S,4,1610612751,BKN,1631213,Martin,T. Martin,22,2,2,Made,1,112,97,209,v,Martin 2' Driving Finger Roll Layup (6 PTS) (C. Johnson 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,413
+0022400888,582,PT06M33.00S,4,1610612759,SAS,203084,Barnes,H. Barnes,-39,248,25,Made,1,115,97,212,h,Barnes 25' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,414
+0022400888,583,PT06M21.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,-214,138,25,Made,1,115,100,215,v,C. Johnson 25' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,415
+0022400888,584,PT06M02.00S,4,1610612759,SAS,1642264,Castle,S. Castle,-4,6,1,Made,1,117,100,217,h,Castle 1' Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,1,2,416
+0022400888,585,PT05M51.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,1,0,417
+0022400888,587,PT05M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,117,101,218,v,Watford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+0022400888,588,PT05M51.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,SUB: Biyombo FOR Sochan,Substitution,,0,0,419
+0022400888,589,PT05M51.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Paul FOR Champagnie,Substitution,,0,0,420
+0022400888,590,PT05M51.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Wilson FOR C. Johnson,Substitution,,0,0,421
+0022400888,594,PT05M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,117,102,219,v,Watford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+0022400888,595,PT05M50.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Personal Take Foul (P1.T2) (S.Jelks),Foul,Personal Take,1,0,423
+0022400888,597,PT05M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Williams FOR Watford,Substitution,,0,0,424
+0022400888,599,PT05M36.00S,4,1610612759,SAS,1642264,Castle,S. Castle,-28,35,4,Missed,1,,,0,h,MISS Castle 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,425
+0022400888,600,PT05M35.00S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,426
+0022400888,601,PT05M35.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,Claxton P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0,427
+0022400888,603,PT05M21.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,428
+0022400888,604,PT05M11.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,429
+0022400888,604,PT05M11.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle STEAL (2 STL),,,1,0,430
+0022400888,606,PT05M06.00S,4,1610612759,SAS,1642264,Castle,S. Castle,49,252,26,Missed,1,,,0,h,MISS Castle 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,431
+0022400888,607,PT05M06.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,432
+0022400888,608,PT04M54.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,208,143,25,Made,1,117,105,222,v,K. Johnson 25' 3PT Jump Shot (8 PTS) (Claxton 4 AST),Made Shot,Jump Shot,1,3,433
+0022400888,610,PT04M33.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-100,77,13,Made,1,119,105,224,h,Vassell 13' Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,2,434
+0022400888,611,PT04M21.00S,4,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,435
+0022400888,611,PT04M21.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell STEAL (4 STL),,,1,0,436
+0022400888,613,PT04M05.00S,4,1610612759,SAS,101108,Paul,C. Paul,-180,168,25,Made,1,122,105,227,h,Paul 25' 3PT Jump Shot (11 PTS) (Vassell 5 AST),Made Shot,Jump Shot,1,3,437
+0022400888,615,PT04M04.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,438
+0022400888,616,PT04M04.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Johnson FOR Castle,Substitution,,0,0,439
+0022400888,617,PT04M04.00S,4,1610612751,BKN,1630533,Williams,Z. Williams,0,0,0,,0,,,0,v,SUB: C. Johnson FOR Williams,Substitution,,0,0,440
+0022400888,634,PT04M04.00S,4,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Fox FOR Barnes,Substitution,,0,0,441
+0022400888,620,PT03M40.00S,4,1610612751,BKN,1631213,Martin,T. Martin,223,2,0,Made,1,122,108,230,v,Martin 3PT Jump Shot (9 PTS) (C. Johnson 4 AST),Made Shot,Jump Shot,1,3,442
+0022400888,622,PT03M19.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,105,13,11,Missed,1,,,0,h,MISS Vassell 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,443
+0022400888,623,PT03M18.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,444
+0022400888,671,PT03M18.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,9,11,1,Missed,1,,,0,h,MISS Vassell 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,445
+0022400888,672,PT03M16.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,446
+0022400888,624,PT03M08.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,223,20,0,Missed,1,,,0,v,MISS K. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022400888,625,PT03M05.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,448
+0022400888,626,PT02M56.00S,4,1610612759,SAS,1628368,Fox,D. Fox,-16,63,7,Made,1,124,108,232,h,Fox 7' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,449
+0022400888,627,PT02M40.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,15,11,2,Made,1,124,110,234,v,C. Johnson 2' Driving Bank Hook Shot (17 PTS),Made Shot,Driving Bank Hook Shot,1,2,450
+0022400888,628,PT02M23.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,227,117,26,Made,1,127,110,237,h,Vassell 26' 3PT Jump Shot (37 PTS) (Biyombo 3 AST),Made Shot,Jump Shot,1,3,451
+0022400888,630,PT02M09.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-205,151,25,Missed,1,,,0,v,MISS K. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022400888,631,PT02M05.00S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,453
+0022400888,632,PT02M02.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,1,0,454
+0022400888,636,PT02M02.00S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Barnes FOR Biyombo,Substitution,,0,0,455
+0022400888,637,PT02M02.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Sochan FOR Fox,Substitution,,0,0,456
+0022400888,638,PT02M02.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,SUB: Whitehead FOR K. Johnson,Substitution,,0,0,457
+0022400888,639,PT02M02.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,v,SUB: Lewis FOR C. Johnson,Substitution,,0,0,458
+0022400888,644,PT01M46.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,161,241,29,Missed,1,,,0,h,MISS Vassell 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,459
+0022400888,645,PT01M43.00S,4,1610612751,BKN,1631213,Martin,T. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,460
+0022400888,646,PT01M34.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,,,0,h,Sochan P.FOUL (P4.T3) (N.Buchert),Foul,Personal,1,0,461
+0022400888,648,PT01M34.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Mamukelashvili FOR Johnson,Substitution,,0,0,462
+0022400888,649,PT01M34.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,,,0,h,SUB: Branham FOR Paul,Substitution,,0,0,463
+0022400888,650,PT01M34.00S,4,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Wesley FOR Barnes,Substitution,,0,0,464
+0022400888,665,PT01M34.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,v,SUB: Sharpe FOR Claxton,Substitution,,0,0,465
+0022400888,654,PT01M21.00S,4,1610612751,BKN,1641727,Whitehead,D. Whitehead,201,155,25,Made,1,127,113,240,v,Whitehead 25' 3PT Jump Shot (3 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,3,466
+0022400888,656,PT01M02.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-150,189,24,Missed,1,,,0,h,MISS Vassell 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,467
+0022400888,657,PT00M58.60S,4,1610612751,BKN,1641721,Lewis,M. Lewis,0,0,0,,0,,,0,v,Lewis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,468
+0022400888,658,PT00M53.00S,4,1610612751,BKN,1631213,Martin,T. Martin,-232,5,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,469
+0022400888,659,PT00M53.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,470
+0022400888,660,PT00M42.90S,4,1610612759,SAS,1631104,Wesley,B. Wesley,50,89,10,Missed,1,,,0,h,MISS Wesley 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,471
+0022400888,661,PT00M37.10S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,472
+0022400888,662,PT00M29.30S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-184,178,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022400888,663,PT00M26.20S,4,1610612759,SAS,1630572,Mamukelashvili,S. Mamukelashvili,0,0,0,,0,,,0,h,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,474
+0022400888,664,PT00M02.20S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,475
+0022400888,667,PT00M00.00S,4,1610612751,BKN,1641727,Whitehead,D. Whitehead,-151,309,34,Missed,1,,,0,v,MISS Whitehead 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,476
+0022400888,668,PT00M00.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,1,0,477
+0022400888,669,PT00M00.00S,4,0,,0,,,0,0,0,,0,127,113,240,,End of 4th Period (10:47 PM EST),period,end,1,0,478

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coach's Challenge Model</title><style>:root {
+  color-scheme: light;
+  --surface: #fcfcfb; --surface-2: #f3f2ef; --border: #e2e1dc;
+  --text: #0b0b0b; --text-2: #52514e; --muted: #7a7974;
+  --series: #2a78d6; --grid: #e8e7e3;
+  --good-bg: #e3f2e3; --good: #1d6b1d; --warn-bg: #fbf0d6; --warn: #8a5a00; --no-bg: #f1f0ec; --no: #6b6a66;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface: #1a1a19; --surface-2: #232322; --border: #34342f;
+    --text: #f0efec; --text-2: #c3c2b7; --muted: #918f87;
+    --series: #3987e5; --grid: #2c2c29;
+    --good-bg: #1d3320; --good: #8fd08f; --warn-bg: #3a2f14; --warn: #e8c071; --no-bg: #262624; --no: #a4a39b;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #1a1a19; --surface-2: #232322; --border: #34342f;
+  --text: #f0efec; --text-2: #c3c2b7; --muted: #918f87;
+  --series: #3987e5; --grid: #2c2c29;
+  --good-bg: #1d3320; --good: #8fd08f; --warn-bg: #3a2f14; --warn: #e8c071; --no-bg: #262624; --no: #a4a39b;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--surface); color: var(--text);
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; }
+main { max-width: 1180px; margin: 0 auto; padding: 28px 16px 20px; }
+.eyebrow { margin: 0; color: var(--muted); font-size: 12px; letter-spacing: .03em; text-transform: uppercase; }
+h1 { font-size: 28px; line-height: 1.2; margin: 4px 0 6px; letter-spacing: -.01em; }
+h2 { font-size: 14px; margin: 0 0 8px; }
+.lede { margin: 0 0 18px; color: var(--text-2); max-width: 78ch; font-size: 15px; }
+section { margin-bottom: 22px; }
+.tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.tiles div { background: var(--surface-2); border-radius: 8px; padding: 10px 14px; }
+.tiles .big { display: block; font-size: 24px; font-weight: 650; font-variant-numeric: tabular-nums; }
+.tiles span:last-child { color: var(--text-2); font-size: 12px; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.chart { width: 100%; height: auto; display: block; }
+.chart .grid { stroke: var(--grid); stroke-width: 1; }
+.chart .ref { stroke: var(--muted); stroke-dasharray: 3 3; stroke-width: 1; }
+.chart .tick { fill: var(--muted); font-size: 11px; }
+.chart .lab { fill: var(--text); font-size: 12px; }
+.chart .val { fill: var(--text); font-size: 12px; font-variant-numeric: tabular-nums; }
+.chart .muted { fill: var(--muted); }
+.chart .bar { fill: var(--series); }
+.chart .whisk { stroke: var(--text-2); stroke-width: 1.5; }
+.chart .dot { fill: var(--series); stroke: var(--surface); stroke-width: 2; }
+.chart .dot.faint { fill: var(--surface); stroke: var(--series); stroke-width: 2; }
+.chart .hit { fill: transparent; }
+.chart g:hover .hit { fill: var(--surface-2); }
+.note { color: var(--muted); font-size: 12px; margin: 6px 0 0; }
+ul { margin: 0 0 14px; padding-left: 18px; }
+ul.small { font-size: 12.5px; color: var(--text-2); }
+li { margin-bottom: 4px; }
+.grid-t { width: 100%; border-collapse: separate; border-spacing: 4px; font-variant-numeric: tabular-nums; }
+.grid-t th { text-align: left; font-weight: 600; font-size: 12px; color: var(--text-2); padding: 4px 6px; }
+.grid-t td { padding: 8px 10px; border-radius: 6px; }
+.grid-t td b { font-size: 15px; }
+.grid-t td span { font-size: 12px; margin-left: 4px; }
+.grid-t td.go { background: var(--good-bg); color: var(--good); }
+.grid-t td.go span::before { content: "✓ "; }
+.grid-t td.maybe { background: var(--warn-bg); color: var(--warn); }
+.grid-t td.maybe span::before { content: "~ "; }
+.grid-t td.no { background: var(--no-bg); color: var(--no); }
+.grid-t td.no span::before { content: "✕ "; }
+footer { color: var(--muted); font-size: 11px; border-top: 1px solid var(--border); padding-top: 8px; }
+@media (max-width: 760px) {
+  .two { grid-template-columns: 1fr; }
+  .tiles { grid-template-columns: repeat(2, 1fr); }
+  .grid-t td span { display: block; margin: 0; }
+}
+@media print { main { padding: 0; } body { font-size: 12px; } }
+</style></head>
+<body><main>
+<header>
+  <p class="eyebrow">NBA regular season · 2023-24 to 2025-26 · NBA.com play-by-play via nba_api</p>
+  <h1>When is a coach's challenge worth it?</h1>
+  <p class="lede">Teams won <b>63%</b> of 4,407 regulation challenges. The biggest factor is what's being challenged:
+  out-of-bounds and possession calls were overturned <b>88%</b> of the time,
+  fouls <b>48%</b>, and goaltending only <b>10%</b>.
+  The odds of success fall 53% in the last two minutes of the 4th. Score margin made no measurable difference.</p>
+</header>
+
+<section class="tiles">
+  <div><span class="big">4,407</span><span>challenges</span></div>
+  <div><span class="big">63%</span><span>overturned</span></div>
+  <div><span class="big">0.75</span><span>cross-validated AUC</span></div>
+  <div><span class="big">50%</span><span>break-even assumed</span></div>
+</section>
+
+<section class="two">
+  <div><h2>Observed success by call</h2><svg viewBox="0 0 560 118" role="img" class="chart"><line x1="170.0" x2="170.0" y1="0" y2="96" class="grid"/><text x="170.0" y="112" class="tick" text-anchor="middle">0%</text><line x1="240.0" x2="240.0" y1="0" y2="96" class="grid"/><text x="240.0" y="112" class="tick" text-anchor="middle">25%</text><line x1="310.0" x2="310.0" y1="0" y2="96" class="grid"/><text x="310.0" y="112" class="tick" text-anchor="middle">50%</text><line x1="380.0" x2="380.0" y1="0" y2="96" class="grid"/><text x="380.0" y="112" class="tick" text-anchor="middle">75%</text><line x1="450.0" x2="450.0" y1="0" y2="96" class="grid"/><text x="450.0" y="112" class="tick" text-anchor="middle">100%</text><line x1="347.3" x2="347.3" y1="0" y2="96" class="ref"/><g><title>Foul: 48% (95% CI 47%–50%) · n=2,677</title><rect x="170" y="3" width="280" height="26" class="hit"/><text x="162" y="19" class="lab" text-anchor="end">Foul</text><path d="M170,10 H301.6 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="300.3" x2="310.9" y1="17" y2="17" class="whisk"/><text x="316.9" y="21" class="val">48%<tspan class="muted"> · n=2,677</tspan></text></g><g><title>Out of bounds / possession: 88% (95% CI 87%–90%) · n=1,690</title><rect x="170" y="33" width="280" height="26" class="hit"/><text x="162" y="49" class="lab" text-anchor="end">Out of bounds / possession</text><path d="M170,40 H413.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="412.5" x2="421.1" y1="47" y2="47" class="whisk"/><text x="427.1" y="51" class="val">88%<tspan class="muted"> · n=1,690</tspan></text></g><g><title>Goaltending / BI: 10% (95% CI 4%–23%) · n=40</title><rect x="170" y="63" width="280" height="26" class="hit"/><text x="162" y="79" class="lab" text-anchor="end">Goaltending / BI</text><path d="M170,70 H194.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="181.1" x2="234.5" y1="77" y2="77" class="whisk"/><text x="240.5" y="81" class="val">10%<tspan class="muted"> · n=40</tspan></text></g></svg>
+  <p class="note">The dashed line is the overall rate. Whiskers show 95% Wilson intervals.</p></div>
+  <div><h2>Observed success by game phase</h2><svg viewBox="0 0 560 118" role="img" class="chart"><line x1="170.0" x2="170.0" y1="0" y2="96" class="grid"/><text x="170.0" y="112" class="tick" text-anchor="middle">0%</text><line x1="240.0" x2="240.0" y1="0" y2="96" class="grid"/><text x="240.0" y="112" class="tick" text-anchor="middle">25%</text><line x1="310.0" x2="310.0" y1="0" y2="96" class="grid"/><text x="310.0" y="112" class="tick" text-anchor="middle">50%</text><line x1="380.0" x2="380.0" y1="0" y2="96" class="grid"/><text x="380.0" y="112" class="tick" text-anchor="middle">75%</text><line x1="450.0" x2="450.0" y1="0" y2="96" class="grid"/><text x="450.0" y="112" class="tick" text-anchor="middle">100%</text><line x1="347.3" x2="347.3" y1="0" y2="96" class="ref"/><g><title>Q1–Q3: 68% (95% CI 66%–69%) · n=2,711</title><rect x="170" y="3" width="280" height="26" class="hit"/><text x="162" y="19" class="lab" text-anchor="end">Q1–Q3</text><path d="M170,10 H355.6 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="354.6" x2="364.5" y1="17" y2="17" class="whisk"/><text x="370.5" y="21" class="val">68%<tspan class="muted"> · n=2,711</tspan></text></g><g><title>Q4, before last 2:00: 59% (95% CI 57%–62%) · n=1,245</title><rect x="170" y="33" width="280" height="26" class="hit"/><text x="162" y="49" class="lab" text-anchor="end">Q4, before last 2:00</text><path d="M170,40 H332.0 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="328.3" x2="343.5" y1="47" y2="47" class="whisk"/><text x="349.5" y="51" class="val">59%<tspan class="muted"> · n=1,245</tspan></text></g><g><title>Q4, last 2:00: 48% (95% CI 44%–53%) · n=451</title><rect x="170" y="63" width="280" height="26" class="hit"/><text x="162" y="79" class="lab" text-anchor="end">Q4, last 2:00</text><path d="M170,70 H300.7 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 H170 Z" class="bar"/><line x1="291.9" x2="317.6" y1="77" y2="77" class="whisk"/><text x="323.6" y="81" class="val">48%<tspan class="muted"> · n=451</tspan></text></g></svg></div>
+</section>
+
+<section>
+  <h2>Predicted success: close game (0–5 pts), challenging team trailing</h2>
+  <table class="grid-t"><thead><tr><th>Call challenged</th><th>Q1–Q3</th><th>Q4, before last 2:00</th><th>Q4, last 2:00</th></tr></thead><tbody><tr><th scope='row'>Foul</th><td class="maybe"><b>54%</b> <span>Borderline</span></td><td class="no"><b>47%</b> <span>Hold</span></td><td class="no"><b>33%</b> <span>Hold</span></td></tr><tr><th scope='row'>Out of bounds / possession</th><td class="go"><b>91%</b> <span>Challenge</span></td><td class="go"><b>88%</b> <span>Challenge</span></td><td class="go"><b>80%</b> <span>Challenge</span></td></tr><tr><th scope='row'>Goaltending / BI</th><td class="no"><b>11%</b> <span>Hold</span></td><td class="no"><b>8%</b> <span>Hold</span></td><td class="no"><b>5%</b> <span>Hold</span></td></tr></tbody></table>
+  <p class="note">Assumes 5 timeouts left in Q1–Q3 and 3 in the 4th, and that this is the team's first challenge.
+  “Challenge” means ≥60% predicted, “Borderline” 50%–60%,
+  and “Hold” below 50%. Margin effect for a foul in the 4th, before the last 2:00: 0–5 pts: 47%, 6–12 pts: 44%, 13+ pts: 44%.</p>
+</section>
+
+<section class="two">
+  <div><h2>Logistic regression effects</h2><svg viewBox="0 0 560 280" role="img" class="chart"><line x1="260.8" x2="260.8" y1="0" y2="258" class="grid"/><text x="260.8" y="274" class="tick" text-anchor="middle">0.05×</text><line x1="338.7" x2="338.7" y1="0" y2="258" class="grid"/><text x="338.7" y="274" class="tick" text-anchor="middle">0.25×</text><line x1="405.8" x2="405.8" y1="0" y2="258" class="ref"/><text x="405.8" y="274" class="tick" text-anchor="middle">1×</text><line x1="472.9" x2="472.9" y1="0" y2="258" class="grid"/><text x="472.9" y="274" class="tick" text-anchor="middle">4×</text><line x1="540.0" x2="540.0" y1="0" y2="258" class="grid"/><text x="540.0" y="274" class="tick" text-anchor="middle">16×</text><g><title>Out-of-bounds / possession (vs. foul): odds ×8.21 (95% CI 6.94–9.73), p=0.000</title><rect x="0" y="2" width="560" height="26" class="hit"/><text x="240" y="18" class="lab" text-anchor="end">Out-of-bounds / possession (vs. foul)</text><line x1="499.5" x2="515.9" y1="14" y2="14" class="whisk"/><circle cx="507.7" cy="14" r="5" class="dot"/></g><g><title>Goaltending / basket int. (vs. foul): odds ×0.10 (95% CI 0.04–0.30), p=0.000</title><rect x="0" y="30" width="560" height="26" class="hit"/><text x="240" y="46" class="lab" text-anchor="end">Goaltending / basket int. (vs. foul)</text><line x1="250.0" x2="346.8" y1="42" y2="42" class="whisk"/><circle cx="296.5" cy="42" r="5" class="dot"/></g><g><title>4th qtr before last 2:00 (vs. Q1–Q3): odds ×0.85 (95% CI 0.69–1.03), p=0.100</title><rect x="0" y="58" width="560" height="26" class="hit"/><text x="240" y="74" class="lab" text-anchor="end">4th qtr before last 2:00 (vs. Q1–Q3)</text><line x1="387.9" x2="407.4" y1="70" y2="70" class="whisk"/><circle cx="397.7" cy="70" r="5" class="dot faint"/></g><g><title>Last 2:00 of 4th (vs. Q1–Q3): odds ×0.47 (95% CI 0.34–0.64), p=0.000</title><rect x="0" y="86" width="560" height="26" class="hit"/><text x="240" y="102" class="lab" text-anchor="end">Last 2:00 of 4th (vs. Q1–Q3)</text><line x1="354.1" x2="384.1" y1="98" y2="98" class="whisk"/><circle cx="369.1" cy="98" r="5" class="dot"/></g><g><title>Margin 6–12 (vs. 0–5): odds ×0.90 (95% CI 0.77–1.06), p=0.211</title><rect x="0" y="114" width="560" height="26" class="hit"/><text x="240" y="130" class="lab" text-anchor="end">Margin 6–12 (vs. 0–5)</text><line x1="393.1" x2="408.6" y1="126" y2="126" class="whisk"/><circle cx="400.8" cy="126" r="5" class="dot faint"/></g><g><title>Margin 13+ (vs. 0–5): odds ×0.89 (95% CI 0.74–1.07), p=0.211</title><rect x="0" y="142" width="560" height="26" class="hit"/><text x="240" y="158" class="lab" text-anchor="end">Margin 13+ (vs. 0–5)</text><line x1="391.5" x2="408.9" y1="154" y2="154" class="whisk"/><circle cx="400.2" cy="154" r="5" class="dot faint"/></g><g><title>Challenging team is trailing: odds ×0.82 (95% CI 0.72–0.95), p=0.007</title><rect x="0" y="170" width="560" height="26" class="hit"/><text x="240" y="186" class="lab" text-anchor="end">Challenging team is trailing</text><line x1="389.6" x2="403.2" y1="182" y2="182" class="whisk"/><circle cx="396.4" cy="182" r="5" class="dot"/></g><g><title>Each extra timeout left: odds ×1.07 (95% CI 1.00–1.14), p=0.064</title><rect x="0" y="198" width="560" height="26" class="hit"/><text x="240" y="214" class="lab" text-anchor="end">Each extra timeout left</text><line x1="405.6" x2="412.3" y1="210" y2="210" class="whisk"/><circle cx="409.0" cy="210" r="5" class="dot faint"/></g><g><title>Second challenge of the game: odds ×0.98 (95% CI 0.81–1.20), p=0.878</title><rect x="0" y="226" width="560" height="26" class="hit"/><text x="240" y="242" class="lab" text-anchor="end">Second challenge of the game</text><line x1="395.4" x2="414.7" y1="238" y2="238" class="whisk"/><circle cx="405.0" cy="238" r="5" class="dot faint"/></g></svg>
+  <p class="note">Odds ratios on a log scale. Solid dots: p &lt; 0.05. Hollow dots: not distinguishable from no effect.
+  Season fixed effects are included but not shown.</p></div>
+  <div><h2>What the model says</h2><ul><li><b>Goaltending / basket int. (vs. foul)</b>: odds of success ×0.10 (95% CI 0.04–0.30).</li><li><b>Out-of-bounds / possession (vs. foul)</b>: odds of success ×8.21 (95% CI 6.94–9.73).</li><li><b>Last 2:00 of 4th (vs. Q1–Q3)</b>: odds of success ×0.47 (95% CI 0.34–0.64).</li><li><b>Challenging team is trailing</b>: odds of success ×0.82 (95% CI 0.72–0.95).</li></ul>
+  <h2>Method &amp; caveats</h2><ul class="small">
+  <li>Each challenge is the “Instant Replay – Coach Challenge” event in NBA.com play-by-play. The outcome is
+  Overturn (success) vs. Support / Stands. The challenging team comes from the timeout called at that moment.</li>
+  <li>Timeouts left come from the league's running timeout tally before the challenge. Score margin is from the challenging team's side.</li>
+  <li><b>Call-type leak:</b> when a foul is overturned, NBA.com usually deletes it from the log.
+  719 challenges (16%) had no call logged at that moment, and 88% of them succeeded.
+  These are treated as fouls. That keeps the foul family unbiased, but it also means foul subtypes
+  (shooting vs. loose-ball, etc.) can't be separated reliably. Overturned out-of-bounds calls show up as the corrected
+  possession, so they are pooled into one “out of bounds / possession” family.</li>
+  <li>This is selection-biased: it only covers calls coaches chose to challenge. It doesn't tell you how often
+  an unchallenged call would have been overturned.</li>
+  <li>Fit: AUC 0.75, Brier 0.187 vs. 0.232 for always guessing the base rate (5-fold CV).
+  The situation explains only part of the outcome. Most of it is what the coach saw on the replay.</li>
+  </ul></div>
+</section>
+<footer>Generated by model.py · overtime excluded · 2026-10-23</footer>
+</main></body></html>

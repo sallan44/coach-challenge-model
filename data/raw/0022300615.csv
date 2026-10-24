@@ -1,0 +1,451 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300615,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:36 PM EST),period,start,0,0,1
+0022300615,4,PT12M00.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Jump Ball Claxton vs. Sims: Tip to Anunoby,Jump Ball,,1,0,2
+0022300615,7,PT11M36.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,99,89,13,Missed,1,,,0,v,MISS Anunoby 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,3
+0022300615,8,PT11M32.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300615,9,PT11M18.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-1,259,26,Made,1,3,0,3,h,Johnson 26' 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,1,3,5
+0022300615,12,PT10M50.00S,1,1610612752,NYK,203944,Randle,J. Randle,-109,-6,11,Missed,1,,,0,v,MISS Randle 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,6
+0022300615,13,PT10M48.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,7
+0022300615,14,PT10M35.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,-5,1,1,Made,1,5,0,5,h,Johnson 1' Driving Reverse Layup (5 PTS) (Bridges 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,8
+0022300615,16,PT10M09.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,103,248,27,Made,1,5,3,8,v,DiVincenzo 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,9
+0022300615,17,PT09M54.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,10
+0022300615,19,PT09M41.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-15,95,10,Made,1,7,3,10,h,Bridges 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,11
+0022300615,20,PT09M27.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-43,116,12,Missed,1,,,0,v,MISS Brunson 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,12
+0022300615,21,PT09M27.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,13
+0022300615,22,PT09M27.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,h,Dinwiddie L.B.FOUL (P1.T1) (J.Capers),Foul,Loose Ball,1,0,14
+0022300615,24,PT09M17.00S,1,1610612752,NYK,203944,Randle,J. Randle,-47,40,6,Missed,1,,,0,v,MISS Randle 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,15
+0022300615,25,PT09M16.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+0022300615,26,PT09M16.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,Made,1,7,5,12,v,Sims Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,17
+0022300615,27,PT09M04.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,34,259,26,Missed,1,,,0,h,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+0022300615,28,PT09M02.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022300615,29,PT08M52.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-26,94,10,Made,1,7,7,14,v,Brunson 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,20
+0022300615,30,PT08M37.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,26,34,4,Missed,1,,,0,h,MISS Bridges 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,21
+0022300615,31,PT08M37.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,22
+0022300615,32,PT08M34.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,239,-13,24,Made,1,10,7,17,h,Bridges 24' 3PT Jump Shot (5 PTS) (Finney-Smith 2 AST),Made Shot,Jump Shot,1,3,23
+0022300615,34,PT08M11.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,1,121,12,Made,1,10,9,19,v,Anunoby 12' Step Back Jump Shot (2 PTS) (Sims 1 AST),Made Shot,Step Back Jump shot,1,2,24
+0022300615,36,PT07M56.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-53,105,12,Missed,1,,,0,h,MISS Bridges 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,25
+0022300615,37,PT07M53.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,26
+0022300615,38,PT07M49.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-26,265,27,Missed,1,,,0,h,MISS Dinwiddie 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022300615,39,PT07M45.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022300615,40,PT07M40.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,1,0,29
+0022300615,42,PT07M40.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,10,10,20,v,Randle Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,30
+0022300615,43,PT07M40.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,10,11,21,v,Randle Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,31
+0022300615,44,PT07M27.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,18,13,2,Made,1,12,11,23,h,Johnson 2' Driving Finger Roll Layup (7 PTS) (Claxton 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,32
+0022300615,45,PT07M27.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,1,0,33
+0022300615,48,PT07M27.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,13,11,24,h,Johnson Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,34
+0022300615,49,PT07M07.00S,1,1610612752,NYK,203944,Randle,J. Randle,114,16,12,Missed,1,,,0,v,MISS Randle 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,35
+0022300615,50,PT07M07.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022300615,51,PT06M58.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,15,267,27,Made,1,16,11,27,h,Johnson 27' 3PT Jump Shot (11 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,1,3,37
+0022300615,53,PT06M49.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,38
+0022300615,54,PT06M42.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-104,161,19,Made,1,16,13,29,v,Brunson 19' Pullup Jump Shot (4 PTS) (Sims 2 AST),Made Shot,Pullup Jump shot,0,2,39
+0022300615,55,PT06M30.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,31,13,3,Missed,1,,,0,h,MISS Johnson 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,40
+0022300615,56,PT06M27.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,41
+0022300615,57,PT06M25.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,124,234,26,Missed,1,,,0,v,MISS DiVincenzo 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,42
+0022300615,58,PT06M21.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,43
+0022300615,59,PT06M08.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,44
+0022300615,59,PT06M08.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (1 STL),,,1,0,45
+0022300615,61,PT06M01.00S,1,1610612752,NYK,1630579,Sims,J. Sims,12,4,1,Missed,1,,,0,v,MISS Sims 1' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,46
+0022300615,62,PT05M58.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+0022300615,64,PT05M48.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,70,248,26,Missed,1,,,0,h,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+0022300615,65,PT05M48.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022300615,66,PT05M38.00S,1,1610612752,NYK,1630579,Sims,J. Sims,-11,-4,1,Made,1,16,15,31,v,Sims 1' Driving Layup (4 PTS) (Randle 1 AST),Made Shot,Driving Layup Shot,1,2,50
+0022300615,68,PT05M23.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-16,20,3,Missed,1,,,0,h,MISS Bridges 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,51
+0022300615,69,PT05M20.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+0022300615,70,PT05M08.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,53
+0022300615,72,PT05M08.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Thomas FOR Johnson,Substitution,,0,0,54
+0022300615,73,PT05M08.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: O'Neale FOR Finney-Smith,Substitution,,0,0,55
+0022300615,76,PT04M54.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-81,259,27,Made,1,19,15,34,h,O'Neale 27' 3PT Jump Shot (3 PTS) (Thomas 1 AST),Made Shot,Jump Shot,1,3,56
+0022300615,78,PT04M30.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,6,4,1,Made,1,19,17,36,v,Brunson 1' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,57
+0022300615,79,PT04M19.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-53,89,10,Missed,1,,,0,h,MISS Bridges 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,58
+0022300615,80,PT04M16.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,59
+0022300615,81,PT04M14.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-15,62,6,Missed,1,,,0,h,MISS Claxton 6' Hook Shot,Missed Shot,Hook Shot,1,2,60
+0022300615,81,PT04M14.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims BLOCK (1 BLK),,,1,2,61
+0022300615,83,PT04M12.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,62
+0022300615,84,PT04M06.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,232,53,24,Missed,1,,,0,h,MISS Dinwiddie 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,63
+0022300615,85,PT04M03.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,64
+0022300615,86,PT03M50.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,65
+0022300615,86,PT03M50.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton STEAL (1 STL),,,1,0,66
+0022300615,88,PT03M42.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-174,191,26,Missed,1,,,0,h,MISS Bridges 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,67
+0022300615,89,PT03M39.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,68
+0022300615,90,PT03M33.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0,69
+0022300615,92,PT03M33.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,19,18,37,v,Randle Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,70
+0022300615,93,PT03M33.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Hart FOR Anunoby,Substitution,,0,0,71
+0022300615,95,PT03M33.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,72
+0022300615,96,PT03M33.00S,1,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Dinwiddie,Substitution,,0,0,73
+0022300615,97,PT03M33.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,74
+0022300615,100,PT03M33.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,19,19,38,v,Randle Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+0022300615,101,PT03M19.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,6,42,4,Missed,1,,,0,h,MISS Bridges 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,76
+0022300615,101,PT03M19.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims BLOCK (2 BLK),,,1,2,77
+0022300615,103,PT03M19.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,78
+0022300615,105,PT03M09.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-141,127,19,Made,1,21,19,40,h,Thomas 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,79
+0022300615,106,PT02M47.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-114,95,15,Missed,1,,,0,v,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,80
+0022300615,107,PT02M43.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+0022300615,108,PT02M37.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-6,12,1,Made,1,23,19,42,h,Bridges 1' Driving Finger Roll Layup (7 PTS) (Smith Jr. 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,82
+0022300615,110,PT02M21.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-49,43,7,Made,1,23,21,44,v,Brunson 7' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,83
+0022300615,111,PT02M09.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,85,254,27,Missed,1,,,0,h,MISS Thomas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,84
+0022300615,112,PT02M09.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+0022300615,113,PT01M56.00S,1,1610612752,NYK,203944,Randle,J. Randle,22,105,11,Made,1,23,23,46,v,Randle 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,86
+0022300615,114,PT01M40.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,15,258,26,Missed,1,,,0,h,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300615,115,PT01M37.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+0022300615,117,PT01M30.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle OFF.Foul (P1) (P.Ransom),Foul,Offensive,1,0,89
+0022300615,119,PT01M30.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,90
+0022300615,120,PT01M30.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: McBride FOR DiVincenzo,Substitution,,0,0,91
+0022300615,121,PT01M30.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,SUB: Grimes FOR Brunson,Substitution,,0,0,92
+0022300615,124,PT01M17.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,28,36,5,Missed,1,,,0,h,MISS Thomas 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,93
+0022300615,124,PT01M17.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims BLOCK (3 BLK),,,1,2,94
+0022300615,126,PT01M16.00S,1,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,95
+0022300615,128,PT01M16.00S,1,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes AWAY.FROM.PLAY.FOUL (P1.T3) (G.Petraitis),Foul,Away From Play,1,0,96
+0022300615,130,PT01M16.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,24,23,47,h,Thomas Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,97
+0022300615,131,PT01M05.00S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-11,26,3,Missed,1,,,0,h,MISS Finney-Smith 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,98
+0022300615,131,PT01M05.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims BLOCK (4 BLK),,,1,2,99
+0022300615,133,PT01M02.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300615,134,PT00M59.70S,1,1610612752,NYK,1628404,Hart,J. Hart,29,17,3,Missed,1,,,0,v,MISS Hart 3' Running Layup,Missed Shot,Running Layup Shot,1,2,101
+0022300615,134,PT00M59.70S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith BLOCK (1 BLK),,,1,2,102
+0022300615,136,PT00M57.20S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300615,137,PT00M52.20S,1,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-4,10,1,Made,1,26,23,49,h,Finney-Smith 1' Driving Finger Roll Layup (2 PTS) (O'Neale 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,104
+0022300615,139,PT00M40.40S,1,1610612752,NYK,203944,Randle,J. Randle,-36,36,5,Made,1,26,25,51,v,Randle 5' Driving Floating Bank Jump Shot (8 PTS) (McBride 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,105
+0022300615,141,PT00M40.40S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,1,0,106
+0022300615,143,PT00M40.40S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,26,26,52,v,Randle Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,107
+0022300615,144,PT00M32.30S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,108
+0022300615,144,PT00M32.30S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart STEAL (1 STL),,,1,0,109
+0022300615,146,PT00M21.90S,1,1610612752,NYK,203944,Randle,J. Randle,-25,22,3,Missed,1,,,0,v,MISS Randle 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,110
+0022300615,146,PT00M21.90S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale BLOCK (1 BLK),,,1,2,111
+0022300615,148,PT00M19.10S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,112
+0022300615,149,PT00M18.00S,1,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,9,8,1,Made,1,28,26,54,h,Smith Jr. 1' Running Layup (2 PTS) (Bridges 2 AST),Made Shot,Running Layup Shot,1,2,113
+0022300615,151,PT00M00.00S,1,1610612752,NYK,203944,Randle,J. Randle,-47,14,5,Missed,1,,,0,v,MISS Randle 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,114
+0022300615,152,PT00M00.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,115
+0022300615,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,26,54,,End of 1st Period (8:02 PM EST),period,end,1,0,116
+0022300615,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,26,54,,Start of 2nd Period (8:06 PM EST),period,start,0,0,117
+0022300615,163,PT11M51.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-26,27,4,Missed,1,,,0,h,MISS Smith Jr. 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,118
+0022300615,164,PT11M51.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,119
+0022300615,166,PT11M46.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,233,55,24,Missed,1,,,0,h,MISS O'Neale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300615,167,PT11M43.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+0022300615,168,PT11M30.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-109,224,25,Missed,1,,,0,v,MISS Grimes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300615,169,PT11M27.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,123
+0022300615,171,PT11M16.00S,2,1610612751,BKN,1629022,Walker IV,L. Walker IV,233,102,25,Missed,1,,,0,h,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300615,172,PT11M12.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+0022300615,173,PT11M00.00S,2,1610612752,NYK,1628404,Hart,J. Hart,93,231,25,Missed,1,,,0,v,MISS Hart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,126
+0022300615,174,PT10M57.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,127
+0022300615,175,PT10M48.00S,2,1610612751,BKN,1629022,Walker IV,L. Walker IV,25,16,3,Missed,1,,,0,h,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,128
+0022300615,176,PT10M46.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022300615,177,PT10M37.00S,2,1610612752,NYK,1630540,McBride,M. McBride,9,113,11,Missed,1,,,0,v,MISS McBride 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,130
+0022300615,178,PT10M32.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022300615,179,PT10M23.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-40,142,15,Missed,1,,,0,v,MISS Achiuwa 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,132
+0022300615,180,PT10M23.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,133
+0022300615,181,PT10M11.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-7,185,19,Made,1,30,26,56,h,Thomas 19' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,134
+0022300615,182,PT09M51.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,135
+0022300615,182,PT09M51.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale STEAL (1 STL),,,1,0,136
+0022300615,184,PT09M47.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,137
+0022300615,185,PT09M27.00S,2,1610612752,NYK,1630540,McBride,M. McBride,234,9,0,Made,1,30,29,59,v,McBride 3PT Jump Shot (3 PTS) (Grimes 1 AST),Made Shot,Jump Shot,1,3,138
+0022300615,187,PT09M07.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-51,89,10,Made,1,32,29,61,h,Thomas 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,139
+0022300615,188,PT09M00.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-9,-1,1,Made,1,32,31,63,v,Grimes 1' Driving Finger Roll Layup (2 PTS) (Hart 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,140
+0022300615,189,PT08M45.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,0,141
+0022300615,192,PT08M45.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,McBride AWAY.FROM.PLAY.FOUL (P1.T2) (J.Capers),Foul,Away From Play,0,0,142
+0022300615,194,PT08M45.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,33,31,64,h,Thomas Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,143
+0022300615,195,PT08M41.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Traveling Turnover (P2.T4),Turnover,Traveling,1,0,144
+0022300615,196,PT08M22.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,7,42,4,Missed,1,,,0,v,MISS Achiuwa 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,145
+0022300615,197,PT08M20.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,146
+0022300615,198,PT08M14.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,22,-1,2,Missed,1,,,0,h,MISS Claxton 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,147
+0022300615,199,PT08M12.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,148
+0022300615,200,PT08M12.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Missed,1,,,0,h,MISS Claxton Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,149
+0022300615,201,PT08M11.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,150
+0022300615,202,PT08M07.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,151
+0022300615,202,PT08M07.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,152
+0022300615,204,PT08M04.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,1,8,1,Made,1,35,31,66,h,Claxton 1' Running Dunk (2 PTS) (O'Neale 2 AST),Made Shot,Running Dunk Shot,1,2,153
+0022300615,206,PT07M56.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,154
+0022300615,207,PT07M56.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,SUB: Brunson FOR McBride,Substitution,,0,0,155
+0022300615,209,PT07M44.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-150,199,25,Made,1,35,34,69,v,Brunson 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,0,3,156
+0022300615,211,PT07M22.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-237,62,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0022300615,212,PT07M17.00S,2,1610612751,BKN,1629022,Walker IV,L. Walker IV,0,0,0,,0,,,0,h,Walker IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,158
+0022300615,213,PT07M11.00S,2,1610612751,BKN,1629022,Walker IV,L. Walker IV,120,236,26,Missed,1,,,0,h,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,159
+0022300615,214,PT07M10.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,160
+0022300615,216,PT06M59.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,62,240,25,Missed,1,,,0,v,MISS Brunson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,161
+0022300615,217,PT06M57.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,162
+0022300615,218,PT06M56.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,Made,1,35,36,71,v,Achiuwa Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,163
+0022300615,219,PT06M41.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,138,227,27,Missed,1,,,0,h,MISS Thomas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,164
+0022300615,220,PT06M38.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+0022300615,221,PT06M35.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,25,22,3,Missed,1,,,0,v,MISS Anunoby 3' Running Layup,Missed Shot,Running Layup Shot,1,2,166
+0022300615,221,PT06M35.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. BLOCK (1 BLK),,,1,2,167
+0022300615,223,PT06M35.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,168
+0022300615,225,PT06M35.00S,2,1610612751,BKN,1629022,Walker IV,L. Walker IV,0,0,0,,0,,,0,h,SUB: Johnson FOR Walker IV,Substitution,,0,0,169
+0022300615,226,PT06M35.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Randle FOR Anunoby,Substitution,,0,0,170
+0022300615,229,PT06M32.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,77,79,11,Made,1,35,38,73,v,Brunson 11' Driving Floating Jump Shot (13 PTS) (Achiuwa 1 AST),Made Shot,Driving Floating Jump Shot,1,2,171
+0022300615,230,PT06M32.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,172
+0022300615,232,PT06M32.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,35,39,74,v,Brunson Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,173
+0022300615,233,PT06M17.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,1,4,0,Made,1,37,39,76,h,Claxton Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,2,174
+0022300615,234,PT06M00.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-100,227,25,Missed,1,,,0,v,MISS Brunson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,175
+0022300615,235,PT05M58.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,176
+0022300615,236,PT05M52.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,-18,8,2,Made,1,39,39,78,h,O'Neale 2' Driving Layup (5 PTS) (Johnson 1 AST),Made Shot,Driving Layup Shot,1,2,177
+0022300615,237,PT05M45.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,178
+0022300615,240,PT05M45.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,SUB: Bridges FOR Thomas,Substitution,,0,0,179
+0022300615,241,PT05M45.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,180
+0022300615,242,PT05M45.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,SUB: Sims FOR Achiuwa,Substitution,,0,0,181
+0022300615,246,PT05M34.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,0,182
+0022300615,248,PT05M34.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,39,40,79,v,Brunson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022300615,249,PT05M34.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,39,41,80,v,Brunson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+0022300615,250,PT05M22.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,2,22,2,Made,1,41,41,82,h,Bridges 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,2,185
+0022300615,251,PT05M00.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-233,-21,0,Made,1,41,44,85,v,Grimes 3PT Jump Shot (5 PTS) (Randle 2 AST),Made Shot,Jump Shot,1,3,186
+0022300615,253,PT04M48.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,158,201,26,Missed,1,,,0,h,MISS Bridges 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,187
+0022300615,254,PT04M45.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,188
+0022300615,255,PT04M42.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,238,-4,24,Made,1,44,44,88,h,Bridges 24' 3PT Jump Shot (12 PTS) (Johnson 2 AST),Made Shot,Jump Shot,1,3,189
+0022300615,257,PT04M26.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith P.FOUL (P1.T3) (P.Ransom),Foul,Personal,1,0,190
+0022300615,259,PT04M26.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR Grimes,Substitution,,0,0,191
+0022300615,261,PT04M20.00S,2,1610612752,NYK,203944,Randle,J. Randle,-21,-7,2,Made,1,44,46,90,v,Randle 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,192
+0022300615,262,PT04M07.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-7,42,4,Made,1,46,46,92,h,Smith Jr. 4' Driving Layup (4 PTS) (Finney-Smith 3 AST),Made Shot,Driving Layup Shot,1,2,193
+0022300615,264,PT03M51.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T4) (P.Ransom),Foul,Personal,1,0,194
+0022300615,266,PT03M51.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR O'Neale,Substitution,,0,0,195
+0022300615,267,PT03M51.00S,2,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,196
+0022300615,270,PT03M41.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,176,174,25,Missed,1,,,0,v,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0022300615,271,PT03M38.00S,2,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,198
+0022300615,272,PT03M31.00S,2,1610612752,NYK,1628404,Hart,J. Hart,29,114,12,Missed,1,,,0,v,MISS Hart 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,199
+0022300615,273,PT03M28.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,200
+0022300615,274,PT03M14.00S,2,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims P.FOUL (P1.T3) (P.Ransom),Foul,Personal,1,0,201
+0022300615,276,PT03M14.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,SUB: Anunoby FOR Hart,Substitution,,0,0,202
+0022300615,278,PT03M06.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-136,220,26,Missed,1,,,0,h,MISS Dinwiddie 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,203
+0022300615,279,PT03M03.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,204
+0022300615,280,PT03M03.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Out of Bounds - Bad Pass Turnover Turnover (P3.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,205
+0022300615,281,PT02M47.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,10,106,11,Made,1,46,48,94,v,Brunson 11' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,206
+0022300615,282,PT02M21.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,241,-8,24,Missed,1,,,0,h,MISS Dinwiddie 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300615,283,PT02M18.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,208
+0022300615,284,PT02M09.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,209
+0022300615,284,PT02M09.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo STEAL (1 STL),,,1,0,210
+0022300615,286,PT02M03.00S,2,1610612752,NYK,203944,Randle,J. Randle,4,-1,0,Missed,1,,,0,v,MISS Randle Running Layup,Missed Shot,Running Layup Shot,1,2,211
+0022300615,287,PT02M00.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,212
+0022300615,288,PT02M00.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,Missed,1,,,0,v,MISS DiVincenzo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,213
+0022300615,289,PT01M59.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,214
+0022300615,291,PT01M42.00S,2,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-229,4,0,Missed,1,,,0,h,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022300615,292,PT01M38.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,216
+0022300615,293,PT01M36.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-146,205,25,Missed,1,,,0,v,MISS Brunson 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,217
+0022300615,294,PT01M35.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,218
+0022300615,295,PT01M35.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,Made,1,46,50,96,v,Randle Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,219
+0022300615,296,PT01M32.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,220
+0022300615,297,PT01M32.00S,2,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,221
+0022300615,298,PT01M12.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,-116,153,19,Missed,1,,,0,h,MISS Johnson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,222
+0022300615,299,PT01M08.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,223
+0022300615,300,PT00M56.40S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,224
+0022300615,301,PT00M45.90S,2,1610612751,BKN,1628969,Bridges,M. Bridges,-159,194,25,Made,1,49,50,99,h,Bridges 25' 3PT Pullup Jump Shot (15 PTS) (Dinwiddie 2 AST),Made Shot,Pullup Jump shot,1,3,225
+0022300615,302,PT00M26.90S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,226
+0022300615,303,PT00M03.20S,2,1610612751,BKN,1629651,Claxton,N. Claxton,2,127,13,Missed,1,,,0,h,MISS Claxton 13' Jump Shot,Missed Shot,Jump Shot,1,2,227
+0022300615,304,PT00M02.40S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,228
+0022300615,305,PT00M00.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-112,661,67,Missed,1,,,0,v,MISS DiVincenzo 67' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,229
+0022300615,306,PT00M00.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,1,0,230
+0022300615,307,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,50,99,,End of 2nd Period (8:33 PM EST),period,end,1,0,231
+0022300615,308,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,50,99,,Start of 3rd Period (8:50 PM EST),period,start,0,0,232
+0022300615,309,PT11M52.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,1,138,14,Made,1,51,50,101,h,Bridges 14' Pullup Jump Shot (17 PTS) (Finney-Smith 4 AST),Made Shot,Pullup Jump shot,1,2,233
+0022300615,311,PT11M26.00S,3,1610612752,NYK,203944,Randle,J. Randle,114,41,12,Missed,1,,,0,v,MISS Randle 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,234
+0022300615,312,PT11M23.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,235
+0022300615,313,PT11M16.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,107,124,16,Missed,1,,,0,h,MISS Johnson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,236
+0022300615,314,PT11M14.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,237
+0022300615,315,PT11M09.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-225,-18,0,Made,1,54,50,104,h,Bridges 3PT Jump Shot (20 PTS) (Finney-Smith 5 AST),Made Shot,Jump Shot,1,3,238
+0022300615,317,PT10M52.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,239
+0022300615,318,PT10M34.00S,3,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,10,16,2,Missed,1,,,0,h,MISS Finney-Smith 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,240
+0022300615,319,PT10M33.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,241
+0022300615,320,PT10M33.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Made,1,56,50,106,h,Claxton Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,242
+0022300615,321,PT10M17.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-18,11,2,Made,1,56,52,108,v,Brunson 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,243
+0022300615,322,PT10M08.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-115,222,25,Made,1,59,52,111,h,Bridges 25' 3PT Jump Shot (23 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,1,3,244
+0022300615,324,PT09M44.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,245
+0022300615,324,PT09M44.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton STEAL (2 STL),,,1,0,246
+0022300615,326,PT09M29.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,h,Dinwiddie Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,247
+0022300615,326,PT09M29.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (2 STL),,,1,0,248
+0022300615,328,PT09M19.00S,3,1610612752,NYK,1630579,Sims,J. Sims,9,5,1,Made,1,59,54,113,v,Sims 1' Alley Oop Layup (6 PTS) (Brunson 1 AST),Made Shot,Alley Oop Layup shot,1,2,249
+0022300615,330,PT09M03.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,1,0,250
+0022300615,332,PT08M57.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-234,-12,0,Missed,1,,,0,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022300615,333,PT08M54.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,252
+0022300615,334,PT08M37.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,38,50,6,Made,1,59,56,115,v,DiVincenzo 6' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,253
+0022300615,336,PT08M20.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-157,197,25,Made,1,62,56,118,h,Johnson 25' 3PT Jump Shot (14 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,254
+0022300615,338,PT08M05.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-23,91,9,Made,1,62,58,120,v,Brunson 9' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,1,2,255
+0022300615,339,PT07M48.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,11,-6,1,Made,1,64,58,122,h,Johnson 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,256
+0022300615,340,PT07M48.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,257
+0022300615,341,PT07M35.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-167,191,25,Made,1,64,61,125,v,DiVincenzo 25' 3PT Jump Shot (8 PTS) (Randle 3 AST),Made Shot,Jump Shot,1,3,258
+0022300615,343,PT07M10.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-229,-26,0,Made,1,67,61,128,h,Johnson 3PT Jump Shot (19 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,259
+0022300615,345,PT06M52.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,260
+0022300615,345,PT06M52.00S,3,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith STEAL (1 STL),,,1,0,261
+0022300615,347,PT06M45.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-10,14,2,Missed,1,,,0,h,MISS Johnson 2' Running Layup,Missed Shot,Running Layup Shot,1,2,262
+0022300615,347,PT06M45.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby BLOCK (1 BLK),,,1,2,263
+0022300615,349,PT06M45.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,1,0,264
+0022300615,351,PT06M45.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Dinwiddie,Substitution,,0,0,265
+0022300615,353,PT06M21.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,266
+0022300615,354,PT06M09.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-21,-4,2,Missed,1,,,0,h,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,267
+0022300615,355,PT06M08.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,1,0,268
+0022300615,357,PT05M57.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,25,91,9,Made,1,67,63,130,v,Brunson 9' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,269
+0022300615,358,PT05M36.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,87,240,26,Made,1,70,63,133,h,Bridges 26' 3PT Pullup Jump Shot (26 PTS) (Finney-Smith 6 AST),Made Shot,Pullup Jump shot,1,3,270
+0022300615,360,PT05M16.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,271
+0022300615,362,PT05M16.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,SUB: Thomas FOR Johnson,Substitution,,0,0,272
+0022300615,364,PT05M09.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-137,13,14,Missed,1,,,0,v,MISS Brunson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,273
+0022300615,365,PT05M07.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,274
+0022300615,367,PT04M49.00S,3,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,275
+0022300615,367,PT04M49.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (3 STL),,,1,0,276
+0022300615,369,PT04M47.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,0,277
+0022300615,371,PT04M47.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,70,64,134,v,Anunoby Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,278
+0022300615,372,PT04M47.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,70,65,135,v,Anunoby Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+0022300615,373,PT04M26.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,-29,163,17,Made,1,72,65,137,h,Thomas 17' Step Back Jump Shot (10 PTS) (Smith Jr. 2 AST),Made Shot,Step Back Jump shot,1,2,280
+0022300615,375,PT04M11.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,92,246,26,Made,1,72,68,140,v,DiVincenzo 26' 3PT Jump Shot (11 PTS) (Randle 4 AST),Made Shot,Jump Shot,1,3,281
+0022300615,377,PT03M55.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. OFF.Foul (P4) (J.Capers),Foul,Offensive,1,0,282
+0022300615,379,PT03M55.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,283
+0022300615,380,PT03M55.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Hart FOR Anunoby,Substitution,,0,0,284
+0022300615,382,PT03M48.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle OFF.Foul (P2) (G.Petraitis),Foul,Offensive,1,0,285
+0022300615,384,PT03M48.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0,286
+0022300615,385,PT03M37.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-9,-1,1,Made,1,74,68,142,h,Bridges 1' Reverse Layup (28 PTS) (Smith Jr. 3 AST),Made Shot,Reverse Layup Shot,1,2,287
+0022300615,387,PT03M20.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-97,268,29,Missed,1,,,0,v,MISS DiVincenzo 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,288
+0022300615,388,PT03M18.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,289
+0022300615,389,PT03M12.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0,290
+0022300615,391,PT03M12.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Grimes FOR DiVincenzo,Substitution,,0,0,291
+0022300615,393,PT03M12.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,,,0,v,SUB: Achiuwa FOR Sims,Substitution,,0,0,292
+0022300615,395,PT03M07.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,293
+0022300615,395,PT03M07.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,Grimes STEAL (1 STL),,,1,0,294
+0022300615,397,PT03M07.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas Transition Take Foul (P2.T3) (J.Capers),Foul,Transition Take,1,0,295
+0022300615,399,PT03M07.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,74,69,143,v,Randle Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,296
+0022300615,400,PT02M49.00S,3,1610612752,NYK,203944,Randle,J. Randle,-27,125,13,Missed,1,,,0,v,MISS Randle 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,297
+0022300615,401,PT02M46.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,298
+0022300615,402,PT02M31.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,7,162,16,Missed,1,,,0,h,MISS Thomas 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,299
+0022300615,403,PT02M28.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,300
+0022300615,404,PT02M23.00S,3,1610612752,NYK,203944,Randle,J. Randle,1,10,1,Made,1,74,71,145,v,Randle 1' Running Layup (16 PTS) (Brunson 2 AST),Made Shot,Running Layup Shot,1,2,301
+0022300615,406,PT02M00.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-40,246,25,Made,1,77,71,148,h,Bridges 25' 3PT Jump Shot (31 PTS) (Finney-Smith 7 AST),Made Shot,Jump Shot,1,3,302
+0022300615,408,PT01M41.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,Brunson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,303
+0022300615,408,PT01M41.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges STEAL (1 STL),,,1,0,304
+0022300615,410,PT01M38.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,9,-6,1,Made,1,79,71,150,h,Smith Jr. 1' Running Layup (6 PTS) (Bridges 5 AST),Made Shot,Running Layup Shot,1,2,305
+0022300615,412,PT01M38.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,306
+0022300615,413,PT01M38.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,SUB: McBride FOR Brunson,Substitution,,0,0,307
+0022300615,415,PT01M28.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,-114,233,26,Missed,1,,,0,v,MISS Grimes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,308
+0022300615,416,PT01M25.00S,3,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+0022300615,417,PT01M16.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,16,4,2,Made,1,81,71,152,h,Claxton 2' Alley Oop Dunk (8 PTS) (Thomas 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,310
+0022300615,419,PT00M55.70S,3,1610612752,NYK,203944,Randle,J. Randle,-27,83,9,Made,1,81,73,154,v,Randle 9' Fadeaway Jumper (18 PTS) (Grimes 2 AST),Made Shot,Fadeaway Jump Shot,1,2,311
+0022300615,421,PT00M38.10S,3,1610612751,BKN,1628969,Bridges,M. Bridges,76,117,14,Made,1,83,73,156,h,Bridges 14' Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,1,2,312
+0022300615,422,PT00M30.60S,3,1610612752,NYK,203944,Randle,J. Randle,54,258,26,Made,1,83,76,159,v,Randle 26' 3PT Jump Shot (21 PTS) (McBride 2 AST),Made Shot,Jump Shot,1,3,313
+0022300615,424,PT00M11.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,33,0,3,Made,1,85,76,161,h,Thomas 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,314
+0022300615,425,PT00M03.50S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges Personal Take Foul (P2.T4) (P.Ransom),Foul,Personal Take,1,0,315
+0022300615,427,PT00M03.50S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,SUB: Brunson FOR McBride,Substitution,,0,0,316
+0022300615,429,PT00M00.00S,3,1610612752,NYK,1628404,Hart,J. Hart,88,243,26,Missed,1,,,0,v,MISS Hart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022300615,430,PT00M00.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,318
+0022300615,431,PT00M00.00S,3,0,,0,,,0,0,0,,0,85,76,161,,End of 3rd Period (9:15 PM EST),period,end,1,0,319
+0022300615,440,PT12M00.00S,4,0,,0,,,0,0,0,,0,85,76,161,,Start of 4th Period (9:18 PM EST),period,start,0,0,320
+0022300615,441,PT11M40.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-21,91,9,Missed,1,,,0,v,MISS Hart 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,321
+0022300615,442,PT11M36.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,322
+0022300615,443,PT11M17.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,323
+0022300615,443,PT11M17.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (4 STL),,,1,0,324
+0022300615,445,PT11M11.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,18,10,2,Missed,1,,,0,v,MISS Anunoby 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022300615,445,PT11M11.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas BLOCK (1 BLK),,,1,2,326
+0022300615,447,PT11M10.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,327
+0022300615,464,PT11M10.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,4,5,1,Missed,1,,,0,v,MISS Anunoby 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,328
+0022300615,465,PT11M09.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,329
+0022300615,448,PT11M09.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,6,26,3,Made,1,85,78,163,v,Achiuwa 3' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,330
+0022300615,449,PT10M49.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,229,131,26,Missed,1,,,0,h,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300615,450,PT10M48.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,332
+0022300615,451,PT10M38.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-33,257,26,Missed,1,,,0,v,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022300615,452,PT10M35.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:6 Def:9),Rebound,Unknown,1,0,334
+0022300615,453,PT10M26.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-75,9,8,Made,1,87,78,165,h,Thomas 8' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,2,335
+0022300615,454,PT10M09.00S,4,1610612752,NYK,1630540,McBride,M. McBride,38,115,12,Made,1,87,80,167,v,McBride 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,336
+0022300615,455,PT09M46.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,-25,16,3,Missed,1,,,0,h,MISS Claxton 3' Layup,Missed Shot,Layup Shot,1,2,337
+0022300615,456,PT09M44.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+0022300615,457,PT09M36.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-10,258,26,Missed,1,,,0,v,MISS Achiuwa 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300615,458,PT09M32.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:6 Def:10),Rebound,Unknown,1,0,340
+0022300615,459,PT09M17.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,-16,257,26,Missed,1,,,0,h,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022300615,460,PT09M14.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,342
+0022300615,461,PT09M05.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-76,257,27,Made,1,87,83,170,v,McBride 27' 3PT Jump Shot (8 PTS) (Anunoby 1 AST),Made Shot,Jump Shot,1,3,343
+0022300615,463,PT09M04.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,344
+0022300615,466,PT09M04.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,345
+0022300615,467,PT09M04.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Claxton,Substitution,,0,0,346
+0022300615,470,PT08M45.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,5,256,26,Made,1,90,83,173,h,Walker IV 26' 3PT Pullup Jump Shot (3 PTS) (Dinwiddie 4 AST),Made Shot,Pullup Jump shot,1,3,347
+0022300615,471,PT08M25.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-17,267,27,Missed,1,,,0,v,MISS Anunoby 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,348
+0022300615,472,PT08M25.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,349
+0022300615,473,PT08M25.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale L.B.FOUL (P3.T1) (J.Capers),Foul,Loose Ball,1,0,350
+0022300615,476,PT08M18.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,23,20,3,Made,1,90,85,175,v,Anunoby 3' Driving Bank Hook Shot (6 PTS) (Achiuwa 2 AST),Made Shot,Driving Bank Hook Shot,1,2,351
+0022300615,477,PT08M03.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,97,79,13,Missed,1,,,0,h,MISS Walker IV 13' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+0022300615,477,PT08M03.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,McBride BLOCK (1 BLK),,,1,2,353
+0022300615,479,PT08M03.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,354
+0022300615,481,PT08M03.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Dinwiddie,Substitution,,0,0,355
+0022300615,483,PT07M54.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,222,9,0,Made,1,93,85,178,h,O'Neale 3PT Jump Shot (8 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,1,3,356
+0022300615,485,PT07M33.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-38,107,11,Made,1,93,87,180,v,Anunoby 11' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,357
+0022300615,487,PT07M12.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,-6,158,16,Made,1,95,87,182,h,Walker IV 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,358
+0022300615,488,PT06M56.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P5.T2) (G.Petraitis),Foul,Shooting,1,0,359
+0022300615,490,PT06M56.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,95,88,183,v,Anunoby Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022300615,491,PT06M56.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,SUB: Bridges FOR Thomas,Substitution,,0,0,361
+0022300615,492,PT06M56.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,,,0,v,SUB: Brunson FOR McBride,Substitution,,0,0,362
+0022300615,495,PT06M56.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,95,89,184,v,Anunoby Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022300615,496,PT06M42.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,23,250,25,Missed,1,,,0,h,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,364
+0022300615,497,PT06M39.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,365
+0022300615,498,PT06M34.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,145,204,25,Missed,1,,,0,h,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300615,499,PT06M31.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,367
+0022300615,500,PT06M22.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,1,0,368
+0022300615,502,PT06M22.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,95,90,185,v,Brunson Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+0022300615,503,PT06M22.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Randle FOR Anunoby,Substitution,,0,0,370
+0022300615,505,PT06M22.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,95,91,186,v,Brunson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+0022300615,506,PT06M02.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,75,253,26,Missed,1,,,0,h,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022300615,507,PT05M58.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,373
+0022300615,508,PT05M50.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-22,260,26,Made,1,95,94,189,v,Brunson 26' 3PT Pullup Jump Shot (29 PTS) (Randle 5 AST),Made Shot,Pullup Jump shot,1,3,374
+0022300615,510,PT05M40.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,7,6,1,Made,1,97,94,191,h,Smith Jr. 1' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,375
+0022300615,512,PT05M20.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-10,262,26,Missed,1,,,0,v,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022300615,513,PT05M17.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,377
+0022300615,514,PT05M13.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Traveling Turnover (P4.T12),Turnover,Traveling,1,0,378
+0022300615,515,PT05M13.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,SUB: Johnson FOR O'Neale,Substitution,,0,0,379
+0022300615,516,PT05M13.00S,4,1610612751,BKN,1629022,Walker IV,L. Walker IV,0,0,0,,0,,,0,h,SUB: Claxton FOR Walker IV,Substitution,,0,0,380
+0022300615,519,PT05M04.00S,4,1610612752,NYK,1628404,Hart,J. Hart,96,247,27,Missed,1,,,0,v,MISS Hart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022300615,520,PT05M00.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,382
+0022300615,521,PT04M57.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,-232,18,0,Missed,1,,,0,v,MISS Grimes 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,383
+0022300615,522,PT04M54.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,Bridges REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,384
+0022300615,523,PT04M48.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,161,-5,16,Missed,1,,,0,h,MISS Bridges 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,385
+0022300615,524,PT04M43.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,386
+0022300615,525,PT04M39.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,4,16,2,Made,1,97,96,193,v,Achiuwa 2' Running Dunk (6 PTS) (Randle 6 AST),Made Shot,Running Dunk Shot,1,2,387
+0022300615,527,PT04M16.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,118,232,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,388
+0022300615,528,PT04M12.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,1,0,389
+0022300615,530,PT04M12.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR Grimes,Substitution,,0,0,390
+0022300615,532,PT04M01.00S,4,1610612752,NYK,203944,Randle,J. Randle,28,-4,3,Missed,1,,,0,v,MISS Randle 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,391
+0022300615,533,PT04M00.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,392
+0022300615,534,PT04M00.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,Made,1,97,98,195,v,Randle Tip Layup Shot (23 PTS),Made Shot,Tip Layup Shot,1,2,393
+0022300615,535,PT03M57.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,394
+0022300615,536,PT03M47.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-227,-37,0,Made,1,100,98,198,h,Finney-Smith 3PT Jump Shot (5 PTS) (Smith Jr. 5 AST),Made Shot,Jump Shot,1,3,395
+0022300615,538,PT03M32.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-50,41,6,Missed,1,,,0,v,MISS Brunson 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,396
+0022300615,539,PT03M32.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,397
+0022300615,540,PT03M32.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa L.B.FOUL (P1.T1) (G.Petraitis),Foul,Loose Ball,1,0,398
+0022300615,542,PT03M17.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0,399
+0022300615,542,PT03M17.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart STEAL (2 STL),,,1,0,400
+0022300615,544,PT03M11.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,59,84,10,Missed,1,,,0,v,MISS Brunson 10' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,401
+0022300615,545,PT03M09.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton REBOUND (Off:6 Def:11),Rebound,Unknown,1,0,402
+0022300615,546,PT02M54.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-48,246,25,Missed,1,,,0,h,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300615,547,PT02M50.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,404
+0022300615,548,PT02M38.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-229,74,24,Missed,1,,,0,v,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022300615,549,PT02M38.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,406
+0022300615,550,PT02M38.00S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith L.B.FOUL (P3.T4) (J.Capers),Foul,Loose Ball,1,0,407
+0022300615,552,PT02M38.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,,,0,v,SUB: Anunoby FOR DiVincenzo,Substitution,,0,0,408
+0022300615,554,PT02M26.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-154,204,26,Missed,1,,,0,v,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,409
+0022300615,555,PT02M22.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,410
+0022300615,557,PT02M19.00S,4,1610612752,NYK,203944,Randle,J. Randle,223,130,26,Made,1,100,101,201,v,Randle 26' 3PT Step Back Jump Shot (26 PTS) (Brunson 3 AST),Made Shot,Step Back Jump shot,1,3,411
+0022300615,558,PT01M54.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,20,68,7,Missed,1,,,0,h,MISS Smith Jr. 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,412
+0022300615,559,PT01M51.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,413
+0022300615,560,PT01M45.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle Lost Ball Turnover (P4.T14),Turnover,Lost Ball,1,0,414
+0022300615,560,PT01M45.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (2 STL),,,1,0,415
+0022300615,562,PT01M45.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle P.FOUL (P3.T2) (G.Petraitis),Foul,Personal,1,0,416
+0022300615,564,PT01M28.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,0,417
+0022300615,566,PT01M28.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,h,MISS Bridges Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,418
+0022300615,567,PT01M28.00S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Normal Rebound,1,0,419
+0022300615,569,PT01M28.00S,4,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,101,101,202,h,Bridges Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+0022300615,570,PT01M13.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,16,15,2,Missed,1,,,0,v,MISS Brunson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,421
+0022300615,570,PT01M13.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton BLOCK (1 BLK),,,1,2,422
+0022300615,572,PT01M10.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,423
+0022300615,573,PT01M08.00S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,-12,5,1,Missed,1,,,0,h,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,424
+0022300615,573,PT01M08.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart BLOCK (1 BLK),,,1,2,425
+0022300615,574,PT01M06.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,426
+0022300615,575,PT01M04.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,44,50,7,Missed,1,,,0,h,MISS Johnson 7' Putback Layup,Missed Shot,Putback Layup Shot,1,2,427
+0022300615,575,PT01M04.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby BLOCK (2 BLK),,,1,2,428
+0022300615,577,PT01M04.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,429
+0022300615,578,PT01M00.00S,4,1610612752,NYK,203944,Randle,J. Randle,-6,12,1,Made,1,101,103,204,v,Randle 1' Running Dunk (28 PTS) (Brunson 4 AST),Made Shot,Running Dunk Shot,1,2,430
+0022300615,581,PT00M48.80S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,-16,245,25,Missed,1,,,0,h,MISS Finney-Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0022300615,582,PT00M46.80S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,432
+0022300615,583,PT00M25.30S,4,1610612752,NYK,1628404,Hart,J. Hart,11,8,1,Made,1,101,105,206,v,Hart 1' Driving Layup (2 PTS) (Randle 7 AST),Made Shot,Driving Layup Shot,1,2,433
+0022300615,585,PT00M25.30S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,434
+0022300615,586,PT00M25.30S,4,1610612751,BKN,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,435
+0022300615,587,PT00M25.30S,4,1610612751,BKN,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: O'Neale FOR Finney-Smith,Substitution,,0,0,436
+0022300615,590,PT00M21.50S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-92,95,13,Made,1,103,105,208,h,Bridges 13' Pullup Jump Shot (36 PTS) (O'Neale 3 AST),Made Shot,Pullup Jump shot,1,2,437
+0022300615,591,PT00M19.80S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,,,0,h,Thomas Personal Take Foul (P3.PN) (P.Ransom),Foul,Personal Take,1,0,438
+0022300615,593,PT00M19.80S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,103,106,209,v,Brunson Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,439
+0022300615,595,PT00M19.80S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,,,0,v,MISS Brunson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,440
+0022300615,596,PT00M18.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,441
+0022300615,597,PT00M10.60S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,442
+0022300615,598,PT00M06.80S,4,1610612751,BKN,1629661,Johnson,C. Johnson,136,213,25,Missed,1,,,0,h,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022300615,599,PT00M03.10S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,444
+0022300615,600,PT00M03.10S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,,,0,h,Claxton Personal Take Foul (P1.PN) (G.Petraitis),Foul,Personal Take,1,0,445
+0022300615,602,PT00M03.10S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,103,107,210,v,Randle Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+0022300615,603,PT00M03.10S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,103,108,211,v,Randle Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,447
+0022300615,604,PT00M00.10S,4,1610612751,BKN,1628969,Bridges,M. Bridges,-113,282,30,Missed,1,,,0,h,MISS Bridges 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,448
+0022300615,605,PT00M00.10S,4,0,,1610612751,,,0,0,0,,0,,,0,h,NETS Rebound,Rebound,Unknown,0,0,449
+0022300615,606,PT00M00.00S,4,0,,0,,,0,0,0,,0,103,108,211,,End of 4th Period (9:49 PM EST),period,end,1,0,450

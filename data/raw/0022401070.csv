@@ -1,0 +1,428 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022401070,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+0022401070,4,PT12M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Jump Ball Lopez vs. Towns: Tip to Antetokounmpo,Jump Ball,,1,0,2
+0022401070,7,PT11M40.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-5,25,3,Made,1,2,0,2,h,Kuzma 3' Driving Layup (2 PTS) (Lopez 1 AST),Made Shot,Driving Layup Shot,1,2,3
+0022401070,9,PT11M25.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-126,90,15,Missed,1,,,0,v,MISS Towns 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,4
+0022401070,10,PT11M22.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022401070,11,PT11M17.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-10,0,1,Made,1,4,0,4,h,Kuzma 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,6
+0022401070,12,PT10M57.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-153,228,27,Missed,1,,,0,v,MISS Anunoby 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022401070,13,PT10M53.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022401070,14,PT10M46.00S,1,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,9
+0022401070,14,PT10M46.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart STEAL (1 STL),,,1,0,10
+0022401070,16,PT10M38.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,159,34,16,Made,1,4,2,6,v,Bridges 16' Running Pull-Up Jump Shot (2 PTS) (Wright 1 AST),Made Shot,Running Pull-Up Jump Shot,1,2,11
+0022401070,18,PT10M24.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,12
+0022401070,20,PT10M24.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,5,2,7,h,Kuzma Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,13
+0022401070,21,PT10M24.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,6,2,8,h,Kuzma Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,14
+0022401070,22,PT10M08.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,33,164,17,Missed,1,,,0,v,MISS Anunoby 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,15
+0022401070,23,PT10M06.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+0022401070,24,PT10M05.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,Made,1,6,4,10,v,Wright Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,17
+0022401070,25,PT09M53.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,16,203,20,Missed,1,,,0,h,MISS Antetokounmpo 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,18
+0022401070,26,PT09M50.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022401070,27,PT09M44.00S,1,1610612752,NYK,1628404,Hart,J. Hart,9,5,1,Made,1,6,6,12,v,Hart 1' Cutting Layup Shot (2 PTS) (Bridges 1 AST),Made Shot,Cutting Layup Shot,1,2,20
+0022401070,29,PT09M30.00S,1,1610612749,MIL,1631157,Rollins,R. Rollins,-5,14,1,Made,1,8,6,14,h,Rollins 1' Cutting Finger Roll Layup Shot (2 PTS) (Antetokounmpo 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,21
+0022401070,31,PT09M12.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,6,1,1,Made,1,8,8,16,v,Anunoby 1' Driving Dunk (2 PTS) (Bridges 2 AST),Made Shot,Driving Dunk Shot,1,2,22
+0022401070,33,PT08M56.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns S.FOUL (P2.T2) (K.Cutler),Foul,Shooting,1,0,23
+0022401070,35,PT08M56.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,24
+0022401070,36,PT08M56.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,25
+0022401070,37,PT08M56.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,SUB: Robinson FOR Towns,Substitution,,0,0,26
+0022401070,39,PT08M56.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,MISS Lopez Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,27
+0022401070,40,PT08M53.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022401070,41,PT08M39.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-232,102,25,Missed,1,,,0,v,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0022401070,42,PT08M36.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022401070,43,PT08M33.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,109,17,11,Missed,1,,,0,h,MISS Kuzma 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,31
+0022401070,44,PT08M32.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,32
+0022401070,46,PT08M16.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-88,122,15,Made,1,8,10,18,v,Bridges 15' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,33
+0022401070,47,PT07M48.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,34
+0022401070,47,PT07M48.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (1 STL),,,1,0,35
+0022401070,49,PT07M42.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-234,-8,0,Missed,1,,,0,v,MISS Anunoby 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,36
+0022401070,50,PT07M38.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,37
+0022401070,51,PT07M35.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,38
+0022401070,51,PT07M35.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright STEAL (1 STL),,,1,0,39
+0022401070,53,PT07M30.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-192,188,27,Missed,1,,,0,v,MISS Bridges 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,40
+0022401070,54,PT07M28.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0,41
+0022401070,55,PT07M28.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart L.B.FOUL (P1.T3) (N.Green),Foul,Loose Ball,1,0,42
+0022401070,57,PT07M16.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,43
+0022401070,57,PT07M16.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart STEAL (2 STL),,,1,0,44
+0022401070,59,PT07M13.00S,1,1610612752,NYK,1628404,Hart,J. Hart,7,16,2,Missed,1,,,0,v,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,45
+0022401070,60,PT07M11.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,46
+0022401070,61,PT07M08.00S,1,1610612752,NYK,1626153,Wright,D. Wright,-1,1,0,Made,1,8,12,20,v,Wright Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,47
+0022401070,62,PT07M07.00S,1,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022401070,63,PT07M07.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Kuzma,Substitution,,0,0,49
+0022401070,65,PT06M43.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-235,10,24,Missed,1,,,0,h,MISS Lopez 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0022401070,66,PT06M40.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022401070,67,PT06M29.00S,1,1610612752,NYK,1626153,Wright,D. Wright,-4,18,2,Missed,1,,,0,v,MISS Wright 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,52
+0022401070,68,PT06M27.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,53
+0022401070,69,PT06M21.00S,1,1610612752,NYK,1626153,Wright,D. Wright,227,5,0,Made,1,8,15,23,v,Wright 3PT Jump Shot (7 PTS) (Robinson 1 AST),Made Shot,Jump Shot,1,3,54
+0022401070,71,PT06M08.00S,1,1610612749,MIL,1631157,Rollins,R. Rollins,-121,82,15,Missed,1,,,0,h,MISS Rollins 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,55
+0022401070,72,PT06M06.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,56
+0022401070,73,PT06M06.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,57
+0022401070,78,PT05M50.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,141,83,16,Missed,1,,,0,v,MISS Anunoby 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,58
+0022401070,79,PT05M47.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,59
+0022401070,80,PT05M42.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,60
+0022401070,80,PT05M42.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince STEAL (1 STL),,,1,0,61
+0022401070,82,PT05M38.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,11,1,Made,1,10,15,25,h,Antetokounmpo 1' Running Dunk (2 PTS) (Prince 1 AST),Made Shot,Running Dunk Shot,1,2,62
+0022401070,84,PT05M21.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0,63
+0022401070,86,PT05M09.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,23,10,3,Made,1,10,17,27,v,Anunoby 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,64
+0022401070,87,PT04M42.00S,1,1610612749,MIL,1627752,Prince,T. Prince,-159,183,24,Missed,1,,,0,h,MISS Prince 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,65
+0022401070,88,PT04M41.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,66
+0022401070,89,PT04M36.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,233,-9,0,Made,1,13,17,30,h,Lopez 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,67
+0022401070,90,PT04M33.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,68
+0022401070,92,PT04M33.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,SUB: Shamet FOR Bridges,Substitution,,0,0,69
+0022401070,94,PT04M27.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,-4,41,4,Missed,1,,,0,v,MISS Robinson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+0022401070,96,PT04M23.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,71
+0022401070,97,PT04M20.00S,1,1610612752,NYK,1626153,Wright,D. Wright,-227,130,26,Made,1,13,20,33,v,Wright 26' 3PT Jump Shot (10 PTS) (Hart 1 AST),Made Shot,Jump Shot,1,3,72
+0022401070,99,PT04M03.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,179,188,26,Missed,1,,,0,h,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022401070,100,PT04M00.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,74
+0022401070,101,PT03M51.00S,1,1610612752,NYK,1626153,Wright,D. Wright,-170,212,27,Missed,1,,,0,v,MISS Wright 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,75
+0022401070,102,PT03M48.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+0022401070,103,PT03M37.00S,1,1610612749,MIL,1631157,Rollins,R. Rollins,-235,11,24,Made,1,16,20,36,h,Rollins 24' 3PT Jump Shot (5 PTS) (Lopez 2 AST),Made Shot,Jump Shot,1,3,77
+0022401070,105,PT03M16.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,78
+0022401070,106,PT03M16.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Kuzma FOR Prince,Substitution,,0,0,79
+0022401070,107,PT03M16.00S,1,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Rollins,Substitution,,0,0,80
+0022401070,108,PT03M16.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Green FOR Antetokounmpo,Substitution,,0,0,81
+0022401070,112,PT03M04.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,1,0,82
+0022401070,114,PT03M04.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,17,20,37,h,Kuzma Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0022401070,115,PT03M04.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Towns FOR Anunoby,Substitution,,0,0,84
+0022401070,117,PT03M04.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,85
+0022401070,118,PT03M01.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022401070,119,PT02M45.00S,1,1610612752,NYK,1626157,Towns,K. Towns,50,32,6,Missed,1,,,0,v,MISS Towns 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,87
+0022401070,121,PT02M42.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+0022401070,122,PT02M28.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,1,15,2,Made,1,19,20,39,h,Kuzma 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,89
+0022401070,123,PT02M22.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022401070,124,PT02M07.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,91
+0022401070,125,PT01M53.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-140,229,27,Missed,1,,,0,h,MISS Kuzma 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022401070,126,PT01M49.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022401070,127,PT01M31.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-98,27,10,Made,1,19,22,41,v,Towns 10' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,94
+0022401070,128,PT01M31.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,1,0,95
+0022401070,130,PT01M31.00S,1,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Kolek FOR Wright,Substitution,,0,0,96
+0022401070,132,PT01M31.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,19,23,42,v,Towns Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,97
+0022401070,133,PT01M22.00S,1,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,98
+0022401070,133,PT01M22.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns STEAL (1 STL),,,1,0,99
+0022401070,135,PT01M05.00S,1,1610612752,NYK,1626157,Towns,K. Towns,27,18,3,Made,1,19,25,44,v,Towns 3' Driving Finger Roll Layup (5 PTS) (Hart 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,100
+0022401070,136,PT00M44.60S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,6,52,5,Missed,1,,,0,h,MISS Kuzma 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,101
+0022401070,137,PT00M41.40S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,102
+0022401070,138,PT00M33.40S,1,1610612752,NYK,1626157,Towns,K. Towns,-137,246,28,Missed,1,,,0,v,MISS Towns 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,103
+0022401070,139,PT00M30.10S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,104
+0022401070,140,PT00M11.70S,1,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,2,29,3,Missed,1,,,0,h,MISS Porter Jr. 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,105
+0022401070,141,PT00M09.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,106
+0022401070,142,PT00M00.00S,1,1610612752,NYK,1629013,Shamet,L. Shamet,-184,170,25,Missed,1,,,0,v,MISS Shamet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022401070,143,PT00M00.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,108
+0022401070,144,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,25,44,,End of 1st Period (8:36 PM EST),period,end,1,0,109
+0022401070,152,PT12M00.00S,2,0,,0,,,0,0,0,,0,19,25,44,,Start of 2nd Period (8:38 PM EST),period,start,0,0,110
+0022401070,153,PT11M49.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0,111
+0022401070,155,PT11M34.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-87,31,9,Missed,1,,,0,v,MISS Achiuwa 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,112
+0022401070,156,PT11M30.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022401070,157,PT11M25.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-85,72,11,Made,1,21,25,46,h,Antetokounmpo 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,114
+0022401070,158,PT11M04.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-81,33,9,Made,1,21,27,48,v,Bridges 9' Pullup Jump Shot (6 PTS) (Shamet 1 AST),Made Shot,Pullup Jump shot,1,2,115
+0022401070,160,PT10M56.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,116
+0022401070,160,PT10M56.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,Shamet STEAL (1 STL),,,1,0,117
+0022401070,162,PT10M50.00S,2,1610612752,NYK,1626157,Towns,K. Towns,-91,248,26,Made,1,21,30,51,v,Towns 26' 3PT Running Jump Shot (8 PTS) (Kolek 1 AST),Made Shot,Running Jump Shot,1,3,118
+0022401070,164,PT10M32.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,119
+0022401070,164,PT10M32.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges STEAL (1 STL),,,1,0,120
+0022401070,166,PT10M27.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,-186,204,28,Made,1,21,33,54,v,Shamet 28' 3PT Running Jump Shot (3 PTS) (Kolek 2 AST),Made Shot,Running Jump Shot,1,3,121
+0022401070,168,PT10M27.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,122
+0022401070,169,PT10M10.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-7,5,1,Made,1,23,33,56,h,Kuzma 1' Driving Layup (11 PTS) (Antetokounmpo 2 AST),Made Shot,Driving Layup Shot,1,2,123
+0022401070,171,PT09M53.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,25,134,14,Missed,1,,,0,v,MISS Shamet 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,124
+0022401070,172,PT09M50.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+0022401070,173,PT09M46.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,4,0,Made,1,25,33,58,h,Antetokounmpo Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,126
+0022401070,174,PT09M28.00S,2,1610612752,NYK,1642278,Kolek,T. Kolek,94,233,25,Made,1,25,36,61,v,Kolek 25' 3PT Jump Shot (3 PTS) (Shamet 2 AST),Made Shot,Jump Shot,1,3,127
+0022401070,203,PT09M08.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,6,52,5,Missed,1,,,0,h,MISS Kuzma 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,128
+0022401070,204,PT09M07.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,129
+0022401070,181,PT09M07.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Traveling Turnover (P3.T8),Turnover,Traveling,1,0,130
+0022401070,178,PT08M50.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,87,37,9,Made,1,25,38,63,v,Bridges 9' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,131
+0022401070,179,PT08M38.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,1,0,132
+0022401070,182,PT08M38.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,26,38,64,h,Antetokounmpo Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022401070,183,PT08M38.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,SUB: Prince FOR Porter Jr.,Substitution,,0,0,134
+0022401070,184,PT08M38.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Rollins FOR Kuzma,Substitution,,0,0,135
+0022401070,187,PT08M38.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,136
+0022401070,188,PT08M37.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022401070,189,PT08M24.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,5,6,1,Made,1,26,40,66,v,Bridges 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,138
+0022401070,190,PT08M06.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,33,180,18,Made,1,28,40,68,h,Trent Jr. 18' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,139
+0022401070,191,PT07M47.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,31,257,26,Made,1,28,43,71,v,Bridges 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,140
+0022401070,192,PT07M28.00S,2,1610612749,MIL,1631260,Green,A. Green,-5,198,20,Made,1,30,43,73,h,Green 20' Pullup Jump Shot (2 PTS) (Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,1,2,141
+0022401070,194,PT07M13.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-4,5,1,Made,1,30,45,75,v,Bridges 1' Driving Layup (15 PTS) (Kolek 3 AST),Made Shot,Driving Layup Shot,1,2,142
+0022401070,196,PT06M50.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,20,185,19,Missed,1,,,0,h,MISS Trent Jr. 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,143
+0022401070,197,PT06M47.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+0022401070,198,PT06M37.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-187,177,26,Missed,1,,,0,v,MISS Bridges 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022401070,199,PT06M33.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022401070,200,PT06M30.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns S.FOUL (P3.T2) (N.Green),Foul,Shooting,1,0,147
+0022401070,202,PT06M30.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,31,45,76,h,Antetokounmpo Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,148
+0022401070,205,PT06M30.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,h,SUB: Lopez FOR Trent Jr.,Substitution,,0,0,149
+0022401070,206,PT06M30.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,SUB: Anunoby FOR Towns,Substitution,,0,0,150
+0022401070,209,PT06M30.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,151
+0022401070,210,PT06M27.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,Achiuwa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,152
+0022401070,211,PT06M14.00S,2,1610612752,NYK,1642278,Kolek,T. Kolek,-136,228,27,Missed,1,,,0,v,MISS Kolek 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022401070,212,PT06M10.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+0022401070,213,PT06M00.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,26,3,Made,1,33,45,78,h,Antetokounmpo 3' Finger Roll Layup (10 PTS) (Rollins 1 AST),Made Shot,Finger Roll Layup Shot,1,2,155
+0022401070,215,PT05M52.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,156
+0022401070,217,PT05M52.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,SUB: Hart FOR Shamet,Substitution,,0,0,157
+0022401070,219,PT05M44.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-235,28,24,Made,1,33,48,81,v,Anunoby 24' 3PT Jump Shot (7 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,158
+0022401070,221,PT05M35.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,1,0,159
+0022401070,223,PT05M35.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,,,0,v,SUB: Robinson FOR Achiuwa,Substitution,,0,0,160
+0022401070,225,PT05M24.00S,2,1610612749,MIL,1631260,Green,A. Green,159,198,25,Missed,1,,,0,h,MISS Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,161
+0022401070,226,PT05M23.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,162
+0022401070,228,PT05M11.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,6,10,1,Made,1,33,50,83,v,Bridges 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,163
+0022401070,229,PT05M02.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,164
+0022401070,230,PT04M49.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,83,130,15,Missed,1,,,0,v,MISS Bridges 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,165
+0022401070,231,PT04M46.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,166
+0022401070,232,PT04M25.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,22,87,9,Missed,1,,,0,h,MISS Antetokounmpo 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,167
+0022401070,233,PT04M22.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,168
+0022401070,234,PT04M11.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-44,90,10,Missed,1,,,0,v,MISS Bridges 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,169
+0022401070,235,PT04M08.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,170
+0022401070,236,PT04M02.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-2,6,1,Made,1,35,50,85,h,Antetokounmpo 1' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,171
+0022401070,237,PT04M02.00S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,172
+0022401070,238,PT03M47.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,1,0,173
+0022401070,240,PT03M47.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,35,51,86,v,Anunoby Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,174
+0022401070,241,PT03M47.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Green,Substitution,,0,0,175
+0022401070,242,PT03M47.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Kuzma FOR Antetokounmpo,Substitution,,0,0,176
+0022401070,243,PT03M47.00S,2,1610612752,NYK,1642278,Kolek,T. Kolek,0,0,0,,0,,,0,v,SUB: Wright FOR Kolek,Substitution,,0,0,177
+0022401070,247,PT03M47.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,35,52,87,v,Anunoby Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,178
+0022401070,248,PT03M32.00S,2,1610612749,MIL,1627752,Prince,T. Prince,-221,4,0,Made,1,38,52,90,h,Prince 3PT Jump Shot (3 PTS) (Rollins 2 AST),Made Shot,Jump Shot,1,3,179
+0022401070,250,PT03M15.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,180
+0022401070,250,PT03M15.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma STEAL (1 STL),,,1,0,181
+0022401070,252,PT03M08.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,178,208,27,Missed,1,,,0,h,MISS Trent Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,182
+0022401070,253,PT03M05.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,183
+0022401070,254,PT02M46.00S,2,1610612752,NYK,1626153,Wright,D. Wright,96,-8,10,Made,1,38,54,92,v,Wright 10' Driving Floating Jump Shot (12 PTS) (Hart 3 AST),Made Shot,Driving Floating Jump Shot,1,2,184
+0022401070,256,PT02M34.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,-2,9,1,Made,1,40,54,94,h,Rollins 1' Cutting Finger Roll Layup Shot (7 PTS) (Lopez 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,185
+0022401070,258,PT02M20.00S,2,1610612752,NYK,1628404,Hart,J. Hart,5,13,1,Made,1,40,56,96,v,Hart 1' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,2,186
+0022401070,259,PT01M55.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-151,198,25,Made,1,43,56,99,h,Trent Jr. 25' 3PT Jump Shot (5 PTS) (Lopez 4 AST),Made Shot,Jump Shot,1,3,187
+0022401070,261,PT01M32.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-75,131,15,Missed,1,,,0,v,MISS Bridges 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,188
+0022401070,262,PT01M29.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,189
+0022401070,263,PT01M23.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,-21,6,2,Made,1,45,56,101,h,Rollins 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,190
+0022401070,264,PT01M08.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-164,206,26,Missed,1,,,0,v,MISS Hart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,191
+0022401070,265,PT01M05.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,192
+0022401070,266,PT00M56.50S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-197,194,28,Missed,1,,,0,v,MISS Anunoby 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,193
+0022401070,267,PT00M54.70S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,194
+0022401070,268,PT00M54.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,Made,1,45,58,103,v,Robinson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,195
+0022401070,269,PT00M42.70S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,196
+0022401070,269,PT00M42.70S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (1 STL),,,1,0,197
+0022401070,271,PT00M39.90S,2,1610612752,NYK,1628969,Bridges,M. Bridges,11,10,1,Made,1,45,60,105,v,Bridges 1' Running Dunk (19 PTS) (Anunoby 1 AST),Made Shot,Running Dunk Shot,1,2,198
+0022401070,273,PT00M39.90S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,199
+0022401070,274,PT00M39.90S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,200
+0022401070,276,PT00M36.30S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P2.T4) (M.Lindsay),Foul,Shooting,1,0,201
+0022401070,278,PT00M36.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,202
+0022401070,279,PT00M36.30S,2,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,203
+0022401070,280,PT00M36.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46,60,106,h,Antetokounmpo Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022401070,281,PT00M17.10S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,7,41,4,Missed,1,,,0,v,MISS Anunoby 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,205
+0022401070,281,PT00M17.10S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince BLOCK (1 BLK),,,1,2,206
+0022401070,283,PT00M15.10S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,0,207
+0022401070,285,PT00M15.10S,2,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,208
+0022401070,286,PT00M00.00S,2,1610612749,MIL,1631157,Rollins,R. Rollins,222,123,25,Made,1,49,60,109,h,Rollins 25' 3PT Jump Shot (12 PTS) (Prince 2 AST),Made Shot,Jump Shot,1,3,209
+0022401070,288,PT00M00.00S,2,0,,286,,,0,0,0,,0,49,60,109,,Instant Replay2nd Period (9:06 PM EST),Instant Replay,Support Ruling,0,0,210
+0022401070,289,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,60,109,,End of 2nd Period (9:07 PM EST),period,end,1,0,211
+0022401070,294,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,60,109,,Start of 3rd Period (9:21 PM EST),period,start,0,0,212
+0022401070,295,PT11M41.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-143,197,24,Missed,1,,,0,v,MISS Anunoby 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,213
+0022401070,296,PT11M38.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,214
+0022401070,297,PT11M31.00S,3,1610612749,MIL,1627752,Prince,T. Prince,-232,53,24,Missed,1,,,0,h,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022401070,298,PT11M28.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,216
+0022401070,299,PT11M22.00S,3,1610612752,NYK,1626153,Wright,D. Wright,-230,24,0,Missed,1,,,0,v,MISS Wright 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0022401070,300,PT11M19.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,218
+0022401070,301,PT11M09.00S,3,1610612749,MIL,1627752,Prince,T. Prince,-238,1,24,Missed,1,,,0,h,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+0022401070,302,PT11M06.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,220
+0022401070,303,PT11M01.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-58,52,8,Made,1,49,62,111,v,Bridges 8' Driving Floating Bank Jump Shot (21 PTS) (Hart 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,221
+0022401070,305,PT10M44.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-48,262,27,Missed,1,,,0,h,MISS Antetokounmpo 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,222
+0022401070,306,PT10M40.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,223
+0022401070,307,PT10M40.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,10,22,2,Made,1,51,62,113,h,Antetokounmpo 2' Driving Finger Roll Layup (15 PTS) (Lopez 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,224
+0022401070,309,PT10M21.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-72,44,8,Missed,1,,,0,v,MISS Bridges 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,225
+0022401070,310,PT10M16.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,226
+0022401070,311,PT10M13.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,157,199,25,Missed,1,,,0,h,MISS Kuzma 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,227
+0022401070,312,PT10M10.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,228
+0022401070,313,PT09M55.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-60,251,26,Missed,1,,,0,v,MISS Hart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,229
+0022401070,314,PT09M53.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,230
+0022401070,316,PT09M41.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,29,15,3,Missed,1,,,0,h,MISS Rollins 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,231
+0022401070,317,PT09M38.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,232
+0022401070,318,PT09M33.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-25,55,6,Missed,1,,,0,v,MISS Towns 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,233
+0022401070,318,PT09M33.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (1 BLK),,,1,2,234
+0022401070,320,PT09M33.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,235
+0022401070,321,PT09M33.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart P.FOUL (P2.T1) (N.Green),Foul,Personal,1,0,236
+0022401070,323,PT09M14.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,237
+0022401070,323,PT09M14.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (2 STL),,,1,0,238
+0022401070,325,PT09M12.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo S.FOUL (P2.T1) (K.Cutler),Foul,Shooting,1,0,239
+0022401070,327,PT09M12.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,51,63,114,v,Anunoby Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,240
+0022401070,328,PT09M12.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,51,64,115,v,Anunoby Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,241
+0022401070,329,PT08M47.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,60,146,16,Made,1,53,64,117,h,Lopez 16' Turnaround Fadeaway (5 PTS) (Rollins 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,242
+0022401070,331,PT08M25.00S,3,1610612752,NYK,1626153,Wright,D. Wright,175,188,26,Missed,1,,,0,v,MISS Wright 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0022401070,332,PT08M22.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,244
+0022401070,333,PT08M15.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,1,11,1,Made,1,55,64,119,h,Antetokounmpo 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,245
+0022401070,334,PT08M08.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo P.FOUL (P3.T2) (M.Lindsay),Foul,Personal,1,0,246
+0022401070,336,PT07M59.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,29,126,13,Missed,1,,,0,v,MISS Bridges 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,247
+0022401070,337,PT07M57.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,248
+0022401070,338,PT07M53.00S,3,1610612752,NYK,1626157,Towns,K. Towns,151,224,27,Missed,1,,,0,v,MISS Towns 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0022401070,339,PT07M49.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,250
+0022401070,340,PT07M32.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,-39,12,4,Missed,1,,,0,h,MISS Rollins 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,251
+0022401070,340,PT07M32.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart BLOCK (1 BLK),,,1,2,252
+0022401070,342,PT07M32.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,0,0,253
+0022401070,344,PT07M30.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,-232,17,0,Made,1,58,64,122,h,Rollins 3PT Jump Shot (15 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,3,254
+0022401070,346,PT07M14.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-12,53,5,Missed,1,,,0,v,MISS Towns 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,255
+0022401070,346,PT07M14.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (2 BLK),,,1,2,256
+0022401070,348,PT07M12.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,257
+0022401070,349,PT07M12.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,1,0,258
+0022401070,351,PT07M12.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,59,64,123,h,Antetokounmpo Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+0022401070,352,PT07M12.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,260
+0022401070,353,PT07M12.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,60,64,124,h,Antetokounmpo Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+0022401070,354,PT06M53.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,262
+0022401070,356,PT06M53.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,263
+0022401070,357,PT06M53.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0,264
+0022401070,358,PT06M53.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,60,65,125,v,Hart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,265
+0022401070,359,PT06M39.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,63,59,9,Made,1,62,65,127,h,Kuzma 9' Driving Hook Shot (13 PTS) (Lopez 6 AST),Made Shot,Driving Hook Shot,1,2,266
+0022401070,361,PT06M25.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-154,36,16,Made,1,62,67,129,v,Bridges 16' Pullup Jump Shot (23 PTS) (Wright 2 AST),Made Shot,Pullup Jump shot,1,2,267
+0022401070,363,PT06M08.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,72,251,26,Missed,1,,,0,h,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,268
+0022401070,364,PT06M05.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,269
+0022401070,365,PT05M54.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-126,234,27,Missed,1,,,0,v,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022401070,366,PT05M51.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,271
+0022401070,367,PT05M45.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,229,-5,0,Made,1,65,67,132,h,Kuzma 3PT Running Jump Shot (16 PTS) (Antetokounmpo 4 AST),Made Shot,Running Jump Shot,1,3,272
+0022401070,369,PT05M26.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-127,11,13,Made,1,65,69,134,v,Towns 13' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,273
+0022401070,372,PT05M21.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Kuzma,Substitution,,0,0,274
+0022401070,374,PT05M16.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,Prince Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,275
+0022401070,374,PT05M16.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges STEAL (2 STL),,,1,0,276
+0022401070,376,PT05M12.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-4,5,1,Made,1,65,71,136,v,Hart 1' Running Reverse Layup (7 PTS) (Bridges 4 AST),Made Shot,Running Reverse Layup Shot,1,2,277
+0022401070,378,PT04M57.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby S.FOUL (P3.T3) (M.Lindsay),Foul,Shooting,1,0,278
+0022401070,380,PT04M57.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,MISS Rollins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,279
+0022401070,381,PT04M57.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,280
+0022401070,382,PT04M57.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,66,71,137,h,Rollins Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+0022401070,383,PT04M37.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-230,27,0,Missed,1,,,0,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022401070,384,PT04M34.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,283
+0022401070,385,PT04M30.00S,3,1610612752,NYK,1626157,Towns,K. Towns,54,43,7,Missed,1,,,0,v,MISS Towns 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+0022401070,386,PT04M27.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,285
+0022401070,387,PT04M26.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-10,8,1,Made,1,66,73,139,v,Towns 1' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,286
+0022401070,389,PT04M03.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,-232,-3,0,Missed,1,,,0,h,MISS Rollins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022401070,390,PT03M59.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,288
+0022401070,391,PT03M50.00S,3,1610612752,NYK,1626157,Towns,K. Towns,5,50,5,Missed,1,,,0,v,MISS Towns 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+0022401070,392,PT03M49.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,290
+0022401070,393,PT03M49.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo S.FOUL (P4.T4) (K.Cutler),Foul,Shooting,1,0,291
+0022401070,395,PT03M49.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,292
+0022401070,396,PT03M49.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Normal Rebound,0,0,293
+0022401070,397,PT03M49.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,,,0,h,SUB: Kuzma FOR Prince,Substitution,,0,0,294
+0022401070,398,PT03M49.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Green FOR Antetokounmpo,Substitution,,0,0,295
+0022401070,399,PT03M49.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,SUB: Robinson FOR Towns,Substitution,,0,0,296
+0022401070,403,PT03M49.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,66,74,140,v,Hart Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+0022401070,404,PT03M49.00S,3,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,298
+0022401070,405,PT03M49.00S,3,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Rollins,Substitution,,0,0,299
+0022401070,406,PT03M49.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,SUB: Shamet FOR Anunoby,Substitution,,0,0,300
+0022401070,410,PT03M26.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-85,202,22,Missed,1,,,0,h,MISS Lopez 22' Jump Shot,Missed Shot,Jump Shot,1,2,301
+0022401070,411,PT03M24.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,,,0,v,Bridges REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,302
+0022401070,412,PT03M03.00S,3,1610612752,NYK,1629013,Shamet,L. Shamet,-107,112,15,Made,1,66,76,142,v,Shamet 15' Pullup Jump Shot (5 PTS) (Hart 5 AST),Made Shot,Pullup Jump shot,1,2,303
+0022401070,414,PT02M39.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,97,251,27,Missed,1,,,0,h,MISS Porter Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,304
+0022401070,415,PT02M36.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,305
+0022401070,416,PT02M36.00S,3,1610612752,NYK,1628404,Hart,J. Hart,1,13,1,Made,1,66,78,144,v,Hart 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,306
+0022401070,417,PT02M36.00S,3,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,307
+0022401070,419,PT02M36.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,66,79,145,v,Hart Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,308
+0022401070,420,PT02M17.00S,3,1610612749,MIL,1631260,Green,A. Green,228,62,24,Made,1,69,79,148,h,Green 24' 3PT Jump Shot (5 PTS) (Kuzma 2 AST),Made Shot,Jump Shot,1,3,309
+0022401070,422,PT01M53.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,78,124,15,Missed,1,,,0,v,MISS Bridges 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,310
+0022401070,423,PT01M49.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,311
+0022401070,424,PT01M39.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,-81,148,17,Made,1,71,79,150,h,Kuzma 17' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,2,312
+0022401070,425,PT01M14.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-92,167,19,Missed,1,,,0,v,MISS Bridges 19' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,313
+0022401070,426,PT01M12.00S,3,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,314
+0022401070,427,PT01M01.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,6,7,1,Made,1,73,79,152,h,Kuzma 1' Turnaround Bank Shot (20 PTS),Made Shot,Turnaround Bank shot,1,2,315
+0022401070,428,PT01M01.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,316
+0022401070,429,PT01M01.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Lopez,Substitution,,0,0,317
+0022401070,431,PT00M44.40S,3,1610612752,NYK,1629013,Shamet,L. Shamet,-130,-16,13,Made,1,73,81,154,v,Shamet 13' Pullup Jump Shot (7 PTS) (Bridges 5 AST),Made Shot,Pullup Jump shot,1,2,318
+0022401070,433,PT00M39.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo OFF.Foul (P5) (K.Cutler),Foul,Offensive,1,0,319
+0022401070,435,PT00M39.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,320
+0022401070,436,PT00M39.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Lopez FOR Antetokounmpo,Substitution,,0,0,321
+0022401070,438,PT00M33.90S,3,1610612752,NYK,1629013,Shamet,L. Shamet,-135,229,27,Missed,1,,,0,v,MISS Shamet 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022401070,439,PT00M31.60S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,323
+0022401070,440,PT00M31.60S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,1,0,324
+0022401070,441,PT00M31.60S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Violation: Delay of game Violation,Violation,Delay Of Game,0,0,325
+0022401070,445,PT00M20.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,-131,165,21,Missed,1,,,0,h,MISS Kuzma 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,326
+0022401070,446,PT00M17.50S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,1,0,327
+0022401070,448,PT00M17.50S,3,1610612752,NYK,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,SUB: Towns FOR Wright,Substitution,,0,0,328
+0022401070,449,PT00M17.50S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,,,0,v,SUB: Anunoby FOR Robinson,Substitution,,0,0,329
+0022401070,452,PT00M00.00S,3,0,,0,,,0,0,0,,0,73,81,154,,End of 3rd Period (9:51 PM EST),period,end,1,0,330
+0022401070,455,PT12M00.00S,4,0,,0,,,0,0,0,,0,73,81,154,,Start of 4th Period (9:54 PM EST),period,start,0,0,331
+0022401070,456,PT11M44.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-62,122,14,Missed,1,,,0,h,MISS Trent Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,332
+0022401070,457,PT11M39.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,333
+0022401070,458,PT11M21.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,233,48,24,Missed,1,,,0,v,MISS Anunoby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022401070,459,PT11M17.00S,4,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,335
+0022401070,460,PT11M07.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,336
+0022401070,460,PT11M07.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby STEAL (3 STL),,,1,0,337
+0022401070,462,PT11M06.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,h,Trent Jr. S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,338
+0022401070,464,PT11M06.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,73,82,155,v,Anunoby Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+0022401070,465,PT11M06.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,73,83,156,v,Anunoby Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,340
+0022401070,466,PT10M56.00S,4,1610612749,MIL,1631260,Green,A. Green,-200,185,27,Missed,1,,,0,h,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022401070,467,PT10M53.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,342
+0022401070,468,PT10M48.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-234,66,24,Made,1,73,86,159,v,Anunoby 24' 3PT Running Jump Shot (16 PTS) (Kolek 4 AST),Made Shot,Running Jump Shot,1,3,343
+0022401070,470,PT10M31.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,138,22,14,Made,1,75,86,161,h,Lopez 14' Fadeaway Jumper (7 PTS) (Porter Jr. 1 AST),Made Shot,Fadeaway Jump Shot,1,2,344
+0022401070,472,PT10M17.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-7,14,2,Made,1,75,88,163,v,Anunoby 2' Dunk (18 PTS) (Kolek 5 AST),Made Shot,Dunk Shot,1,2,345
+0022401070,474,PT10M03.00S,4,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,38,155,16,Made,1,77,88,165,h,Porter Jr. 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,346
+0022401070,475,PT09M51.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green S.FOUL (P3.T2) (M.Lindsay),Foul,Shooting,1,0,347
+0022401070,477,PT09M51.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,77,89,166,v,Anunoby Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,348
+0022401070,478,PT09M51.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,77,90,167,v,Anunoby Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+0022401070,479,PT09M37.00S,4,1610612749,MIL,1631260,Green,A. Green,205,158,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022401070,480,PT09M34.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,351
+0022401070,481,PT09M23.00S,4,1610612752,NYK,1629013,Shamet,L. Shamet,210,151,26,Made,1,77,93,170,v,Shamet 26' 3PT Jump Shot (10 PTS) (Hart 6 AST),Made Shot,Jump Shot,1,3,352
+0022401070,483,PT09M12.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-212,140,25,Made,1,80,93,173,h,Trent Jr. 25' 3PT Jump Shot (8 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,353
+0022401070,485,PT08M52.00S,4,1610612752,NYK,1629013,Shamet,L. Shamet,-172,167,24,Made,1,80,96,176,v,Shamet 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,3,354
+0022401070,486,PT08M51.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,355
+0022401070,487,PT08M51.00S,4,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,SUB: Antetokounmpo FOR Porter Jr.,Substitution,,0,0,356
+0022401070,488,PT08M51.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Rollins FOR Lopez,Substitution,,0,0,357
+0022401070,491,PT08M38.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,49,149,16,Missed,1,,,0,h,MISS Antetokounmpo 16' Jump Shot,Missed Shot,Jump Shot,1,2,358
+0022401070,492,PT08M34.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,359
+0022401070,493,PT08M27.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-229,5,0,Made,1,80,99,179,v,Anunoby 3PT Jump Shot (23 PTS) (Hart 7 AST),Made Shot,Jump Shot,1,3,360
+0022401070,495,PT08M10.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,11,16,2,Made,1,82,99,181,h,Rollins 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,361
+0022401070,496,PT07M58.00S,4,1610612752,NYK,1642278,Kolek,T. Kolek,-15,16,2,Made,1,82,101,183,v,Kolek 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,362
+0022401070,497,PT07M41.00S,4,1610612749,MIL,1631260,Green,A. Green,66,253,26,Made,1,85,101,186,h,Green 26' 3PT Jump Shot (8 PTS) (Antetokounmpo 5 AST),Made Shot,Jump Shot,1,3,363
+0022401070,499,PT07M15.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,6,40,4,Missed,1,,,0,v,MISS Anunoby 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,364
+0022401070,500,PT07M14.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,365
+0022401070,501,PT07M14.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,Missed,1,,,0,v,MISS Towns Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,366
+0022401070,502,PT07M13.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,367
+0022401070,503,PT07M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,25,8,3,Made,1,87,101,188,h,Antetokounmpo 3' Running Layup (21 PTS) (Kuzma 3 AST),Made Shot,Running Layup Shot,1,2,368
+0022401070,506,PT06M39.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,219,126,25,Missed,1,,,0,v,MISS Anunoby 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,369
+0022401070,507,PT06M36.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022401070,508,PT06M27.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-1,13,1,Made,1,89,101,190,h,Antetokounmpo 1' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,371
+0022401070,509,PT06M26.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,372
+0022401070,510,PT06M26.00S,4,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,,,0,v,SUB: Bridges FOR Shamet,Substitution,,0,0,373
+0022401070,512,PT06M10.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,Green S.FOUL (P4.T3) (K.Cutler),Foul,Shooting,1,0,374
+0022401070,514,PT06M10.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,89,102,191,v,Anunoby Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+0022401070,515,PT06M10.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,89,103,192,v,Anunoby Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022401070,516,PT05M58.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Traveling Turnover (P4.T15),Turnover,Traveling,1,0,377
+0022401070,517,PT05M37.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-2,6,1,Made,1,89,105,194,v,Hart 1' Layup (13 PTS) (Towns 1 AST),Made Shot,Layup Shot,1,2,378
+0022401070,519,PT05M22.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,-232,61,24,Missed,1,,,0,h,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022401070,520,PT05M19.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,380
+0022401070,521,PT04M57.00S,4,1610612752,NYK,1626157,Towns,K. Towns,-87,186,21,Missed,1,,,0,v,MISS Towns 21' Jump Shot,Missed Shot,Jump Shot,1,2,381
+0022401070,522,PT04M53.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,,,0,h,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,382
+0022401070,523,PT04M45.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,138,216,26,Made,1,92,105,197,h,Trent Jr. 26' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,383
+0022401070,524,PT04M24.00S,4,1610612752,NYK,1642278,Kolek,T. Kolek,-17,21,3,Missed,1,,,0,v,MISS Kolek 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+0022401070,525,PT04M24.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,385
+0022401070,526,PT04M24.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,1,0,386
+0022401070,527,PT04M24.00S,4,1610612752,NYK,1642278,Kolek,T. Kolek,0,0,0,,0,,,0,v,SUB: Wright FOR Kolek,Substitution,,0,0,387
+0022401070,529,PT04M11.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,-129,2,13,Made,1,94,105,199,h,Rollins 13' Jump Shot (20 PTS) (Antetokounmpo 6 AST),Made Shot,Jump Shot,1,2,388
+0022401070,531,PT03M51.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-16,30,3,Made,1,94,107,201,v,Anunoby 3' Driving Layup (27 PTS) (Wright 3 AST),Made Shot,Driving Layup Shot,1,2,389
+0022401070,535,PT03M51.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo Violation:Defensive Goaltending (N.Green),Violation,Defensive Goaltending,1,0,390
+0022401070,557,PT03M45.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-9,258,26,Missed,1,,,0,h,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,391
+0022401070,558,PT03M43.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,392
+0022401070,538,PT03M27.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,23,5,2,Missed,1,,,0,v,MISS Bridges 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,393
+0022401070,539,PT03M27.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Rebound,Rebound,Unknown,1,0,394
+0022401070,540,PT03M27.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns L.B.FOUL (P4.T1) (N.Green),Foul,Loose Ball,1,0,395
+0022401070,542,PT03M18.00S,4,1610612749,MIL,1631157,Rollins,R. Rollins,0,0,0,,0,,,0,h,Rollins Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,396
+0022401070,542,PT03M18.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns STEAL (2 STL),,,1,0,397
+0022401070,544,PT03M07.00S,4,1610612752,NYK,1626157,Towns,K. Towns,-9,24,3,Made,1,94,109,203,v,Towns 3' Layup (14 PTS) (Anunoby 2 AST),Made Shot,Layup Shot,1,2,398
+0022401070,546,PT02M53.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-207,155,26,Made,1,97,109,206,h,Trent Jr. 26' 3PT Jump Shot (14 PTS) (Antetokounmpo 7 AST),Made Shot,Jump Shot,1,3,399
+0022401070,548,PT02M36.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,400
+0022401070,550,PT02M36.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Lopez FOR Kuzma,Substitution,,0,0,401
+0022401070,552,PT02M29.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns S.FOUL (P5.T2) (M.Lindsay),Foul,Shooting,1,0,402
+0022401070,554,PT02M29.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,98,109,207,h,Antetokounmpo Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+0022401070,555,PT02M29.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Kuzma FOR Lopez,Substitution,,0,0,404
+0022401070,559,PT02M29.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,99,109,208,h,Antetokounmpo Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,405
+0022401070,560,PT02M10.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-9,29,3,Missed,1,,,0,v,MISS Anunoby 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,406
+0022401070,561,PT02M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,407
+0022401070,562,PT02M04.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-211,194,29,Missed,1,,,0,h,MISS Trent Jr. 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,408
+0022401070,563,PT02M00.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,,,0,v,Hart REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,409
+0022401070,564,PT01M43.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-16,6,2,Made,1,99,111,210,v,Anunoby 2' Driving Layup (29 PTS),Made Shot,Driving Layup Shot,1,2,410
+0022401070,565,PT01M43.00S,4,0,,1610612749,,,0,0,0,,0,,,0,h,BUCKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,411
+0022401070,566,PT01M43.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,,,0,h,SUB: Lopez FOR Green,Substitution,,0,0,412
+0022401070,568,PT01M37.00S,4,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,100,242,26,Missed,1,,,0,h,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022401070,569,PT01M34.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,414
+0022401070,570,PT01M12.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-227,49,0,Made,1,99,114,213,v,Bridges 3PT Jump Shot (26 PTS) (Hart 8 AST),Made Shot,Jump Shot,1,3,415
+0022401070,572,PT01M05.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-4,13,1,Made,1,101,114,215,h,Antetokounmpo 1' Driving Dunk (27 PTS),Made Shot,Driving Dunk Shot,1,2,416
+0022401070,573,PT00M40.20S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-58,161,17,Made,1,101,116,217,v,Anunoby 17' Step Back Jump Shot (31 PTS) (Wright 4 AST),Made Shot,Step Back Jump shot,1,2,417
+0022401070,575,PT00M34.50S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,125,226,26,Missed,1,,,0,h,MISS Kuzma 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,418
+0022401070,576,PT00M32.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,419
+0022401070,577,PT00M32.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,10,1,Made,1,103,116,219,h,Antetokounmpo 1' Putback Dunk (29 PTS),Made Shot,Putback Dunk Shot,1,2,420
+0022401070,578,PT00M32.80S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,,,0,v,Anunoby S.FOUL (P4.T3) (N.Green),Foul,Shooting,1,0,421
+0022401070,580,PT00M32.80S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Smith FOR Lopez,Substitution,,0,0,422
+0022401070,582,PT00M32.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,104,116,220,h,Antetokounmpo Free Throw 1 of 1 (30 PTS),Free Throw,Free Throw 1 of 1,1,0,423
+0022401070,583,PT00M08.80S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,424
+0022401070,584,PT00M08.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Antetokounmpo,Substitution,,0,0,425
+0022401070,586,PT00M04.60S,4,1610612749,MIL,1641890,Smith,T. Smith,223,2,0,Made,1,107,116,223,h,Smith 3PT Jump Shot (3 PTS) (Rollins 4 AST),Made Shot,Jump Shot,1,3,426
+0022401070,588,PT00M00.00S,4,0,,0,,,0,0,0,,0,107,116,223,,End of 4th Period (10:21 PM EST),period,end,1,0,427
